@@ -1,0 +1,590 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What was the first commerically available computer processor?",
+        "correct_answer": "Intel 4004",
+        "incorrect_answers": [
+            "Intel 486SX",
+            "TMS 1000",
+            "AMD AM386"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Gadgets",
+        "question": "Apple&#039;s Voice Assistant, Siri, debuted on which iPhone?",
+        "correct_answer": "iPhone 4S",
+        "incorrect_answers": [
+            "iPhone 6S",
+            "iPhone 3GS",
+            "iPhone 5S"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "It&#039;s not possible to format a write-protected DVD-R Hard Disk.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "What is the name of Nissan&#039;s most popular electric car?",
+        "correct_answer": "Leaf",
+        "incorrect_answers": [
+            "Tree",
+            "Deer",
+            "Roots"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Why was the character Trevor Philips discharged from the Air Force?",
+        "correct_answer": "Mental Health Issues",
+        "incorrect_answers": [
+            "Injuries",
+            "Disease",
+            "Danger to Others"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Comics",
+        "question": "In what Homestuck Update was [S] Game Over released?",
+        "correct_answer": "October 25th, 2014",
+        "incorrect_answers": [
+            "April 13th, 2009",
+            "April 8th, 2012",
+            "August 28th, 2003"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What year did &quot;Attack on Titan&quot; Season 2 begin airing?",
+        "correct_answer": "2017",
+        "incorrect_answers": [
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "How many seasons did the Sci-Fi television show &quot;Stargate Universe&quot; have?",
+        "correct_answer": "2",
+        "incorrect_answers": [
+            "10",
+            "5",
+            "3"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In what year did Neil Armstrong and Buzz Aldrin land on the moon?",
+        "correct_answer": "1969",
+        "incorrect_answers": [
+            "1965",
+            "1966",
+            "1973"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The Canadian $1 coin is colloquially known as a what?",
+        "correct_answer": "Loonie",
+        "incorrect_answers": [
+            "Boolie",
+            "Foolie",
+            "Moodie"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Who is the lead singer of Bastille?",
+        "correct_answer": "Dan Smith",
+        "incorrect_answers": [
+            "Will Farquarson",
+            "Kyle Simmons",
+            "Chris Wood"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In which country was the Statue of Liberty built and exported to the United States of America?",
+        "correct_answer": "France",
+        "incorrect_answers": [
+            "Germany",
+            "Spain",
+            "England"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "What letter is used to refer to blue mana in the card game Magic The Gathering?",
+        "correct_answer": "U",
+        "incorrect_answers": [
+            "B",
+            "L",
+            "E"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Irish musician Hozier released a music track in 2013 titled, &quot;Take Me to ______&quot;",
+        "correct_answer": "Church",
+        "incorrect_answers": [
+            "Mosque",
+            "Synagogue",
+            "Temple"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The Great Wall of China is visible from the moon.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the main character of &quot;Metal Gear Solid 3&quot;?",
+        "correct_answer": "Naked Snake",
+        "incorrect_answers": [
+            "Solid Snake",
+            "Liquid Snake",
+            "Venom Snake"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "HTML is what type of language?",
+        "correct_answer": "Markup Language",
+        "incorrect_answers": [
+            "Macro Language",
+            "Programming Language",
+            "Scripting Language"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "King Henry VIII was the second monarch of which European royal house?",
+        "correct_answer": "Tudor",
+        "incorrect_answers": [
+            "York",
+            "Stuart",
+            "Lancaster"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "Which of the following awards do Matt Stone and Trey Parker NOT have?",
+        "correct_answer": "Oscar",
+        "incorrect_answers": [
+            "Emmy",
+            "Tony",
+            "Grammy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the four empires in  Eve Online was the first to achieve faster than light travel?",
+        "correct_answer": "Amarr Empire",
+        "incorrect_answers": [
+            "Caldari State",
+            "Gallente Federation",
+            "Minmatar Republic"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Out of these four buildings, which one is the tallest, with a height of 1,776 ft (541.3 m)?",
+        "correct_answer": "One World Trade Center, United States",
+        "incorrect_answers": [
+            "Taipei 101, Taiwan",
+            "Willis Tower, United States",
+            "Jin Mao Tower, China"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Which time signature is commonly known as &ldquo;Cut Time?&rdquo;",
+        "correct_answer": "2/2",
+        "incorrect_answers": [
+            "4/4",
+            "6/8",
+            "3/4"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "In the hexadecimal system, what number comes after 9?",
+        "correct_answer": "The Letter A",
+        "incorrect_answers": [
+            "10",
+            "The Number 0",
+            "16"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which game was exclusive to Dreamcast?",
+        "correct_answer": "Pen Pen TriIcelon",
+        "incorrect_answers": [
+            "Sylvester &amp; Tweety in Cagey Capers",
+            "Perfect Dark",
+            "Tetrisphere"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Tigers have one colour of skin despite the stripey fur.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "What&#039;s the second book in George R. R. Martin&#039;s &#039;A Song of Ice and Fire&#039; series?",
+        "correct_answer": "A Clash of Kings",
+        "incorrect_answers": [
+            "A Dance with Dragons",
+            "A Storm of Swords",
+            "A Feast for Crows"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which of the following is NOT one of Aesop&#039;s fables?",
+        "correct_answer": "The Fox and the Hound",
+        "incorrect_answers": [
+            "The Fox and the Grapes",
+            "The Tortoise and the Hare",
+            "The Frog and the Ox"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Who is the frontman of Muse?",
+        "correct_answer": "Matt Bellamy",
+        "incorrect_answers": [
+            "Dominic Howard",
+            "Thom Yorke",
+            "Jonny Greenwood"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Ozzy Osbourne was the lead singer for what metal band?",
+        "correct_answer": "Black Sabbath",
+        "incorrect_answers": [
+            "AC/DC",
+            "Iron Maiden",
+            "Judas Priest"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What alcoholic drink is made from molasses?",
+        "correct_answer": "Rum",
+        "incorrect_answers": [
+            "Gin",
+            "Vodka",
+            "Whisky"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "What is the same in Celsius and Fahrenheit?",
+        "correct_answer": "-40",
+        "incorrect_answers": [
+            "32",
+            "-39",
+            "-42"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who directed the 2017 movie &quot;The Shape of Water&quot;?",
+        "correct_answer": "Guillermo del Toro",
+        "incorrect_answers": [
+            "Steven Spielberg",
+            "James Cameron",
+            "Martin Scorsese"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the game Warframe, what Mastery Rank do you need to have to build the Tigris Prime?",
+        "correct_answer": "13",
+        "incorrect_answers": [
+            "6",
+            "18",
+            "10"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In Naruto: Shippuden, which of the following elements is a &quot;Kekkei Tōta?&quot;",
+        "correct_answer": "Particle Style",
+        "incorrect_answers": [
+            "Any Doujutsu",
+            "Shadow Style",
+            "Ice Style"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of these songs by artist Eminem contain the lyric &quot;Nice to meet you. Hi, my name is... I forgot my name!&quot;?",
+        "correct_answer": "Rain Man",
+        "incorrect_answers": [
+            "Without Me",
+            "Kim",
+            "Square Dance"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "The name of technology company HP stands for what?",
+        "correct_answer": "Hewlett-Packard",
+        "incorrect_answers": [
+            "Howard Packmann",
+            "Husker-Pollosk",
+            "Hellman-Pohl"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "Who is the original author of the realtime physics engine called PhysX?",
+        "correct_answer": "NovodeX",
+        "incorrect_answers": [
+            "Ageia",
+            "Nvidia",
+            "AMD"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "All program codes have to be compiled into an executable file in order to be run. This file can then be executed on any machine.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Gadgets",
+        "question": "What are the base station trackers used for the HTC Vive called?",
+        "correct_answer": "Lighthouse",
+        "incorrect_answers": [
+            "Motion",
+            "Constellation ",
+            "Trackers"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "The term &quot;Spam&quot; came before the food product &quot;Spam&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The 2005 video game &quot;Call of Duty 2: Big Red One&quot; is not available on PC.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Coleslaw originated from which European country?",
+        "correct_answer": "The Netherlands",
+        "incorrect_answers": [
+            "United Kingdom",
+            "Denmark",
+            "Germany"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "Which former Coronation Street actress was once a hostess on the British Game Show &quot;Double Your Money&quot;?",
+        "correct_answer": "Amanda Barrie",
+        "incorrect_answers": [
+            "Sue Nicholls",
+            "Violet Carson",
+            "Jean Alexander"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In the film &quot;John Wick&quot; why does John Wick get out of retirement?",
+        "correct_answer": "His puppy is killed and his car was stolen",
+        "incorrect_answers": [
+            "He was punched in the face",
+            "He got mugged",
+            "He needed money"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Which of these aliases has NOT been used by electronic musician Aphex Twin?",
+        "correct_answer": "Burial",
+        "incorrect_answers": [
+            "Caustic Window",
+            "Bradley Strider",
+            "GAK"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who was the first President of the People&#039;s Republic of China?",
+        "correct_answer": "Mao Zedong",
+        "incorrect_answers": [
+            "Liu Shaoqi",
+            "Dong Biwu",
+            "Li Xiannian"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "Who Voices the Devil on Devil&#039;s Flight in Final Destination 3?",
+        "correct_answer": "Tony Todd",
+        "incorrect_answers": [
+            "Wendy Christensen",
+            "Ian McKinley",
+            "Kevin Fischer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "Which of these board games do NOT utilize standard 6-sided dice?",
+        "correct_answer": "The Game of Life",
+        "incorrect_answers": [
+            "Monopoly",
+            "Risk",
+            "Snakes and Ladders"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Who painted &quot;Swans Reflecting Elephants&quot;, &quot;Sleep&quot;, and &quot;The Persistence of Memory&quot;?",
+        "correct_answer": "Salvador Dali",
+        "incorrect_answers": [
+            "Jackson Pollock",
+            "Vincent van Gogh",
+            "Edgar Degas"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which of the following was not one of Joseph Stalin&#039;s ten blows during World War II?",
+        "correct_answer": "Vistula-Oder Offensive",
+        "incorrect_answers": [
+            "Crimean Offensive",
+            "Leningrad-Novgorod Offensive",
+            "Operation Bagration"
+        ]
+    }
+]

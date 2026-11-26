@@ -1,0 +1,590 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which game in the &quot;Dark Souls&quot; series does the player play as the &quot;Ashen One&quot;?",
+        "correct_answer": "Dark Souls III",
+        "incorrect_answers": [
+            "Dark Souls I",
+            "Bloodborne",
+            "Demon Souls"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who was among those killed in the 2010 Smolensk, Russia plane crash tragedy?",
+        "correct_answer": "The Polish President",
+        "incorrect_answers": [
+            "Pope John Paul II",
+            "Bang-Ding Ow",
+            "Albert Putin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which country is the home of the largest Japanese population outside of Japan?",
+        "correct_answer": "Brazil",
+        "incorrect_answers": [
+            "China",
+            "Russia",
+            "The United States"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What was Maggie Simpson&#039;s first canonical word, not including the Tracey Ullman shorts?",
+        "correct_answer": "Daddy.",
+        "incorrect_answers": [
+            "Sequel?",
+            "Ja!",
+            "Rusty!"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the game Overwatch, which hero out of the following 4 is from Brazil?",
+        "correct_answer": "L&uacute;cio",
+        "incorrect_answers": [
+            "Sombra",
+            "McCree",
+            "Symmetra"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "This movie contains the quote, &quot;I feel the need ... the need for speed!&quot;",
+        "correct_answer": "Top Gun",
+        "incorrect_answers": [
+            "Days of Thunder",
+            "The Color of Money",
+            "Cocktail"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "What is the name of the island that &quot;Jurassic Park&quot; is built on?",
+        "correct_answer": "Isla Nublar",
+        "incorrect_answers": [
+            "Isla Sorna",
+            "Isla Muerta",
+            "Isla Pena"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the protagonist in Dead Rising (2006)?",
+        "correct_answer": "Frank West",
+        "incorrect_answers": [
+            "Chuck Greene",
+            "John North",
+            "Jason Grey"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What do the video games No Man&rsquo;s Sky and Mighty No. 9 have in common?",
+        "correct_answer": "Both were announced in 2013.",
+        "incorrect_answers": [
+            "Both were crowdfunded.",
+            "Both were developed by indie studios.",
+            "Both were released for the PlayStation 3."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which is the hull NO. of the Fletcher class destroyer Fletcher?",
+        "correct_answer": "DD-445",
+        "incorrect_answers": [
+            "DD-992",
+            "DD-444",
+            "DD-446"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "On Twitter, what was the original character limit for a Tweet?",
+        "correct_answer": "140",
+        "incorrect_answers": [
+            "120",
+            "160",
+            "100"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "What is centralism?",
+        "correct_answer": " Concentration of power and authority in a central organization.",
+        "incorrect_answers": [
+            "Conforming to one single common political agenda.",
+            "Remaining politically neutral.",
+            "The grey area in the spectrum of political left and right."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which mountain has the highest peak in Australia?",
+        "correct_answer": "Mount Kosciuszko, New South Wales",
+        "incorrect_answers": [
+            "Mount Ossa, Tasmania",
+            "Mount Bartle Frere, Queensland",
+            "Mount Zeil, Northern Territory"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "How do you tame a horse in Minecraft?",
+        "correct_answer": "By continually mounting it",
+        "incorrect_answers": [
+            "By feeding it Wheat",
+            "By feeding it Sugar",
+            "By petting it"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "Which computer hardware device provides an interface for all other connected devices to communicate?",
+        "correct_answer": "Motherboard",
+        "incorrect_answers": [
+            "Central Processing Unit",
+            "Hard Disk Drive",
+            "Random Access Memory"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "The bikini is named after the &quot;Bikini Atoll&quot;, an island where the United States conducted tests on atomic bombs.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Gadgets",
+        "question": "What is the &quot;Mitsubishi Wakamaru&quot;?",
+        "correct_answer": "A robot",
+        "incorrect_answers": [
+            "A pickup truck",
+            "An motorcycle",
+            "A motorboat"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which of these is the name of a song by Tears for Fears?",
+        "correct_answer": "Shout",
+        "incorrect_answers": [
+            "Scream",
+            "Yell",
+            "Shriek"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Which Death Grips album is the only one to feature a band member?",
+        "correct_answer": "No Love Deep Web",
+        "incorrect_answers": [
+            "Bottomless Pit",
+            "The Money Store",
+            "The Powers That B"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "The heavy metal band Black Sabbath hail from which English city?",
+        "correct_answer": "Birmingham",
+        "incorrect_answers": [
+            "Manchester",
+            "London",
+            "Newcastle-Upon-Tyne"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Minecraft wasn&rsquo;t the original name to Minecraft.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The tale of Robin Hood originates from which country?",
+        "correct_answer": "England",
+        "incorrect_answers": [
+            "France",
+            "Portugal",
+            "Scotland"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the Half-Life series, Gordon Freeman&#039;s signature weapon is a:",
+        "correct_answer": "Crowbar",
+        "incorrect_answers": [
+            "Sledgehammer",
+            "Fiber Wire",
+            "Katana"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Super Mario Bros. was released in 1990.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following commercial vehicles from Grand Theft Auto IV did NOT reappear in Grand Theft Auto V?",
+        "correct_answer": "Steed",
+        "incorrect_answers": [
+            "Mule",
+            "Benson",
+            "Pony"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In which order do you need to hit some Deku Scrubs to open the first boss door in &quot;Ocarina of Time&quot;?",
+        "correct_answer": "2, 3, 1",
+        "incorrect_answers": [
+            "1, 2, 3",
+            "1, 3, 2",
+            "2, 1, 3"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "On what date did the original &quot;Fruits Basket&quot; anime air in Japan?",
+        "correct_answer": "July 5th, 2001",
+        "incorrect_answers": [
+            "November 1st, 2006",
+            "December 27th, 2001",
+            "October 11th, 2001"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What element has the chemical symbol Kr?",
+        "correct_answer": "Krypton",
+        "incorrect_answers": [
+            "Kerosine",
+            "Kineticium",
+            "Curium"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What game was used to advertise Steam?",
+        "correct_answer": "Counter-Strike 1.6",
+        "incorrect_answers": [
+            "Half-Life",
+            "Half-Life 2",
+            "Team Fortress"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In what year was the movie &quot;Police Academy&quot; released?",
+        "correct_answer": "1984",
+        "incorrect_answers": [
+            "1986",
+            "1985",
+            "1983"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In the 1979 British film &quot;Quadrophenia&quot; what is the name of the seaside city the mods are visiting?",
+        "correct_answer": "Brighton",
+        "incorrect_answers": [
+            "Eastbourne",
+            "Mousehole",
+            "Bridlington"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Team Fortress 2, the weapon &quot;Your Eternal Reward&quot; is a reference to the 1992 film Aladdin.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "According to Fair Works Australia, how long do you have to work to get Long Service Leave?",
+        "correct_answer": "7 years",
+        "incorrect_answers": [
+            "2 years",
+            "8 years",
+            "6 months"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which country were potatoes originally grown?",
+        "correct_answer": "Peru",
+        "incorrect_answers": [
+            "United States ",
+            "Ireland",
+            "New Zealand"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "Russia passed a law in 2013 which outlaws telling children that homosexuals exist.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;",
+        "correct_answer": "Truth",
+        "incorrect_answers": [
+            "Answer",
+            "Cause",
+            "Source"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which game in the Dance Dance Revolution series introduced the Extra Stage?",
+        "correct_answer": "DDR",
+        "incorrect_answers": [
+            "DDR Solo 2000",
+            "DDRMAX",
+            "DDR EXTREME"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The Pyrenees mountains are located on the border of which two countries?",
+        "correct_answer": "France and Spain",
+        "incorrect_answers": [
+            "Italy and Switzerland",
+            "Norway and Sweden",
+            "Russia and Ukraine"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which famous singer was portrayed by actor Kevin Spacey in the 2004 biographical film &quot;Beyond the Sea&quot;?",
+        "correct_answer": "Bobby Darin",
+        "incorrect_answers": [
+            "Louis Armstrong",
+            "Frank Sinatra",
+            "Dean Martin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Which class of animals are newts members of?",
+        "correct_answer": "Amphibian",
+        "incorrect_answers": [
+            "Fish",
+            "Reptiles",
+            "Mammals"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "The first half-hour CGI cartoon, ReBoot, aired on which year?",
+        "correct_answer": "1994",
+        "incorrect_answers": [
+            "1993",
+            "1998",
+            "1999"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which one of these scientists conducted the Gold Foil Experiment which concluded that atoms are mostly made of empty space?",
+        "correct_answer": "Ernest Rutherford",
+        "incorrect_answers": [
+            "Joseph John Thomson",
+            "Archimedes",
+            "Niels Henrik David Bohr"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Artis Leon Ivey Jr. is better known as which rap artist?",
+        "correct_answer": "Coolio",
+        "incorrect_answers": [
+            "Dr Dre",
+            "Snoop Dogg",
+            "Ice T"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Red Vines is a brand of what type of candy?",
+        "correct_answer": "Licorice",
+        "incorrect_answers": [
+            "Lollipop",
+            "Chocolate",
+            "Bubblegum"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Scotch whisky and Drambuie make up which cocktail?",
+        "correct_answer": "Rusty Nail",
+        "incorrect_answers": [
+            "Screwdriver",
+            "Sex on the Beach",
+            "Manhattan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "Which movie did NOT feature the late actor John Candy?",
+        "correct_answer": "Ghostbusters",
+        "incorrect_answers": [
+            "Little Shop Of Horrors",
+            "Home Alone",
+            "Planes Trains and Automobiles"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In the &quot;Jurassic Park&quot; universe, what is the name of the island that contains InGen&#039;s Site B?",
+        "correct_answer": "Isla Sorna",
+        "incorrect_answers": [
+            "Isla Nublar",
+            "Isla Pena",
+            "Isla Muerta"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In Battlestar Galactica (2004), what is the name of the President of the Twelve Colonies?",
+        "correct_answer": "Laura Roslin",
+        "incorrect_answers": [
+            "William Adama",
+            "Tricia Helfer",
+            "Harry Stills"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Gordon Freeman, the protagonist of &quot;Half-Life&quot;, is said to have once had a ponytail.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the &quot;To Love-Ru&quot; series, how many Trans-weapons were created?",
+        "correct_answer": "3",
+        "incorrect_answers": [
+            "1",
+            "2",
+            "4"
+        ]
+    }
+]

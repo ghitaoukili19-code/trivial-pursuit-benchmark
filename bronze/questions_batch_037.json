@@ -1,0 +1,572 @@
+[
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In 2019, Minecraft outsold Tetris to become the world&#039;s best-selling video game.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "In physics, conservation of energy and conservation of momentum are both consequences of which of the following?",
+        "correct_answer": "Noether&#039;s Theorem",
+        "incorrect_answers": [
+            "Bell&#039;s Theorem",
+            "Wick&#039;s Theorem",
+            "Carnot&#039;s Theorem"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Nova Scotia is on the east coast of Canada.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the capital of Cyprus?",
+        "correct_answer": "Nicosia",
+        "incorrect_answers": [
+            "Paphos",
+            "Limassol",
+            "Larnaca"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Which male player won the gold medal of table tennis singles in 2016 Olympics Games?",
+        "correct_answer": "Ma Long (China)",
+        "incorrect_answers": [
+            "Zhang Jike (China)",
+            "Jun Mizutani (Japan)",
+            "Vladimir Samsonov (Belarus)"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the main protagonist in the game Life is Strange: Before The Storm?",
+        "correct_answer": "Chloe Price ",
+        "incorrect_answers": [
+            "Max Caulfield",
+            "Rachel Amber",
+            "Frank Bowers"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "What is the Klingon&#039;s afterlife called?",
+        "correct_answer": "Sto-vo-kor",
+        "incorrect_answers": [
+            "Valhalla",
+            "Karon&#039;gahk",
+            "New Jersey"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "French is an official language in Canada.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Who is the founder of &quot;The Lego Group&quot;?",
+        "correct_answer": "Ole Kirk Christiansen",
+        "incorrect_answers": [
+            " Jens Niels Christiansen",
+            "Kirstine Christiansen",
+            " Gerhardt Kirk Christiansen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What was the game &quot;Galaga&quot; was a sequel to?",
+        "correct_answer": "Galaxian",
+        "incorrect_answers": [
+            "Galactica",
+            "Space Invaders",
+            "Galactic Wars"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Scatman John&#039;s real name was John Paul Larkin.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "In Norse mythology, Thor once dressed as a woman.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which former boy-band star released hit solo single &quot;Angels&quot; in 1997?",
+        "correct_answer": "Robbie Williams",
+        "incorrect_answers": [
+            "Justin Timberlake",
+            "Harry Styles",
+            "Gary Barlow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these levels does NOT appear in the console/PC versions of the game &quot;Sonic Generations&quot;?",
+        "correct_answer": "Mushroom Hill",
+        "incorrect_answers": [
+            "City Escape",
+            "Planet Wisp",
+            "Sky Sanctuary"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "According to an interview with &quot;Super Mario Land 2&quot; game director Hiroji Kiyotake, what is Wario&#039;s favorite food?",
+        "correct_answer": "Crepes",
+        "incorrect_answers": [
+            "Pizza",
+            "Garlic",
+            "Cheese"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Apple co-founder Steve Jobs died from complications of which form of cancer?",
+        "correct_answer": "Pancreatic",
+        "incorrect_answers": [
+            "Bone",
+            "Liver",
+            "Stomach"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "The anime Attack on Titan was directed by Tetsurō Araki, the same person who directed the anime Highschool of the Dead.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "L&#039;H&ocirc;pital was the mathematician who created the homonymous rule that uses derivatives to evaluate limits with indeterminations.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Who voiced Metalbeard in &quot;The Lego Movie&quot;?",
+        "correct_answer": "Nick Offerman",
+        "incorrect_answers": [
+            "Liam Neeson",
+            "Morgan Freeman",
+            "Will Arnet"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which game in the &quot;Halo&quot; series has the strongest iteration of the shotgun?",
+        "correct_answer": "Halo: Combat Evolved",
+        "incorrect_answers": [
+            "Halo 2",
+            "Halo 3",
+            "Halo: Reach"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the game Nuclear Throne, the boss &quot;Big Dog&quot; was made into a character on April Fool&#039;s Day 2015.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "What team won the 2016 MLS Cup?",
+        "correct_answer": "Seattle Sounders",
+        "incorrect_answers": [
+            "Colorado Rapids",
+            "Toronto FC",
+            "Montreal Impact"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who plays Jack Burton in the movie &quot;Big Trouble in Little China?&quot;",
+        "correct_answer": "Kurt Russell",
+        "incorrect_answers": [
+            "Patrick Swayze",
+            "John Cusack",
+            "Harrison Ford"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these blocks in &quot;Minecraft&quot; has the lowest blast resistance?",
+        "correct_answer": "Sand",
+        "incorrect_answers": [
+            "End Stone",
+            "Water",
+            "Wood Planks"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "Who wrote &quot;Harry Potter&quot;?",
+        "correct_answer": "J.K. Rowling",
+        "incorrect_answers": [
+            "J.R.R. Tolkien",
+            "Terry Pratchett",
+            "Daniel Radcliffe"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is the name of the Canadian national anthem?",
+        "correct_answer": "O Canada",
+        "incorrect_answers": [
+            "O Red Maple",
+            "Leaf-Spangled Banner",
+            "March of the Puck Drop"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": " What Russian automatic gas-operated assault rifle was developed in the Soviet Union in 1947, and is still popularly used today?",
+        "correct_answer": "AK-47",
+        "incorrect_answers": [
+            "RPK",
+            "M16",
+            "MG 42"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In Avengers: Infinity War, where was the Soul Stone located?",
+        "correct_answer": "Vormir",
+        "incorrect_answers": [
+            "Xandar",
+            "Knowhere",
+            "Asgard"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "The song &quot;Stronger Than You&quot; is a single by Estelle, who played Garnet in Steven Universe.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the ARPG &quot;Path of Exile,&quot; what is the highest amount of sockets that an item can have?",
+        "correct_answer": "6",
+        "incorrect_answers": [
+            "5",
+            "4",
+            "8"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What is the atomic mass of Carbon?",
+        "correct_answer": "12",
+        "incorrect_answers": [
+            "14",
+            "16",
+            "10"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which of the following is NOT classified as a Semetic language?",
+        "correct_answer": "Sumerian",
+        "incorrect_answers": [
+            "Maltese",
+            "Akkadian",
+            "Mandaic"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of the following rappers were NOT part of the hip-hop group Odd Future?",
+        "correct_answer": "Vince Staples",
+        "incorrect_answers": [
+            "Tyler, the Creator",
+            "Frank Ocean",
+            "Mike G"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In the original Star Wars trilogy, Alec Guinness provided the voice for Darth Vader.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "In the comics, which Sonic character took command of the Dark Legion after Luger&#039;s assassination?",
+        "correct_answer": "Lien-Da",
+        "incorrect_answers": [
+            "Kragok",
+            "Dimitri",
+            "Remington"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;To Love-Ru: Darkness&quot;, Yami reveals her real name is Eve.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "The majority of Subaru vehicles are made in China.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is Cuba&#039;s official, most widely spoken language?",
+        "correct_answer": "Spanish",
+        "incorrect_answers": [
+            "Portuguese",
+            "French",
+            "Italian"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the original name of Final Fantasy XV?",
+        "correct_answer": "Final Fantasy Versus XIII",
+        "incorrect_answers": [
+            "Final Fantasy: Reborn",
+            "Final Fantasy XVI",
+            "Final Fantasy XIII-3"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "When did the last episode of &quot;Futurama&quot; air before returning in 2023?",
+        "correct_answer": "September 4, 2013",
+        "incorrect_answers": [
+            "December 25, 2010",
+            "March 28, 1999",
+            "November 4, 2021"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which country drives on the left side of the road?",
+        "correct_answer": "Japan",
+        "incorrect_answers": [
+            "Germany",
+            "Russia",
+            "China"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the game &quot;The Sims&quot;, how many Simoleons does each family start with?",
+        "correct_answer": "20,000",
+        "incorrect_answers": [
+            "10,000",
+            "15,000",
+            "25,000"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which Aerosmith album featured &quot;Walk This Way&quot;?",
+        "correct_answer": "Toys in the Attic",
+        "incorrect_answers": [
+            "Rocks",
+            "Get Your Wings",
+            "Draw the Line"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "What is the name of Sherlock Holmes&#039;s brother?",
+        "correct_answer": "Mycroft Holmes",
+        "incorrect_answers": [
+            "Mederi Holmes",
+            "Martin Holmes",
+            "Herbie Hancock Holmes"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "BMW M GmbH is a subsidiary of BMW AG that focuses on car performance.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "What year did the New Orleans Saints win the Super Bowl?",
+        "correct_answer": "2010",
+        "incorrect_answers": [
+            "2008",
+            "2009",
+            "2011"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "In what year was McDonald&#039;s founded?",
+        "correct_answer": "1955",
+        "incorrect_answers": [
+            "1964",
+            "1951",
+            "1947"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "In golf, what name is given to a hole score of two under par?",
+        "correct_answer": "Eagle",
+        "incorrect_answers": [
+            "Birdie",
+            "Bogey",
+            "Albatross"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "The anime &quot;Lucky Star&quot; follows the story of one girl who is unaware she is God.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In RuneScape, one must complete the &quot;Dragon Slayer&quot; quest before equipping Rune Platelegs.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    }
+]

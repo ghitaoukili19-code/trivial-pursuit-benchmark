@@ -1,0 +1,592 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.",
+        "correct_answer": "Binary",
+        "incorrect_answers": [
+            "JavaScript",
+            "C++",
+            "Python"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "The letters in the name of the band &quot;TWRP&quot; stand for what?",
+        "correct_answer": "Tupperware Remix Party",
+        "incorrect_answers": [
+            "Totally Wicked Robot Performers",
+            "Team Wild and the Radio Pirates",
+            "Taiwan Roleplay"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In Hollow Knight, how many Precepts does Zote have?",
+        "correct_answer": "Fifty-Seven",
+        "incorrect_answers": [
+            "Sixty-Nine",
+            "Fourty-Three",
+            "Ninety-One"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "A piccolo is a smaller version of what instrument?",
+        "correct_answer": "Flute",
+        "incorrect_answers": [
+            "Trumpet",
+            "Harp",
+            "Violin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the Halo series, which era of SPARTAN is Master Chief? ",
+        "correct_answer": "SPARTAN-II",
+        "incorrect_answers": [
+            "SPARTAN-I",
+            "SPARTAN-III",
+            "SPARTAN-IV"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which director directed the movie &quot;Pan&#039;s Labyrinth&quot;?",
+        "correct_answer": "Guillermo Del Toro",
+        "incorrect_answers": [
+            "Alfonso Cuar&oacute;n",
+            "Alejandro Gonz&aacute;lez I&ntilde;&aacute;rritu",
+            " Alejandro Jodorowsky"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of these is not an Ed Sheeran album?",
+        "correct_answer": "-",
+        "incorrect_answers": [
+            "+",
+            "X",
+            "&divide;"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What is the historical name of Sri Lanka?",
+        "correct_answer": "Ceylon",
+        "incorrect_answers": [
+            "Myanmar",
+            "Colombo",
+            "Badulla"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "The killer in the 1981 film &#039;My Bloody Valentine&#039; wears what sort of outfit?",
+        "correct_answer": "Mining gear",
+        "incorrect_answers": [
+            "Clown costume",
+            "Santa suit",
+            "Police uniform"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "What mythology did the god &quot;Apollo&quot; come from?",
+        "correct_answer": "Greek and Roman",
+        "incorrect_answers": [
+            "Roman and Spanish",
+            "Greek and Chinese",
+            "Greek, Roman and Norse"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Enzo Ferrari was originally an auto racer for what manufacturer before founding his own car company?",
+        "correct_answer": "Alfa Romeo",
+        "incorrect_answers": [
+            "Auto Union",
+            "Mercedes Benz",
+            "Bentley"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "What is the name of Broadway&#039;s first &quot;long-run&quot; musical?",
+        "correct_answer": "The Elves",
+        "incorrect_answers": [
+            "Wicked",
+            "Hamilton",
+            "The Book of Mormon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In what engine was Titanfall made in?",
+        "correct_answer": "Source Engine",
+        "incorrect_answers": [
+            "Frostbite 3",
+            "Unreal Engine",
+            "Cryengine"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "In what year was Avril Lavigne&rsquo;s first studio album, &ldquo;Let Go&rdquo;, released?",
+        "correct_answer": "2002",
+        "incorrect_answers": [
+            "2001",
+            "2004",
+            "2005"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "This Canadian television sportscaster is known for his &quot;Hockey Night in Canada&quot; role, a commentary show during hockey games.",
+        "correct_answer": "Don Cherry",
+        "incorrect_answers": [
+            "Don McKellar",
+            "Don Taylor ",
+            "Donald Sutherland"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who was the first wife of King Henry VIII?",
+        "correct_answer": "Catherine of Aragon",
+        "incorrect_answers": [
+            "Jane Seymour",
+            "Anne Boleyn",
+            "Anne of Cleves"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "Which Variable Valve Timing technology is used by BMW?",
+        "correct_answer": "VANOS",
+        "incorrect_answers": [
+            "VVT-iw",
+            "VVEL",
+            "MultiAir"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Area 51 is located in which US state?",
+        "correct_answer": "Nevada",
+        "incorrect_answers": [
+            "Arizona",
+            "New Mexico",
+            "Utah"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Who was featured in the song &quot;Words&quot; by Feint? ",
+        "correct_answer": "Laura Brehm",
+        "incorrect_answers": [
+            "Anna Yvette ",
+            "Danyka Nadeau",
+            "Veela"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Coca-Cola&#039;s original colour was green.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the Super Mario series, the character Pauline is a Princess like Princess Peach.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the largest planet in Kerbal Space Program?",
+        "correct_answer": "Jool",
+        "incorrect_answers": [
+            "Eeloo",
+            "Kerbol",
+            "Minmus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which Landsat Satellite currently has had the longest operational life?",
+        "correct_answer": "Landsat 5",
+        "incorrect_answers": [
+            "Landsat 8",
+            "Landsat 7",
+            "Landsat 6"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "M.U.G.E.N. is the name for what type of Game Engine?",
+        "correct_answer": "Fighting Game",
+        "incorrect_answers": [
+            "Platforming Game",
+            "Shooter Game",
+            "Puzzle Game"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which artist or group did John Lennon consider &quot;son(s) of the Beatles&quot;?",
+        "correct_answer": "Jeff Lynne&#039;s Electric Light Orchestra",
+        "incorrect_answers": [
+            "The Rolling Stones",
+            "Pink Floyd",
+            "The Who"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who was the first ruler of Haiti after the country had gained its independence?",
+        "correct_answer": "Jean-Jacques Dessalines",
+        "incorrect_answers": [
+            "Toussaint Louverture",
+            "Henri Christophe",
+            "Alexandre Petion"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "In &quot;Star Trek&quot;, what sauce is commonly used by Klingons on bregit lung?",
+        "correct_answer": "Grapok sauce",
+        "incorrect_answers": [
+            "Gazorpazorp pudding",
+            "Sweet chili sauce",
+            "Grapork sauce"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "&quot;Return to Castle Wolfenstein&quot; was the only game of the Wolfenstein series where you don&#039;t play as William &quot;B.J.&quot; Blazkowicz.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What film did James Cameron&#039;s Avatar dethrone as the highest-grossing film ever?",
+        "correct_answer": "Titanic",
+        "incorrect_answers": [
+            "Star Wars",
+            "Gone with the Wind",
+            "Jaws"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which actor and martial artist starred as Colonel Guile in the 1994 action film adaptation of Street Fighter?",
+        "correct_answer": "Jean-Claude Van Damme",
+        "incorrect_answers": [
+            "Chuck Norris",
+            "Steven Seagal",
+            "Scott Adkins"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What is the currency of Poland?",
+        "correct_answer": "Złoty",
+        "incorrect_answers": [
+            "Ruble",
+            "Euro",
+            "Krone"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which of these jersey numbers has Shaquille O&#039;Neal never worn?",
+        "correct_answer": "35",
+        "incorrect_answers": [
+            "36",
+            "33",
+            "32"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the official language of Brazil?",
+        "correct_answer": "Portuguese",
+        "incorrect_answers": [
+            "Brazilian",
+            "Spanish",
+            "English"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "What does the computer software acronym JVM stand for?",
+        "correct_answer": "Java Virtual Machine",
+        "incorrect_answers": [
+            "Java Vendor Machine",
+            "Java Visual Machine",
+            "Just Virtual Machine"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+        "correct_answer": ".svg",
+        "incorrect_answers": [
+            ".png",
+            ".jpeg",
+            ".gif"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who developed the 2016 farming RPG &quot;Stardew Valley&quot;?",
+        "correct_answer": "Eric Barone",
+        "incorrect_answers": [
+            "Daisuke Amaya",
+            "Jasper Byrne",
+            "Lucas Pope"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which one of the following titles by Valve is not based on a Community Mod?",
+        "correct_answer": "Ricochet",
+        "incorrect_answers": [
+            "Day of Defeat",
+            "Counter-Strike",
+            "Alien Swarm"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "There are 6 legendary cards in &quot;Clash Royale&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Pok&eacute;mon Go is a location-based augmented reality game developed and published by which company?",
+        "correct_answer": "Niantic",
+        "incorrect_answers": [
+            "Rovio",
+            "Zynga",
+            "Supercell"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "How many zeptometres are inside one femtometre?",
+        "correct_answer": "1,000,000",
+        "incorrect_answers": [
+            "10",
+            "1,000,000,000",
+            "1000"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "If you are caught &quot;Goldbricking&quot;, what are you doing wrong?",
+        "correct_answer": "Slacking",
+        "incorrect_answers": [
+            "Smoking",
+            "Stealing",
+            "Cheating"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the Half-Life mod &quot;Afraid of Monsters&quot; what was the name of the main protagonist?",
+        "correct_answer": "David Leatherhoff",
+        "incorrect_answers": [
+            "Daniel Featherhoff",
+            "Damon Weatherhoff",
+            "Damien Teatherhoff"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "How many notes are there on a standard grand piano?",
+        "correct_answer": "88",
+        "incorrect_answers": [
+            "98",
+            "108",
+            "78"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the game &quot;Sonic the Hedgehog (1991)&quot; how many chaos emeralds could you collect?",
+        "correct_answer": "6",
+        "incorrect_answers": [
+            "8",
+            "7",
+            "9"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "Which of the following is NOT a work done by Shakespeare?",
+        "correct_answer": "Trial of Temperance",
+        "incorrect_answers": [
+            "Measure For Measure",
+            "Titus Andronicus",
+            "Cymbeline"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Nazi Germany surrendered on Harry Truman&#039;s birthday while he was president.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How many countries does Spain have a land border with?",
+        "correct_answer": "5",
+        "incorrect_answers": [
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What year did &quot;Bishoujo Senshi Sailor Moon&quot; air in Japan?",
+        "correct_answer": "1992",
+        "incorrect_answers": [
+            "1989",
+            "1990",
+            "1994"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "Who is the God Loki&#039;s son? ",
+        "correct_answer": "Fenrir ",
+        "incorrect_answers": [
+            "Odin",
+            "Hel",
+            "Sigyn"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Who developed the first successful polio vaccine in the 1950s?",
+        "correct_answer": "Jonas Salk",
+        "incorrect_answers": [
+            "John F. Enders",
+            "Thomas Weller",
+            "Frederick Robbins"
+        ]
+    }
+]

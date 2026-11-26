@@ -1,0 +1,584 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "Which of the following is not true about the life of Tiresias?",
+        "correct_answer": "Sailed with the Argonauts to find the golden fleece",
+        "incorrect_answers": [
+            "Athena turned him into a woman, and then years later back into a man",
+            "Hera blinded him after he agreed with Zeus in an argument",
+            "Revealed to Oedipus that Oedipus had married his own mother"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "According to the Egyptian Myth of Osiris, who murdered Osiris?",
+        "correct_answer": "Set",
+        "incorrect_answers": [
+            "Horus",
+            "Ra",
+            "Anhur"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Kissing someone for one minute burns about 2 calories.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In The Simpsons, which war did Seymour Skinner serve in the USA Army as a Green Beret?",
+        "correct_answer": "Vietnam War",
+        "incorrect_answers": [
+            "World War 2",
+            "World War 1",
+            "Cold War"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "The open source program Redis is a relational database server.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What was the name of the game created by Masahiro Sakurai and Satoru Iwata that would eventually evolve into &quot;Super Smash Bros.&quot;?",
+        "correct_answer": "Dragon King: The Fighting Game",
+        "incorrect_answers": [
+            "Nintendo Legends: Fight!",
+            "Martial Arts: King of the Hill",
+            "Aerial Warriors: Supreme Battle"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Gadgets",
+        "question": "What is the most significant side venture the popular firearms company, Remington, has pursued?",
+        "correct_answer": "Typewriters",
+        "incorrect_answers": [
+            "Blenders",
+            "Ceiling Fans",
+            "Door Knobs"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the &quot;S.T.A.L.K.E.R.&quot; series, the Freedom faction wishes to destroy the supernatural area known as  &quot;the Zone&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which rapper had an album that went double platinum with no features?",
+        "correct_answer": "J. Cole",
+        "incorrect_answers": [
+            "Kendrick Lamar",
+            "Drake",
+            "Big Sean"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Anatomy considers the forms of macroscopic structures such as organs and organ systems.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Who was the Author of the manga Uzumaki?",
+        "correct_answer": "Junji Ito",
+        "incorrect_answers": [
+            "\tNoboru Takahashi",
+            "Akira Toriyama",
+            "Masashi Kishimoto"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "In 2012 the German-speaking microstate &quot;Liechtenstein&quot; in Central Europe had a population of how many inhabitants?",
+        "correct_answer": "36,600",
+        "incorrect_answers": [
+            "2,400",
+            "90,000",
+            "323,400"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Where is the ancient city of Petra located?",
+        "correct_answer": "Jordan",
+        "incorrect_answers": [
+            "Egypt",
+            "Israel",
+            "Italy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "Which of the following films was directed by Ivan Reitman, written by Gary Ross, featured Kevin Kline, and was released in 1993?",
+        "correct_answer": "Dave",
+        "incorrect_answers": [
+            "John",
+            "Will",
+            "Carl"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Sonic Adventure&quot;, you are able to transform into Super Sonic at will after completing the main story.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What war is Call Of Duty: Black Ops based on?",
+        "correct_answer": "Cold War",
+        "incorrect_answers": [
+            "WW3",
+            "Vietnam",
+            "WW1"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "What shape does sin(x) or cos(x) make on a graph?",
+        "correct_answer": "Waves",
+        "incorrect_answers": [
+            "A Parabola",
+            "A Straight Line",
+            "Zig-Zags"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In the cartoon &#039;SpongeBob SquarePants&#039;, what did the acronym E.V.I.L stand for?",
+        "correct_answer": "Every Villain Is Lemons",
+        "incorrect_answers": [
+            "Every Villain Is Lemonade",
+            "Every Villain Is Limes",
+            "Each Villain Is Lemonade"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Dallon Weekes, former touring basist of Panic! At the Disco, created his own band in 2016 called...",
+        "correct_answer": "I Don&#039;t Know How But They Found Me",
+        "incorrect_answers": [
+            "Cheats At Hide And Seek",
+            "Where Did You All Come From?",
+            "Run Away From The People"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which Toronto landmark was featured on the cover art of Canadian rapper Drake&#039;s 2016 album &quot;Views&quot;?",
+        "correct_answer": "CN Tower",
+        "incorrect_answers": [
+            "Allan Gardens",
+            "Union Station",
+            "Prince of Wales Theatre"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "Volkswagen&#039;s legendary VR6 engine has cylinders positioned at what degree angle?",
+        "correct_answer": "15 Degree",
+        "incorrect_answers": [
+            "30 Degree",
+            "45 Degree",
+            "90 Degree"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "How many plays is Shakespeare generally considered to have written?",
+        "correct_answer": "37",
+        "incorrect_answers": [
+            "18",
+            "54",
+            "25"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What mountain range lines the border between Spain and France?",
+        "correct_answer": "Pyrenees",
+        "incorrect_answers": [
+            "Alps",
+            "Carpathians",
+            "Urals"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "An exothermic reaction is a chemical reaction that releases energy by radiating electricity.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "In 1993 Swedish car manufacturer Saab experimented with replacing the steering wheel with a joystick in a Saab 9000.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What does the letter &#039;S&#039; stand for in &#039;NASA&#039;?",
+        "correct_answer": "Space",
+        "incorrect_answers": [
+            "Science",
+            "Society",
+            "Star"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which of the following is a castle?",
+        "correct_answer": "Elizabeth Castle",
+        "incorrect_answers": [
+            "Frank Castle",
+            "Richard Castle",
+            "Olivia Castle"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "How many objects are equivalent to one mole?",
+        "correct_answer": "6.022 x 10^23",
+        "incorrect_answers": [
+            "6.002 x 10^22",
+            "6.022 x 10^22",
+            "6.002 x 10^23"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Who played Baron Victor Frankestein in the 1957 Hammer horror film &quot;The Curse of Frankenstein&quot;?",
+        "correct_answer": "Peter Cushing",
+        "incorrect_answers": [
+            "Boris Karloff",
+            "Vincent Price",
+            "Lon Chaney Jr."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "&quot;Rollercoaster Tycoon&quot; was programmed mostly entirely in...",
+        "correct_answer": "x86 Assembly",
+        "incorrect_answers": [
+            "C++",
+            "C",
+            "ALGOL"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "What was James Coburn&#039;s last film role before his death?",
+        "correct_answer": "American Gun",
+        "incorrect_answers": [
+            "Monsters Inc",
+            "Texas Rangers",
+            "Snow Dogs"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Which of the following is not another name for the eggplant?",
+        "correct_answer": "Potimarron",
+        "incorrect_answers": [
+            "Brinjal",
+            "Guinea Squash",
+            "Melongene"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Which of these artists did NOT remix the song &quot;Faded&quot; by Alan Walker?",
+        "correct_answer": "Skrillex",
+        "incorrect_answers": [
+            "Ti&euml;sto",
+            "Slushii",
+            "Dash Berlin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which country hosted the 2022 FIFA World Cup?",
+        "correct_answer": "Qatar",
+        "incorrect_answers": [
+            "USA",
+            "Japan",
+            "Switzerland"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When was the United States National Security Agency established?",
+        "correct_answer": "November 4, 1952",
+        "incorrect_answers": [
+            "July 26, 1908",
+            " July 1, 1973",
+            " November 25, 2002"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Who voice acted the character Hiccup in the movie &quot;How to Train Your Dragon&quot;?",
+        "correct_answer": "Jay Baruchel",
+        "incorrect_answers": [
+            "Jack Brauchel",
+            "John Powell",
+            "Gerard Butler"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Who played General Aladeen in The Dictator?",
+        "correct_answer": "Sacha Baron Cohen",
+        "incorrect_answers": [
+            "Johnny Depp",
+            "James Franco",
+            "Leonardo Dicaprio"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What was Genghis Khan&#039;s real name?",
+        "correct_answer": "Tem&uuml;jin",
+        "incorrect_answers": [
+            "M&ouml;ngke",
+            "&Ouml;gedei",
+            "Tem&uuml;r"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "How many sides does a trapezium have?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "3",
+            "5",
+            "6"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "Which computer language would you associate Django framework with?",
+        "correct_answer": "Python",
+        "incorrect_answers": [
+            "C#",
+            "C++",
+            "Java"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "&quot;Doctor Jones&quot;, &quot;Turn Back Time&quot; and &quot;Barbie Girl&quot; were UK number ones for which Eurodance group?",
+        "correct_answer": "Aqua",
+        "incorrect_answers": [
+            "Vengaboys",
+            "Eiffel 65",
+            "Sash!"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "The flag of Belarus has a red and white embroidery pattern on the hoist side.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When did construction of the Suez Canal finish?",
+        "correct_answer": "1869",
+        "incorrect_answers": [
+            "1859",
+            "1860",
+            "1850"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Waylon Smithers from &quot;The Simpsons&quot; was originally black when he first appeared in the series.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "Which Batman sidekick is the son of Talia al Ghul?",
+        "correct_answer": "Damian Wayne",
+        "incorrect_answers": [
+            "Dick Grayson",
+            "Tim Drake",
+            "Jason Todd"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+        "correct_answer": "Demolition",
+        "incorrect_answers": [
+            "The Dream Team",
+            "The Bushwhackers",
+            "The British Bulldogs"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Which of these songs was released in 1996?",
+        "correct_answer": "The Smashing Pumpkins - &quot;1979&quot;",
+        "incorrect_answers": [
+            "Prince - &quot;1999&quot;",
+            "James Blunt - &quot;1973&quot;",
+            "David Bowie - &quot;1984&quot;"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following is NOT a Nintendo game console?",
+        "correct_answer": "Dreamcast",
+        "incorrect_answers": [
+            "SNES",
+            "Wii",
+            "Switch"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Who voiced the character Draco in the 1996 movie &#039;DragonHeart&#039;?",
+        "correct_answer": "Sean Connery",
+        "incorrect_answers": [
+            "Dennis Quaid",
+            "Pete Postlethwaite",
+            "Brian Thompson"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What year was the Italian firearms manufacturer Beretta founded?",
+        "correct_answer": "1526",
+        "incorrect_answers": [
+            "1776",
+            "1923",
+            "1998"
+        ]
+    }
+]

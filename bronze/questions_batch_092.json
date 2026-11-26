@@ -1,0 +1,588 @@
+[
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "The British organisation CAMRA stands for The Campaign for Real Ale.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Who painted The Starry Night?",
+        "correct_answer": "Vincent van Gogh",
+        "incorrect_answers": [
+            "Pablo Picasso",
+            "Leonardo da Vinci",
+            "Michelangelo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "The Panama Canal was officially opened by which US president?",
+        "correct_answer": "Woodrow Wilson",
+        "incorrect_answers": [
+            "Calvin Coolidge",
+            "Herbert Hoover",
+            "Theodore Roosevelt"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is the maximum HP in Terraria?",
+        "correct_answer": "500",
+        "incorrect_answers": [
+            "400",
+            "1000",
+            "100"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "How many games did Arsenal FC go unbeaten during the 2003-2004 season of the English Premier League",
+        "correct_answer": "38",
+        "incorrect_answers": [
+            "51",
+            "49",
+            "22"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Rocket League is a game which features..",
+        "correct_answer": "Cars",
+        "incorrect_answers": [
+            "Helicopters",
+            "Planes",
+            "Submarines"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Who painted &quot;The Starry Night&quot;?",
+        "correct_answer": "Vincent van Gogh",
+        "incorrect_answers": [
+            "Edvard Munch",
+            "Pablo Picasso",
+            "Claude Monet"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which of these artists has Lil A collaborated with?",
+        "correct_answer": "Lil Fortnite",
+        "incorrect_answers": [
+            "Lil Pump",
+            "Boonk Gang",
+            "6ix9ine"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Which film has been critically regarded as the best film of all time?",
+        "correct_answer": "Citizen Kane",
+        "incorrect_answers": [
+            "Avatar",
+            "The Godfather Part II",
+            "The Room"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "Who was world chess champion between 1894 and 1921",
+        "correct_answer": "Emanuel Lasker",
+        "incorrect_answers": [
+            "Jos&eacute; Ra&uacute;l Capablanca",
+            "Wilhelm Steinitz",
+            "Bobby Fischer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Comics",
+        "question": "When was the Garfield comic first published?",
+        "correct_answer": "1978",
+        "incorrect_answers": [
+            "1982",
+            "1973",
+            "1988"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "What is considered the rarest form of color blindness?",
+        "correct_answer": "Blue",
+        "incorrect_answers": [
+            "Red",
+            "Green",
+            "Purple"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "How many calories are in a 355 ml can of Pepsi Cola?",
+        "correct_answer": "150",
+        "incorrect_answers": [
+            "200",
+            "100",
+            "155"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the currency in the &quot;Animal Crossing&quot; series?",
+        "correct_answer": "Bells",
+        "incorrect_answers": [
+            "Sea Shells",
+            "Leaves",
+            "Bugs"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Sargon II, a king of the Neo-Assyrian Empire, was a direct descendant of Sargon of Akkad.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When was &quot;The Gadget&quot;, the first nuclear device to be detonated, tested?",
+        "correct_answer": "July 16, 1945",
+        "incorrect_answers": [
+            "June 22, 1945",
+            "August 6, 1945",
+            "April 5, 1945"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of these bands are NOT from Australia?",
+        "correct_answer": "The Naked and Famous",
+        "incorrect_answers": [
+            "Cut Copy",
+            "Empire of the Sun",
+            "Tame Impala"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Yo! Noid 2,&quot; The Noid can perform what special move?",
+        "correct_answer": "Dab",
+        "incorrect_answers": [
+            "Pizza Throw",
+            "Dodge Roll",
+            "Spin Dash"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What is radiation measured in?",
+        "correct_answer": "Gray ",
+        "incorrect_answers": [
+            "Watt",
+            "Decibel",
+            "Kelvin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "What year did radio icon Howard Stern start a job at radio station WNBC?",
+        "correct_answer": "1982",
+        "incorrect_answers": [
+            "1985",
+            "1984",
+            "1995"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Minecraft&quot;, gold tools are faster than diamond tools.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Etihad Stadium is the home stadium for which team?",
+        "correct_answer": "Manchester City",
+        "incorrect_answers": [
+            "Manchester United",
+            "Arsenal",
+            "Blackpool"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Who was the longest-serving senator in US history, serving from 1959 to 2010?",
+        "correct_answer": "Robert Byrd",
+        "incorrect_answers": [
+            "Daniel Inouye",
+            "Strom Thurmond",
+            "Joe Biden"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which of these animals belongs in class Chondrichthyes?",
+        "correct_answer": "Great white shark",
+        "incorrect_answers": [
+            "Octopus",
+            "Killer whale",
+            "Catfish"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Which Batman villain is Mark Hamill known for having voiced?",
+        "correct_answer": "The Joker",
+        "incorrect_answers": [
+            "Two-Face",
+            "Bane",
+            "Hush"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "The Watergate Scandal occured in what year?",
+        "correct_answer": "1972",
+        "incorrect_answers": [
+            "1973",
+            "1974",
+            "1971"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "&quot;Mongolia&quot; was a part of the now non-existent U.S.S.R.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "How many regular Sunken Sea Scrolls are there in &quot;Splatoon&quot;?",
+        "correct_answer": "27",
+        "incorrect_answers": [
+            "32",
+            "30",
+            "5"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is NOT a map included in the game Counter-Strike: Global Offensive?",
+        "correct_answer": "Oilrig",
+        "incorrect_answers": [
+            "Assault",
+            "Mirage",
+            "Cache"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "What does the International System of Quantities refer 1024 bytes as?",
+        "correct_answer": "Kibibyte",
+        "incorrect_answers": [
+            "Kylobyte",
+            "Kilobyte",
+            "Kelobyte"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the indie farming game &quot;Stardew Valley&quot;, which NPC hates the &quot;prismatic shard&quot; item when received as a gift?",
+        "correct_answer": "Haley",
+        "incorrect_answers": [
+            "Abigail ",
+            "Elliott",
+            "Lewis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the capital of Indonesia?",
+        "correct_answer": "Jakarta",
+        "incorrect_answers": [
+            "Bandung",
+            "Medan",
+            "Palembang"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "What is the name of Rivers Cuomo&#039;s wife?",
+        "correct_answer": "Kyoko Ito",
+        "incorrect_answers": [
+            "Yoko Ono",
+            "Kyary Pamyu Pamyu",
+            "LiSA"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Moby, an American DJ, singer, and musician, achieved worldwide success for the 1999 release of which of the following albums?",
+        "correct_answer": "Play",
+        "incorrect_answers": [
+            "Everything Is Wrong",
+            "Moby",
+            "18"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What are the first few words in the lyrics of A-Ha&#039;s &#039;Take On Me&#039;?",
+        "correct_answer": "We&#039;re talking away",
+        "incorrect_answers": [
+            "We&#039;re dreaming today",
+            "We&#039;re finding a way",
+            "We&#039;re blocking the way"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which team has won the most Stanley Cups in the NHL?",
+        "correct_answer": "Montreal Canadians",
+        "incorrect_answers": [
+            "Chicago Blackhawks",
+            "Toronto Maple Leafs",
+            "Detroit Red Wings"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which of the following languages does NOT use the Latin alphabet?",
+        "correct_answer": "Georgian",
+        "incorrect_answers": [
+            "Turkish",
+            "Swahili",
+            "Vietnamese"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "How many Hz does the video standard PAL support?",
+        "correct_answer": "50",
+        "incorrect_answers": [
+            "59",
+            "60",
+            "25"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "How many planets are there in the Solar System?",
+        "correct_answer": "8",
+        "incorrect_answers": [
+            "9",
+            "11",
+            "10"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who is Sora&#039;s Nobody in Kingdom Hearts?",
+        "correct_answer": "Roxas",
+        "incorrect_answers": [
+            "Riku",
+            "Kairi",
+            "Mickey"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What is the name of the Alligator that The Simpsons &quot;killed&quot; in the episode &quot;Kill The Alligator and Run&quot;?",
+        "correct_answer": "Captain Jack",
+        "incorrect_answers": [
+            "Captain Jake",
+            "Captain Hector",
+            "Captain Flynn"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the Naruto manga, what is the last name of Tsunade?",
+        "correct_answer": "Senju",
+        "incorrect_answers": [
+            "Haruno",
+            "Uzumaki",
+            "Yamanaka"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "How much did the indie game &quot;Cave Story&quot; cost when it was first released in 2004?",
+        "correct_answer": "$0 USD",
+        "incorrect_answers": [
+            "$5 USD",
+            "$10 USD",
+            "$15 USD"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The Bohemian Revolt (1618-1620) started after Protestants in Prague did what to their Catholic Lords Regents?",
+        "correct_answer": "Threw them out of a window",
+        "incorrect_answers": [
+            "Insulted their mothers",
+            "Locked them in stockades",
+            "Hung them."
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the game &quot;Until Dawn&quot; Emily is the only playable character who can be killed by another playable character directly.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What are the chances of being dealt a Royal Flush within Poker/Video Poker?",
+        "correct_answer": "1 in 649,740",
+        "incorrect_answers": [
+            "1 in 763,302",
+            "1 in 499,304",
+            "1 in 311,875,200"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "The emblem on the flag of the Republic of Tajikistan features a sunrise over mountains below what symbol?",
+        "correct_answer": "Crown",
+        "incorrect_answers": [
+            "Bird",
+            "Sickle",
+            "Tree"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Seoul is the capital of North Korea.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "The name of the programming language AWK is abbreviated from the names of the developers &ndash; Aho, Weinberger, and Kernighan.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "What was Rage Against the Machine&#039;s debut album?",
+        "correct_answer": "Rage Against the Machine",
+        "incorrect_answers": [
+            "Evil Empire",
+            "Bombtrack",
+            "The Battle Of Los Angeles"
+        ]
+    }
+]

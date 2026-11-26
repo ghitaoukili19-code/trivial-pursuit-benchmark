@@ -1,0 +1,584 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Sonic the Hedgehog 3&quot; for the Sega Genesis, what is the color of the second Chaos Emerald you can get from Special Stages?",
+        "correct_answer": "Orange",
+        "incorrect_answers": [
+            "Blue",
+            "Green",
+            "Magenta"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "The book 1984 was published in 1949.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which of these countries is NOT a part of the Asian continent?",
+        "correct_answer": "Suriname",
+        "incorrect_answers": [
+            "Georgia",
+            "Russia",
+            "Singapore"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "Which country does the YouTuber &quot;SinowBeats&quot; originate from?",
+        "correct_answer": "Scotland",
+        "incorrect_answers": [
+            "England",
+            "Sweden",
+            "Germany"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "The &quot;Tibia&quot; is found in which part of the body?",
+        "correct_answer": "Leg",
+        "incorrect_answers": [
+            "Arm",
+            "Hand",
+            "Head"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In &quot;Breaking Bad,&quot; which main character was planned to be killed in Season 1 but wasn&#039;t because the show creator liked the actor?",
+        "correct_answer": "Jesse Pinkman",
+        "incorrect_answers": [
+            "Saul Goodman",
+            "Gus Fring",
+            "Hank Schrader"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "American rapper Dr. Dre actually has a Ph.D. doctorate.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The World Health Organization headquarters is located in which European country?",
+        "correct_answer": "Switzerland",
+        "incorrect_answers": [
+            "United Kingdom",
+            "France",
+            "Belgium"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Who voices &quot;Shou Suzuki&quot; in the English dub of &quot;Mob Psycho 100&quot;?",
+        "correct_answer": "Casey Mongillo",
+        "incorrect_answers": [
+            "Ben Diskin",
+            "Chris Niosi",
+            "David Naughton"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "How many unique items does &quot;Borderlands 2&quot; claim to have?",
+        "correct_answer": "87 Bazillion ",
+        "incorrect_answers": [
+            "87 Million",
+            "87 Trillion",
+            "87 Gazillion "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which is the second largest native language spoken in Spain by numbers of speakers?",
+        "correct_answer": "Catalan",
+        "incorrect_answers": [
+            "Portuguese",
+            "Spanish",
+            "French"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What is lost in Hawaiian and is also the name of a little girl in a 2002 film which features a alien named &quot;Stitch&quot;?",
+        "correct_answer": "Lilo",
+        "incorrect_answers": [
+            "Lolo",
+            "Lucy",
+            "Lulu"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which of the following is not an Ivy League University?",
+        "correct_answer": "Stanford",
+        "incorrect_answers": [
+            "University of Pennsylvania",
+            "Harvard",
+            "Princeton"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Gadgets",
+        "question": "Mobile hardware and software company &quot;Blackberry Limited&quot; was founded in which country?",
+        "correct_answer": "Canada",
+        "incorrect_answers": [
+            "Norway",
+            "United States of America",
+            "United Kingdom"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "SCP-173 was the first SCP article written for the web-based collaborative fiction project known as the &quot;SCP Foundation&quot;",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In most FPS video games such as Counter-Strike, shooting which part of the body does the highest damage?",
+        "correct_answer": "Head",
+        "incorrect_answers": [
+            "Arm",
+            "Leg",
+            "Chest"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Who is the main heroine of the anime, Full Metal Panic!",
+        "correct_answer": "Kaname Chidori",
+        "incorrect_answers": [
+            "Teletha Testarossa",
+            "Melissa Mao",
+            "Kyoko Tokiwa"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "What is the name of the wildman that Gilgamesh befriends and goes on adventures with?",
+        "correct_answer": "Enkidu",
+        "incorrect_answers": [
+            "Ishtar",
+            "Inanna",
+            "Agga"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Rabbits can see what&#039;s behind themselves without turning their heads.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Who is the creator of the manga series &quot;One Piece&quot;?",
+        "correct_answer": "Eiichiro Oda",
+        "incorrect_answers": [
+            "Yoshihiro Togashi",
+            "Hayao Miyazaki",
+            "Masashi Kishimoto"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What is the defining characteristic of someone who is described as hirsute?",
+        "correct_answer": "Hairy",
+        "incorrect_answers": [
+            "Rude",
+            "Funny",
+            "Tall"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Which of these is NOT one of Donald Trump&#039;s children?",
+        "correct_answer": "Julius",
+        "incorrect_answers": [
+            "Donald Jr.",
+            "Ivanka",
+            "Eric"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which of these is NOT considered to be a colour that makes up the rainbow?",
+        "correct_answer": "Pink",
+        "incorrect_answers": [
+            "Blue",
+            "Violet",
+            "Orange"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "What is the name of the currency used in Ethiopia?",
+        "correct_answer": "Birr",
+        "incorrect_answers": [
+            "Dirham",
+            "U.S. Dollar",
+            "Rand"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What name is given to all baby marsupials?",
+        "correct_answer": "Joey",
+        "incorrect_answers": [
+            "Calf",
+            "Pup",
+            "Cub"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "In 1991, Mazda became the first Japanese car manufacturer to win Le Mans.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the game Enter the Gungeon, which one of these is not a playable character?",
+        "correct_answer": "The Wizard",
+        "incorrect_answers": [
+            "The Bullet",
+            "The Robot",
+            "The Cultist"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In Game of Thrones, what is Littlefinger&#039;s real name?",
+        "correct_answer": "Petyr Baelish",
+        "incorrect_answers": [
+            "Podrick Payne",
+            "Lancel Lannister",
+            "Torrhen Karstark"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "In Calvin and Hobbes, what is the name of the principal at Calvin&#039;s school?",
+        "correct_answer": "Mr. Spittle",
+        "incorrect_answers": [
+            "Mr. Boreman",
+            "Mr. Spitling",
+            "Mr. Moe"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which Canadian reggae musician had a 1993 hit with the song &#039;Informer&#039;?",
+        "correct_answer": "Snow",
+        "incorrect_answers": [
+            "Rain",
+            "Hail",
+            "Sleet"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is the capital of Suriname?",
+        "correct_answer": "Paramaribo",
+        "incorrect_answers": [
+            "Antananarivo",
+            "Tegucigalpa",
+            "Sucre"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the Super Smash Bros. series, which character was the first one to return to the series after being absent from a previous game?",
+        "correct_answer": "Dr. Mario",
+        "incorrect_answers": [
+            "Mewtwo",
+            "Lucas",
+            "Roy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Resident Evil 2&quot;, which virus was William Birkin mutated by?",
+        "correct_answer": "G-Virus",
+        "incorrect_answers": [
+            "T-Virus",
+            "C-Virus",
+            "E-Virus"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "In the periodic table, Potassium&#039;s symbol is the letter K.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "When was the play &quot;Macbeth&quot; written?",
+        "correct_answer": "1606",
+        "incorrect_answers": [
+            "1605",
+            "1723",
+            "1628"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Who was the guitarist in the band &quot;The Doors&quot;?",
+        "correct_answer": "Robby Krieger",
+        "incorrect_answers": [
+            "Eric Clapton",
+            "John Densmore",
+            "Jimi Hendrix"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "The Klingon home planet is Qo&#039;noS.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What technology is named after a tenth-century ruler of Denmark and Norway?",
+        "correct_answer": "Bluetooth",
+        "incorrect_answers": [
+            "Wi-Fi",
+            "GPS",
+            "Internet"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which of the following originated as a manga?",
+        "correct_answer": "Akira",
+        "incorrect_answers": [
+            "Cowboy Bebop",
+            "High School DxD",
+            "Gurren Lagann"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "How many countries share a land border with Russia? (Not including disputed territories)",
+        "correct_answer": "14",
+        "incorrect_answers": [
+            "12",
+            "10",
+            "8"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In Supernatural, what&#039;s is Sam&#039;s brothers name?",
+        "correct_answer": "Dean",
+        "incorrect_answers": [
+            "Dave",
+            "Steve",
+            "Mike"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Who did the score to the original Blade Runner?",
+        "correct_answer": "Vangelis",
+        "incorrect_answers": [
+            "Kitaro",
+            "Yanni",
+            "Enya"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "McCree from Overwatch originally started as a character that was going to appear in a scrapped Starcraft game.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Who was the first Legendary Pokemon to be defeated by Ash Ketchum in the Pok&eacute;mon anime?",
+        "correct_answer": "Articuno",
+        "incorrect_answers": [
+            "Darkrai",
+            "Latios",
+            "Regice"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "Which of these Disney shows is classified as an anime?",
+        "correct_answer": "Stitch!",
+        "incorrect_answers": [
+            "Cory in the House",
+            "The Emperor&#039;s New School",
+            "Hannah Montana"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Divinity: Original Sin 2, who is the earliest companion you can acquire?",
+        "correct_answer": "The Red Prince",
+        "incorrect_answers": [
+            "Fane",
+            "Sebille",
+            "Beast"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "A doctor with a PhD is a doctor of what?",
+        "correct_answer": "Philosophy",
+        "incorrect_answers": [
+            "Psychology",
+            "Phrenology",
+            "Physical Therapy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In World of Warcraft&#039;s Mists of Pandaria expansion, What was the level cap?",
+        "correct_answer": "90",
+        "incorrect_answers": [
+            "85",
+            "80",
+            "75"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which team was the 2015-2016 NBA Champions?",
+        "correct_answer": "Cleveland Cavaliers",
+        "incorrect_answers": [
+            "Golden State Warriors",
+            "Toronto Raptors",
+            "Oklahoma City Thunders"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "The &quot;mountain chicken&quot; is a chicken.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    }
+]

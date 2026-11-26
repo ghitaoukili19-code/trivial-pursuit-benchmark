@@ -1,0 +1,588 @@
+[
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "In Topology, the complement of an open set is a closed set.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "Who wrote the novel &#039;Fear And Loathing In Las Vegas&#039;?",
+        "correct_answer": "Hunter S. Thompson",
+        "incorrect_answers": [
+            "F. Scott Fitzgerald",
+            "Henry Miller",
+            "William S. Burroughs"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "In board games, an additional or ammended rule that applies to a certain group or place is informally known as a &quot;what&quot; rule?",
+        "correct_answer": "House",
+        "incorrect_answers": [
+            "Custom",
+            "Extra",
+            "Change"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Prior to his appearance in Super Smash Bros. Ultimate, What was King K. Rool&#039;s last appearance in any game?",
+        "correct_answer": "Mario Super Sluggers",
+        "incorrect_answers": [
+            "Donkey Kong 64",
+            "Donkey Kong Country 3",
+            "Donkey Kong: King Of Swing"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Which player &quot;kung-fu kicked&quot; a Crystal Palace fan in January 1995?",
+        "correct_answer": "Eric Cantona",
+        "incorrect_answers": [
+            "David Seamen",
+            "Ashley Cole",
+            "Mark Hughes"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "The Pythagorean theorem states that the square of the hypotenuse is equal to the product of the squares of the other two sides.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;Hunter x Hunter&quot;, what are members in Killua&#039;s family known for being?",
+        "correct_answer": "Assassins",
+        "incorrect_answers": [
+            "Bandits",
+            "Hunters",
+            "Ninjas"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which singer was featured in Jack &Uuml; (Skrillex &amp; Diplo)&#039;s 2015 song &#039;Where Are &Uuml; Now&#039;?",
+        "correct_answer": "Justin Bieber",
+        "incorrect_answers": [
+            "Selena Gomez",
+            "Ellie Goulding",
+            "The Weeknd"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;Fairy Tail&quot;, what is the nickname of Natsu Dragneel?",
+        "correct_answer": "The Salamander",
+        "incorrect_answers": [
+            "The Dragon Slayer",
+            "The Dragon",
+            "The Demon"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "&quot;Twenty One Pilots&quot; made the song &quot;The Motion&quot; featuring Sampha.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these Starbound races has a Wild West culture?",
+        "correct_answer": "Novakid",
+        "incorrect_answers": [
+            "Avian",
+            "Human",
+            "Hylotl"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The Hyundai Motor Company was founded in which country?",
+        "correct_answer": "South Korea",
+        "incorrect_answers": [
+            "Russia",
+            "Japan",
+            "China"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of the Beatles band members is barefoot on the front cover of the &#039;Abbey Road&#039; album?",
+        "correct_answer": "Paul McCartney",
+        "incorrect_answers": [
+            "Ringo Starr",
+            "George Harrison",
+            "John Lennon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "The element involved in making human blood red is which of the following?",
+        "correct_answer": "Iron",
+        "incorrect_answers": [
+            "Copper",
+            "Iridium",
+            "Cobalt"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which of the following snipers has the highest amount of confirmed kills?",
+        "correct_answer": "Simo H&auml;yh&auml;",
+        "incorrect_answers": [
+            "Chris Kyle",
+            "Vasily Zaytsev",
+            "Craig Harrison"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "In the film &quot;Interstellar&quot;, how long did they spend on Miller&#039;s planet?",
+        "correct_answer": "23 years, 4 months, and 8 days",
+        "incorrect_answers": [
+            "15 years, 2 months, and 15 days",
+            "10 months and 6 days",
+            "26 years, 4 months, and 10 days"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What military rank is the protagonist &quot;Nomad&quot; in &quot;Crysis&quot;?",
+        "correct_answer": "First Lieutenant",
+        "incorrect_answers": [
+            "Captain",
+            "First Sargent ",
+            "Staff Sargent"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "What was George Bizet&#039;s last opera?",
+        "correct_answer": "Carmen",
+        "incorrect_answers": [
+            "Don Rodrigue",
+            "Gris&eacute;lidis",
+            "Les p&ecirc;cheurs de perles"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "In which English county is the city of Portsmouth?",
+        "correct_answer": "Hampshire",
+        "incorrect_answers": [
+            "Oxfordshire",
+            "Buckinghamshire",
+            "Surrey"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "What is the name of the assassin in the first &quot;Hellboy&quot; movie?",
+        "correct_answer": "Karl Ruprecht Kroenen",
+        "incorrect_answers": [
+            "Klaus Werner von Krupt",
+            "Grigori Efimovich Rasputin",
+            "Ilsa Haupstein"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What former MOBA, created by Waystone Games and published by EA, was shut down in 2014?",
+        "correct_answer": "Dawngate",
+        "incorrect_answers": [
+            "Strife",
+            "League of Legends",
+            "Heroes of Newerth"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "&quot;Undertale&quot; is an RPG created by Toby Fox and released in 2015.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is the largest city and commercial capital of Sri Lanka?",
+        "correct_answer": "Colombo",
+        "incorrect_answers": [
+            "Moratuwa",
+            "Negombo",
+            "Kandy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "One of the deadliest pandemics, the &quot;Spanish Flu&quot;, killed off what percentage of the human world population at the time?",
+        "correct_answer": "3 to 6 percent",
+        "incorrect_answers": [
+            "6 to 10 percent",
+            "1 to 3 percent",
+            "less than 1 percent"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "Which singer is portrayed by Bruce Campbell in the 2002 film &#039;Bubba Ho-Tep&#039;?",
+        "correct_answer": "Elvis Presley",
+        "incorrect_answers": [
+            "Johnny Cash",
+            "Hank Williams, Sr.",
+            "Buddy Holly"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who portrayed Han Solo in the Star Wars main film series?",
+        "correct_answer": "Harrison Ford",
+        "incorrect_answers": [
+            "Peter Cushing",
+            "Mark Hamill",
+            "Alec Guinness"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the Portal series, Aperture Science was founded under what name in the early 1940s?",
+        "correct_answer": "Aperture Fixtures",
+        "incorrect_answers": [
+            "Aperture Lavatories",
+            "Aperture Science Innovators",
+            "Wheatley Laboratories"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the 2002 video game &quot;Kingdom Hearts&quot;, how many playable worlds were there?",
+        "correct_answer": "14",
+        "incorrect_answers": [
+            "13",
+            "16",
+            "11"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "What is the molecular formula of Glucose?",
+        "correct_answer": "C6H12O6",
+        "incorrect_answers": [
+            "C2H4O2",
+            "K+",
+            "CH4"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Which of these bones is hardest to break?",
+        "correct_answer": "Femur",
+        "incorrect_answers": [
+            "Cranium",
+            "Humerus",
+            "Tibia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "The 1939 movie &quot;The Wizard of Oz&quot; contained a horse that changed color, what material did they use to achieve this effect?",
+        "correct_answer": "Gelatin",
+        "incorrect_answers": [
+            "Dye",
+            "Paint",
+            "CGI Effect"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which Sonic the Hedgehog game was originally supposed to be packaged with Sonic 3, but was cut in half due to time constraints?",
+        "correct_answer": "Sonic &amp; Knuckles",
+        "incorrect_answers": [
+            "Sonic 2",
+            "Sonic CD",
+            "Sonic 3D Blast"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "What was the first successful and commercially viable photographic technique?",
+        "correct_answer": "The Daguerreotype",
+        "incorrect_answers": [
+            "Collodion process",
+            "The Turin Shroud",
+            "Kodachrome film"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "In which year did &quot;Caravan Palace&quot; release their first album?",
+        "correct_answer": "2008",
+        "incorrect_answers": [
+            "2000",
+            "2015",
+            "2004"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "On which computer hardware device is the BIOS chip located?",
+        "correct_answer": "Motherboard",
+        "incorrect_answers": [
+            "Hard Disk Drive",
+            "Central Processing Unit",
+            "Graphics Processing Unit"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In the movie &quot;Blade Runner&quot;, what is the term used for human-like androids ?",
+        "correct_answer": "Replicants",
+        "incorrect_answers": [
+            "Cylons",
+            "Synthetics",
+            "Skinjobs"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Who was elected leader of the UK Labour Party in September 2015?",
+        "correct_answer": "Jeremy Corbyn",
+        "incorrect_answers": [
+            "Ed Miliband",
+            "David Cameron",
+            "Theresa May"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Dave Grohl recorded the Foo Fighters&#039; debut, &quot;Foo Fighters,&quot; by himself.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Pluto is a planet.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": ".rs is the top-level domain for what country?",
+        "correct_answer": "Serbia",
+        "incorrect_answers": [
+            "Romania",
+            "Russia",
+            "Rwanda"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The fourth funnel of the RMS Titanic was fake designed to make the ship look more powerful and symmetrical.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What year did Skoal, a smokeless Tobacco company, release their first line of Pouches, known as &quot;Skoal Bandits&quot;?",
+        "correct_answer": "1983",
+        "incorrect_answers": [
+            "1934",
+            "1984",
+            "1822"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Which of the following  British Monarchs never appeared on a circulated pound sterling coin?",
+        "correct_answer": "Edward VIII",
+        "incorrect_answers": [
+            "Victoria",
+            "George VI",
+            "Charles II"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "With which country does France share its largest land border",
+        "correct_answer": "Brazil",
+        "incorrect_answers": [
+            "Germany",
+            "Spain",
+            "Canada"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?",
+        "correct_answer": "Cheetah",
+        "incorrect_answers": [
+            "Puma",
+            "Tiger",
+            "Leopard"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which character from the Mega Man series made a small cameo on Volt Catfish&#039;s introduction scene in CD versions of Mega Man X3?",
+        "correct_answer": "Auto",
+        "incorrect_answers": [
+            "Eddie",
+            "Tango",
+            "Rush"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "In which English county is Stonehenge?",
+        "correct_answer": "Wiltshire",
+        "incorrect_answers": [
+            "Somerset",
+            "Cumbria",
+            "Herefordshire"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Which British band won the first edition of the Brit Awards in 1977?",
+        "correct_answer": "The Beatles",
+        "incorrect_answers": [
+            "Pink Floyd",
+            "The Rolling Stones",
+            "The Who"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What event marked the start of World War II?",
+        "correct_answer": "Invasion of Poland (1939)",
+        "incorrect_answers": [
+            "Invasion of Russia (1942)",
+            "Battle of Britain (1940)",
+            "Invasion of Normandy (1944)"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "Which actress portrayed Dr. Grace Augustine in the James Cameron movie &quot;Avatar&quot;?",
+        "correct_answer": "Sigourney Weaver",
+        "incorrect_answers": [
+            "Jessica Chastain",
+            "Melissa Beckett",
+            "Alyssa Monroe "
+        ]
+    }
+]

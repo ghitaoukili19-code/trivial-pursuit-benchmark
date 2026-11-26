@@ -1,0 +1,596 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Brian May was the guitarist for which band?",
+        "correct_answer": "Queen",
+        "incorrect_answers": [
+            "Pink Floyd",
+            "Rolling Stones",
+            "The Doors"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What is the name of the robot in the 1951 science fiction film classic &#039;The Day the Earth Stood Still&#039;?",
+        "correct_answer": "Gort",
+        "incorrect_answers": [
+            "Robby",
+            "Colossus",
+            "Box"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What character is NOT apart of the Grand Theft Auto series?",
+        "correct_answer": "Michael Cardenas",
+        "incorrect_answers": [
+            "Packie McReary",
+            "Tommy Vercetti",
+            "Lester Crest"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "The board game &quot;Ra&quot; was designed by which designer? ",
+        "correct_answer": "Reiner Knizia",
+        "incorrect_answers": [
+            "Bruno Cathala",
+            "Uwe Rosenburg",
+            "Allison Kline"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "What was Bruce Campbell&#039;s iconic one-liner after getting a chainsaw hand in Evil Dead 2?",
+        "correct_answer": "Groovy.",
+        "incorrect_answers": [
+            "Gnarly.",
+            "Perfect.",
+            "Nice."
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Ferrari has never made a V10 engine for any of its cars.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "This composer worked on the 2003 TV series Battlestar Galatica.",
+        "correct_answer": "Bear McCreary",
+        "incorrect_answers": [
+            "Ramin Djawadi",
+            "Jeremy Soule",
+            "Harry Gregson-Williams"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "&quot;HTML&quot; stands for Hypertext Markup Language.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What is the last name of Edward and Alphonse in the Fullmetal Alchemist series.",
+        "correct_answer": "Elric",
+        "incorrect_answers": [
+            "Ellis",
+            "Eliek",
+            "Elwood"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which country ranks first in the number of historically active volcanoes?",
+        "correct_answer": "Indonesia",
+        "incorrect_answers": [
+            "Japan",
+            "USA",
+            "India"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?",
+        "correct_answer": "Sarpadia",
+        "incorrect_answers": [
+            "Otaria",
+            "Terisiare",
+            "Shiv"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Which year was the album &quot;Floral Shoppe&quot; by Macintosh Plus released?",
+        "correct_answer": "2011",
+        "incorrect_answers": [
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of the following stars was not mentioned in the lyrics of Madonna&#039;s &quot;Vogue&quot;?",
+        "correct_answer": "Mae West",
+        "incorrect_answers": [
+            "Marlene Dietrich",
+            "Lana Turner",
+            "Grace Kelly"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Who voices for Ruby in the animated series RWBY?",
+        "correct_answer": "Lindsay Jones",
+        "incorrect_answers": [
+            "Tara Strong",
+            "Jessica Nigri",
+            "Hayden Panettiere"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Where is the Gluteus Maximus muscle located?",
+        "correct_answer": "Butt",
+        "incorrect_answers": [
+            "Arm",
+            "Head",
+            "Torso"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which German city is located on the River Isar?",
+        "correct_answer": "Munich",
+        "incorrect_answers": [
+            "Berlin",
+            "Hamburg",
+            "Dortmund"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which chemical element has the lowest boiling point?",
+        "correct_answer": "Helium",
+        "incorrect_answers": [
+            "Hydrogen",
+            "Neon",
+            "Nitrogen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the game Silent Hill 2, who was James Sunderland&#039;s late wife?",
+        "correct_answer": "Mary",
+        "incorrect_answers": [
+            "Maria",
+            "Angela",
+            "Laura"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the capital of Jamaica?",
+        "correct_answer": "Kingston",
+        "incorrect_answers": [
+            "San Juan",
+            "Port-au-Prince",
+            "Bridgetown"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "What is the symbol for Displacement?",
+        "correct_answer": "&Delta;r",
+        "incorrect_answers": [
+            "dr",
+            "Dp",
+            "r"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which animated film did Steven Lisberger direct in 1980 before going on to direct Tron?",
+        "correct_answer": "Animalympics",
+        "incorrect_answers": [
+            "The Fox and the Hound",
+            "The Black Cauldron",
+            "The Great Mouse Detecive"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Who painted the epic mural Guernica?",
+        "correct_answer": "Pablo Picasso",
+        "incorrect_answers": [
+            "Francisco Goya",
+            "Leonardo da Vinci",
+            "Henri Matisse"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "In Baseball, how many times does the ball have to be pitched outside of the strike zone before the batter is walked?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;Inuyasha&quot;, what are the heros are looking to collect?",
+        "correct_answer": "Jewel Shards",
+        "incorrect_answers": [
+            "Dragon Balls",
+            "Rave Stones",
+            "Sacred Stones"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When did Jamaica receive its independence from England? ",
+        "correct_answer": "1962",
+        "incorrect_answers": [
+            "1492",
+            "1963",
+            "1987"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which TV chef wrote an autobiography titled &quot;Humble Pie&quot;?",
+        "correct_answer": "Gordon Ramsay",
+        "incorrect_answers": [
+            "Jamie Oliver",
+            "Ainsley Harriott",
+            "Antony Worrall Thompson"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which documentary film maker wrote and starred in the film &quot;My Scientology Movie&quot; which first debuted in 2015?",
+        "correct_answer": "Louis Theroux",
+        "incorrect_answers": [
+            "Errol Morris",
+            "Joe Berlinger",
+            "Adam Curtis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "The song &quot;Feel Good Inc.&quot; by British band Gorillaz features which hip hop group?",
+        "correct_answer": "De La Soul",
+        "incorrect_answers": [
+            "Public Enemy",
+            "OutKast",
+            "Cypress Hill"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which DC superhero was NOT included in the 2017 movie &quot;Justice League&quot;?",
+        "correct_answer": "Green Arrow",
+        "incorrect_answers": [
+            "Batman",
+            "Cyborg",
+            "Wonder Woman"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "&quot;Grande Valse&quot; is a phrase from the song &quot;Gran Vals&quot;. What is that song segment known as?",
+        "correct_answer": "Nokia Tune",
+        "incorrect_answers": [
+            "Hello Moto [Motorola Ringtone]",
+            "Droid Ringtone",
+            "Microsoft Ringtone"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Where was Nicki Minaj born?",
+        "correct_answer": "Trinidad and Tobago",
+        "incorrect_answers": [
+            "Haiti",
+            "Saint Lucia",
+            "Grenada"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "The Norse god Odin has two pet crows named &quot;Huginn&quot; and &quot;Muninn&quot;.  What do their names mean?",
+        "correct_answer": "Thought &amp; Memory",
+        "incorrect_answers": [
+            "Power &amp; Peace",
+            "War &amp; Learning",
+            "Sleeping &amp; Waking"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "What was the name of the security vulnerability found in Bash in 2014?",
+        "correct_answer": "Shellshock",
+        "incorrect_answers": [
+            "Heartbleed",
+            "Bashbug",
+            "Stagefright"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "How long did World War II last?",
+        "correct_answer": "6 years",
+        "incorrect_answers": [
+            "4 years",
+            "5 years",
+            "7 years"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "In order to cut costs, what were most of the extras of Mad Max (1979) paid with?",
+        "correct_answer": "Beer",
+        "incorrect_answers": [
+            "Fast food",
+            "Food stamps",
+            "They weren&#039;t paid"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which of these is NOT a province in China?",
+        "correct_answer": "Yangtze",
+        "incorrect_answers": [
+            "Fujian",
+            "Sichuan",
+            "Guangdong"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "How many countries does the United States share a land border with?",
+        "correct_answer": "2",
+        "incorrect_answers": [
+            "1",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What mainly favored rifle is used by the Terrorists in Counter Strike: Global Offensive?",
+        "correct_answer": "AK-47",
+        "incorrect_answers": [
+            "AK-74",
+            "M4A4",
+            "CZ-75 AUTO"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "What historical time period was the center of the Assassin&rsquo;s Creed movie (2016)?",
+        "correct_answer": "Spanish Inquisition",
+        "incorrect_answers": [
+            "Victorian England",
+            "French Revolution",
+            "Colonial America"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What country does sushi &amp; karaoke come from?",
+        "correct_answer": "Japan",
+        "incorrect_answers": [
+            "China",
+            "South Korea",
+            "Vietnam"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "In what year was Taylor Swift born?",
+        "correct_answer": "1989",
+        "incorrect_answers": [
+            "1988",
+            "1987",
+            "1990"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "In the &quot;The Hobbit&quot;, who kills Smaug?",
+        "correct_answer": "Bard",
+        "incorrect_answers": [
+            "Bilbo Baggins",
+            "Gandalf the Grey",
+            "Frodo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What North American tourist attraction is served by the &quot;Maid of the Mist&quot; tour company?",
+        "correct_answer": "Niagara Falls",
+        "incorrect_answers": [
+            "Whistler, British Columbia",
+            "Disney World",
+            "Yosemite National Park"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Who is the origin of the quote &quot;What doesn&#039;t kill you makes you stronger&quot;?",
+        "correct_answer": "Friedrich Nietzsche",
+        "incorrect_answers": [
+            " G. Gordon Liddy",
+            "Kelly Clarkson",
+            "Christopher Hitchens"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which Pokemon generation did the fan-named &quot;Masuda Method&quot; first appear in? ",
+        "correct_answer": "Diamond/Pearl",
+        "incorrect_answers": [
+            "Ruby/Sapphire",
+            "Black/White",
+            "X/Y"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What alcoholic drink is mainly made from juniper berries?",
+        "correct_answer": "Gin",
+        "incorrect_answers": [
+            "Vodka",
+            "Rum",
+            "Tequila"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "How many degrees make a full circle?",
+        "correct_answer": "360",
+        "incorrect_answers": [
+            "180",
+            "90",
+            "720"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the anime Seven Deadly Sins what is the name of one of the sins?",
+        "correct_answer": "Diane",
+        "incorrect_answers": [
+            "Sakura",
+            "Ayano",
+            "Sheska"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "How many zeros are there in a googol?",
+        "correct_answer": "100",
+        "incorrect_answers": [
+            "10",
+            "1,000",
+            "1,000,000"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "The two largest ethnic groups of Belgium are Flemish and Walloon. ",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    }
+]

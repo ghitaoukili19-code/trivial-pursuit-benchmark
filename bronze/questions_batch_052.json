@@ -1,0 +1,588 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Rolex is a company that specializes in what type of product?",
+        "correct_answer": "Watches",
+        "incorrect_answers": [
+            "Cars",
+            "Computers",
+            "Sports equipment"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "Which of the following is not a piece from the 1950&#039;s musical West Side Story?",
+        "correct_answer": "The Back Alley",
+        "incorrect_answers": [
+            "Maria",
+            "Tonight",
+            "Mambo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is the administrative centre and largest settlement on the Norwegian archipelago of Svalbard?",
+        "correct_answer": "Longyearbyen",
+        "incorrect_answers": [
+            "Sveagruva",
+            "Ny-&Aring;lesund",
+            "Barentsburg"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "What was the name of the police officer in the cartoon &quot;Top Cat&quot;?",
+        "correct_answer": "Dibble",
+        "incorrect_answers": [
+            "Barbrady",
+            "Mahoney",
+            "Murphy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In the 1979 British film &quot;Quadrophenia&quot; what is the name of the main protagonist?",
+        "correct_answer": "Jimmy Cooper",
+        "incorrect_answers": [
+            "Pete Townshend",
+            "Franc Roddam",
+            "Archie Bunker"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of Cream the Rabbit&#039;s mom in the &quot;Sonic the Hedgehog&quot; series?",
+        "correct_answer": "Vanilla",
+        "incorrect_answers": [
+            "Peach",
+            "Strawberry",
+            "Mint"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What is the romanized Russian word for &quot;winter&quot;?",
+        "correct_answer": "Zima",
+        "incorrect_answers": [
+            "Leto",
+            "Vesna",
+            "Osen&#039;"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "What breed of dog was Marley in the film &quot;Marley &amp; Me&quot; (2008)?",
+        "correct_answer": "Labrador Retriever",
+        "incorrect_answers": [
+            "Golden Retriever",
+            "Dalmatian",
+            "Shiba Inu"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "What language does Node.js use?",
+        "correct_answer": "JavaScript",
+        "incorrect_answers": [
+            "Java",
+            "Java Source",
+            "Joomla Source Code"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "According to legend, the ancient Greeks constructed a huge wooden model of which animal to gain entrance to Troy?",
+        "correct_answer": "Horse",
+        "incorrect_answers": [
+            "Goat",
+            "Elephant",
+            "Wolf"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is NOT a name of a playable character in Apex Legends?",
+        "correct_answer": "Viper",
+        "incorrect_answers": [
+            "Revenant",
+            "Crypto",
+            "Wattson"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Johnny Cash did a cover of this song written by lead singer of Nine Inch Nails, Trent Reznor.",
+        "correct_answer": "Hurt",
+        "incorrect_answers": [
+            "Closer",
+            "A Warm Place",
+            "Big Man with a Gun"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is the title of song on the main menu in Halo?",
+        "correct_answer": "Halo",
+        "incorrect_answers": [
+            "Opening Suite",
+            "Shadows",
+            "Suite Autumn"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following is NOT a summon in the game &quot;South Park: The Stick of Truth&quot;?",
+        "correct_answer": "Towelie",
+        "incorrect_answers": [
+            "Jesus",
+            "Mr. Hankey",
+            "Mr. Slave"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which Roman Emperor led the Roman Empire to reach its maximum territorial extent?",
+        "correct_answer": "Trajan",
+        "incorrect_answers": [
+            "Julius Caesar",
+            "Claudius",
+            "Constantine the Great"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who voices GLaDOS in the Portal games?",
+        "correct_answer": "Ellen McLain",
+        "incorrect_answers": [
+            "Michelle Forbes ",
+            "Mary Kae Irvin ",
+            "Natasha Radski"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What year did &quot;Attack on Titan&quot; first air?",
+        "correct_answer": "2013",
+        "incorrect_answers": [
+            "2014",
+            "2012",
+            "2015"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The Southeast Asian island of Borneo is politically divided among 3 countries.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which of the following card games revolves around numbers and basic math?",
+        "correct_answer": "Uno",
+        "incorrect_answers": [
+            "Go Fish",
+            "Twister",
+            "Munchkin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the province you explore in Runescape?",
+        "correct_answer": "Gielinor",
+        "incorrect_answers": [
+            "Mordor",
+            "Kopar",
+            "Ashendale"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "The key of sharps does the key of G# minor contain?",
+        "correct_answer": "5",
+        "incorrect_answers": [
+            "3",
+            "7",
+            "0"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "The asteroid belt is located between which two planets?",
+        "correct_answer": "Mars and Jupiter",
+        "incorrect_answers": [
+            "Jupiter and Saturn",
+            "Mercury and Venus",
+            "Earth and Mars"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "With which Greek philosopher would you associate the phrase, &quot;I know that I know nothing&quot;?",
+        "correct_answer": "Socrates",
+        "incorrect_answers": [
+            "Aristotle",
+            "Plato",
+            "Pythagoras"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "There are no deserts in Europe.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the villain company in &quot;Stardew Valley&quot;?",
+        "correct_answer": "Joja Co ",
+        "incorrect_answers": [
+            "Ronin",
+            "Empire",
+            "Robotnik Industry&#039;s "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "Painter Piet Mondrian (1872 - 1944) was a part of what movement?",
+        "correct_answer": "Neoplasticism",
+        "incorrect_answers": [
+            "Precisionism",
+            "Cubism",
+            "Impressionism"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Who won the premier league title in the 2015-2016 season following a fairy tale run?",
+        "correct_answer": "Leicester City",
+        "incorrect_answers": [
+            "Tottenham Hotspur",
+            "Watford",
+            "Stoke City"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What was the original release date of Grand Theft Auto V?",
+        "correct_answer": "September 17, 2013",
+        "incorrect_answers": [
+            "August 17, 2013",
+            "April 14, 2015",
+            "November 18, 2014"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "What is &ldquo;The Sport of Kings&rdquo;?",
+        "correct_answer": "Horse Racing",
+        "incorrect_answers": [
+            "Chess",
+            "Jousting",
+            "Fencing"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who plays the character of Dennis Reynolds on It&#039;s Always Sunny in Philadelphia?",
+        "correct_answer": "Glenn Howerton",
+        "incorrect_answers": [
+            "Rob McElhenney",
+            "Charlie Day",
+            "Danny DeVito"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "The fictional movie &#039;Rochelle, Rochelle&#039; features in which sitcom?",
+        "correct_answer": "Seinfeld",
+        "incorrect_answers": [
+            "Frasier",
+            "Cheers",
+            "Friends"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Thomas Crapper was a plumber who invented the flushing toilet.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which part of the body does glaucoma affect?",
+        "correct_answer": "Eyes",
+        "incorrect_answers": [
+            "Throat",
+            "Stomach",
+            "Blood"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The disease cancer in itself is not contagious.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Waluigi&#039;s first appearance was in what game?",
+        "correct_answer": "Mario Tennis 64 (N64)",
+        "incorrect_answers": [
+            "Wario Land: Super Mario Land 3",
+            "Mario Party (N64)",
+            "Super Smash Bros. Ultimate"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In JoJo&#039;s Bizarre Adventure, which character is able to accelerate time?",
+        "correct_answer": "Enrico Pucci",
+        "incorrect_answers": [
+            "Jotaro Kujo",
+            "Jolyne Cujoh",
+            "Kujo Jotaro"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who&#039;s the voice actor for Thrall in the Warcraft game series?",
+        "correct_answer": "Chris Metzen",
+        "incorrect_answers": [
+            "Ben Affleck",
+            "Jason Derulo",
+            "Jim Carrey"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "The &quot;K&quot; in &quot;K-Pop&quot; stands for which word?",
+        "correct_answer": "Korean",
+        "incorrect_answers": [
+            "Kenyan",
+            "Kazakhstan",
+            "Kuwaiti"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...",
+        "correct_answer": "Year",
+        "incorrect_answers": [
+            "Four Years",
+            "Two Years",
+            "Eight Years"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Shaquille O&rsquo;Neal has only made one three pointer in his career.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "Linus Torvalds created Linux and Git.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "Who won Big Brother 2014 UK?",
+        "correct_answer": "Helen Wood",
+        "incorrect_answers": [
+            "Christopher Hall",
+            "Pauline Bennett",
+            "Pavandeep &quot;Pav&quot; Paul"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Who is the frontman of the band 30 Seconds to Mars?",
+        "correct_answer": "Jared Leto",
+        "incorrect_answers": [
+            "Gerard Way",
+            "Matthew Bellamy",
+            "Mike Shinoda"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In CoD: Black Ops III, what is the name of the rogue A.I. antagonist?",
+        "correct_answer": "Corvus",
+        "incorrect_answers": [
+            "Cabal",
+            "Legion",
+            "Icarus"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In Pok&eacute;mon, Ash&#039;s Pikachu refuses to go into a pokeball.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Vatican City, the smallest country in the world, is fully enclosed by which country?",
+        "correct_answer": "Italy",
+        "incorrect_answers": [
+            "France",
+            "Spain",
+            "Germany"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In 1939, Britain and France declared war on Germany after it invaded which country?",
+        "correct_answer": "Poland",
+        "incorrect_answers": [
+            "Czechoslovakia",
+            "Austria",
+            "Hungary"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the capital of the State of Washington, United States?",
+        "correct_answer": "Olympia",
+        "incorrect_answers": [
+            "Washington D.C.",
+            "Seattle",
+            "Yukon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following characters is NOT a female marriage candidate in the game Stardew Valley?",
+        "correct_answer": "Caroline",
+        "incorrect_answers": [
+            "Abigail",
+            "Haley",
+            "Leah"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the &quot;Pikmin&quot; games, which of the following pikmin colors lacks it&#039;s own &quot;Onion&quot; nest?",
+        "correct_answer": "Purple",
+        "incorrect_answers": [
+            "Winged",
+            "Blue",
+            "Rock"
+        ]
+    }
+]

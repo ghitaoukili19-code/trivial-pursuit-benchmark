@@ -1,0 +1,580 @@
+[
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The Hundred Years&#039; War was fought for more than a hundred years.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Upwelling in the ocean provides colder nutrient rich water for plants and decomposers.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Guyana is in which continent?",
+        "correct_answer": "South America",
+        "incorrect_answers": [
+            "Africa",
+            "North America",
+            "Asia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Hippocampus is the Latin name for which marine creature?",
+        "correct_answer": "Seahorse",
+        "incorrect_answers": [
+            "Dolphin",
+            "Whale",
+            "Octopus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which of these countries&#039; national teams qualified for the 2018 FIFA World Cup in Russia?",
+        "correct_answer": "Tunisia",
+        "incorrect_answers": [
+            "United States of America",
+            "Italy",
+            "Netherlands"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the right way to spell the capital of Hungary?",
+        "correct_answer": "Budapest",
+        "incorrect_answers": [
+            "Boodapest",
+            "Bhudapest",
+            "Budapast"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What do the letters of the fast food chain KFC stand for?",
+        "correct_answer": "Kentucky Fried Chicken",
+        "incorrect_answers": [
+            "Kentucky Fresh Cheese",
+            "Kibbled Freaky Cow",
+            "Kiwi Food Cut"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "What does film maker Dan Bell typically focus his films on?",
+        "correct_answer": "Abandoned Buildings and Dead Malls",
+        "incorrect_answers": [
+            "Historic Landmarks",
+            "Action Films",
+            "Documentaries "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Monster Hunter Generations, which of the following monsters are a part of the &quot;Fated Four&quot;?",
+        "correct_answer": "Astalos",
+        "incorrect_answers": [
+            "Gore Magala",
+            "Malfestio",
+            "Arzuros"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What is the name of Ryūko Matoi&#039;s theme song in the anime Kill la Kill?",
+        "correct_answer": "Before My Body Is Dry",
+        "incorrect_answers": [
+            "Don&#039;t Lose Your Way",
+            "Till I Die",
+            "Suck Your Blood"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Warhammer: End Times - Vermintide&quot;, what is the name of the rat faction you fight in the game?",
+        "correct_answer": "Skaven",
+        "incorrect_answers": [
+            "Ratmen",
+            "The Horde",
+            "Chaos"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Solid Snake is actually a clone from the DNA of Big Boss in the Metal Gear Solid series&#039; history.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the &quot;Halo&quot; franchise, in what country is New Mombasa?",
+        "correct_answer": "Kenya",
+        "incorrect_answers": [
+            "India",
+            "Turkey",
+            "Slovakia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the &quot;Hitman&quot; series, what is the name of the main character?",
+        "correct_answer": "Agent 47",
+        "incorrect_answers": [
+            "Agent 27",
+            "Agent Smith",
+            "Agent 67"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the &quot;Portal&quot; series, who was Cave Johnson&#039;s personal assistant?",
+        "correct_answer": "Caroline",
+        "incorrect_answers": [
+            "Heather",
+            "Melissa",
+            "Jane"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What is the name of the protagonist of the 2017 anime &quot;Land of the Lustrous&quot;?",
+        "correct_answer": "Phosphophyllite",
+        "incorrect_answers": [
+            "Watermelon Tourmaline",
+            "Cinnabar",
+            "Padparadscha"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What actor portrays Hogan &quot;Wash&quot; Washburne in the TV Show Firefly?",
+        "correct_answer": "Alan Tudyk",
+        "incorrect_answers": [
+            "Adam Baldwin",
+            "Nathan Fillion",
+            "Sean Maher"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is the first Sony PlayStation console that runs on CD?",
+        "correct_answer": "PS",
+        "incorrect_answers": [
+            "PS2",
+            "PS3",
+            "PS4"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "The Axolotl is an amphibian that can spend its whole life in a larval state.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In what year was &quot;Antichamber&quot; released?",
+        "correct_answer": "2013",
+        "incorrect_answers": [
+            "2012",
+            "2014",
+            "2011"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The Cold War ended with Joseph Stalin&#039;s death.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In the original Doctor Who series (1963), fourth doctor Tom Baker&#039;s scarf was how long?",
+        "correct_answer": "7 Meters",
+        "incorrect_answers": [
+            "10 Meters",
+            "2 Meters",
+            "5 Meters"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Haggis is traditionally ate on Burns Night.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Comics",
+        "question": "Which universe crossover was introduced in the &quot;Sonic the Hedgehog&quot; comic issue #247?",
+        "correct_answer": "Mega Man",
+        "incorrect_answers": [
+            "Super Mario Brothers",
+            "Alex Kidd",
+            "Super Monkey Ball"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which student in Yandere Simulator is known for asking irritating and stupid questions?",
+        "correct_answer": "Midori Gurin",
+        "incorrect_answers": [
+            "Kokona Hruka",
+            "Oka Ruto",
+            "Pipi Osu"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the capital of Chile?",
+        "correct_answer": "Santiago",
+        "incorrect_answers": [
+            "Valpara&iacute;so",
+            "Copiap&oacute;",
+            "Antofagasta"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "What is the oldest team in Major League Baseball?",
+        "correct_answer": "Atlanta Braves",
+        "incorrect_answers": [
+            "Chicago Cubs",
+            "Cincinnati Reds",
+            "St. Louis Cardinals"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "In the play Oedipus Rex, Oedipus kills his father due to jealousy in loving his mother.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Pablo Picasso is one of the founding fathers of &quot;Cubism.&quot;",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "What year was the Mona Lisa finished?",
+        "correct_answer": "1504",
+        "incorrect_answers": [
+            "1487",
+            "1523",
+            "1511"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "What was the wifi password given to Stephen Strange in Doctor Strange?",
+        "correct_answer": "Shambala",
+        "incorrect_answers": [
+            "Peace",
+            "Ancient",
+            "Chakra"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+        "correct_answer": "&lt;marquee&gt;&lt;/marquee&gt;",
+        "incorrect_answers": [
+            "&lt;scroll&gt;&lt;/scroll&gt;",
+            "&lt;move&gt;&lt;/move&gt;",
+            "&lt;slide&gt;&lt;/slide&gt;"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What style of beer will typically have a higher than average hop content?",
+        "correct_answer": "India Pale Ale",
+        "incorrect_answers": [
+            "Stout",
+            "Extra Special Bitter",
+            "Scotch Ale"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": " What Texas city is nicknamed &quot;The Yellow Rose of Texas&quot;?",
+        "correct_answer": "Amarillo",
+        "incorrect_answers": [
+            "Corpus Christi",
+            "Frisco",
+            "Houston"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "The X-Men&#039;s Storm and Nightcrawler were originally planned to be characters in DC Comics&#039; Legion of Super-Heroes.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "When was the SS or Schutzstaffel established?",
+        "correct_answer": "April 4th, 1925",
+        "incorrect_answers": [
+            "September 1st, 1941",
+            "March 8th, 1935",
+            "February 21st, 1926"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In Counter Strike: Global Offensive, what is the code implanted onto the C4 as the Terrorists plant the bomb?",
+        "correct_answer": "7355608",
+        "incorrect_answers": [
+            "7890728",
+            "7256380",
+            "7726354"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Burning which of these metals will produce a bright white flame?",
+        "correct_answer": "Magnesium",
+        "incorrect_answers": [
+            "Copper",
+            "Lithium",
+            "Lead"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following games was not a launch title for the Nintendo Gamecube?",
+        "correct_answer": "Super Mario Sunshine",
+        "incorrect_answers": [
+            "Luigi&rsquo;s Mansion",
+            "Star Wars Rogue Squadron II",
+            "Disney&rsquo;s Tarzan Untamed"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;The Legend of Zelda: Ocarina of Time,&quot; what is the maximum amount of rupees that Link can carry?",
+        "correct_answer": "500",
+        "incorrect_answers": [
+            "999",
+            "1000",
+            "5000"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of the following is NOT a capital city?",
+        "correct_answer": "Sydney",
+        "incorrect_answers": [
+            "Cairo",
+            "Moscow",
+            "Beijing"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Russia shares a land border with North Korea.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the writer of the game &quot;Half-Life&quot;?",
+        "correct_answer": "Marc Laidlaw",
+        "incorrect_answers": [
+            "Gabe Newell",
+            "Robin Walker",
+            "Chet Faliszek"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Colombia is named after Christopher Columbus.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "Who wrote the &quot;A Song of Ice And Fire&quot; fantasy novel series?",
+        "correct_answer": "George R. R. Martin",
+        "incorrect_answers": [
+            "George Lucas",
+            "George Orwell",
+            "George Eliot"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Final Fantasy VI&quot;, what is the name of (summoned) Gilgamesh&#039;s weakest attack?",
+        "correct_answer": "Excalipoor",
+        "incorrect_answers": [
+            "Excalibore",
+            "Excalisnore",
+            "Excalisore"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "What was the title of the first Bond movie, released in 1962?",
+        "correct_answer": "Dr. No",
+        "incorrect_answers": [
+            "From Russia with Love",
+            "Goldfinger",
+            "Thunderball"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Pat Cashman, the announcer for Super Smash Brothers: Brawl, also featured prominently in what famous TV show?",
+        "correct_answer": "Bill Nye the Science Guy",
+        "incorrect_answers": [
+            "The Muppet Show",
+            "Scooby-Doo",
+            "Seinfeld"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Into which basin does the Jordan River flow into?",
+        "correct_answer": "Dead Sea",
+        "incorrect_answers": [
+            "Aral Sea",
+            "Caspian Sea",
+            "Salton Sea"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In &quot;Gravity Falls&quot;, how much does Waddles weigh when Mable wins him in &quot;The Time Traveler&#039;s Pig&quot;?",
+        "correct_answer": "15 pounds",
+        "incorrect_answers": [
+            "20 pounds",
+            "10 pounds",
+            "30 pounds"
+        ]
+    }
+]

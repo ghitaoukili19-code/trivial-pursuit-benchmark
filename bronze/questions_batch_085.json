@@ -1,0 +1,586 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "&quot;Yes, America Can!&quot; was this United States politician&#039;s de facto campaign slogan in 2004.",
+        "correct_answer": "George W. Bush",
+        "incorrect_answers": [
+            "John Kerry",
+            "Barack Obama",
+            "Al Gore"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Comics",
+        "question": "In the Marvel comic &quot;The Superior Spider-Man&quot;, Peter Parker&#039;s body is taken over by which character?",
+        "correct_answer": "Otto Octavius ",
+        "incorrect_answers": [
+            "Norman Osborn",
+            "Mary Jane",
+            "Eddie Brock "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "Who wrote the young adult novel &quot;The Fault in Our Stars&quot;?",
+        "correct_answer": "John Green",
+        "incorrect_answers": [
+            "Stephenie Meyer",
+            "Suzanne Collins",
+            "Stephen Chbosky"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The main objective of the German operation &quot;Case Blue&quot; during World War II was originally to capture what?",
+        "correct_answer": "Caucasus",
+        "incorrect_answers": [
+            "Stalingrad",
+            "Crimea",
+            "Voronezh"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "Who is the protagonist of the book: &quot;The Catcher in the Rye&quot; by J.D. Salinger",
+        "correct_answer": "Holden Caulfield",
+        "incorrect_answers": [
+            "Holden David",
+            "Jerome Caulfield",
+            "Jerome David"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who was the winner of the 2016 WWE Royal Rumble?",
+        "correct_answer": "Triple H",
+        "incorrect_answers": [
+            "Roman Reigns",
+            "AJ Styles",
+            "Dean Ambrose"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "What was the name of Captain Nemo&#039;s submarine in &quot;20,000 Leagues Under the Sea&quot;?",
+        "correct_answer": "The Nautilus",
+        "incorrect_answers": [
+            "The Neptune",
+            "The Poseidon  ",
+            "The Atlantis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the French word for &quot;hat&quot;?",
+        "correct_answer": "Chapeau",
+        "incorrect_answers": [
+            "Bonnet",
+            " &Eacute;charpe",
+            " Casque"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In &quot;The Hobbit,&quot; who was head of the White Council? ",
+        "correct_answer": "Saruman",
+        "incorrect_answers": [
+            "Lady Galadriel ",
+            "Gandalf",
+            "Elrond"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these games was NOT a Nintendo Switch launch title in the United States? ",
+        "correct_answer": "Voez",
+        "incorrect_answers": [
+            "Just Dance 2017",
+            "Snipperclips",
+            "Fast RMX"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Jingle Bells was originally meant for Thanksgiving",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the capital of Brazil?",
+        "correct_answer": "Brasilia",
+        "incorrect_answers": [
+            "Rio de Janeiro",
+            "Sao Paolo",
+            "Curitiba"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "How many countries does Mexico border?",
+        "correct_answer": "3",
+        "incorrect_answers": [
+            "2",
+            "4",
+            "1"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the capital of Finland?",
+        "correct_answer": "Helsinki",
+        "incorrect_answers": [
+            "Jabraltar",
+            "Macedonia",
+            "Oslo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the last boss in Night In The Woods&#039; Demontower minigame?",
+        "correct_answer": "The Blood Thief",
+        "incorrect_answers": [
+            "Mega Hairball ",
+            "King Skellie ",
+            "Krampus "
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Japan was part of the Allied Powers during World War I.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What was the first weapon pack for &quot;PAYDAY 2&quot;?",
+        "correct_answer": "The Gage Weapon Pack #1",
+        "incorrect_answers": [
+            "The Overkill Pack",
+            "The Gage Chivalry Pack",
+            "The Gage Historical Pack"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Lake Titicaca is located between which two nations?",
+        "correct_answer": "Peru and Bolivia",
+        "incorrect_answers": [
+            "Kenya and Uganda",
+            "Mexico and the United States",
+            "India and Bangladesh"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Who was not in the band &quot;The Smiths&quot;?",
+        "correct_answer": "Martin Chambers",
+        "incorrect_answers": [
+            "Morrissey",
+            "Andy Rourke",
+            "Mike Joyce"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Where in the human body is the Pineal Gland located?",
+        "correct_answer": "Brain",
+        "incorrect_answers": [
+            "Groin",
+            "Chest",
+            "Throat"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "In what year did Steaua București win the European Cup, actual UEFA Champions League, against FC Barcelona?",
+        "correct_answer": "1986",
+        "incorrect_answers": [
+            "1990",
+            "1982",
+            "1989"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "In Chemistry, how many isomers does Butanol (C4H9OH) have?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "3",
+            "5",
+            "6"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the &quot;To Love-Ru&quot; series, Peke is considered a female robot.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In &quot;Mean Girls&quot;, who has breasts that tell when it&#039;s raining?",
+        "correct_answer": "Karen Smith",
+        "incorrect_answers": [
+            "Gretchen Weiners",
+            "Janice Ian",
+            "Cady Heron"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What song on ScHoolboy Q&#039;s album Black Face LP featured Kanye West?",
+        "correct_answer": "THat Part",
+        "incorrect_answers": [
+            "Neva CHange",
+            "Big Body",
+            "Blank Face"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these characters does not appear in &quot;Nier: Automata&quot;?",
+        "correct_answer": "A1",
+        "incorrect_answers": [
+            "A2",
+            "9S",
+            "2B"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who is frozen at the end of the movie &quot;Goldeneye&quot;?",
+        "correct_answer": "Boris Grishenko",
+        "incorrect_answers": [
+            "James Bond",
+            "Natalya Simonova",
+            "Alec Travelyan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "When did The Beatles release the LP &quot;Please Please Me&quot;?",
+        "correct_answer": "1963",
+        "incorrect_answers": [
+            "1970",
+            "1960",
+            "1969"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "How old was Muhammad Ali when he died?",
+        "correct_answer": "74",
+        "incorrect_answers": [
+            "61",
+            "He&#039;s still alive",
+            "56"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which of the following ancient Near Eastern peoples still exists as a modern ethnic group?",
+        "correct_answer": "Assyrians",
+        "incorrect_answers": [
+            "Babylonians",
+            "Hittites",
+            "Elamites"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The United States of America declared their independence from the British Empire on July 4th, 1776.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which major extinction event was caused by an asteroid collision and eliminated the majority of non-avian dinosaurs?",
+        "correct_answer": "Cretaceous-Paleogene",
+        "incorrect_answers": [
+            "Triassic&ndash;Jurassic",
+            "Permian&ndash;Triassic",
+            "Ordovician&ndash;Silurian"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is not the name of a city in the Grand Theft Auto series?",
+        "correct_answer": "San Andreas",
+        "incorrect_answers": [
+            "San Fierro",
+            "Las Venturas",
+            "Vice City"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Team Fortress 2&quot;, what is the fastest taunt kill that can be pulled off?",
+        "correct_answer": "Showdown",
+        "incorrect_answers": [
+            "Hadouken",
+            "Organ Grinder",
+            "Skewer"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The fork came to Italy before any other European country.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is Canada&#039;s smallest province?",
+        "correct_answer": "Prince Edward Island",
+        "incorrect_answers": [
+            "New Brunswick",
+            "Nova Scotia",
+            "Yukon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the Gamecube Version of &quot;Resident Evil&quot; what text document is open on the monitor of the computer in the Visual Data Room?",
+        "correct_answer": "A GDC Document",
+        "incorrect_answers": [
+            "Text Document on Herbs",
+            "Nothing",
+            "Document on B.O.Ws"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In which African country was the 2006 film &#039;Blood Diamond&#039; mostly set in?",
+        "correct_answer": "Sierra Leone",
+        "incorrect_answers": [
+            "Liberia",
+            "Burkina Faso",
+            "Central African Republic"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which of the following manga have the most tankouban volumes?",
+        "correct_answer": "Golgo 13",
+        "incorrect_answers": [
+            "JoJo&#039;s Bizarre Adventure",
+            "Detective Conan",
+            "One Piece"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In the show &quot;Tengen Toppa Gurren Lagann&quot; what is the name of the character who force everyone to live underground?",
+        "correct_answer": "Lordgenome",
+        "incorrect_answers": [
+            "Kingloname",
+            "Lord Genome",
+            "King Loname"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Magicka&quot;, which two elements are combined to cast the spell, &quot;Nullify&quot;?",
+        "correct_answer": "Arcane + Shield",
+        "incorrect_answers": [
+            "Lightning + Shield",
+            "Lightning + Life",
+            "Arcane + Life"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "There are 2 player roles in Trouble in Terrorist Town.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Where is Fort Marlborough located?",
+        "correct_answer": "Bengkulu",
+        "incorrect_answers": [
+            "Singapore",
+            "London",
+            "Dover"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Who is the armored titan in &quot;Attack On Titan&quot;?",
+        "correct_answer": "Reiner Braun",
+        "incorrect_answers": [
+            "Armin Arlelt",
+            "Mikasa Ackermann",
+            "Eren Jaeger"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Big the Cat is a playable character in &quot;Sonic Generations&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Actor Tommy Chong served prison time.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the anime &quot;Gintama&quot; which accessory/article of clothing is the character Shinpachi commonly referred to as?",
+        "correct_answer": "Glasses",
+        "incorrect_answers": [
+            "Nose Ring",
+            "T-Shirt",
+            "Underwear"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Where is the &quot;Sonoran Desert&quot; located?",
+        "correct_answer": "North America",
+        "incorrect_answers": [
+            "South America",
+            "Asia",
+            "Africa"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What kind of aircraft was developed by Igor Sikorsky in the United States in 1942?",
+        "correct_answer": "Helicopter",
+        "incorrect_answers": [
+            "Stealth Blimp",
+            "Jet",
+            "Space Capsule"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these operators from &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; has the ability to damage reinforced walls?",
+        "correct_answer": "Jordan &quot;Thermite&quot; Trace",
+        "incorrect_answers": [
+            "Eliza &quot;Ash&quot; Cohen",
+            "Seamus &quot;Sledge&quot; Cowden",
+            "Dominic &quot;Bandit&quot; Brunsmeier"
+        ]
+    }
+]

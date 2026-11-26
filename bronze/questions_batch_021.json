@@ -1,0 +1,582 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Pete Townshend collaborated with which famous guitarist for an event at Brixton Academy in 1985?",
+        "correct_answer": "David Gilmour",
+        "incorrect_answers": [
+            "Jimmy Page",
+            "Mark Knopfler",
+            "Eric Clapton"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What is the name for a male bee that comes from an unfertilized egg?",
+        "correct_answer": "Drone",
+        "incorrect_answers": [
+            "Soldier",
+            "Worker",
+            "Male"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What genre of EDM is the Dutch DJ, musician, and remixer Armin van Buuren most well-known for?",
+        "correct_answer": "Trance",
+        "incorrect_answers": [
+            "House",
+            "Drum and Bass",
+            "Dubstep"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Studies suggest that approximately 40% of the world population is left-handed.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "The State of Queensland, Australia voted NO to a referendum for daylight savings in 1992.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who assassinated Archduke Franz Ferdinand?",
+        "correct_answer": "Gavrilo Princip",
+        "incorrect_answers": [
+            "Nedeljko Čabrinović",
+            "Oskar Potiorek",
+            "Ferdinand Cohen-Blind"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which 90&#039;s comedy cult classic features cameos appearances from Meat Loaf, Alice Cooper and Chris Farley?",
+        "correct_answer": "Wayne&#039;s World",
+        "incorrect_answers": [
+            "Bill &amp; Ted&#039;s Excellent Adventure",
+            "Dumb and Dumber",
+            "Austin Powers: International Man of Mystery"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "American illustrator and writer Maurice Sendak is most well-known for writing which children&#039;s book?",
+        "correct_answer": "Where The Wild Things Are",
+        "incorrect_answers": [
+            "The Neverending Story",
+            "Charlie and the Chocolate Factory",
+            "The Cat in the Hat"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Call Of Duty: Zombies&quot;, which map&#039;s opening cutscene shows &quot;Richtofen&quot; killing another version of himself?",
+        "correct_answer": "The Giant",
+        "incorrect_answers": [
+            "Shadows Of Evil",
+            "Der Eisendrache",
+            "Moon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Call Of Duty: Zombies&quot;, what is the name of the machine that upgrades weapons?",
+        "correct_answer": "Pack-A-Punch",
+        "incorrect_answers": [
+            "Wunderfizz",
+            "Gersch Device",
+            "Mule Kick"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The Arab Spring was a series of protests and rebellions that began in which of these Arab nations?",
+        "correct_answer": "Tunisia",
+        "incorrect_answers": [
+            "Morocco",
+            "Syria",
+            "Egypt"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is NOT a main playable character in &quot;Grand Theft Auto V&quot;?",
+        "correct_answer": "Lamar",
+        "incorrect_answers": [
+            "Trevor",
+            "Michael",
+            "Franklin"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Brezhnev was the 5th leader of the USSR.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;The Sims&quot; series, the most members in a household you can have is 8.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following was not developed by Bethesda?",
+        "correct_answer": "Fallout: New Vegas",
+        "incorrect_answers": [
+            "Fallout 3",
+            "The Elder Scrolls V: Skyrim",
+            "Fallout 4"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "The C programming language was created by this American computer scientist. ",
+        "correct_answer": "Dennis Ritchie",
+        "incorrect_answers": [
+            "Tim Berners Lee",
+            "al-Khwārizmī",
+            "Willis Ware"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "&quot;Sonic the Hedgehog 2&quot; originally was going to have a time travel system.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "On the show &quot;Rick and Morty&quot;, in episode &quot;Total Rickall&quot;, who was a parasite?",
+        "correct_answer": "Pencilvester",
+        "incorrect_answers": [
+            "Beth Smith",
+            "Summer Smith",
+            "Mr. Poopy Butthole"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Which Italian footballer told Neuer where he&#039;s putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
+        "correct_answer": "Pelle",
+        "incorrect_answers": [
+            "Insigne",
+            "Barzagli",
+            "Giaccherini"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which islands below have been claimed by both Japan and Russia?",
+        "correct_answer": "Kuril Islands",
+        "incorrect_answers": [
+            "Paracel Islands",
+            "Chagos Islands",
+            "Spratly Islands"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which German city does the map &quot;Clubhouse&quot; in &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; take place in?",
+        "correct_answer": "Hannover",
+        "incorrect_answers": [
+            "Berlin",
+            "Hamburg",
+            "Munich"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "What does the Prt Sc button do?",
+        "correct_answer": "Captures what&#039;s on the screen and copies it to your clipboard",
+        "incorrect_answers": [
+            "Nothing",
+            "Saves a .png file of what&#039;s on the screen in your screenshots folder in photos",
+            "Closes all windows"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is the name of one of the Neo-Aramaic languages spoken by the Jewish population from Northwestern Iraq?",
+        "correct_answer": "Lishana Deni",
+        "incorrect_answers": [
+            "Hulaul&aacute;",
+            "Lishan Didan",
+            "Chaldean Neo-Aramaic"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "A flock of crows is known as a homicide.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Adolf Hitler was born on which date?",
+        "correct_answer": "April 20, 1889",
+        "incorrect_answers": [
+            "June 12, 1889",
+            "February 6, 1889",
+            "April 16, 1889"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What is the scientific name of the Common Chimpanzee?",
+        "correct_answer": "Pan troglodytes",
+        "incorrect_answers": [
+            "Gorilla gorilla",
+            "Pan paniscus",
+            "Panthera leo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which U.S. president was said to have been too honest to lie to his father about chopping down a cherry tree?",
+        "correct_answer": "George Washington",
+        "incorrect_answers": [
+            "Abraham Lincoln",
+            "Thomas Jefferson",
+            "James Monroe"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What is the chemical symbol for lead?",
+        "correct_answer": "Pb",
+        "incorrect_answers": [
+            "Ld",
+            "Le",
+            "Pm"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Portal 2&quot;, Cave Johnson started out Aperture Science as a shower curtain company.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?",
+        "correct_answer": "Hemocyanin",
+        "incorrect_answers": [
+            "Cytochrome",
+            "Iron",
+            "Methionine"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What is the collective noun for vultures?",
+        "correct_answer": "Wake",
+        "incorrect_answers": [
+            "Ambush",
+            "Building",
+            "Gaze"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The Little Entente was an alliance formed against which nation?",
+        "correct_answer": "Hungary",
+        "incorrect_answers": [
+            "Germany",
+            "France",
+            "Prussia"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Sonic the Hedgehog universe, Tails&#039; real name is Miles Prower.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The formerly East-Prussian city of K&ouml;nigsberg is known as which Russian City today?",
+        "correct_answer": "Kaliningrad",
+        "incorrect_answers": [
+            "Kazan",
+            "Kursk",
+            "Krasnodar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What is the Italian word for &quot;tomato&quot;?",
+        "correct_answer": "Pomodoro",
+        "incorrect_answers": [
+            "Aglio",
+            "Cipolla",
+            "Peperoncino"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the game &quot;Brawlhalla&quot;, what species is the character B&ouml;dvar is?",
+        "correct_answer": "Half Human / Half Bear",
+        "incorrect_answers": [
+            "A Human",
+            "Half Wolf / Half Bear",
+            "Half Tiger /  Half Human"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which of the following pitchers was named National League Rookie of the Year for the 2013 season?",
+        "correct_answer": "Jose Fernandez",
+        "incorrect_answers": [
+            "Jacob deGrom",
+            "Shelby Miller",
+            "Matt Harvey"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In the TV show &quot;Mad Men&quot;, what was Donald Draper&#039;s birthname?",
+        "correct_answer": "Richard &quot;Dick&quot; Whitman",
+        "incorrect_answers": [
+            "Donald Draper",
+            "John Ashbury",
+            "Michael &quot;Mikey&quot; Wilhelm"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What year was the Disney film &quot;A Goofy Movie&quot; released?",
+        "correct_answer": "1995",
+        "incorrect_answers": [
+            "1999",
+            "2001",
+            "1997"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Who was the first Jazz Musician to win the Pulitzer Prize for Music",
+        "correct_answer": "Wynton Marsalis",
+        "incorrect_answers": [
+            "Michael Brecker",
+            "Herbie Hancock",
+            "Joe Henderson"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Who sings the rap song &quot;Secret Wars Part 1&quot;?",
+        "correct_answer": "The Last Emperor",
+        "incorrect_answers": [
+            "MC Frontalot",
+            "Busdriver",
+            "Masta Killa"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "In Macbeth, the eyes of what animals were used in the Witches&#039; cauldron?",
+        "correct_answer": "Newts",
+        "incorrect_answers": [
+            "Humans",
+            "Sharks",
+            "Squids"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "111,111,111 x 111,111,111 = 12,345,678,987,654,321",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Which of these songs is NOT included in the Suicide Squad OST?",
+        "correct_answer": "Skies on Fire - AC/DC",
+        "incorrect_answers": [
+            "Heathens - Twenty One Pilots",
+            "Without Me - Eminem",
+            "Fortunate Son - Creedence Clearwater Revival"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Metal Gear Solid V: The Phantom Pain runs on the Fox Engine.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "What was the name of singer Frank Ocean&#039;s second studio album, which was released on August 20, 2016?",
+        "correct_answer": "Blonde",
+        "incorrect_answers": [
+            "Brunette",
+            "Black",
+            "Burgundy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What micro-state is considered to have the oldest constitution still in effect?",
+        "correct_answer": "San Marino",
+        "incorrect_answers": [
+            "Andorra",
+            "Monaco",
+            "Saint Kitts and Nevis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which country had an &quot;Orange Revolution&quot; between 2004 and 2005?",
+        "correct_answer": "Ukraine",
+        "incorrect_answers": [
+            "Belarus",
+            "Latvia",
+            "Lithuania"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Ellen McLain, the voice of GLaDOS in the Portal game series, is married to the voice actor for which Team Fortress 2 character?",
+        "correct_answer": "Sniper",
+        "incorrect_answers": [
+            "Heavy",
+            "Soldier",
+            "Scout"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who is credited with having created the world&#039;s first video game Easter Egg?",
+        "correct_answer": "Warren Robinett",
+        "incorrect_answers": [
+            "Julius Smith",
+            "Will Crowther",
+            "Don Woods"
+        ]
+    }
+]

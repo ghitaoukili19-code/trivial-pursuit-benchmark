@@ -1,0 +1,586 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Gadgets",
+        "question": "Which buzzword did Apple Inc. use to describe their removal of the headphone jack?",
+        "correct_answer": "Courage",
+        "incorrect_answers": [
+            "Innovation",
+            "Revolution",
+            "Bravery"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In what year were screenshots added to Steam?",
+        "correct_answer": "2011",
+        "incorrect_answers": [
+            "2010",
+            "2008",
+            "2009"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What part of the brain takes its name from the Greek for seahorse?",
+        "correct_answer": "Hippocampus",
+        "incorrect_answers": [
+            "Cerebellum",
+            "Thalamus",
+            "Amygdala"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "According to their 1974 hit, what were Brownsville Station doing &quot;In The Boys&#039; Room&quot;?",
+        "correct_answer": "Smokin&#039;",
+        "incorrect_answers": [
+            "Hangin&#039;",
+            "Lovin&#039;",
+            "Peein&#039;"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "What play is the quote &quot;Hell is other people&quot; from?",
+        "correct_answer": "No Exit",
+        "incorrect_answers": [
+            "The Devil and the Good Lord",
+            "The Condemned of Altona",
+            "The Flies"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Who is the only voice actor to have a speaking part in all of the Disney Pixar feature films? ",
+        "correct_answer": "John Ratzenberger",
+        "incorrect_answers": [
+            "Tom Hanks",
+            "Dave Foley",
+            "Geoffrey Rush"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The original Planetside was released in North America on...",
+        "correct_answer": "May 20, 2003",
+        "incorrect_answers": [
+            "June 17, 2001",
+            "September 29, 2003",
+            "January 14, 2005"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Aubrey Graham is better known as",
+        "correct_answer": "Drake",
+        "incorrect_answers": [
+            "Travis Scott",
+            "Lil Wayne",
+            "2 Chainz"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "On what day did Germany invade Poland?",
+        "correct_answer": "September 1, 1939",
+        "incorrect_answers": [
+            "December 7, 1941",
+            "June 22, 1941",
+            "July 7, 1937"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Male pandas do handstands while urinating on trees. ",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Australia is greater than Greenland in size.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Which noble gas has the lowest atomic number?",
+        "correct_answer": "Helium",
+        "incorrect_answers": [
+            "Neon",
+            "Argon",
+            "Krypton"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Vatican city is a full member of United Nations.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "Who was the winner of &quot;Big Brother&quot; Season 10?",
+        "correct_answer": "Dan Gheesling",
+        "incorrect_answers": [
+            "Bryce Kranyik",
+            "Ryan Sutfin",
+            "Chris Mundorf"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "What comes after a Million, a Billion, and a Trillion?",
+        "correct_answer": "Quadrillion",
+        "incorrect_answers": [
+            "Sextillion",
+            "Quintillion",
+            "Septillion"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Joan Cusack starred in the 2009 disaster movie, &quot;2012&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "What was Sir Handel&#039;s original name in &quot;The Railway Series&quot; and it&#039;s animated counterpart &quot;Thomas and Friends?&quot;",
+        "correct_answer": "Falcon",
+        "incorrect_answers": [
+            "Eagle",
+            "Kyte",
+            "Swallow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is NOT a faction included in the game Counter-Strike: Global Offensive?",
+        "correct_answer": "BOPE",
+        "incorrect_answers": [
+            "GSG-9",
+            "Elite Crew",
+            "Phoenix Connexion"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these stages is not playable in &quot;Super Smash Bros. for Wii U&quot;?",
+        "correct_answer": "Fountain of Dreams",
+        "incorrect_answers": [
+            "Bridge of Eldin",
+            "75m",
+            "Miiverse"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which portion of the Marijuana plant produces the psychoactive substance known as THC?",
+        "correct_answer": "Female Flower",
+        "incorrect_answers": [
+            "Leaves",
+            "Male Flower",
+            "Root Ball"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which of the following men does not have a chemical element named after him?",
+        "correct_answer": "Sir Isaac Newton",
+        "incorrect_answers": [
+            "Albert Einstein",
+            "Niels Bohr",
+            "Enrico Fermi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the anime &quot;Mr. Osomatsu&quot;, how many brothers does Osomatsu-san have?",
+        "correct_answer": "5",
+        "incorrect_answers": [
+            "6",
+            "7",
+            "4"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which of the following James Bond villains is not affiliated with the SPECTRE organization?",
+        "correct_answer": "Auric Goldfinger",
+        "incorrect_answers": [
+            "Dr. Julius No",
+            "Rosa Klebb",
+            "Emilio Largo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which soccer player is featured on the cover of EA Sport&#039;s FIFA 18?",
+        "correct_answer": "Cristiano Ronaldo",
+        "incorrect_answers": [
+            "Lionel Messi",
+            "Neymar",
+            "Harry Kane"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Nutcracker Suite was one of the musical pieces featured in Disney&#039;s 1940&#039;s film Fantasia.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;World of Warcraft,&quot; which of the following can be found outside of every instanced dungeon?",
+        "correct_answer": "A Meeting Stone",
+        "incorrect_answers": [
+            "A Summoning Stone",
+            "A Gathering Stone",
+            "A Hearthstone"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which rock band released the album &quot;The Bends&quot; in March 1995?",
+        "correct_answer": "Radiohead",
+        "incorrect_answers": [
+            "Nirvana",
+            "Coldplay",
+            "U2"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "The HTML5 standard was published in 2014.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Sir Issac Newton served as a Member of Parliament, but the only recorded time he spoke was to complain about a draft in the chambers.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Mythology",
+        "question": "What immense structure is referred to in Norse Mythology as the Yggdrasil.",
+        "correct_answer": "Tree",
+        "incorrect_answers": [
+            "Mountain",
+            "Temple",
+            "Castle"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which company is the one responsible for creating the strategy videogame Stellaris?",
+        "correct_answer": "Paradox Development Studio",
+        "incorrect_answers": [
+            "Overkill Software",
+            "Tripwire Interactive LLC",
+            "Ensemble Studios"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "The movie &quot;Tron&quot; received an Oscar nomination for Best Visual Effects.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "Which of the following actors portrayed the Ninth Doctor in the British television show &quot;Doctor Who&quot;?",
+        "correct_answer": "Christopher Eccleston",
+        "incorrect_answers": [
+            "David Tennant",
+            "Matt Smith",
+            "Tom Baker"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which movie of film director Stanley Kubrick is known to be an adaptation of a Stephen King novel?",
+        "correct_answer": "The Shining",
+        "incorrect_answers": [
+            "2001: A Space Odyssey",
+            " Dr. Strangelove ",
+            "Eyes Wide Shut"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "In Pre-Super Genesis universe of &quot;Sonic the Hedgehog&quot; comic, what was the name of  Sally Acorn&#039;s brother?",
+        "correct_answer": "Elias Acorn",
+        "incorrect_answers": [
+            "Maximillian Acorn",
+            "Alexis Acorn",
+            "Frederick Acorn"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "The board game, Nightmare was released in what year?",
+        "correct_answer": "1991",
+        "incorrect_answers": [
+            "1992",
+            "1989",
+            "1995"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which moon is the only satellite in our solar system to possess a dense atmosphere?",
+        "correct_answer": "Titan",
+        "incorrect_answers": [
+            "Europa",
+            "Miranda",
+            "Callisto"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "The 2010 song &quot;Eenie Meenie&quot; was a collaboration between which two popular artists?",
+        "correct_answer": "Sean Kingston &amp; Justin Bieber",
+        "incorrect_answers": [
+            "Eminem &amp; Rihanna",
+            "Usher &amp; Pitbull",
+            "Lady Gaga &amp; Beyonc&eacute;"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "During the Roman Triumvirate of 42 BCE, what region of the Roman Republic was given to Lepidus?",
+        "correct_answer": "Hispania ",
+        "incorrect_answers": [
+            "Italia",
+            "Gallia",
+            "Asia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which Queen song was covered by Brittany Murphy in the 2006 film &quot;Happy Feet&quot;?",
+        "correct_answer": "Somebody to Love",
+        "incorrect_answers": [
+            "Under Pressure",
+            "Flash",
+            "Bohemian Rhapsody"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "How many baby/milk teeth does a human child have in total?",
+        "correct_answer": "20",
+        "incorrect_answers": [
+            "10",
+            "15",
+            "25"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "In what part of Wales will you find the village Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch?",
+        "correct_answer": "Anglesey",
+        "incorrect_answers": [
+            "Pembrokeshire",
+            "Wrexham",
+            "Bridgend"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+        "correct_answer": "US Open",
+        "incorrect_answers": [
+            "French Open",
+            "Wimbledon",
+            "Australian Open"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What vault in the video game &quot;Fallout 3&quot; is the home of multiple clones named Gary?",
+        "correct_answer": "Vault 108",
+        "incorrect_answers": [
+            "Vault 101",
+            "Vault 87",
+            "Vault 21"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "When was Pokemon GO released in North America?",
+        "correct_answer": "July 6th, 2016",
+        "incorrect_answers": [
+            "June 5th, 2016",
+            "May 24th, 2016",
+            "January 2nd, 2017"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "In past times, what would a gentleman keep in his fob pocket?",
+        "correct_answer": "Watch",
+        "incorrect_answers": [
+            "Money",
+            "Keys",
+            "Notebook"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What is widely considered to be the oldest civilization known to mankind?",
+        "correct_answer": "Sumeria",
+        "incorrect_answers": [
+            "Babylon",
+            "Assyria",
+            "Phoenicia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "In bowling, what is the term used for getting three consecutive strikes?",
+        "correct_answer": "Turkey",
+        "incorrect_answers": [
+            "Flamingo",
+            "Birdie",
+            "Eagle"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "What was the first superhero film James Gunn was involved with?",
+        "correct_answer": "The Specials",
+        "incorrect_answers": [
+            "Super",
+            "Guardians of the Galaxy",
+            "Brightburn"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Of which 90s boy band was Justin Timberlake a member?",
+        "correct_answer": "*NSYNC",
+        "incorrect_answers": [
+            "Backstreet Boys",
+            "Westlife",
+            "Boyzone"
+        ]
+    }
+]

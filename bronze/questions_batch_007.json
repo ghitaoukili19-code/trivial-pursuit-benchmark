@@ -1,0 +1,590 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which of the following sports is not part of the triathlon?",
+        "correct_answer": "Horse-Riding",
+        "incorrect_answers": [
+            "Cycling",
+            "Swimming",
+            "Running"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "&quot;All the Boys&quot; by Panic! At the Disco was released as a bonus track on what album?",
+        "correct_answer": "Too Weird To Live, Too Rare To Die!",
+        "incorrect_answers": [
+            "A Fever You Can&#039;t Sweat Out",
+            "Death Of A Bachelor",
+            "Vices &amp; Virtues"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Who is the youngest person to receive a Nobel Prize?",
+        "correct_answer": "Malala Yousafzai",
+        "incorrect_answers": [
+            "Lawrence Bragg",
+            "Werner Heisenberg",
+            "Yasser Arafat"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "What is the least number of sides a polygon can have?",
+        "correct_answer": "3",
+        "incorrect_answers": [
+            "1",
+            "2",
+            "7"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What was the name of the chemical that was dropped on Vietnam during the Vietnam war?",
+        "correct_answer": "Agent Orange",
+        "incorrect_answers": [
+            "Phosgene",
+            "Mustard Gas",
+            "Hydrogen Cyanide"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What is the scientific term for &#039;taste&#039;?",
+        "correct_answer": "Gustatory Perception",
+        "incorrect_answers": [
+            "Olfaction",
+            "Somatosensation",
+            "Auditory Perception"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "The &#039;D&#039; in the term &quot;D-Mail&quot; from the game &quot;Steins; Gate&quot; is short for what?",
+        "correct_answer": "DeLorean",
+        "incorrect_answers": [
+            "Deep",
+            "Demo",
+            "Dev"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "In which year did Ghana gain independence?",
+        "correct_answer": "1957",
+        "incorrect_answers": [
+            "1947",
+            "1960",
+            "1958"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which Marvel superhero did Chris Evans play prior to his role as Captain America?",
+        "correct_answer": "Human Torch",
+        "incorrect_answers": [
+            "Cyclops",
+            "Iceman",
+            "Daredevil"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "What is the maximum level you can have in a single class in Dungeons and Dragons (5e)?",
+        "correct_answer": "20",
+        "incorrect_answers": [
+            "30",
+            "15",
+            "25"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Mario Kart 64&quot;, Waluigi is a playable character.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What song by Tina Turner is the theme for Mad Max Beyond Thunderdome?",
+        "correct_answer": "We Don&#039;t Need Another Hero",
+        "incorrect_answers": [
+            "Let&#039;s Stay Together",
+            "What&#039;s Love Got To Do With It",
+            "I Don&#039;t Wanna Lose You"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The capital of the US State Ohio is the city of Chillicothe.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The Herero genocide was perpetrated in Africa by which of the following colonial nations?",
+        "correct_answer": "Germany",
+        "incorrect_answers": [
+            "Britain",
+            "Belgium",
+            "France"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Pok&eacute;mon Sun and Moon&quot;, Team Skull took over which town?",
+        "correct_answer": "Po Town",
+        "incorrect_answers": [
+            "Heahea City",
+            "Tapu Village",
+            "Iki Town"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The buried remains of which English explorer of Australia were found in London  in January 2019? ",
+        "correct_answer": "Matthew Flinders",
+        "incorrect_answers": [
+            "William Bourke",
+            "Abel Tasman",
+            "Dirk Hartog"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who was the first president of Kenya?",
+        "correct_answer": "Jomo Kenyatta",
+        "incorrect_answers": [
+            "Daniel Moi",
+            "Tom Mboya",
+            "Oginga Odinga"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "About how old is Earth?",
+        "correct_answer": "4.5 Billion Years",
+        "incorrect_answers": [
+            "3.5 Billion Years",
+            "2.5 Billion Years",
+            "5.5 Billion Years"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "The 2002 film &quot;28 Days Later&quot; is mainly set in which European country?",
+        "correct_answer": "United Kingdom",
+        "incorrect_answers": [
+            "France",
+            "Italy",
+            "Germany"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In what year were achivements added to Steam?",
+        "correct_answer": "2007",
+        "incorrect_answers": [
+            "2008",
+            "2009",
+            "2006"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What is the romanized Japanese word for &quot;university&quot;?",
+        "correct_answer": "Daigaku",
+        "incorrect_answers": [
+            "Toshokan",
+            "Jimusho",
+            "Shokudou"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What block in Minecraft has the highest blast resistance?",
+        "correct_answer": "Barrier",
+        "incorrect_answers": [
+            "Obsidian",
+            "Bedrock",
+            "Block of Diamond"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What animated internet character is known to answer emails with his boxing gloves?",
+        "correct_answer": "Strong Bad",
+        "incorrect_answers": [
+            "Strong Sad",
+            "Strong Mad",
+            "Strong Glad"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which of the following is the IATA code for Manchester Airport?",
+        "correct_answer": "MAN",
+        "incorrect_answers": [
+            "EGLL",
+            "LHR",
+            "EGCC"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What was the first PlayStation game to require the use of the DualShock controller?",
+        "correct_answer": "Ape Escape",
+        "incorrect_answers": [
+            "Metal Gear",
+            "Tekken ",
+            "Tomba 2!"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Dead Space 2, the &#039;Hand Cannon&#039; is a large foam finger.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Kingdom Hearts the Paopu fruit is said to intertwine the destinies for two people forever.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "What is the world&#039;s oldest board game?",
+        "correct_answer": "Senet",
+        "incorrect_answers": [
+            "Chess",
+            "Checkers",
+            "Go"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which sport is NOT traditionally played during the Mongolian Naadam festival?",
+        "correct_answer": "American Football",
+        "incorrect_answers": [
+            "Wrestling",
+            "Archery",
+            "Horse-Racing"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Gadgets",
+        "question": "The Western Electric Model 500 telephone uses tone dialing to dial phone numbers.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which artist curated the official soundtrack for &quot;The Hunger Games: Mockingjay - Part 1&quot;?",
+        "correct_answer": "Lorde",
+        "incorrect_answers": [
+            "Kanye West",
+            "Tove Lo",
+            "Charli XCX"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": " In which country was the Michelin tire company founded in 1889?",
+        "correct_answer": "France",
+        "incorrect_answers": [
+            "United Kingdom",
+            "Italy",
+            "Germany"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "In any programming language, what is the most common way to iterate through an array?",
+        "correct_answer": "&#039;For&#039; loops",
+        "incorrect_answers": [
+            "&#039;If&#039; Statements",
+            "&#039;Do-while&#039; loops",
+            "&#039;While&#039; loops"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which unlockable character in Super Smash Bros. For Wii U and 3DS does not have to be fought to be unlocked?",
+        "correct_answer": "Mii Fighters",
+        "incorrect_answers": [
+            "Ness",
+            "R.O.B.",
+            "Mewtwo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which French duo had UK hits in 1998 with the songs &#039;Sexy Boy&#039;, &#039;Kelly Watch The Stars&#039; &amp; &#039;All I Need&#039;?",
+        "correct_answer": "Air",
+        "incorrect_answers": [
+            "Fire",
+            "Earth",
+            "Water"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "What is former United States President Bill Clinton&#039;s full name?",
+        "correct_answer": "William Jefferson Clinton",
+        "incorrect_answers": [
+            "William Roosevelt Clinton",
+            "William Truman Clinton",
+            "William Lincoln Clinton"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What character in the Winnie the Pooh films was added by Disney and does not appear in the original books?",
+        "correct_answer": "Gopher",
+        "incorrect_answers": [
+            "Tigger",
+            "Heffalumps",
+            "Rabbit"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Which of the following is true when alligators are behaving territorially?",
+        "correct_answer": "They bellow while showing their tail and neck",
+        "incorrect_answers": [
+            "Open their jaws while making a clicking noise",
+            "They run full force at the threat",
+            "Slap their tails on the ground"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "The Queen song `A Kind Of Magic` is featured in which 1986 film?",
+        "correct_answer": "Highlander",
+        "incorrect_answers": [
+            "Flash Gordon",
+            "Labyrinth",
+            "Howard the Duck"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "Which &quot;Green Arrow&quot; sidekick commonly wears a baseball cap?",
+        "correct_answer": "Roy Harper",
+        "incorrect_answers": [
+            "Black Canary",
+            "Emiko Queen",
+            "Dick Grayson"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Comics",
+        "question": "When Batman trolls the online chat rooms, what alias does he use?",
+        "correct_answer": "JonDoe297",
+        "incorrect_answers": [
+            "iAmBatman",
+            "BWayne13",
+            "BW1129"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which one of the following rhythm games was made by Harmonix?",
+        "correct_answer": "Rock Band",
+        "incorrect_answers": [
+            "Meat Beat Mania",
+            "Guitar Hero Live",
+            "Dance Dance Revolution"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "About what percentage of the Earth&#039;s surface is water? ",
+        "correct_answer": "70%",
+        "incorrect_answers": [
+            "30%",
+            "50%",
+            "90%"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Who painted the biblical fresco The Creation of Adam?",
+        "correct_answer": "Michelangelo",
+        "incorrect_answers": [
+            "Leonardo da Vinci",
+            "Caravaggio",
+            "Rembrandt"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What type of animal was Harambe, who was shot after a child fell into it&#039;s enclosure at the Cincinnati Zoo?",
+        "correct_answer": "Gorilla",
+        "incorrect_answers": [
+            "Tiger",
+            "Panda",
+            "Crocodile"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Who is one of the co-princes of Andorra?",
+        "correct_answer": "The president of France",
+        "incorrect_answers": [
+            "The monarch of the UK",
+            "The Pope",
+            "No-one (the position is vacant)"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which of these is used to show that Earth spins on an axis? ",
+        "correct_answer": "Foucault Pendulum ",
+        "incorrect_answers": [
+            "Polaris",
+            "Sundial",
+            "Tectonic Plates "
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "The scientific name for the Southern Lights is Aurora Australis?",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the original DOOM (1993) which of the following is NOT a cheat code?",
+        "correct_answer": "IDCLIP",
+        "incorrect_answers": [
+            "IDFA",
+            "IDDQD",
+            "IDSPISPOPD"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What is the name of the foley artist who designed the famous sounds of Star Wars, including Chewbacca&#039;s roar and R2-D2&#039;s beeps and whistles?",
+        "correct_answer": "Ben Burtt",
+        "incorrect_answers": [
+            "Ken Burns",
+            "Ralph McQuarrie",
+            "Miranda Keyes"
+        ]
+    }
+]

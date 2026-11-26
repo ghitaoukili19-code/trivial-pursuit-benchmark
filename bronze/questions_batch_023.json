@@ -1,0 +1,584 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which of the following plastic is commonly used for window frames, gutters and drain pipes?",
+        "correct_answer": "Polyvinylchloride (PVC) ",
+        "incorrect_answers": [
+            "Polyethylene (PE)",
+            "Polypropylene (PP)",
+            "Polystyrene (PS)"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Who recorded the 1975 album &#039;Captain Fantastic and the Brown Dirt Cowboy&#039;?",
+        "correct_answer": "Elton John",
+        "incorrect_answers": [
+            "John Denver",
+            "Billy Joel",
+            "Joe Cocker"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The Thirty Years War ended with which treaty?",
+        "correct_answer": "Peace of Westphalia",
+        "incorrect_answers": [
+            "Treaty of Versailles",
+            "Treaty of Paris",
+            "Peace of Prague"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Joko Widodo has appeared in the cover of a TIME magazine.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The Enlightenment was an era of philosophies, advancements, and scientific theories to improve society.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "In &quot;Resident Evil 3&quot;, how many inventory slots does Jill have at the start of the game?",
+        "correct_answer": "8",
+        "incorrect_answers": [
+            "6",
+            "10",
+            "12"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Who is the &quot;dumb blonde&quot; character in Nickelodeon&#039;s &quot;The Loud House&quot;?",
+        "correct_answer": "Leni",
+        "incorrect_answers": [
+            "Luan",
+            "Luna",
+            "Lincoln"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "How many years did the Hundred Years&#039; War last?",
+        "correct_answer": "116",
+        "incorrect_answers": [
+            "100",
+            "90",
+            "101"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Before 2016, in which other year did Donald Trump run for President?",
+        "correct_answer": "2000",
+        "incorrect_answers": [
+            "2012",
+            "1988",
+            "2008"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the Kingdom Hearts series, which is not an optional boss you can fight?",
+        "correct_answer": "Master Yen Sid",
+        "incorrect_answers": [
+            "Sephiroth",
+            "Julius",
+            "Kurt Zisa"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "When BMW was established in 1916, it was producing automobiles.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "&quot;Doctor Who&quot; star David Tennant performed in a rendition of which Shakespearean play?",
+        "correct_answer": "Hamlet",
+        "incorrect_answers": [
+            "The Tempest",
+            "Othello",
+            "The Taming of the Shrew"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "Mary Shelley is the author of what classic horror story?",
+        "correct_answer": "Frankenstein",
+        "incorrect_answers": [
+            "Dracula",
+            "Strange Case of Dr Jekyll and Mr Hyde",
+            "The Legend of Sleepy Hollow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In the show &quot;Dragonball Z&quot;, what is the name of Cell&#039;s most powerful attack?",
+        "correct_answer": "Solar Kamehameha",
+        "incorrect_answers": [
+            "Super Kamehameha",
+            "Cell Kamehameha",
+            "Android Kamehameha"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What was the transfer of disease, crops, and people across the Atlantic shortly after the discovery of the Americas called?",
+        "correct_answer": "The Columbian Exchange",
+        "incorrect_answers": [
+            "Triangle Trade",
+            "Transatlantic Slave Trade",
+            "The Silk Road"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "How many teeth does the average adult mouth have (except for wisdom teeth)?",
+        "correct_answer": "32",
+        "incorrect_answers": [
+            "36",
+            "20",
+            "28"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which player holds the NHL record of 2,857 points?",
+        "correct_answer": "Wayne Gretzky",
+        "incorrect_answers": [
+            "Mario Lemieux ",
+            "Sidney Crosby",
+            "Gordie Howe"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Stars consist mainly of hydrogen and which other gas?",
+        "correct_answer": "Helium",
+        "incorrect_answers": [
+            "Oxygen",
+            "Argon",
+            "Nitrogen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Marvel vs Capcom 2: New age of Heroes was released in what year?",
+        "correct_answer": "2000",
+        "incorrect_answers": [
+            "2001",
+            "2003",
+            "1998"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Pok&eacute;mon, Arbok evolves into Seviper.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In the original Star Wars trilogy, David Prowse was the actor who physically portrayed Darth Vader.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "Which character was played by Dustin Diamond in the sitcom &#039;Saved by the Bell&#039;?",
+        "correct_answer": "Screech",
+        "incorrect_answers": [
+            "Zack",
+            "Mr. Belding",
+            "A.C. Slater"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In what year was &quot;Super Mario Sunshine&quot; released?",
+        "correct_answer": "2002",
+        "incorrect_answers": [
+            "2003",
+            "2000",
+            "2004"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Where does &quot;Gasolina&quot; rapper Daddy Yankee originate from?",
+        "correct_answer": "Puerto Rico",
+        "incorrect_answers": [
+            "Cuba",
+            "Mexico",
+            "Spain"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Complete the following analogy: Audi is to Volkswagen as Infiniti is to ?",
+        "correct_answer": "Nissan",
+        "incorrect_answers": [
+            "Honda",
+            "Hyundai",
+            "Subaru"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In &quot;The Amazing World of Gumball&quot;, who is the principal of Elmore Junior High?",
+        "correct_answer": "Principal Brown",
+        "incorrect_answers": [
+            "Principal Small",
+            "Principal Brawn",
+            "Principal Simeon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "With his distinctive red hair, which Italian composer, born in 1678, was known as the &#039;Red Priest&#039;?",
+        "correct_answer": "Vivaldi",
+        "incorrect_answers": [
+            "Puccini",
+            "Verdi",
+            "Monteverdi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is the county seat of King County, Washington?",
+        "correct_answer": "Seattle",
+        "incorrect_answers": [
+            "Bellevue",
+            "Enumclaw",
+            "Skykomish"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Who is the main character with yellow hair in the anime Naruto?",
+        "correct_answer": "Naruto",
+        "incorrect_answers": [
+            "Ten Ten",
+            "Sasuke",
+            "Kakashi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "During which American Civil War campaign did Union troops dig a tunnel beneath Confederate troops to detonate explosives underneath them?",
+        "correct_answer": "Siege of Petersburg",
+        "incorrect_answers": [
+            "Siege of Vicksburg",
+            "Antietam Campaign",
+            "Gettysburg Campagin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "&quot;Strangereal&quot; is a fictitious Earth-like world for which game series?",
+        "correct_answer": "Ace Combat",
+        "incorrect_answers": [
+            "Jet Set Radio",
+            "Deus Ex",
+            "Crimson Skies"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which American family band had a 1986 top 10 hit with the song &#039;Crush On You&#039;?",
+        "correct_answer": "The Jets",
+        "incorrect_answers": [
+            "DeBarge",
+            "The Jacksons",
+            "The Cover Girls"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Where was the Games of the XXII Olympiad held?",
+        "correct_answer": "Moscow",
+        "incorrect_answers": [
+            "Barcelona",
+            "Tokyo",
+            "Los Angeles"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The Korean War started in what year?",
+        "correct_answer": "1950",
+        "incorrect_answers": [
+            "1945",
+            "1960",
+            "1912"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "The human right lung has how many lobes?",
+        "correct_answer": "3",
+        "incorrect_answers": [
+            "4",
+            "2",
+            "1"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "The word &quot;news&quot; originates from the first letters of the 4 main directions on a compass (North, East, West, South).",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What is the common term for bovine spongiform encephalopathy (BSE)?",
+        "correct_answer": "Mad Cow disease",
+        "incorrect_answers": [
+            "Weil&#039;s disease",
+            "Milk fever",
+            "Foot-and-mouth disease"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "What nucleotide pairs with guanine?",
+        "correct_answer": "Cytosine",
+        "incorrect_answers": [
+            "Thymine",
+            "Adenine",
+            "Uracil"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Need for Speed: Most Wanted (2005), what was the name of the main antagonist?",
+        "correct_answer": "Clarence &quot;Razor&quot; Callahan",
+        "incorrect_answers": [
+            "Hector &quot;Ming&quot; Domingo",
+            "Toru &quot;Bull&quot; Sato",
+            "Karl &quot;Baron&quot; Smit"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "The Bracken from Lethal Company is also known as:",
+        "correct_answer": "The Flower Man",
+        "incorrect_answers": [
+            "The Phantom",
+            "The Shadow Demon",
+            "Larry"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Danganronpa 2: Goodbye Despair featured all of the surviving students from the first game.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The National Animal of Scotland is the Unicorn.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "&#039;We Built This City&#039; was a number one hit for which American rock band in 1985?",
+        "correct_answer": "Starship",
+        "incorrect_answers": [
+            "Kansas",
+            "Jefferson Airplane",
+            "Aerosmith"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "The Internet Meme &quot;All your base are belong to us&quot; is based on the poorly translated English Version of which Video Game?",
+        "correct_answer": "Zero Wing",
+        "incorrect_answers": [
+            "F-Zero",
+            "Wing Commander",
+            "Star Wars: X-Wing"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name the location-based augmented reality game developed by Niantic before Pok&eacute;mon GO?",
+        "correct_answer": "Ingress",
+        "incorrect_answers": [
+            "Aggress",
+            "Regress",
+            "Digress"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Undertale, how much do Spider Donuts cost in Hotland?",
+        "correct_answer": "9999G",
+        "incorrect_answers": [
+            "7G",
+            "40G",
+            "12G"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Toronto is the capital city of the North American country of Canada.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "Which of these Bojack Horseman characters is a human?",
+        "correct_answer": "Todd Chavez",
+        "incorrect_answers": [
+            "Lennie Turtletaub",
+            "Princess Carolyn",
+            "Tom Jumbo-Grumbo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which company made the Japanese RPG &quot;Dragon Quest&quot;?",
+        "correct_answer": "Square Enix",
+        "incorrect_answers": [
+            "Capcom",
+            "Konami",
+            "Blizzard"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which Landsat Satellite failed to reach orbit?",
+        "correct_answer": "Landsat 6",
+        "incorrect_answers": [
+            "Landsat 5",
+            "Landsat 4",
+            "Landsat 3"
+        ]
+    }
+]

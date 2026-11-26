@@ -1,0 +1,594 @@
+[
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The Fiat Multipla is a drivable car in &quot;Forza Horizon 3&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these Pokemon is NOT exclusively female?",
+        "correct_answer": "Clefairy",
+        "incorrect_answers": [
+            "Salazzle",
+            "Mandibuzz",
+            "Illumise"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Rhinoplasty is a surgical procedure on what part of the human body?",
+        "correct_answer": "Nose",
+        "incorrect_answers": [
+            "Ears",
+            "Chin",
+            "Neck"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "Found in the Marvel Comics fictional universe, what is the name of the nearly indestructible metal that coats Wolverine&#039;s bones and claws?",
+        "correct_answer": "Adamantium",
+        "incorrect_answers": [
+            "Titanium",
+            "Vibranium",
+            "Carbonadium"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "According to Overwatch&#039;s lore, who was once a member of the Deadlock Gang?",
+        "correct_answer": "McCree",
+        "incorrect_answers": [
+            "Roadhog",
+            "Soldier 76",
+            "Junkrat"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "What do you declare in Rīchi Mahjong when you&#039;ve drawn your winning tile?",
+        "correct_answer": "Tsumo",
+        "incorrect_answers": [
+            "Ron",
+            "Rīchi",
+            "Kan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What was Taylor Swift&#039;s 5th album called?",
+        "correct_answer": "1989",
+        "incorrect_answers": [
+            "Fearless",
+            "Red",
+            "Speak Now"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "Which PBS station was the first station to air &quot;Monty Python&#039;s Flying Circus&quot; (1969-1974) in the United States?",
+        "correct_answer": "KERA (Dallas-Fort Worth)",
+        "incorrect_answers": [
+            "KLCS (Los Angeles)",
+            "WETA (Washington D.C.)",
+            "WNET (New York City)"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In what year did the anime adaptation of &quot;March Comes In Like A Lion&quot; air?",
+        "correct_answer": "2016",
+        "incorrect_answers": [
+            "2017",
+            "2018",
+            "2015"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of these bands is the oldest?",
+        "correct_answer": "Pink Floyd",
+        "incorrect_answers": [
+            "AC/DC",
+            "Metallica",
+            "Red Hot Chili Peppers"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "What are the first 6 digits of the number &quot;Pi&quot;?",
+        "correct_answer": "3.14159",
+        "incorrect_answers": [
+            "3.14169",
+            "3.12423",
+            "3.25812"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In &quot;My Little Pony: Friendship is Magic&quot;, which of these ponies represents the quality of honesty?",
+        "correct_answer": "Applejack",
+        "incorrect_answers": [
+            "Twilight Sparkle",
+            "Pinkie Pie",
+            "Rarity"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the ADV (English) Dub of the anime &quot;Ghost Stories&quot;, which character is portrayed as a Pentacostal Christian?",
+        "correct_answer": "Momoko Koigakubo",
+        "incorrect_answers": [
+            "Hajime Aoyama",
+            "Satsuki Miyanoshita",
+            "Mio Itai"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What planet is not named after a Greek or Roman god?",
+        "correct_answer": "Earth",
+        "incorrect_answers": [
+            "Jupiter",
+            "Mars",
+            "Mercury"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Who sung the opening theme song to the 1995 James Bond film &#039;Goldeneye&#039;?",
+        "correct_answer": "Tina Turner",
+        "incorrect_answers": [
+            "Shirley Bassey",
+            "Sheryl Crow",
+            "Madonna"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who are the two protagonists of the game Yakuza 0?",
+        "correct_answer": "Kazuma Kiryu and Goro Majima",
+        "incorrect_answers": [
+            "Shintaro Kazama and Kazuma Kiryu",
+            "Keiji Shibusawa and Daisaku Kuze",
+            "Akira Nishikiyama and Tetsu Tachibana"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "What is Jean ValJean&#039;s first prisoner number?",
+        "correct_answer": "24601",
+        "incorrect_answers": [
+            "9430",
+            "1729",
+            "32769"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Pokemon, the ability Wonder Guard is exclusive to which Pokemon? ",
+        "correct_answer": "Shedinja ",
+        "incorrect_answers": [
+            "Sableye",
+            "Spiritomb",
+            "Silvally "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What American city was featured in the 1999 PC game Midtown Madness?",
+        "correct_answer": "Chicago",
+        "incorrect_answers": [
+            "Washington D.C.",
+            "San Francisco",
+            "New York City"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which portuguese island is soccer player Cristiano Ronaldo from?",
+        "correct_answer": "Madeira",
+        "incorrect_answers": [
+            "Terceira",
+            "Santa Maria",
+            "Porto Santo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "Which of these companies does NOT manufacture motorcycles?",
+        "correct_answer": "Toyota",
+        "incorrect_answers": [
+            "Honda",
+            "Kawasaki",
+            "Yamaha"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In what city in the dystopia alternate future of Half-Life 2 do you first start in?",
+        "correct_answer": "City 17",
+        "incorrect_answers": [
+            "City 18",
+            "City 6",
+            "City 45"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Whose greyscale face is on the kappa emoticon on Twitch?",
+        "correct_answer": "Josh DeSeno",
+        "incorrect_answers": [
+            "Justin DeSeno",
+            "John DeSeno",
+            "Jimmy DeSeno"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "The medical condition osteoporosis affects which part of the body?",
+        "correct_answer": "Bones",
+        "incorrect_answers": [
+            "Skin",
+            "Brain",
+            "Heart"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What studio animated Ouran High School Host Club?",
+        "correct_answer": "Bones",
+        "incorrect_answers": [
+            "Production I.G",
+            "Kyoto Animation",
+            "xebec"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which game in the &quot;Monster Hunter&quot; series introduced the &quot;Insect Glaive&quot; weapon?",
+        "correct_answer": "Monster Hunter 4",
+        "incorrect_answers": [
+            "Monster Hunter Freedom",
+            "Monster Hunter Stories",
+            "Monster Hunter 2"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "How many chromosomes are in your body cells?",
+        "correct_answer": "23",
+        "incorrect_answers": [
+            "21",
+            "22",
+            "24"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What M83 was featured in Grand Theft Auto V&#039;s radio?",
+        "correct_answer": "Midnight City",
+        "incorrect_answers": [
+            "Outro",
+            "Reunion",
+            "Wait"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "When was the top-down online RPG &quot;Space Station 13&quot; released?",
+        "correct_answer": "2003",
+        "incorrect_answers": [
+            "2000",
+            "2010",
+            "2006"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which artist released his third and final studio album &#039;Electric Ladyland&#039; before his death in 1970?",
+        "correct_answer": "Jimi Hendrix",
+        "incorrect_answers": [
+            "Prince",
+            "Eric Clapton",
+            "Captain Sensible"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+        "correct_answer": "Nine",
+        "incorrect_answers": [
+            "Ten",
+            "Seven",
+            "Eight"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "What was the subject of the 2014 song &quot;CoCo&quot; by American rapper O. T. Genasis?",
+        "correct_answer": "Cocaine",
+        "incorrect_answers": [
+            "Conan O&#039;Brien",
+            "Cobalt(II) carbonate",
+            "Coconut cream pie"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "The proof for the Chinese Remainder Theorem used in Number Theory was NOT developed by its first publisher, Sun Tzu.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Mario &amp; Sonic at the Olympic Games&quot;, characters are split into how many types?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "6",
+            "5",
+            "3"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Who was the villain of &#039;&#039;The Lion King&#039;&#039;?",
+        "correct_answer": "Scar",
+        "incorrect_answers": [
+            "Fred",
+            "Jafar",
+            "Vada"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "How many time zones does China have?",
+        "correct_answer": "1",
+        "incorrect_answers": [
+            "3",
+            "4",
+            "2"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "In the novel &quot;Lord of the Rings&quot;, how many rings of power were given to the race of man?",
+        "correct_answer": "9",
+        "incorrect_answers": [
+            "5",
+            "11",
+            "13"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the title of the game &quot;Luigi&#039;s Mansion&quot;, what is the only letter to not appear with a pair of eyes in it?",
+        "correct_answer": "s",
+        "incorrect_answers": [
+            "n",
+            "i",
+            "m"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What does the term MIME stand for, in regards to computing?",
+        "correct_answer": "Multipurpose Internet Mail Extensions",
+        "incorrect_answers": [
+            "Mail Internet Mail Exchange",
+            "Multipurpose Interleave Mail Exchange",
+            "Mail Interleave Method Exchange"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "How many US states start with the letter K?",
+        "correct_answer": "Two",
+        "incorrect_answers": [
+            "One",
+            "None",
+            "Three"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Who is the author of the manga series &quot;Astro Boy&quot;?",
+        "correct_answer": "Osamu Tezuka",
+        "incorrect_answers": [
+            "Mitsuteri Yokoyama",
+            "Takao Saito",
+            "Yoshihiro Tatsumi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "To what political party did Abraham Lincoln belong when elected POTUS?",
+        "correct_answer": "Republican",
+        "incorrect_answers": [
+            "Democrat",
+            "Independent",
+            "Whig"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "How many members are there in the band Nirvana?",
+        "correct_answer": "Three",
+        "incorrect_answers": [
+            "Two",
+            "Four",
+            "Five"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What year did the game &quot;Overwatch&quot; enter closed beta?",
+        "correct_answer": "2015",
+        "incorrect_answers": [
+            "2013",
+            "2011",
+            "2016"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "&quot;Santa Claus&quot; is a variety of melon.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What is the fastest animal?",
+        "correct_answer": "Peregrine Falcon",
+        "incorrect_answers": [
+            "Golden Eagle",
+            "Cheetah",
+            "Horsefly"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following Terran units from the RTS game Starcraft was first introduced in the expansion Brood War?",
+        "correct_answer": "Medic",
+        "incorrect_answers": [
+            "Wraith",
+            "Science Vessel",
+            "SCV"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Which episode from The Amazing World Of Gumball won the Childrens Choice Award at the British Animation Awards in 2016?",
+        "correct_answer": "The Shell",
+        "incorrect_answers": [
+            "The Limit",
+            "The Kids",
+            "The Gripes"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the video game &quot;Blue Reflection&quot;, the main protagonist, Hinako Shirai, was a ballet dancer.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What Latin phrase roughly translates to &quot;seize the day&quot;?",
+        "correct_answer": "Carpe diem",
+        "incorrect_answers": [
+            "Memento mori",
+            "Plus ultra",
+            "Sic semper tyrannis"
+        ]
+    }
+]

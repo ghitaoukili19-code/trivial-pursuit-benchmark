@@ -1,0 +1,584 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which of the following buildings is example of a structure primarily built in the Art Deco architectural style?",
+        "correct_answer": "Niagara Mohawk Building",
+        "incorrect_answers": [
+            "Taipei 101",
+            "One Detroit Center",
+            "Westendstrasse 1"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Snakes and lizards are known to flick their tongue, this behavior is to?",
+        "correct_answer": "Capture scent particles",
+        "incorrect_answers": [
+            "Taste the sweet air",
+            "Threaten other species",
+            "Attract female mates"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The US state of New York has about as many inhabitants as?",
+        "correct_answer": "Romania",
+        "incorrect_answers": [
+            "Poland",
+            "Germany",
+            "Hungary"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "The greek god Poseidon was the god of what?",
+        "correct_answer": "The Sea",
+        "incorrect_answers": [
+            "War",
+            "Sun",
+            "Fire"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The mitochondria is the powerhouse of the cell.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+        "correct_answer": "Apple",
+        "incorrect_answers": [
+            "Microsoft",
+            "Atari",
+            "Commodore"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Before it&#039;s redesign of the company logo in the year 2000, which 3D shape is NOT represented in the Electronic Arts logo?",
+        "correct_answer": "Cylinder",
+        "incorrect_answers": [
+            "Pyramid",
+            "Cube",
+            "Sphere"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which wrestler won the 2019 Men&rsquo;s Royal Rumble?",
+        "correct_answer": "Seth Rollins",
+        "incorrect_answers": [
+            "Braun Strowman",
+            "AJ Styles",
+            "Andrade"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The assassination of which royal led to the start of World War I?",
+        "correct_answer": "Archduke Franz Ferdinand",
+        "incorrect_answers": [
+            "Louis Mountbatten",
+            "King Charles I",
+            "Nicholas II"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which continent is considered the largest and most populous continent in the world?",
+        "correct_answer": "Asia",
+        "incorrect_answers": [
+            "Africa",
+            "Europe",
+            "North America"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who was the top scorer of the 2014 FIFA World Cup?",
+        "correct_answer": "James Rodr&iacute;guez",
+        "incorrect_answers": [
+            "Thomas M&uuml;ller",
+            "Lionel Messi",
+            "Neymar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "In the Lord of the Rings, who is the father of the dwarf Gimli?",
+        "correct_answer": "Gloin",
+        "incorrect_answers": [
+            "Thorin Oakenshield",
+            "Bombur",
+            "Dwalin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Who is Winnie the Pooh&#039;s gloomy donkey friend?",
+        "correct_answer": "Eeyore",
+        "incorrect_answers": [
+            "Piglet",
+            "Tigger",
+            "Kanga"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the Resident Evil series, Leon S. Kennedy is a member of STARS.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which country won the 2018 FIFA World Cup hosted in Russia?",
+        "correct_answer": "France",
+        "incorrect_answers": [
+            "Croatia",
+            "Belgium",
+            "England"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What is the number of keys on a standard Windows Keyboard?",
+        "correct_answer": "104",
+        "incorrect_answers": [
+            "64",
+            "94",
+            "76"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which of these cities has a 4&deg; East longitude. ",
+        "correct_answer": "Amsterdam",
+        "incorrect_answers": [
+            "Rio de Janero",
+            "Toronto",
+            "Hong Kong"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "How long was Ken Jennings&#039; win streak on Jeopardy?",
+        "correct_answer": "74",
+        "incorrect_answers": [
+            "88",
+            "49",
+            "62"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Gadgets",
+        "question": "The communication protocol NFC stands for Near-Field Control.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "What country saw a world record 315 million voters turn out for elections on May 20, 1991?",
+        "correct_answer": "India",
+        "incorrect_answers": [
+            "United States of America",
+            "Soviet Union",
+            "Poland"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the Team Fortress 2 canon, what did Shakespearicles NOT invent?",
+        "correct_answer": "Stairs",
+        "incorrect_answers": [
+            "Two-Story Building",
+            "Rocket Launcher",
+            "Stage Play"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "From which country does the piano originate?",
+        "correct_answer": "Italy",
+        "incorrect_answers": [
+            "Germany",
+            "Austria",
+            "France"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Who did Drew Brees pass in all time NFL passing yards in 2018?",
+        "correct_answer": "Peyton Manning",
+        "incorrect_answers": [
+            "Tom Brady",
+            "Dan Marino",
+            "Joe Montana"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What was the world&#039;s first handheld game device?",
+        "correct_answer": "Mattel Auto Race",
+        "incorrect_answers": [
+            "Game Boy",
+            "Microvision",
+            "Game &amp; Watch"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who won the &quot;Champions League&quot; in 1999?",
+        "correct_answer": "Manchester United",
+        "incorrect_answers": [
+            "Barcelona",
+            "Bayern Munich",
+            "Liverpool"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Alaska is the largest state in the United States.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "In the book series &quot;Odd Thomas&quot;, Danny Jessup has what genetic disease? ",
+        "correct_answer": " Osteogenesis Imperfecta",
+        "incorrect_answers": [
+            "Spinocerebellar ataxia",
+            "Adrenoleukodystrophy",
+            "Cystic Fibrosis"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Ecuador uses the Mexican Peso as its currency.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "The band, HEALTH, is called HEALTH because they wanted to choose an everyday word for the band name.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the Master levels in &quot;Super Monkey Ball&quot; is also used in the arcade version of the game, simply named &quot;Monkey Ball&quot;?",
+        "correct_answer": "MASTER 9 - Bridge Master",
+        "incorrect_answers": [
+            "MASTER 3 - Stamina Master",
+            "MASTER 10 - Monkey Master",
+            "MASTER 6 - Roll Master"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What was Bon Iver&#039;s debut album released in 2007?",
+        "correct_answer": "For Emma, Forever Ago",
+        "incorrect_answers": [
+            "Bon Iver, Bon Iver",
+            "22, A Million",
+            "Blood Bank EP"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Before becoming the Autobot leader, Optimus Prime was known by what name on Cybertron?",
+        "correct_answer": "Orion Pax",
+        "incorrect_answers": [
+            "Long Haul",
+            "P-138",
+            "Teletran-1"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In the show, Doctor Who, what does T.A.R.D.I.S stand for?",
+        "correct_answer": "Time And Relative Dimensions In Space",
+        "incorrect_answers": [
+            "Time And Resting Dimensions In Space",
+            "Time And Relative Dimensions In Style",
+            "Toilet Aid Rope Dog Is Soup"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What type of animal is Disney&#039;s Bambi?",
+        "correct_answer": "Deer",
+        "incorrect_answers": [
+            "Elephant",
+            "Wolf",
+            "Mouse"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "How many sonatas did Ludwig van Beethoven write?",
+        "correct_answer": "32",
+        "incorrect_answers": [
+            "50",
+            "31",
+            "21"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Rabbits are carnivores.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The rights to the &quot;Rayman&quot; series are owned by which company?",
+        "correct_answer": "Ubisoft",
+        "incorrect_answers": [
+            "Nintendo",
+            "EA",
+            "Sony"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What did Gregory Mendel use to test genetic crossovers?",
+        "correct_answer": "Peas",
+        "incorrect_answers": [
+            "Cats",
+            "Flowers",
+            "Parrots"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "For the film &quot;Raiders of The Lost Ark&quot;, what was Harrison Ford sick with during the filming of the Cairo chase?",
+        "correct_answer": "Dysentery",
+        "incorrect_answers": [
+            "Anemia",
+            "Constipation",
+            "Acid Reflux "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In the movie &quot;Cast Away&quot; the main protagonist&#039;s best friend while on the island is named",
+        "correct_answer": "Wilson",
+        "incorrect_answers": [
+            "Carson",
+            "Jackson",
+            "Willy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following Pokemon Types was present in the original games, Red and Blue?",
+        "correct_answer": "Ice",
+        "incorrect_answers": [
+            "Steel",
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the capital of the U.S. state Texas?",
+        "correct_answer": "Austin",
+        "incorrect_answers": [
+            "Dallas",
+            "Santa Fe",
+            "Houston"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "The original ending of &quot;Little Shop Of Horrors&quot; has the plants taking over the world.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "In which Shakespeare play does the character Marcellus say, &quot;Something is rotten in the state of Denmark&quot;?",
+        "correct_answer": "Hamlet",
+        "incorrect_answers": [
+            "Macbeth",
+            "King Lear",
+            "Twelfth Night"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "During development of &quot;Super Mario World&quot;, Yoshi&#039;s hard saddle was originally which of these?",
+        "correct_answer": "A shell",
+        "incorrect_answers": [
+            "A slide of Gelatin",
+            "A poffin",
+            "A spike"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the first boss the player encounters in the 2017 game, &quot;Little Nightmares&quot;?",
+        "correct_answer": "The Janitor",
+        "incorrect_answers": [
+            "The Warden",
+            "The Caretaker",
+            "The Overseer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is NOT the name of a rival gang in the video game Saint&#039;s Row 2?",
+        "correct_answer": "The Zin Empire",
+        "incorrect_answers": [
+            "The Brotherhood",
+            "The Ronin",
+            "The Sons of Samedi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Dota 2, what is Earthshaker&#039;s real name?",
+        "correct_answer": "Raigor Stonehoof",
+        "incorrect_answers": [
+            "Banehallow Ambry",
+            "Carl",
+            "Barathrum"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The Quran is the holy book of which Abrahamic religion?",
+        "correct_answer": "Islam",
+        "incorrect_answers": [
+            "Christianity",
+            "Judaism",
+            "Rastafarianism"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The name of the main character of the video game &quot;The Legend of Zelda&quot;, is Zelda.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    }
+]

@@ -1,0 +1,580 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
+        "correct_answer": "Subscriber",
+        "incorrect_answers": [
+            "Single",
+            "Secure",
+            "Solid"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "Which Russian author wrote the epic novel War and Peace?",
+        "correct_answer": "Leo Tolstoy",
+        "incorrect_answers": [
+            "Fyodor Dostoyevsky",
+            "Alexander Pushkin",
+            "Vladimir Nabokov"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which animation studio animated &quot;To Love-Ru&quot;?",
+        "correct_answer": "Xebec",
+        "incorrect_answers": [
+            "Trigger",
+            "Sunrise",
+            "Kyoto Animation"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In Alfred Hitchcock&#039;s film &#039;Psycho&#039; it is said he used chocolate syrup to simulate the blood in the famous shower scene from ",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "In the words of his 1973 song, Bob Dylan is &quot;knock, knock, knockin&quot; on which door?",
+        "correct_answer": "Heaven&#039;s",
+        "incorrect_answers": [
+            "Opportunity&#039;s",
+            "Angie&#039;s",
+            "Eileen&#039;s"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Which of the following United States senators is known for performing a 24-hour long filibuster?",
+        "correct_answer": "Strom Thurmond",
+        "incorrect_answers": [
+            "Roy Blunt",
+            "John Barrasso",
+            "Chuck Schumer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which of these is a stop codon in DNA?",
+        "correct_answer": "TAA",
+        "incorrect_answers": [
+            "ACT",
+            "ACA",
+            "GTA"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "David Baszucki was a co-founder of ROBLOX Corporation.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "All planets in the Solar System orbit the Sun.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The capital of Brazil is Rio de Janeiro.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The Mann Co. Store from Team Fortress 2 has the slogan &quot;We hire mercenaries and get in fights&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the rules of the Danganronpa franchise, it states that a nighttime curfew for certain areas occurs between 12am and 8am.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In the 1968 Cartoon Show &quot;Wacky Races&quot; what was the name of cavemen duo who rode in The Boulder Mobile?",
+        "correct_answer": "The Slag Brothers",
+        "incorrect_answers": [
+            "The Slate Brothers",
+            "The Rock Brothers",
+            "The Stone Brothers"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
+        "correct_answer": "Center Parcs",
+        "incorrect_answers": [
+            "Yelloh Village",
+            "Keycamp",
+            "Villa Plus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the &quot;Call Of Duty: Zombies&quot; map &quot;Origins&quot;, where is &quot;Stamin-Up&quot; located?",
+        "correct_answer": "Generator 5",
+        "incorrect_answers": [
+            "Generator 3",
+            "Generator 4",
+            "Excavation Site"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What was Bitcoin&#039;s block size limit in 2010?",
+        "correct_answer": "1 MB",
+        "incorrect_answers": [
+            "1GB",
+            "1 KB",
+            "1 TB"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "When was the movie &#039;Con Air&#039; released?",
+        "correct_answer": "1997",
+        "incorrect_answers": [
+            "1985",
+            "1999",
+            "1990"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Which painting was not made by Vincent Van Gogh?",
+        "correct_answer": "The Ninth Wave",
+        "incorrect_answers": [
+            "Caf&eacute; Terrace at Night",
+            "Bedroom In Arles",
+            "Starry Night"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "Time on Computers is measured via the EPOX System.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "When did the Byzantine Empire collapse?",
+        "correct_answer": "1453",
+        "incorrect_answers": [
+            "1299",
+            "1353",
+            "1498"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "&quot;Minecraft&quot; was released from beta in 2011 during a convention held in which city?",
+        "correct_answer": "Las Vegas",
+        "incorrect_answers": [
+            "Paris",
+            "Bellevue",
+            "London"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "In what sport is a &quot;shuttlecock&quot; used?",
+        "correct_answer": "Badminton",
+        "incorrect_answers": [
+            "Table Tennis",
+            "Rugby",
+            "Cricket"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "IMAX stands for Image Maximum.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In My Little Pony, what is the name of Applejack&#039;s younger sister?",
+        "correct_answer": "Apple Bloom",
+        "incorrect_answers": [
+            "Red Delicious",
+            "Apple Sweets",
+            "Apple Fritter"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;Toriko&quot;, which of the following foods is knowingly compatible with Toriko?",
+        "correct_answer": "Poison Potato",
+        "incorrect_answers": [
+            "Mors Oil",
+            "Alpacookie",
+            "Parmesansho Fruit"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The Battle of Hastings was fought in which year?",
+        "correct_answer": "1066",
+        "incorrect_answers": [
+            "911",
+            "1204",
+            "1420"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Which of these cities does NOT have a United States Minting location?",
+        "correct_answer": "St. Louis, MO",
+        "incorrect_answers": [
+            "San Fransisco, CA",
+            "Philidelphia, PA",
+            "West Point, NY"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What was the first Game released using the Build Engine?",
+        "correct_answer": "Witchaven",
+        "incorrect_answers": [
+            "DOOM",
+            "Duke Nukem 3D",
+            "William Shatner&#039;s Tekwar"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Han Solo&#039;s co-pilot and best friend, &quot;Chewbacca&quot;, is an Ewok.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following characters from the game &quot;Overwatch&quot; was revealed to be homosexual in December of 2016?",
+        "correct_answer": "Tracer",
+        "incorrect_answers": [
+            "Widowmaker",
+            "Sombra",
+            "Symmetra"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "What animal did Queen Pasipahe sleep with before she gave birth to the Minotaur in Greek Mythology?",
+        "correct_answer": "Bull",
+        "incorrect_answers": [
+            "Pig",
+            "Ox",
+            "Horse"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The game &quot;Battlefield 1&quot; takes place during World War I.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The game &quot;Pocket Morty&quot; has a Morty called &quot;Pocket Mortys Morty&quot;?",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "What was the first organic compound to be synthesized from inorganic compounds?",
+        "correct_answer": "Urea",
+        "incorrect_answers": [
+            "Propane",
+            "Ethanol",
+            "Formaldehyde"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Mythology",
+        "question": "Nidhogg is a mythical creature from what mythology?",
+        "correct_answer": "Norse",
+        "incorrect_answers": [
+            "Egyptian",
+            "Greek",
+            "Hindu"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which Game Boy from the Game Boy series of portable video game consoles was released first?",
+        "correct_answer": "Game Boy Color",
+        "incorrect_answers": [
+            "Game Boy Advance",
+            "Game Boy Micro",
+            "Game Boy Advance SP"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "Which of the following is another name for the &quot;Poecilotheria Metallica Tarantula&quot;?",
+        "correct_answer": "Gooty",
+        "incorrect_answers": [
+            "Hopper",
+            "Silver Stripe",
+            "Woebegone"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Gadgets",
+        "question": "When was the DVD invented?",
+        "correct_answer": "1995",
+        "incorrect_answers": [
+            "2000",
+            "1990",
+            "1980"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Starbound&quot;, what is the max HP of the monster &quot;Punchy&quot;?",
+        "correct_answer": "50,000 HP",
+        "incorrect_answers": [
+            "9,000,000 HP",
+            "100 HP",
+            "150,000 HP"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the virus in &quot;Metal Gear Solid 1&quot;?",
+        "correct_answer": "FOXDIE",
+        "incorrect_answers": [
+            "FOXENGINE",
+            "FOXALIVE",
+            "FOXKILL"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;One Piece&quot;, who is the girl who overcame her enslaved past and became an agent of an army to fight the corrupt government?",
+        "correct_answer": "Koala",
+        "incorrect_answers": [
+            "Boa Hancock",
+            "Nico Robin",
+            "Emporio Ivankov "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "Which of these is not a layer in the OSI model for data communications?",
+        "correct_answer": "Connection Layer",
+        "incorrect_answers": [
+            "Application Layer",
+            "Transport Layer",
+            "Physical Layer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Need for Speed III: Hot Pursuit&quot;, what is the name of the fictional car?",
+        "correct_answer": "El Ni&ntilde;o",
+        "incorrect_answers": [
+            "R&aacute;pido",
+            "&Aacute;gil",
+            "La Ni&ntilde;a"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Mirror&#039;s Edge Catalyst takes place in the City of...?",
+        "correct_answer": "Glass",
+        "incorrect_answers": [
+            "Mirrors",
+            "Purity",
+            "Diamonds"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "Where does the book &quot;The Silence of the Lambs&quot; get its title from?",
+        "correct_answer": "The main character&#039;s trauma in childhood",
+        "incorrect_answers": [
+            "The relation it has with killing the innocents",
+            "The villain&#039;s favourite meal",
+            "The voice of innocent people being shut by the powerful"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which one of these games wasn&#039;t released in 2016?",
+        "correct_answer": "Metal Gear Solid V",
+        "incorrect_answers": [
+            "Tom Clancy&#039;s The Division",
+            "Killing Floor 2",
+            "Hitman"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What is the name of the first &quot;Star Wars&quot; film by release order?",
+        "correct_answer": "A New Hope",
+        "incorrect_answers": [
+            "The Phantom Menace",
+            "The Force Awakens",
+            "Revenge of the Sith"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What&#039;s the name of the main protagonist in the &quot;Legend of Zelda&quot; franchise?",
+        "correct_answer": "Link",
+        "incorrect_answers": [
+            "Mario",
+            "Zelda",
+            "Pit"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "The Electron computer was released in Britain during 1983 for the home computing market, by which company? ",
+        "correct_answer": "Acorn Computers",
+        "incorrect_answers": [
+            "Sinclair Research",
+            "Amstrad PLC",
+            "Commodore Business Machines"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What year did World War I begin?",
+        "correct_answer": "1914",
+        "incorrect_answers": [
+            "1905",
+            "1919",
+            "1925"
+        ]
+    }
+]

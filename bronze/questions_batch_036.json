@@ -1,0 +1,588 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "What type is &quot;Magic Drain&quot; in Yugioh! Trading Card Game?",
+        "correct_answer": "Counter Trap",
+        "incorrect_answers": [
+            "Normal Trap",
+            "Quick-Play Spell",
+            "Field Spell"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which psychological term refers to the stress of holding contrasting beliefs?",
+        "correct_answer": "Cognitive Dissonance",
+        "incorrect_answers": [
+            "Flip-Flop Syndrome",
+            "Split-Brain",
+            "Blind Sight"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What is the standard atomic weight of a Plutonium nucleus?",
+        "correct_answer": "244",
+        "incorrect_answers": [
+            "94",
+            "481",
+            "128"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "What French sculptor designed the Statue of Liberty? ",
+        "correct_answer": "Fr&eacute;d&eacute;ric Auguste Bartholdi",
+        "incorrect_answers": [
+            "Jean-L&eacute;on G&eacute;r&ocirc;me",
+            "Auguste Rodin",
+            "Henri Matisse"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "Who wrote the 1967 horror novel &quot;Rosemary&#039;s Baby&quot;?",
+        "correct_answer": "Ira Levin",
+        "incorrect_answers": [
+            "Stephen King",
+            "Robert Bloch",
+            "Mary Shelley"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who was the main developer of the Suez Canal?",
+        "correct_answer": "Ferdinand de Lesseps",
+        "incorrect_answers": [
+            "Louis-Eug&egrave;ne Cavaignac",
+            "John Milton",
+            "Johann Lukas von Hildebrandt"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which one of these is scientific term for &quot;Brain Freeze&quot;?",
+        "correct_answer": "Sphenopalatine Ganglioneuralgia",
+        "incorrect_answers": [
+            "Hyacinthoides Italica",
+            "Amaranthus Retroflexus",
+            "Amblyomma Americanum"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the video game Undertale, what Fun Value is required to obtain the Fake Hallway?",
+        "correct_answer": "66",
+        "incorrect_answers": [
+            "91",
+            "45",
+            "39"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "In Greek mythology, Persephone must return to the underworld because she had eaten what kind of seeds?",
+        "correct_answer": "Pomegranate",
+        "incorrect_answers": [
+            "Sunflower",
+            "Orange",
+            "Fig"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which of these elements on the Periodic Table is a Noble Gas?",
+        "correct_answer": "Neon",
+        "incorrect_answers": [
+            "Potassium",
+            "Iodine",
+            "Colbalt"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which of these is NOT the name of an album released by English singer-songwriter Adele?",
+        "correct_answer": "12",
+        "incorrect_answers": [
+            "19",
+            "21",
+            "25"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In &quot;ALF&quot;, what was ALF&#039;s real name?",
+        "correct_answer": "Gordon Shumway",
+        "incorrect_answers": [
+            "Gordon Milipp",
+            "Gordon Foster",
+            "Gordon von Gam"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which language is NOT Indo-European?",
+        "correct_answer": "Hungarian",
+        "incorrect_answers": [
+            "Russian",
+            "Greek",
+            "Latvian"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The mobile game &quot;Jetpack Joyride&quot; was released in what year? ",
+        "correct_answer": "2011",
+        "incorrect_answers": [
+            "2012",
+            "2009",
+            "2014"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What is the name of the Boeing B-29 that dropped the &#039;Little Boy&#039; atomic bomb on Hiroshima?",
+        "correct_answer": "Enola Gay",
+        "incorrect_answers": [
+            "Necessary Evil",
+            "The Great Artiste",
+            "Full House"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What continent is the country Lesotho in?",
+        "correct_answer": "Africa",
+        "incorrect_answers": [
+            "Asia",
+            "South America",
+            "Europe"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Super Mario Sunshine&quot;, how do you unlock the &quot;Corona Mountain&quot; level?",
+        "correct_answer": "By clearing every 7th episode",
+        "incorrect_answers": [
+            "By obtaining 70 Shines",
+            "By clearing every episode involving a &quot;Secret&quot;",
+            "By unlocking every nozzle F.L.U.D.D can use"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "Which Pokemon is #39 in the National Pokedex?",
+        "correct_answer": "Jigglypuff",
+        "incorrect_answers": [
+            "Pikachu",
+            "Psyduck",
+            "Fearow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "In the Beatrix Potter books, what type of animal is Tommy Brock?",
+        "correct_answer": "Badger",
+        "incorrect_answers": [
+            "Fox",
+            "Frog",
+            "Rabbit"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "Which car is the first mass-produced hybrid vehicle?",
+        "correct_answer": "Toyota Prius",
+        "incorrect_answers": [
+            "Chevrolet Volt",
+            "Honda Fit",
+            "Peugeot 308 R HYbrid"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What French artist/band is known for playing on the midi instrument &quot;Launchpad&quot;?",
+        "correct_answer": "Madeon",
+        "incorrect_answers": [
+            "Daft Punk ",
+            "Disclosure",
+            "David Guetta"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who created the 2011 Video Game &quot;Minecraft&quot;?",
+        "correct_answer": "Markus Persson",
+        "incorrect_answers": [
+            "Jens Bergensten",
+            "Daniel Rosenfeld",
+            "Carl Manneh"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Call Of Duty: Zombies&quot;, what is the name of the Pack-A-Punched Crossbow?",
+        "correct_answer": "Awful Lawton",
+        "incorrect_answers": [
+            "Longinus",
+            "V-R11",
+            "Predator"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the main character in most of the games of the YS series?",
+        "correct_answer": "Adol Christin ",
+        "incorrect_answers": [
+            "Character doesn&#039;t have a name",
+            "Estelle Bright",
+            "Roger Wilco"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "Which school in Surrey, England did Steve Backshall attend?",
+        "correct_answer": "Collingwood College",
+        "incorrect_answers": [
+            "Tomlinscote School",
+            "Kings International College",
+            "Lyndhurst School"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Dry ice is the solid form of what substance?",
+        "correct_answer": "Carbon dioxide",
+        "incorrect_answers": [
+            "Nitrogen",
+            "Ammonia",
+            "Oxygen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What is the common name of the chemical compound &quot;dihydrogen monoxide&quot;?",
+        "correct_answer": "Water",
+        "incorrect_answers": [
+            "Methane",
+            "Ammonia ",
+            "Laughing Gas"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What year did the Boxing Day earthquake &amp; tsunami occur in the Indian Ocean?",
+        "correct_answer": "2004",
+        "incorrect_answers": [
+            "2006",
+            "2008",
+            "2002"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Where does the original Friday The 13th movie take place?",
+        "correct_answer": "Camp Crystal Lake",
+        "incorrect_answers": [
+            "Packanack",
+            "Higgins Haven",
+            "Camp Forest Green"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "The common software-programming acronym &quot;I18N&quot; comes from the term &quot;Interlocalization&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What country has a horizontal bicolor red and white flag?",
+        "correct_answer": "Monaco",
+        "incorrect_answers": [
+            "Bahrain",
+            "Malta",
+            "Liechenstein"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "The Paradox Interactive game &quot;Stellaris&quot; was released in 2016.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the final game of the &quot;Zero Escape&quot; series called?",
+        "correct_answer": "Zero Escape Zero Time Dilemma ",
+        "incorrect_answers": [
+            "Nine Hours, Nine Persons, Nine Doors ",
+            "Zero Escape Virtue&#039;s Last Reward",
+            "The Nonary Game: Sigma&#039;s Last Life"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What year did the Titanic sink?",
+        "correct_answer": "1912",
+        "incorrect_answers": [
+            "1930",
+            "1917",
+            "1941"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Minecraft: Java Edition, which of the following feature/block was added to Survival mode in Beta 1.3?",
+        "correct_answer": "Beds",
+        "incorrect_answers": [
+            "Hunger",
+            "The Nether",
+            "Grass"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which modern country is known as &quot;The Graveyard of Empires&quot;?",
+        "correct_answer": "Afghanistan",
+        "incorrect_answers": [
+            "China",
+            "Iraq",
+            "Russia"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Greenland is covered with grass and Iceland covered with ice.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "If you could fold a piece of paper in half 50 times, its&#039; thickness will be 3/4th the distance from the Earth to the Sun.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "What TV show is about a grandfather dragging his grandson around on adventures?",
+        "correct_answer": "Rick &amp; Morty",
+        "incorrect_answers": [
+            "Family Guy",
+            "South Park",
+            "American Dad"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "What is the fastest road legal car in the world?",
+        "correct_answer": "Koenigsegg Agera RS",
+        "incorrect_answers": [
+            "Hennessy Venom GT",
+            "Bugatti Veyron Super Sport",
+            "Pagani Huayra BC"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Vatican City is a country.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What&#039;s the most common time signature for rock songs?",
+        "correct_answer": "4/4",
+        "incorrect_answers": [
+            "1/2",
+            "8/12",
+            "2/4"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the most frequently used letter in the english alphabet?",
+        "correct_answer": "E",
+        "incorrect_answers": [
+            "A",
+            "I",
+            "O"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Heroes of the Storm, the Cursed Hollow map gimmick requires players to kill the undead to curse the enemy team.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "What was the first feature-length computer-animated movie?",
+        "correct_answer": "Toy Story",
+        "incorrect_answers": [
+            "Tron",
+            "Lion king",
+            "101 Dalmatians"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Finnish Lapphund dogs were used for herding reindeer.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "According to &quot;Star Wars&quot; lore, which planet does Obi-Wan Kenobi come from?",
+        "correct_answer": "Stewjon",
+        "incorrect_answers": [
+            "Alderaan",
+            "Tatooine",
+            "Naboo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which soccer team won the Copa Am&eacute;rica Centenario 2016?",
+        "correct_answer": "Chile",
+        "incorrect_answers": [
+            "Argentina",
+            "Brazil",
+            "Colombia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "What was Bank of America originally established as?",
+        "correct_answer": "Bank of Italy",
+        "incorrect_answers": [
+            "Bank of Long Island",
+            "Bank of Pennsylvania",
+            "Bank of Charlotte"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the Mario Kart series, which game introduced the &quot;Shield Drifting&quot; mechanic?",
+        "correct_answer": "Mario Kart Arcade GP DX",
+        "incorrect_answers": [
+            "Mario Kart: Double Dash",
+            "Mario Kart Super Circuit",
+            "Mario Kart DS"
+        ]
+    }
+]

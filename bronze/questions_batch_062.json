@@ -1,0 +1,578 @@
+[
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "The &#039;Raspberry Pi&#039; series of single-board computers were created in the United States.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "About how many Slinkys were sold in their first 60 years (from 1945 to 2005)?",
+        "correct_answer": "300 Million",
+        "incorrect_answers": [
+            "100 Million",
+            "450 Million",
+            "1 Billion"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of these artists do NOT originate from France?",
+        "correct_answer": "The Chemical Brothers",
+        "incorrect_answers": [
+            "Air",
+            "Justice",
+            "Daft Punk"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "What was the third country to have a McDonald&#039;s restaurant?",
+        "correct_answer": "Costa Rica",
+        "incorrect_answers": [
+            "Japan",
+            "France",
+            "Australia"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "A pencil&#039;s lead is typically made from graphite, not lead",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Arriva is owned by the Deutsche Bahn.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In Minecraft, what update did foods like steak become stackable?",
+        "correct_answer": "Beta 1.8",
+        "incorrect_answers": [
+            "Alpha 1.2.0",
+            "Release 1.12.1",
+            "Release 1.7.2"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which character, in the game &quot;Morenatsu&quot;, has the most possible endings to their route, at a total of four different endings?",
+        "correct_answer": "Shin Kuroi",
+        "incorrect_answers": [
+            "Kouya Aotsuki",
+            "Soutarou Touno",
+            "Torahiko Ooshima"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What organelle aids in synthesis of DNA in cells?",
+        "correct_answer": "Ribosomes",
+        "incorrect_answers": [
+            "Nuclei",
+            "Lysosomes",
+            "Mitochondria"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "The binary number &quot;101001101&quot; is equivalent to the Decimal number &quot;334&quot;",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "The stop motion comedy show &quot;Robot Chicken&quot; was created by which of the following?",
+        "correct_answer": "Seth Green",
+        "incorrect_answers": [
+            "Seth MacFarlane",
+            "Seth Rogen",
+            "Seth Rollins"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What was Mountain Dew&#039;s original slogan?",
+        "correct_answer": "Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+        "incorrect_answers": [
+            "Give Me A Dew",
+            "Do The Dew",
+            "Get&#039; that barefoot feelin&#039; drinkin&#039; Mountain Dew"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "At the end of the 2001 film &quot;Rat Race&quot;, whose concert do the contestants crash?",
+        "correct_answer": "Smash Mouth",
+        "incorrect_answers": [
+            "Bowling for Soup",
+            "Sum 41",
+            "Linkin Park"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In Rainbow 6 Siege, what is Ela and Zofia&#039;s last name?",
+        "correct_answer": "Bosak",
+        "incorrect_answers": [
+            "Kessikbayev",
+            "Zenaviev",
+            "Melnikova"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Who won the UEFA Champions League in 2016?",
+        "correct_answer": "Real Madrid C.F.",
+        "incorrect_answers": [
+            "FC Bayern Munich",
+            "Atletico Madrid",
+            "Manchester City F.C."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "What type of sound chip does the Super Nintendo Entertainment System (SNES) have?",
+        "correct_answer": "ADPCM Sampler",
+        "incorrect_answers": [
+            "FM Synthesizer",
+            "Programmable Sound Generator (PSG)",
+            "PCM Sampler"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "What was the name of the teenage witch played by Melisa Joan Hart who lives with her witch aunts Hilda and Zelda?",
+        "correct_answer": "Sabrina",
+        "incorrect_answers": [
+            "Hermione",
+            "Dorothy",
+            "Dahlia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the perk that was introduced in the &quot;Call Of Duty: Zombies&quot; map, &quot;Mob Of The Dead&quot;?",
+        "correct_answer": "Electric Cherry",
+        "incorrect_answers": [
+            "Quick Revive",
+            "Vulture Aid",
+            "Tombstone"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "There are no roads in/out of Juneau, Alaska.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the capital of Slovakia?",
+        "correct_answer": "Bratislava",
+        "incorrect_answers": [
+            "Sofia",
+            "Ljubljana",
+            "Sarajevo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "How many spaces are there on a standard Monopoly board?",
+        "correct_answer": "40",
+        "incorrect_answers": [
+            "28",
+            "55",
+            "36"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which studio animated Soul Eater?",
+        "correct_answer": "Bones",
+        "incorrect_answers": [
+            "Kyoto Animation",
+            "xebec",
+            "Production I.G"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "The programming language &quot;Python&quot; is based off a modified version of &quot;JavaScript&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In Disney&#039;s &quot;Toontown Online&quot;, which of these species wasn&#039;t available as a Toon?",
+        "correct_answer": "Cow",
+        "incorrect_answers": [
+            "Monkey",
+            "Bear",
+            "Pig"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Mythology",
+        "question": "Talos, the mythical giant bronze man, was the protector of which island?",
+        "correct_answer": "Crete",
+        "incorrect_answers": [
+            "Sardinia",
+            "Sicily",
+            "Cyprus"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "The country song  &ldquo;A Boy Named Sue&rdquo; was written by Shel Silverstein.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which infamous European traitor was known as &quot;the last person to enter Parliament with honest intentions&quot;?",
+        "correct_answer": "Guy Fawkes",
+        "incorrect_answers": [
+            "Robert Catesby",
+            "Francis Tresham",
+            "Everard Digby"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following Call of Duty games was a PS3 launch title?",
+        "correct_answer": "Call of Duty 3",
+        "incorrect_answers": [
+            "Call of Duty 4: Modern Warfare",
+            "Call of Duty: World at War",
+            "Call of Duty: Roads to Victory"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which of the following films was NOT directed by Quentin Tarantino?",
+        "correct_answer": "From Dusk till Dawn",
+        "incorrect_answers": [
+            "Jackie Brown",
+            "Pulp Fiction",
+            "Reservoir Dogs"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "Who played &quot;Charlie Price&quot; in the musical &quot;Kinky Boots&quot; on Broadway in New York from May 26th - Aug 6th 2017?",
+        "correct_answer": "Brendon Urie",
+        "incorrect_answers": [
+            "Ed Sheeren",
+            "Tom Cruise",
+            "Dallon Weekes"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What does the yellow diamond on the NFPA 704 fire diamond represent?",
+        "correct_answer": "Reactivity",
+        "incorrect_answers": [
+            "Health",
+            "Flammability",
+            "Radioactivity"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "When was the video game &quot;P.A.M.E.L.A.&quot; released on Steam?",
+        "correct_answer": "March 9, 2017",
+        "incorrect_answers": [
+            "January 7, 2007",
+            "October 23, 1997",
+            "February 16, 2015"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What was the last colony the UK ceded marking the end of the British Empire?",
+        "correct_answer": "Hong Kong",
+        "incorrect_answers": [
+            "India",
+            "Australia",
+            "Ireland"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which of these NHL teams have never moved since their inception?",
+        "correct_answer": "St. Louis Blues",
+        "incorrect_answers": [
+            "New Jersey Devils",
+            "Carolina Hurricanes",
+            "Dallas Stars"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In the TV series Red Dwarf, Kryten&#039;s full name is Kryten 2X4B-523P.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "The Proclaimers - I&#039;m Gonna Be (500 Miles) reached what position on the US Hot 100 Charts in 1993?",
+        "correct_answer": "3rd",
+        "incorrect_answers": [
+            "8th",
+            "1st",
+            "5th"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The United States of America was the first country to launch a man into space.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "What band featured Sting, Stewart Copeland and Andy Summers?",
+        "correct_answer": "The Police",
+        "incorrect_answers": [
+            "Def Leppard",
+            "The Cure",
+            "Bon Jovi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "How many times do you fight Gilgamesh in &quot;Final Fantasy 5&quot;?",
+        "correct_answer": "6",
+        "incorrect_answers": [
+            "4",
+            "5",
+            "3"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "What national team won the 2016 edition of UEFA European Championship?",
+        "correct_answer": "Portugal",
+        "incorrect_answers": [
+            "France",
+            "Germany",
+            "England"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What Nationality is D.Va from Overwatch?",
+        "correct_answer": "Korean",
+        "incorrect_answers": [
+            "Japanese",
+            "Chinese",
+            "Vietnamese "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What is the name of the ship which was only a few miles away from the RMS Titanic when it struck an iceberg on April 14, 1912?",
+        "correct_answer": "Californian",
+        "incorrect_answers": [
+            "Carpathia",
+            "Cristol",
+            "Commerce"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "The weapon Clint Eastwood uses in &quot;Dirty Harry&quot; was a .44 Automag.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the original Spyro game who is the first villain?",
+        "correct_answer": "Gnasty Gnorc",
+        "incorrect_answers": [
+            "Ripto",
+            "Sorceress",
+            "Cynder"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "According to the Book of Genesis in the Old Testament, how many days did it take God to create the world?",
+        "correct_answer": "Six",
+        "incorrect_answers": [
+            "Seven",
+            "One",
+            "Twelve"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "In Washington, D.C. what does the &quot;C&quot; stand for?",
+        "correct_answer": "Columbia",
+        "incorrect_answers": [
+            "Caledonia",
+            "Corinthia",
+            "City"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Norway has a larger land area than Sweden.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Gumbo is a stew that originated in Louisiana.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What is the unit of electrical capacitance?",
+        "correct_answer": "Farad",
+        "incorrect_answers": [
+            "Gauss",
+            "Henry",
+            "Watt"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "In which city is the Big Nickel located in Canada?",
+        "correct_answer": "Sudbury, Ontario",
+        "incorrect_answers": [
+            "Calgary, Alberta",
+            "Halifax, Nova Scotia ",
+            "Victoria, British Columbia"
+        ]
+    }
+]

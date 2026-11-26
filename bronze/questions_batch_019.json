@@ -1,0 +1,586 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Where would you find the &quot;Spanish Steps&quot;?",
+        "correct_answer": "Rome, Italy",
+        "incorrect_answers": [
+            "Barcelona, Spain",
+            "Berlin, Germany",
+            "London, England"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When did the Crisis of the Third Century begin?",
+        "correct_answer": "235 AD",
+        "incorrect_answers": [
+            "235 BC",
+            "242 AD",
+            "210 AD"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Gadgets",
+        "question": "Which of the following cellular device companies is NOT headquartered in Asia?",
+        "correct_answer": "Nokia",
+        "incorrect_answers": [
+            "LG Electronics",
+            "Samsung",
+            "HTC"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which one of these &quot;Mortal Kombat&quot; characters has been playable in every single mainline game?",
+        "correct_answer": "Sub-Zero",
+        "incorrect_answers": [
+            "Raiden",
+            "Scorpion",
+            "Liu Kang"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In World of Warcraft the default UI color that signifies Druid is what?",
+        "correct_answer": "Orange",
+        "incorrect_answers": [
+            "Brown",
+            "Green",
+            "Blue"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "If a &quot;360 no-scope&quot; is one full rotation before shooting, how many rotations would a &quot;1080 no-scope&quot; be?",
+        "correct_answer": "3",
+        "incorrect_answers": [
+            "4",
+            "2",
+            "5"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The Second Boer War in 1899 was fought where?",
+        "correct_answer": "South Africa",
+        "incorrect_answers": [
+            "Argentina",
+            "Nepal",
+            "Bulgaria"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Unturned originally started as a Roblox game.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "What is the real name of &quot;moot&quot;, founder of the imageboard 4chan?",
+        "correct_answer": "Christopher Poole",
+        "incorrect_answers": [
+            "Mark Zuckerberg",
+            "Allison Harvard",
+            "Catie Wayne"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What is the name of the creatures that the protagonists of the webshow RWBY fight against?",
+        "correct_answer": "Grimm",
+        "incorrect_answers": [
+            "Reavers",
+            "Heartless",
+            "Dark Ones"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "To which biological phylum do all mammals, birds and reptiles belong?",
+        "correct_answer": "Chordata",
+        "incorrect_answers": [
+            "Echinodermata",
+            "Annelida",
+            "Placazoa"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which retired American football quarterback played himself in &#039;Ace Ventura: Pet Detective&#039; and &#039;Little Nicky&#039;?",
+        "correct_answer": "Dan Marino",
+        "incorrect_answers": [
+            "John Elway",
+            "Tom Brady",
+            "Joe Montana"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What nationality was sultan Saladin?",
+        "correct_answer": "Kurdish",
+        "incorrect_answers": [
+            "Arab",
+            "Egyptian",
+            "Syrian"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In the television show &quot;Lazy Town&quot;, who is the actor of Robbie Rotten?",
+        "correct_answer": "Stef&aacute;n Stef&aacute;nsson",
+        "incorrect_answers": [
+            "Adam Sandler",
+            "Magn&uacute;s Scheving",
+            "Stephen Carl"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In No Man&#039;s Sky (as of the Beyond update), what two resources do you need to craft Antimatter?",
+        "correct_answer": "Condensed Carbon and Chromatic Metal",
+        "incorrect_answers": [
+            "Starship Launch Fuel and Condensed Carbon",
+            "Pure Ferrite and Sodium",
+            "Storm Crystal and Antimatter Housing"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What two characters from the game Undertale are never in a relationship or not related?",
+        "correct_answer": "Frisk &amp; Chara",
+        "incorrect_answers": [
+            "Sans &amp; Papyrus",
+            "Toriel &amp; Asgore",
+            "Alphys &amp; Undyne"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Psychology is the science of behavior and mind.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following names is the &quot;Mega Man&quot; Franchise known as in Japan?",
+        "correct_answer": "Rockman",
+        "incorrect_answers": [
+            "Paperman",
+            "Scissorsman",
+            "Mega Man"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "The S in Harry S. Truman stands for &quot;Samuel&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+        "correct_answer": "1000",
+        "incorrect_answers": [
+            "512",
+            "1024",
+            "500"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "When someone is cowardly, they are said to have what color belly?",
+        "correct_answer": "Yellow",
+        "incorrect_answers": [
+            "Green",
+            "Red",
+            "Blue"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;World of Warcraft,&quot; what dragon appears in the human guise of Lord Victor Nefarius?",
+        "correct_answer": "Nefarian",
+        "incorrect_answers": [
+            "Nefarius",
+            "Neltharion",
+            "Nefaran"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "How much radiation does a banana emit?",
+        "correct_answer": "0.1 Microsievert",
+        "incorrect_answers": [
+            "0.3 Microsievert",
+            "0.5 Microsievert",
+            "0.7 Microsievert"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Oxford University is older than the Aztec Empire. ",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "Who is the musical director for the award winning musical &quot;Hamilton&quot;?",
+        "correct_answer": "Alex Lacamoire",
+        "incorrect_answers": [
+            "Lin-Manuel Miranda",
+            "Renee Elise-Goldberry",
+            "Leslie Odom Jr."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "How many seasons did the Sci-Fi television show &quot;Stargate Atlantis&quot; have?",
+        "correct_answer": "5",
+        "incorrect_answers": [
+            "10",
+            "2",
+            "7"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the capital city of the U.S. state of Texas?",
+        "correct_answer": "Austin",
+        "incorrect_answers": [
+            "Dallas",
+            "Houston",
+            "San Antonio"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "In which of these TV shows did the chef Gordon Ramsay not appear?",
+        "correct_answer": "Auction Hunters",
+        "incorrect_answers": [
+            "Ramsay&#039;s Kitchen Nightmares",
+            "Hotel Hell",
+            "Hell&#039;s Kitchen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What fruit is a traditional ingredient of a Black Forest Gateau?",
+        "correct_answer": "Cherries",
+        "incorrect_answers": [
+            "Apricots",
+            "Raisins",
+            "Apples"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "At what depth should you make a decompression stop, or safety stop, on a typical scuba dive?",
+        "correct_answer": "15 Feet / 5 Meters",
+        "incorrect_answers": [
+            "25 Feet / 7.5 Meters",
+            "50 Feet / 15 Meters",
+            "75 Feet / 23 Meters"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "Europa Universalis is a strategy video game based on which French board game?",
+        "correct_answer": "Europa Universalis",
+        "incorrect_answers": [
+            "Europe and the Universe",
+            "Europa!",
+            "Power in Europe"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What English word means to &quot;think deeply&quot;?",
+        "correct_answer": "Contemplate",
+        "incorrect_answers": [
+            "Confiscate",
+            "Constipate",
+            "Condensate"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Who is One Punch Man voiced by in the Japanese version.",
+        "correct_answer": "Makoto Furukawa",
+        "incorrect_answers": [
+            "Zach Aguilar",
+            "Kaito Ishikawa",
+            "Max Mittelman "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Who is the singer for Fall Out Boy?",
+        "correct_answer": "Patrick Stump",
+        "incorrect_answers": [
+            "Brendon Urie",
+            "Pete Wentz",
+            "Gary Lee Weinrib"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Who was the President of the United States during the signing of the Gadsden Purchase?",
+        "correct_answer": "Franklin Pierce",
+        "incorrect_answers": [
+            "Andrew Johnson",
+            "Abraham Lincoln",
+            "James Polk"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the name of the company in Lethal Company?",
+        "correct_answer": "The Company",
+        "incorrect_answers": [
+            "Planet Scrap Co.",
+            "Lethal Robotics",
+            "Gordian Shipping Co."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What is the world&#039;s longest venomous snake?",
+        "correct_answer": "King Cobra",
+        "incorrect_answers": [
+            "Green Anaconda",
+            "Inland Taipan",
+            "Yellow Bellied Sea Snake"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Portal, the Companion Cube&#039;s ARE sentient.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What is the Linnean name of the domestic apple tree?",
+        "correct_answer": "Malus pumila",
+        "incorrect_answers": [
+            "Malus americana",
+            "Pomus domestica",
+            "Appelus delectica"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Ottawa is the capital of Canada.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which of the following songs did Elton John perform following Princess Diane&#039;s passing?",
+        "correct_answer": "Candles in the Wind",
+        "incorrect_answers": [
+            "I Guess That&#039;s Why They Call It The Blues",
+            "Your Song",
+            "Island Girl"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which of his six wives was Henry VIII married to the longest?",
+        "correct_answer": "Catherine of Aragon",
+        "incorrect_answers": [
+            "Anne Boleyn",
+            "Jane Seymour",
+            "Catherine Parr"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which country is the Taedong River in?",
+        "correct_answer": "North Korea",
+        "incorrect_answers": [
+            "South Korea",
+            "Japan",
+            "China"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which famous 90&#039;s rap album is commonly referred to as &quot;The Bible of Hip Hop&quot;?",
+        "correct_answer": "Illmatic",
+        "incorrect_answers": [
+            "The Low End Theory",
+            "The Chronic",
+            "Enter The Wu-Tang (36 Chambers)"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "What cricketing term denotes a batsman being dismissed with a score of zero?",
+        "correct_answer": "Duck",
+        "incorrect_answers": [
+            "Bye",
+            "Beamer",
+            "Carry"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What name did &quot;Mario&quot;, from &quot;Super Mario Brothers&quot;, originally have?",
+        "correct_answer": "Ossan",
+        "incorrect_answers": [
+            "Jumpman",
+            "Mr. Video",
+            "Mario"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "The names of Roxas&#039;s Keyblades in Kingdom Hearts are &quot;Oathkeeper&quot; and &quot;Oblivion&quot;.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Who was the first man to travel into outer space?",
+        "correct_answer": "Yuri Gagarin",
+        "incorrect_answers": [
+            "Virgil Ivan &quot;Gus&quot; Grissom",
+            "Neil Armstrong",
+            "Buzz Aldrin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Comics",
+        "question": "In DC comics, what is Owlman&#039;s real name?",
+        "correct_answer": "Thomas Wayne Jr.",
+        "incorrect_answers": [
+            "Thomas Wayne",
+            "Bruce Wayne",
+            "Joseph Chill "
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Pink Floyd&#039;s 1973 album &quot;Animals&quot; features a photograph of Battersea Power Station.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    }
+]

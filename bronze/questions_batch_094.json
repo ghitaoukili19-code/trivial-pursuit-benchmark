@@ -1,0 +1,584 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+        "correct_answer": "Thomas Jefferson",
+        "incorrect_answers": [
+            "Martin Van Buren",
+            "Ulysses Grant",
+            "John Quincy Adams"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the world&#039;s first video game console?",
+        "correct_answer": "Magnavox Odyssey",
+        "incorrect_answers": [
+            "Coleco Telstar",
+            "Nintendo Color TV Game",
+            "Atari 2600"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Where are Terror Fiends more commonly found in the Nintendo game Miitopia?",
+        "correct_answer": "New Lumos",
+        "incorrect_answers": [
+            "Peculia",
+            "The Sky Scraper",
+            "Otherworld"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "How many sides does a pentagon have?",
+        "correct_answer": "5",
+        "incorrect_answers": [
+            "9",
+            "6",
+            "4"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which of these is a semiconductor amplifying device?",
+        "correct_answer": "transistor",
+        "incorrect_answers": [
+            "tube",
+            "diode",
+            "P-N junction"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "What is the derivative of Acceleration with respect to time?",
+        "correct_answer": "Jerk",
+        "incorrect_answers": [
+            "Shift",
+            "Bump",
+            "Slide"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is the protagonist&#039;s title given by the demons in DOOM (2016)?",
+        "correct_answer": "Doom Slayer",
+        "incorrect_answers": [
+            "Doom Guy",
+            "Doom Marine",
+            "Doom Reaper"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who was the British professional wrestler Shirley Crabtree better known as?",
+        "correct_answer": "Big Daddy",
+        "incorrect_answers": [
+            "Giant Haystacks",
+            "Kendo Nagasaki",
+            "Masambula"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the name of the Jewish New Year?",
+        "correct_answer": "Rosh Hashanah",
+        "incorrect_answers": [
+            "Elul",
+            "New Year",
+            "Succoss"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What is the name of James Dean&#039;s character in the 1955 movie &quot;Rebel Without a Cause&quot;?",
+        "correct_answer": "Jim Stark",
+        "incorrect_answers": [
+            "Ned Stark",
+            "Jim Kane",
+            "Frank Stark"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "Which of these is NOT a car model produced by Malaysian car manufacturer Proton?",
+        "correct_answer": "Kelisa",
+        "incorrect_answers": [
+            "Saga",
+            "Perdana",
+            "Inspira"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "How many premier league trophies did Sir Alex Ferguson win during his time at Manchester United?",
+        "correct_answer": "13",
+        "incorrect_answers": [
+            "11",
+            "20",
+            "22"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "The board game &quot;Monopoly&quot; is a variation of what board game?",
+        "correct_answer": "The Landlord&#039;s Game",
+        "incorrect_answers": [
+            "Territorial Dispute",
+            "Property Feud",
+            "The Monopolist&#039;s Game"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What was the name of the cancelled sequel of Team Fortress?",
+        "correct_answer": "Team Fortress 2: Brotherhood of Arms",
+        "incorrect_answers": [
+            "Team Fortress 2: Desert Mercenaries",
+            "Team Fortress 2: Operation Gear Grinder",
+            "Team Fortress 2: Return to Classic"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "Who was the King of Gods in Ancient Greek mythology?",
+        "correct_answer": "Zeus",
+        "incorrect_answers": [
+            "Apollo",
+            "Hermes",
+            "Poseidon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "In &quot;Magic: The Gathering&quot;, what instant card has the highest converted mana cost?",
+        "correct_answer": "Blinkmoth Infusion",
+        "incorrect_answers": [
+            "Vitalizing Wind",
+            " Chant of Vitu-Ghazi",
+            "Assert Authority"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "When was WhatsApp founded?",
+        "correct_answer": "2009",
+        "incorrect_answers": [
+            "2007",
+            "2012",
+            "2010"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Who is the main character in One Piece?",
+        "correct_answer": "Luffy",
+        "incorrect_answers": [
+            "Shanks",
+            "Zoro",
+            "Smoker"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "&quot;The Crucible&quot; was written by William Shakespeare.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "During WWII, in 1945, the United States dropped atomic bombs on the two Japanese cities of Hiroshima and what other city?",
+        "correct_answer": "Nagasaki",
+        "incorrect_answers": [
+            "Kawasaki",
+            "Tokyo",
+            "Kagoshima"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Tasmania is an island state of Australia.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which animation studio produced &quot;Log Horizon&quot;?",
+        "correct_answer": "Satelite",
+        "incorrect_answers": [
+            "Sunrise",
+            "Xebec",
+            "Production I.G"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Night on Bald Mountain was one of the musical pieces featured in Disney&#039;s 1940&#039;s film Fantasia.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which of these countries was sea charted in 1500 by the Portuguese maritime explorations?",
+        "correct_answer": "Brazil",
+        "incorrect_answers": [
+            "India",
+            "Mozambique",
+            "Madagascar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Kanye West&#039;s &quot;Gold Digger&quot; featured which Oscar-winning actor?",
+        "correct_answer": "Jamie Foxx",
+        "incorrect_answers": [
+            "Alec Baldwin",
+            "Dwayne Johnson",
+            " Bruce Willis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which punk rock band released hit songs such as &quot;Californication&quot;, &quot;Can&#039;t Stop&quot; and &quot;Under the Bridge&quot;?",
+        "correct_answer": "Red Hot Chilli Peppers",
+        "incorrect_answers": [
+            "Green Day",
+            "Linkin Park",
+            "Foo Fighters"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "What is the full name of the footballer &quot;Cristiano Ronaldo&quot;?",
+        "correct_answer": "Cristiano Ronaldo dos Santos Aveiro",
+        "incorrect_answers": [
+            "Cristiano Ronaldo los Santos Diego",
+            "Cristiano Armando Diego Ronaldo",
+            "Cristiano Luis Armando Ronaldo"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "A Facebook campaign placed Rage Against The Machine&#039;s &quot;Killing in the Name Of&quot; as the UK Christmas Number 1 in 2009.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which river was dammed to create Gatun Lake and the Panama Canal?",
+        "correct_answer": "Chagres River",
+        "incorrect_answers": [
+            "Tuira River",
+            "Chucunaque River",
+            "Chepo River "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What year did the popular Vocaloid: Hatsune Miku come out?",
+        "correct_answer": "2007",
+        "incorrect_answers": [
+            "2000",
+            "2008",
+            "2010"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which day in &quot;Papers, Please&quot; does the man in red appear?",
+        "correct_answer": "Day 23",
+        "incorrect_answers": [
+            "Day 20",
+            "Day 17",
+            "Day 15"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Stanley Kubrick&#039;s &quot;Dr. Strangelove&quot; (1964) originally ended with a large pie fight in the war room.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "When was the Playstation 3 released?",
+        "correct_answer": "November 11, 2006",
+        "incorrect_answers": [
+            "January 8, 2007",
+            "December 25, 2007",
+            "July 16, 2006"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is Pikachu&#039;s National Pok&eacute;Dex Number?",
+        "correct_answer": "#025",
+        "incorrect_answers": [
+            "#001",
+            "#031",
+            "#109"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The first Legoland park was opened in 1968 in which of these cities?",
+        "correct_answer": "Billund, Denmark",
+        "incorrect_answers": [
+            "Carlsbad, California",
+            "Winter Haven, Florida",
+            "Nagoya, Japan"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "In the Dungeons and Dragons universe, Beshaba is the deity of bad luck. ",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Mother 3,&quot; the bird on the Ultimate Chimera&#039;s head is there only for decoration.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Android versions are named in alphabetical order.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "What major programming language does Unreal Engine 4 use?",
+        "correct_answer": "C++",
+        "incorrect_answers": [
+            "Assembly",
+            "C#",
+            "ECMAScript"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "If you dip a dry towel into a tub full of water, water will climb up the towel by a phenomenon called &quot;Cartillary Action&quot;",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which of these countries is NOT the only country to start with that letter of the alphabet?",
+        "correct_answer": "Zambia",
+        "incorrect_answers": [
+            "Qatar",
+            "Yemen",
+            "Oman"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the Spanish word for &quot;donkey&quot;?",
+        "correct_answer": "Burro",
+        "incorrect_answers": [
+            "Caballo",
+            "Toro",
+            "Perro"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "A comet&#039;s gaseous envelope (which creates the tail) is called what?",
+        "correct_answer": "The coma",
+        "incorrect_answers": [
+            "The wake",
+            "The backwash",
+            "The ablative"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "When was the original Star Wars: Battlefront II released?",
+        "correct_answer": "October 31, 2005",
+        "incorrect_answers": [
+            "December 18, 2004",
+            "November 21, 2006",
+            "September 9, 2007"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the virus that infected New York in Tom Clancy&#039;s The Division?",
+        "correct_answer": "Dollar Flu",
+        "incorrect_answers": [
+            "Ebola",
+            "Red Poison",
+            "Smallpox"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which of these African countries displays a gun on their flag?",
+        "correct_answer": "Mozambique",
+        "incorrect_answers": [
+            "Uganda",
+            "Ethiopia",
+            "Nigeria"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of these bands was a featuring artist in Compton rapper Kendrick Lamar&#039;s 2017 album, &quot;DAMN.&quot;?",
+        "correct_answer": "U2",
+        "incorrect_answers": [
+            "Radiohead",
+            "Coldplay",
+            "Bon Jovi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the famous Papa John&#039;s last name?",
+        "correct_answer": "Schnatter",
+        "incorrect_answers": [
+            "Chowder",
+            "Williams",
+            "ANDERSON"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What was the name of the device used by Scarecrow in Batman: Arkham Knight to cover Gotham in fear gas?",
+        "correct_answer": "The Cloudburst",
+        "incorrect_answers": [
+            "The Fear Bomb",
+            "The Fearburst",
+            "Cloud Dispersal System"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What state is the largest state of the United States of America?",
+        "correct_answer": "Alaska",
+        "incorrect_answers": [
+            "California",
+            "Texas",
+            "Washington"
+        ]
+    }
+]

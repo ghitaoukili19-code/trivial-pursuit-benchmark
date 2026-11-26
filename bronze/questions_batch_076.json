@@ -1,0 +1,590 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "What is the scientific name of the knee cap?",
+        "correct_answer": "Patella",
+        "incorrect_answers": [
+            "Femur",
+            "Foramen Magnum",
+            "Scapula"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Who is &quot;James Rolfe&quot; better known as?",
+        "correct_answer": "The Angry Video Game Nerd",
+        "incorrect_answers": [
+            "TotalBiscuit",
+            "PeanutButterGamer",
+            "PewDiePie"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "The Fields Medal, one of the most sought after awards in mathematics, is awarded every how many years?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "3",
+            "5",
+            "6"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these characters was considered, but ultimately not included, for Super Smash Bros. Melee?",
+        "correct_answer": "James Bond",
+        "incorrect_answers": [
+            "Diddy Kong",
+            "Mega Man",
+            "Wave Racer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which Beatle wrote and sang the song &quot;Why Don&#039;t We Do It in the Road&quot; after being inspired by seeing two monkeys copulating in the street?",
+        "correct_answer": "Paul",
+        "incorrect_answers": [
+            "John",
+            "George",
+            "Ringo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": " Which of these champions from the MOBA &#039;League of Legends&#039; is NOT a Yordle?",
+        "correct_answer": "Annie",
+        "incorrect_answers": [
+            "Veigar",
+            "Tristana",
+            "Lulu"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "What is the mathematician Euler&#039;s first name?",
+        "correct_answer": "Leonhard",
+        "incorrect_answers": [
+            "Lionel",
+            "Andrin",
+            "Ajan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Which of the following countries has officially banned the civilian use of dash cams in cars?",
+        "correct_answer": "Austria",
+        "incorrect_answers": [
+            "United States",
+            "Czechia",
+            "South Korea"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "The board game Monopoly takes its street names from which real American city?",
+        "correct_answer": "Atlantic City, New Jersey",
+        "incorrect_answers": [
+            "Las Vegas, Nevada",
+            "Duluth, Minnesota",
+            "Charleston, South Carolina"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "The Rush song &quot;YYZ&quot; derives its name from the IATA aiport identification code for which city?",
+        "correct_answer": "Toronto",
+        "incorrect_answers": [
+            "Vancouver",
+            "Ottawa",
+            "Calgary"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In &quot;Star Trek&quot;, what is the Klingon death ritual?",
+        "correct_answer": "Look into sky and yell loudly in mourning.",
+        "incorrect_answers": [
+            "Kiss the jagged forehead before burial.",
+            "Shoot into space in a torpedo casing.",
+            "Split the deceased&#039;s earnings between bloodkin."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "On a London Underground map, what colour is the Circle Line?",
+        "correct_answer": "Yellow",
+        "incorrect_answers": [
+            "Red",
+            "Blue",
+            "Green"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What level do you have to be to get a service medal on CS:GO?",
+        "correct_answer": "40",
+        "incorrect_answers": [
+            "50",
+            "30",
+            "20"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "RAM stands for Random Access Memory.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "How much money did the 2019 Marvel movie &quot;Avengers: Endgame&quot; gross for it&#039;s record-breaking worldwide opening weekend?",
+        "correct_answer": "1.2 billion USD",
+        "incorrect_answers": [
+            "640 million USD",
+            "456 million USD",
+            "392 million USD"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "For which civil rights activist did Stevie Wonder write the song &#039;Happy Birthday&#039; in 1980?",
+        "correct_answer": "Martin Luther King Jr",
+        "incorrect_answers": [
+            "Rosa Parks",
+            "Nelson Mandella",
+            "Booker T. Washington"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which of the following is not the host of a program on NPR?",
+        "correct_answer": "Ben Shapiro",
+        "incorrect_answers": [
+            "Terry Gross",
+            "Ira Glass",
+            "Peter Sagal"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "According to The Hitchhiker&#039;s Guide to the Galaxy book, the answer to life, the universe and everything else is...",
+        "correct_answer": "42",
+        "incorrect_answers": [
+            "Loving everyone around you",
+            "Chocolate",
+            "Death"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which is the largest of these 4 islands?",
+        "correct_answer": "Borneo",
+        "incorrect_answers": [
+            "Great Britain",
+            "Cuba",
+            "Madagascar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the closest planet to our solar system&#039;s sun?",
+        "correct_answer": "Mercury",
+        "incorrect_answers": [
+            "Mars",
+            "Jupiter",
+            "Earth"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What is the surname of the character Daryl in AMC&#039;s show The Walking Dead?",
+        "correct_answer": "Dixon",
+        "incorrect_answers": [
+            "Grimes",
+            "Dickinson",
+            "Dicketson"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the full meaning of RAM?",
+        "correct_answer": "Random Access Memory",
+        "incorrect_answers": [
+            "Random Assist Memory",
+            "Rand Assist Mandate",
+            "Ram"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In what year was &quot;Metal Gear Solid&quot; released in North America?",
+        "correct_answer": "1998",
+        "incorrect_answers": [
+            "1987",
+            "2001",
+            "2004"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In the show Stranger Things, what is Eleven&#039;s favorite breakfast food?",
+        "correct_answer": "Eggo Waffles",
+        "incorrect_answers": [
+            "Toast",
+            "Captain Crunch",
+            "Bacon and Eggs"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "In CSS, which of these values CANNOT be used with the &quot;position&quot; property?",
+        "correct_answer": "center",
+        "incorrect_answers": [
+            "static",
+            "absolute",
+            "relative"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Who scored the injury time winning goal in the 1999 UEFA Champions League final between Manchester United and Bayern Munich?",
+        "correct_answer": "Ole Gunnar Solskj&aelig;r",
+        "incorrect_answers": [
+            "Dwight Yorke",
+            "Andy Cole",
+            "David Beckham"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "Some of the &quot;Fallen Empires&quot; cards from &quot;Magic: The Gathering&quot; were misprinted on the backs of which other card game?",
+        "correct_answer": "Wyvern",
+        "incorrect_answers": [
+            "Pokemon",
+            "Dominion",
+            "Yu-Gi-Oh"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Who was the lead singer and frontman of rock band R.E.M?",
+        "correct_answer": "Michael Stipe",
+        "incorrect_answers": [
+            "Chris Martin",
+            "Thom Yorke",
+            "George Michael"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the largest lake in the African continent?",
+        "correct_answer": "Lake Victoria",
+        "incorrect_answers": [
+            "Lake Tanganyika",
+            "Lake Malawi",
+            "Lake Turkana"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Which singer provided the voice of Metroid&#039;s Mother Brain in the animated series &quot;Captain N: The Game Master&quot;?",
+        "correct_answer": "Levi Stubbs",
+        "incorrect_answers": [
+            "Freddie Mercury",
+            "Janet Jackson",
+            "Joan Jett"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Sean Connery wasn&#039;t in &quot;Indiana Jones and the Kingdom of the Crystal Skull&quot; because he found retirement too enjoyable.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "Which of these characters in &quot;Stranger Things&quot; has the power of Telekinesis?",
+        "correct_answer": "Eleven",
+        "incorrect_answers": [
+            "Mike",
+            "Lucas",
+            "Karen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is the capital of Mauritius?",
+        "correct_answer": "Port Louis",
+        "incorrect_answers": [
+            "Port Moresby",
+            "Port Vila",
+            "Port-au-Prince"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which country does the band Rammstein hail from?",
+        "correct_answer": "Germany",
+        "incorrect_answers": [
+            "Austria",
+            "Armenia",
+            "Belgium"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Which year was the first official Youtube Rewind released?",
+        "correct_answer": "2010",
+        "incorrect_answers": [
+            "2012",
+            "2011",
+            "2013"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "The prefix Sino- (As in Sino-American) is used to refer to what nationality?",
+        "correct_answer": "Chinese",
+        "incorrect_answers": [
+            "Japanese",
+            "Russian",
+            "Indian"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "When did Canada leave the confederation to become their own nation?",
+        "correct_answer": "July 1st, 1867",
+        "incorrect_answers": [
+            "July 1st, 1763",
+            "July 1st, 1832",
+            "July 1st, 1902"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Which US state was the first to allow women to vote in 1869?",
+        "correct_answer": "Wyoming",
+        "incorrect_answers": [
+            "California",
+            "Delaware",
+            "Virginia"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The majority of people that lived under the Byzantine Empire called themselves Romans.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What animal takes part in Schr&ouml;dinger&#039;s most famous thought experiment?",
+        "correct_answer": "Cat",
+        "incorrect_answers": [
+            "Dog",
+            "Bat",
+            "Butterfly"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "Who is the star of the AMC series Breaking Bad?",
+        "correct_answer": "Walter White",
+        "incorrect_answers": [
+            "Saul Goodman",
+            "Jesse Pinkman",
+            "Skyler White"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The Ottoman Empire was dissolved after their loss in which war?",
+        "correct_answer": "World War I",
+        "incorrect_answers": [
+            "Crimean War",
+            "Serbian Revolution",
+            "Second Balkan War"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "What is the name of the town in which Lily and James Potter are buried?",
+        "correct_answer": "Godric&#039;s Hollow",
+        "incorrect_answers": [
+            "Hogsmeade",
+            "Ottery St. Catchpole",
+            "Little Hangleton"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "In Les Mis&eacute;rables, who is Prison Code 24601?",
+        "correct_answer": "Jean Valjean",
+        "incorrect_answers": [
+            "Marius Pontmercy",
+            "Javert",
+            "Jean Claude Van Damme"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What is the name of the villian in the 2015 Russian-American Sci-Fi Movie &quot;Hardcore Henry&quot;?",
+        "correct_answer": "Akan",
+        "incorrect_answers": [
+            "Estelle",
+            "Jimmy",
+            "Henry"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "The retail disc of Tony Hawk&#039;s Pro Skater 5 only comes with the tutorial.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "YouTube personality Jenna Marbles served as an executive producer of the film Maximum Ride (2016).",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "NCIS stands for &quot;Navy Corps Investigative Service&quot;",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Which supercar company is from Sweden?",
+        "correct_answer": "Koenigsegg",
+        "incorrect_answers": [
+            "Bugatti",
+            "Lamborghini",
+            "McLaren"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Originally another word for poppy, coquelicot is a shade of what?",
+        "correct_answer": "Red",
+        "incorrect_answers": [
+            "Green",
+            "Blue",
+            "Pink"
+        ]
+    }
+]

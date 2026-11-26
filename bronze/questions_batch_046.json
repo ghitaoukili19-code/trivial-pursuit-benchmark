@@ -1,0 +1,592 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is not a default game mode in Counter-Strike (2000)?",
+        "correct_answer": "Arms Race",
+        "incorrect_answers": [
+            "Hostage Rescue",
+            "Bomb Defusal",
+            "Assassination"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "When was &quot;Garry&#039;s Mod&quot; released?",
+        "correct_answer": "December 24, 2004",
+        "incorrect_answers": [
+            "November 13, 2004",
+            "December 13, 2004",
+            "November 12, 2004"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How many timezones does Russia have?",
+        "correct_answer": "11",
+        "incorrect_answers": [
+            "6",
+            "24",
+            "16"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "What otherworldly land does Thor come from?",
+        "correct_answer": "Asgard",
+        "incorrect_answers": [
+            "Midgard",
+            "Jotunheim",
+            "Sovengarde"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Minecraft, which of these ingredients is needed to brew a Potion of Water Breathing?",
+        "correct_answer": "Pufferfish",
+        "incorrect_answers": [
+            "Ink sac",
+            "Pumpkin",
+            "Fishing rod"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Dota 2, Wraith King was previously known as...",
+        "correct_answer": "Skeleton King",
+        "incorrect_answers": [
+            "Reaper King",
+            "Skull King",
+            "Hell King"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The Gambia is a nation found on which continent?",
+        "correct_answer": "Africa",
+        "incorrect_answers": [
+            "Asia",
+            "South America",
+            "Europe"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "The word &quot;aprosexia&quot; means which of the following?",
+        "correct_answer": "The inability to concentrate on anything",
+        "incorrect_answers": [
+            "The inability to make decisions",
+            "A feverish desire to rip one&#039;s clothes off",
+            "The inability to stand up"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Finish these lyrics from the 2016 song &quot;Panda&quot; by Desiigner: &quot;I got broads in _______&quot;.",
+        "correct_answer": "Atlanta",
+        "incorrect_answers": [
+            "Savannah",
+            "Augusta",
+            "Marietta"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;To Love-Ru: Darkness&quot;, which of the girls attempt making a harem for Rito Yuuki?",
+        "correct_answer": "Momo Deviluke",
+        "incorrect_answers": [
+            "Yami (Golden Darkness)",
+            "Haruna Sairenji",
+            "Mea Kurosaki"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Rebecca Chambers does not appear in any Resident Evil except for the original Resident Evil and the Gamecube remake.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "An organism described as &quot;heliotropic&quot; has a tendancy to move towards which of these things?",
+        "correct_answer": "Light",
+        "incorrect_answers": [
+            "Water",
+            "Trees",
+            "Pollen"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Peyton Manning retired after winning Super Bowl XLIX.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What was Ash Ketchum&#039;s second Pokemon?",
+        "correct_answer": "Caterpie",
+        "incorrect_answers": [
+            "Charmander",
+            "Pikachu",
+            "Pidgey"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "In the &quot;Jurassic Park&quot; universe, what was the first dinosaur cloned by InGen in 1986?",
+        "correct_answer": "Velociraptor",
+        "incorrect_answers": [
+            "Triceratops",
+            "Troodon",
+            "Brachiosaurus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "The dish Fugu, is made from what family of fish?",
+        "correct_answer": "Pufferfish",
+        "incorrect_answers": [
+            "Bass",
+            "Salmon",
+            "Mackerel"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Pianist Fr&eacute;d&eacute;ric Chopin was a composer of which musical era?",
+        "correct_answer": "Romantic",
+        "incorrect_answers": [
+            "Classic",
+            "Baroque",
+            "Renaissance"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In what year did &quot;The Big Bang Theory&quot; debut on CBS?",
+        "correct_answer": "2007",
+        "incorrect_answers": [
+            "2008",
+            "2006",
+            "2009"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "The &quot;Psycho&quot; series of videos on YouTube was created by which of the following?",
+        "correct_answer": "RiDGiD STUDiOS",
+        "incorrect_answers": [
+            "Dan Bell",
+            "Billy Familia",
+            "VeganGainz"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which character was introduced to the Super Smash Bros franchise in Super Smash Bros Melee?",
+        "correct_answer": "Sheik",
+        "incorrect_answers": [
+            "Samus",
+            "Lucas",
+            "Mega Man"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "The musical &quot;Dirty Rotten Scoundrels&quot; is set in what country?",
+        "correct_answer": "France",
+        "incorrect_answers": [
+            "USA",
+            "Germany",
+            "Sweden"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "What was the name of the first Bulgarian personal computer?",
+        "correct_answer": "IMKO-1",
+        "incorrect_answers": [
+            "Pravetz 82",
+            "Pravetz 8D",
+            "IZOT 1030"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In the TV show &#039;M*A*S*H&#039;, what was the nickname of Corporal Walter O&#039;Reilly?",
+        "correct_answer": "Radar",
+        "incorrect_answers": [
+            "Hawkeye",
+            "Hot Lips",
+            "Trapper"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "In what year did Clint Eastwood star as Inspector Harry Callahan in the film &quot;Dirty Harry&quot;?",
+        "correct_answer": "1971",
+        "incorrect_answers": [
+            "1975",
+            "1983",
+            "1969"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "Dutch computer scientist Mark Overmars is known for creating which game development engine?",
+        "correct_answer": "Game Maker",
+        "incorrect_answers": [
+            "Stencyl",
+            "Construct",
+            "Torque 2D"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:",
+        "correct_answer": "HD Graphics 500",
+        "incorrect_answers": [
+            "HD Graphics 700 ",
+            "HD Graphics 600",
+            "HD Graphics 7000"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Which Greek sculptor designed the Athena Parthenos statue inside the Parthenon?",
+        "correct_answer": "Phidias",
+        "incorrect_answers": [
+            "Scopas",
+            "Hesiod",
+            "Praxiteles"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
+        "correct_answer": "Harry Potter",
+        "incorrect_answers": [
+            "Ted",
+            "Spy Kids",
+            "Pirates of the Caribbean "
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The Fourth Crusade lasted from 1095-1099 AD.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Faust is a playable character in &quot;Guilty Gear Xrd Revelator&quot;.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which of these is NOT a part of the structure of a typical neuron?",
+        "correct_answer": "Islets of Langerhans",
+        "incorrect_answers": [
+            "Node of Ranvier",
+            "Schwann cell",
+            "Myelin sheath"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "According to a Beatles song, who kept her face in a jar by the door?",
+        "correct_answer": "Eleanor Rigby",
+        "incorrect_answers": [
+            "Loretta Martin",
+            "Molly Jones",
+            "Lady Madonna"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Approximately what percentage of Earth&#039;s atmosphere is Oxygen?",
+        "correct_answer": "21%",
+        "incorrect_answers": [
+            "54%",
+            "78%",
+            "7%"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which character in Touhou is able to control dolls?",
+        "correct_answer": "Alice Margatroid",
+        "incorrect_answers": [
+            "Marisa Kirisame",
+            "Clownpiece",
+            "Flandre Scarlet"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Rick Astley&#039;s hit song &quot;Never Gonna Give You Up&quot; was released in what year?",
+        "correct_answer": "1987",
+        "incorrect_answers": [
+            "1985",
+            "1986",
+            "1988"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Who won the 2015 Formula 1 World Championship?",
+        "correct_answer": "Lewis Hamilton",
+        "incorrect_answers": [
+            "Nico Rosberg",
+            "Sebastian Vettel",
+            "Jenson Button"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "On a standard Monopoly board, how much do you have to pay for Tennessee Ave?",
+        "correct_answer": "$180",
+        "incorrect_answers": [
+            "$200",
+            "$160",
+            "$220"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What is the full title of the Prime Minister of the UK?",
+        "correct_answer": "First Lord of the Treasury",
+        "incorrect_answers": [
+            "Duke of Cambridge",
+            "Her Majesty&#039;s Loyal Opposition",
+            "Manager of the Crown Estate"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "Which of these names was an actual codename for a cancelled Microsoft project?",
+        "correct_answer": "Neptune",
+        "incorrect_answers": [
+            "Enceladus",
+            "Pollux",
+            "Saturn"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which Mario spin-off game did Waluigi make his debut?",
+        "correct_answer": "Mario Tennis",
+        "incorrect_answers": [
+            "Mario Party 3",
+            "Mario Kart: Double Dash!!",
+            "Mario Golf: Toadstool Tour"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of these songs did Jimi Hendrix cover?",
+        "correct_answer": "All of these songs",
+        "incorrect_answers": [
+            "Sgt. Pepper&#039;s Lonely Hearts Club Band",
+            "All Along the Watchtower",
+            "House of the Rising Sun"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the anime, Full Metal Panic!, who is Kaname&#039;s best friend?",
+        "correct_answer": "Kyoko Tokiwa",
+        "incorrect_answers": [
+            "Melissa Mao",
+            "Ren Mikihara",
+            "Teletha &quot;Tessa&quot; Testarossa"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "7-Eleven stores were temporarily converted into Kwik E-marts to promote the release of what movie?",
+        "correct_answer": "The Simpsons Movie",
+        "incorrect_answers": [
+            "Spider-Man 3",
+            "Shrek the Third",
+            "Ratatouille"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "&quot;Hallelujah&quot; is a song written by which Canadian recording artist?",
+        "correct_answer": "Leonard Cohen",
+        "incorrect_answers": [
+            "Kory Lefkowits",
+            "Ryan Letourneau ",
+            "Justin Bieber "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "How many rooms are there, not including the hallways and the set of stairs, in the board game &quot;Clue&quot;?",
+        "correct_answer": "9",
+        "incorrect_answers": [
+            "1",
+            "6",
+            "10"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Between 1973 to 1990, what country was ruled by dictator Augusto Pinochet?",
+        "correct_answer": "Chile",
+        "incorrect_answers": [
+            "Ethiopia",
+            "Indonesia",
+            "Nicaragua"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "When did the website &quot;Facebook&quot; launch?",
+        "correct_answer": "2004",
+        "incorrect_answers": [
+            "2005",
+            "2003",
+            "2006"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The Kerbol System (from Kerbal Space Program) includes a Saturn analogue.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Which of the following was not one of &quot;The Magnificent Seven&quot;?",
+        "correct_answer": "Clint Eastwood",
+        "incorrect_answers": [
+            "Steve McQueen",
+            "Charles Bronson",
+            "Robert Vaughn"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "How did the Vikings call their short-lived colony in today&#039;s Canada?",
+        "correct_answer": "V&iacute;nland",
+        "incorrect_answers": [
+            "F&oslash;royar",
+            "H&aring;logaland",
+            "Sk&aring;ne"
+        ]
+    }
+]

@@ -1,0 +1,584 @@
+[
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the game &quot;Subnautica&quot;, a &quot;Cave Crawler&quot; will attack you.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "What was the aircraft registration for the last Concorde built?",
+        "correct_answer": "G-BOAF",
+        "incorrect_answers": [
+            "F-BTSC",
+            "G-BOAC",
+            "F-BVFF"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "What book series published by Jim Butcher follows a wizard in modern day Chicago?",
+        "correct_answer": "The Dresden Files",
+        "incorrect_answers": [
+            "A Hat in Time",
+            "The Cinder Spires",
+            "My Life as a Teenage Wizard"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "Which one of the following is NOT a sub-company of the Volkswagen Group?",
+        "correct_answer": "Opel",
+        "incorrect_answers": [
+            "Porsche",
+            "Bugatti",
+            "Bentley"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "In Youtuber Jerma985&#039;s 2014 film &quot;Rat Movie: Mystery of the Mayan Treasure,&quot; who is the man who tries to steal the Mayan Treasure?",
+        "correct_answer": "Dick Dastardly Richards",
+        "incorrect_answers": [
+            "Gabe &quot;The Glue Man&quot; Degrossi",
+            "Bootleg Duck Dynasty Byeah Batman",
+            "Demon Lord Zeraxos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the Portal series of games, who was the founder of Aperture Science?",
+        "correct_answer": "Cave Johnson",
+        "incorrect_answers": [
+            "GLaDOs",
+            "Wallace Breen",
+            "Gordon Freeman"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Terraria, what does the Wall of Flesh not drop upon defeat?",
+        "correct_answer": "Picksaw",
+        "incorrect_answers": [
+            "Pwnhammer",
+            "Breaker Blade",
+            "Laser Rifle"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which pop singer was brought in by SEGA to produce the music for &quot;Sonic the Hedgehog 3&quot;?",
+        "correct_answer": "Michael Jackson ",
+        "incorrect_answers": [
+            "Prince",
+            "George Michael",
+            "Vanilla Ice "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In the movie &ldquo;The Iron Giant,&rdquo; this character is the protagonist.",
+        "correct_answer": "Hogarth Hughes",
+        "incorrect_answers": [
+            "Kent Mansley",
+            "Dean McCoppin",
+            "Annie Hughes"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "All of these maps were in &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; on its initial release: House, Clubhouse, Border, Consulate.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "When was Elvis Presley born?",
+        "correct_answer": "January 8, 1935",
+        "incorrect_answers": [
+            "December 13, 1931",
+            "July 18, 1940",
+            "April 17, 1938"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "The Original Jack-o-Lanterns were actually hollowed out turnips.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "What is the name of the fourth book in Stephen King&#039;s The Dark Tower series?",
+        "correct_answer": "Wizard and Glass",
+        "incorrect_answers": [
+            "Wolves of the Calla",
+            "Hearts in Atlantis",
+            "The Dark Half"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": " What color is produced by mixing black and white?",
+        "correct_answer": "Grey",
+        "incorrect_answers": [
+            "Black",
+            "Brown",
+            "White"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+            "Red",
+            "Blue",
+            "Yellow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Which of these animals are not real?",
+        "correct_answer": "Nemean Lion",
+        "incorrect_answers": [
+            "Sea Dragon",
+            "Tasmanian Devil",
+            "Giant Squid"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "In which country is Tallinn located?",
+        "correct_answer": "Estonia",
+        "incorrect_answers": [
+            "Finland",
+            "Sweden",
+            "Poland"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In the TV show &quot;Rick and Morty&quot;, Rick uses the catchphrase &quot;Wubba Lubba Dub Dub&quot;, which means what in Birdperson?",
+        "correct_answer": "I am in great pain, please help me.",
+        "incorrect_answers": [
+            "I pray that my life ends soon.",
+            "Lets get this party started!",
+            "I am suffering, please help me."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?",
+        "correct_answer": "Final",
+        "incorrect_answers": [
+            "Static",
+            "Private",
+            "Public"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "The painting &quot;The Starry Night&quot; by Vincent van Gogh was part of which art movement?",
+        "correct_answer": "Post-Impressionism",
+        "incorrect_answers": [
+            "Romanticism",
+            "Neoclassical",
+            "Impressionism"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In vanilla Minecraft, which of the following cannot be made into a block?",
+        "correct_answer": "Charcoal",
+        "incorrect_answers": [
+            "Coal",
+            "Wheat",
+            "String"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Which WWF wrestler had the nickname &quot;The Ayatollah of Rock &#039;N&#039; Rolla&quot;?",
+        "correct_answer": "Chris Jericho",
+        "incorrect_answers": [
+            "Marty Jannetty",
+            "Scott Hall",
+            "Shawn Michaels"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What&#039;s the name of the halloween-related Sims 4 Stuff Pack released September 29th, 2015?",
+        "correct_answer": "Spooky Stuff",
+        "incorrect_answers": [
+            "Ghosts n&#039; Ghouls",
+            "Nerving Nights",
+            "Fearful Frights"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the game Warframe, what is the type of fish that is known to eat unwary natives of Cetus?",
+        "correct_answer": "Sharrac",
+        "incorrect_answers": [
+            "Glappid",
+            "Karkina",
+            "Mawfish"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who won the 2011 Stanley Cup?",
+        "correct_answer": "Boston Bruins",
+        "incorrect_answers": [
+            "Montreal Canadiens",
+            "New York Rangers",
+            "Toronto Maple Leafs"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Which member of the English band &quot;The xx&quot; released their solo album &quot;In Colour&quot; in 2015?",
+        "correct_answer": "Jamie xx",
+        "incorrect_answers": [
+            "Romy Madley Croft",
+            "Oliver Sim",
+            "Baria Qureshi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following is not a faction in Tom Clancy&#039;s The Division?",
+        "correct_answer": "CDC",
+        "incorrect_answers": [
+            "Cleaners",
+            "Last Man Batallion",
+            "Rikers"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "A typical trait of the Expressionist art movement is to distort the world radically for emotional effect.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Who created the Cartoon Network series &quot;Adventure Time&quot;?",
+        "correct_answer": "Pendleton Ward",
+        "incorrect_answers": [
+            "J. G. Quintel",
+            "Ben Bocquelet",
+            "Rebecca Sugar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who directed the Kill Bill movies?",
+        "correct_answer": "Quentin Tarantino",
+        "incorrect_answers": [
+            "Arnold Schwarzenegger",
+            "David Lean",
+            "Stanley Kubrick"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the protagonist&#039;s first Persona in &quot;Persona 5&quot;?",
+        "correct_answer": "Arsene",
+        "incorrect_answers": [
+            "Mara",
+            "Izanagi",
+            "Sandaphlon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Left 4 Dead, what is the name of the virus, as designated by CEDA, that causes most humans to turn into the Infected?",
+        "correct_answer": "Green Flu",
+        "incorrect_answers": [
+            "Yellow Fever",
+            "T-Virus",
+            "Raspberry Sniffles"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Who won the 2016 Formula 1 World Driver&#039;s Championship?",
+        "correct_answer": "Nico Rosberg",
+        "incorrect_answers": [
+            "Lewis Hamilton",
+            "Max Verstappen",
+            "Kimi Raikkonen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which of the following correctly describes Japanese word order?",
+        "correct_answer": "Subject Object Verb",
+        "incorrect_answers": [
+            "Subject Verb Object",
+            "Verb Subject Object",
+            "Verb Object Subject"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What five letter word is the motto of the IBM Computer company?",
+        "correct_answer": "Think",
+        "incorrect_answers": [
+            "Click",
+            "Logic",
+            "Pixel"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;League of Legends&quot;, there exists four different types of Dragon.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "The stuffed tiger in Calvin and Hobbes is named after what philosopher?",
+        "correct_answer": "Thomas Hobbes",
+        "incorrect_answers": [
+            "David Hobbes",
+            "John Hobbes",
+            "Nathaniel Hobbes"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Water always boils at 100&deg;C, 212&deg;F, 373.15K, no matter where you are.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "The 2011 movie &quot;The Adventures of Tintin&quot; was directed by Steven Spielberg.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Botanically speaking, which of these fruits is NOT a berry?",
+        "correct_answer": "Strawberry",
+        "incorrect_answers": [
+            "Blueberry",
+            "Banana",
+            "Concord Grape"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "&quot;The Potato Sack&quot; was a collection of indie games released on Steam in 2011 as a promotion for which game?",
+        "correct_answer": "Portal 2",
+        "incorrect_answers": [
+            "Left 4 Dead 2",
+            "Half-Life 3",
+            "Dota 2"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "The alternative rock band, They Might Be Giants, released their album &#039;Flood&#039; in 1990. ",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In Game of Thrones what is the name of Jon Snow&#039;s sword?",
+        "correct_answer": "Longclaw",
+        "incorrect_answers": [
+            "Oathkeeper",
+            "Widow&#039;s Wail",
+            "Needle"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In which series of games do you collect souls to empower you and buy weaponry and armor with?",
+        "correct_answer": "Souls ",
+        "incorrect_answers": [
+            "Final Fantasy ",
+            "Monster Hunter",
+            "The Legend of Zelda"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "The Maluku islands (informally known as the Spice Islands) belong to which country?",
+        "correct_answer": "Indonesia",
+        "incorrect_answers": [
+            "Chile",
+            "New Zealand",
+            "Fiji"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What system was &quot;Touhou: Highly Responsive to Prayers&quot; released on?",
+        "correct_answer": "PC-98",
+        "incorrect_answers": [
+            "OSX 10.9.5",
+            "Windows ME",
+            "Windows 98"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which German field marshal was known as the `Desert Fox`?",
+        "correct_answer": "Erwin Rommel",
+        "incorrect_answers": [
+            "Ernst Busch",
+            "Wolfram Freiherr von Richthofen",
+            "Wilhelm List"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the capital of Bangladesh?",
+        "correct_answer": "Dhaka",
+        "incorrect_answers": [
+            "Khulna",
+            "London",
+            "Lahore"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Resident Evil 4, the Chicago Typewriter has infinite ammo.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Josh Mansour is part of what NRL team?",
+        "correct_answer": "Penrith Panthers",
+        "incorrect_answers": [
+            "Melbourne Storm",
+            "Sydney Roosters",
+            "North Queensland Cowboys"
+        ]
+    }
+]

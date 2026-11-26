@@ -1,0 +1,588 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What is the mnemonic device for remembering the fates of the wives of Henry VIII?",
+        "correct_answer": "Divorced, Beheaded, Died, Divorced, Beheaded, Survived",
+        "incorrect_answers": [
+            "Beheaded, Died, Divorced, Divorced, Beheaded, Survived",
+            "Died, Beheaded, Divorced, Beheaded, Survived, Divorced",
+            "Survived, Beheaded, Died, Divorced, Divorced, Beheaded"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "What collaborative album was released by Kanye West and Jay-Z in 2011?",
+        "correct_answer": "Watch the Throne",
+        "incorrect_answers": [
+            "Distant Relatives",
+            "What a Time to be Alive",
+            "Unfinished Business"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "According to the American rapper Nelly, what should you do when its hot in here?",
+        "correct_answer": "Take off all your clothes",
+        "incorrect_answers": [
+            "Take a cool shower",
+            "Drink some water",
+            "Go skinny dipping"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "Which issue of the &quot;Sonic the Hedgehog&quot; comic did Scourge the Hedgehog make his first appearance?",
+        "correct_answer": "Sonic the Hedgehog #11",
+        "incorrect_answers": [
+            "Sonic Universe #32",
+            "Sonic the Hedgehog #161",
+            "Sonic the Hedgehog #47"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "What nationality was the surrealist painter Salvador Dali?",
+        "correct_answer": "Spanish",
+        "incorrect_answers": [
+            "Italian",
+            "French",
+            "Portuguese"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Which year was the third Super Bowl held?",
+        "correct_answer": "1969",
+        "incorrect_answers": [
+            "1968",
+            "1971",
+            "1970"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Why were only only 300,000 copies of Uniracers were produced?",
+        "correct_answer": "DMA Designs was sued by Pixar, preventing more copies from being produced",
+        "incorrect_answers": [
+            "There was a disagreement between DMA Designs and Nintendo",
+            "It didn&#039;t sell well due to poor review scores",
+            "No public information is available"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Starbound&quot;, the track played by the Decorated Music Box is named &quot;Atlas&quot;.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these games was the earliest known first-person shooter with a known time of publication?",
+        "correct_answer": "Spasim",
+        "incorrect_answers": [
+            "Doom",
+            "Wolfenstein",
+            "Quake"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the leader of Team Mystic in Pok&eacute;mon Go?",
+        "correct_answer": "Blanche",
+        "incorrect_answers": [
+            "Candela",
+            "Spark",
+            "Willow"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In &quot;Star Trek&quot;, Klingons are aliens.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "Which card is on the cover of the Beta rulebook of &quot;Magic: The Gathering&quot;?",
+        "correct_answer": "Bog Wraith",
+        "incorrect_answers": [
+            "Island",
+            "Rock Hydra",
+            "Elvish Archers"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "Who authored The Adventures of Tintin?",
+        "correct_answer": "Herg&eacute;",
+        "incorrect_answers": [
+            "E.P. Jacobs",
+            "Rin Tin Tin",
+            "Chic Young"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following games was NOT included in Valve&#039;s &quot;The Orange Box&quot;?",
+        "correct_answer": "Left 4 Dead",
+        "incorrect_answers": [
+            "Half-Life 2: Episode Two",
+            "Portal",
+            "Team Fortress 2"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;JoJo&#039;s Bizarre Adventure: Stardust Crusaders&quot;, what is the last name of the protagonist Jotaro?",
+        "correct_answer": "Kujo",
+        "incorrect_answers": [
+            "Cujoh",
+            "Joestar",
+            "Higashikata"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "The word &quot;astasia&quot; means which of the following?",
+        "correct_answer": "The inability to stand up",
+        "incorrect_answers": [
+            "The inability to make decisions",
+            "The inability to concentrate on anything",
+            "A feverish desire to rip one&#039;s clothes off"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What was the name of the canceled projected by Blizzard Entertainment that would be later become Overwatch?",
+        "correct_answer": "Titan",
+        "incorrect_answers": [
+            "Omnic",
+            "Omega",
+            "Ghost"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who has played the most tournaments on the Brazilian national soccer team?",
+        "correct_answer": "Cafu",
+        "incorrect_answers": [
+            "Ronaldo",
+            "Kak&aacute;",
+            "Roberto Carlos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In World of Warcraft, What was the original level cap?",
+        "correct_answer": "60",
+        "incorrect_answers": [
+            "70",
+            "50",
+            "100"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The man that shot Alexander Hamilton was named Aaron Burr.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "What was the pen name of novelist, Mary Ann Evans?",
+        "correct_answer": "George Eliot",
+        "incorrect_answers": [
+            "George Orwell",
+            "George Bernard Shaw",
+            "George Saunders"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Who is the horror manga artist who made Uzumaki?",
+        "correct_answer": "Junji Ito",
+        "incorrect_answers": [
+            "Kazuo Umezu",
+            "Shintaro Kago",
+            "Sui Ishida"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "Which musical has won the most Tony awards?",
+        "correct_answer": "The Producers",
+        "incorrect_answers": [
+            "Hamilton",
+            "Chicago",
+            "Phantom of the Opera"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which country was NOT part of the Soviet Union?",
+        "correct_answer": "Romania",
+        "incorrect_answers": [
+            "Turkmenistan",
+            "Belarus",
+            "Tajikistan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the alternate timeline in Mortal Kombat, which character was the one to slaughter the Shirai Ryu clan?",
+        "correct_answer": "Quan Chi",
+        "incorrect_answers": [
+            "Sub-Zero",
+            "Sektor",
+            "Shang Tsung"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What is the main theme song of &quot;Sonic Adventure 2&quot;?",
+        "correct_answer": "Live and Learn",
+        "incorrect_answers": [
+            "Open Your Heart",
+            "Can You Feel the Sunshine?",
+            "His World"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the National Pokedex what number is Porygon-Z?",
+        "correct_answer": "474",
+        "incorrect_answers": [
+            "376",
+            "432",
+            "589"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Undertale, MEGALOVANIA is a theme for which character?",
+        "correct_answer": "Sans",
+        "incorrect_answers": [
+            "Flowey",
+            "Papyrus",
+            "Undyne"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Which of these actors/actresses is NOT a part of the cast for the 2016 movie &quot;Suicide Squad&quot;?",
+        "correct_answer": "Scarlett Johansson",
+        "incorrect_answers": [
+            "Jared Leto",
+            "Will Smith",
+            "Margot Robbie"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Team Fortress 2&quot;, the &quot;Bill&#039;s Hat&quot; is a reference to the game &quot;Dota 2&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "In 2014, this new top 100 rapper who featured in &quot;Computers&quot; and &quot;Body Dance&quot; was arrested in a NYPD sting for murder.",
+        "correct_answer": "Bobby Shmurda",
+        "incorrect_answers": [
+            "DJ Snake",
+            "Swae Lee",
+            "Young Thug"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Steel is an alloy of Iron and Carbon.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "How many times do you fight the Imprisoned in The Legend of Zelda: Skyward Sword?",
+        "correct_answer": "3",
+        "incorrect_answers": [
+            "2",
+            "4",
+            "5"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the PAYDAY series, who is the iconic leader of the PAYDAY gang?",
+        "correct_answer": "Dallas",
+        "incorrect_answers": [
+            "Wolf",
+            "Chains",
+            "Hoxton"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "It was once believed that injecting shark cartilage into people would prevent them from contracting cancer.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What is the scientific name of the Budgerigar?",
+        "correct_answer": "Melopsittacus undulatus",
+        "incorrect_answers": [
+            "Nymphicus hollandicus",
+            "Pyrrhura molinae",
+            "Ara macao"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "There is a Rolls-Royce model called the &#039;Spectre&#039;",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "After England, more Shakespeare plays are set in this present day country than in any other.",
+        "correct_answer": "Italy",
+        "incorrect_answers": [
+            "United States",
+            "Greece",
+            "France"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Portal 2, the iconic character GLaDOS is turned into:",
+        "correct_answer": "A potato",
+        "incorrect_answers": [
+            "A tomato",
+            "A lemon",
+            "An apple"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these video game engines was made by the company Epic Games?",
+        "correct_answer": "Unreal",
+        "incorrect_answers": [
+            "Unity",
+            "Game Maker: Studio",
+            "Cry Engine"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Along with Oxygen, which element is primarily responsible for the sky appearing blue?",
+        "correct_answer": "Nitrogen",
+        "incorrect_answers": [
+            "Helium",
+            "Carbon",
+            "Hydrogen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which American-owned brewery led the country in sales by volume in 2015?",
+        "correct_answer": "D. G. Yuengling and Son, Inc",
+        "incorrect_answers": [
+            "Anheuser Busch",
+            "Boston Beer Company",
+            "Miller Coors"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "If you play the Super Mario RPG and nap in a rented hotel room, you will wake up next to what familiar looking character?",
+        "correct_answer": "Link",
+        "incorrect_answers": [
+            "Wario",
+            "Q*bert",
+            "Solid Snake"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What did the first vending machines in the early 1880&#039;s dispense?",
+        "correct_answer": "Post cards",
+        "incorrect_answers": [
+            "Alcohol",
+            "Cigarettes",
+            "Sodas "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Who invented Pastafarianism?",
+        "correct_answer": "Bobby Henderson",
+        "incorrect_answers": [
+            "Eric Tignor",
+            "Bill Nye",
+            "Zach Soldi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the capital of Lithuania?",
+        "correct_answer": "Vilnius",
+        "incorrect_answers": [
+            "Tallinn",
+            "Helsinki",
+            "Riga"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Astraphobia is the irrational fear of what?",
+        "correct_answer": "Thunder",
+        "incorrect_answers": [
+            "Rain",
+            "Wind",
+            "Snow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What is the scientific name of the cheetah?",
+        "correct_answer": "Acinonyx jubatus",
+        "incorrect_answers": [
+            "Panthera onca",
+            "Lynx rufus",
+            "Felis catus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "In what film was the Michael Jackson song &quot;Will You Be There&quot; featured?",
+        "correct_answer": "Free Willy",
+        "incorrect_answers": [
+            "Sleepless in Seattle",
+            "Men in Black",
+            "Bad Boys"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of these songs is NOT in The Beatles&#039; album &quot;Sgt. Pepper&#039;s Lonely Hearts Club Band&quot;?",
+        "correct_answer": "Strawberry Fields Forever",
+        "incorrect_answers": [
+            "Getting Better",
+            "Fixing a Hole",
+            "Lucy in the Sky with Diamonds"
+        ]
+    }
+]

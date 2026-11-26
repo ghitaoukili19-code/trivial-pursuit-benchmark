@@ -1,0 +1,584 @@
+[
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Is Tartu the capital of Estonia?",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "English new wave musician Gary Numan founded the video game development company Facepunch Studios in March 2009.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What is the surname of one of the male teachers in the BBC series Postman Pat?",
+        "correct_answer": "Pringle",
+        "incorrect_answers": [
+            "Walker",
+            "Dorito",
+            "Lays"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which horizon in a soil profile consists of bedrock?",
+        "correct_answer": "R",
+        "incorrect_answers": [
+            "O",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In 1961, an American B-52 aircraft crashed and nearly detonated two 4mt nuclear bombs over which US city?",
+        "correct_answer": "Goldsboro, North Carolina",
+        "incorrect_answers": [
+            "Hicksville, New York",
+            "Jacksonville, Florida",
+            "Conway, Arkansas"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "Which of the following physical typologies are used with Ethernet Networks?",
+        "correct_answer": "Star",
+        "incorrect_answers": [
+            "Ring",
+            "Mesh",
+            "Hex"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "Which author and poet famously wrote the line, &quot;The female of the species is more deadly than the male&quot;?",
+        "correct_answer": "Rudyard Kipling",
+        "incorrect_answers": [
+            "Edgar Allan Poe",
+            "William Shakespeare",
+            "William Wordsworth"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Celiac Disease is a disease that effects the heart, causing those effected to be unable to eat meat.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "When was Finland&#039;s 100th year of being independent?",
+        "correct_answer": "2017",
+        "incorrect_answers": [
+            "2016",
+            "2018",
+            "2015"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the Jackbox party game Monster Seeking Monster, which monster can steal two hearts from other monsters under certain conditions?",
+        "correct_answer": "Serial Killer",
+        "incorrect_answers": [
+            "Parasite",
+            "Stalker",
+            "Magic Mirror"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The third largest country (by square kilometres) in South America is Colombia.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "What is the most potent toxin known?",
+        "correct_answer": "Botulinum toxin",
+        "incorrect_answers": [
+            "Ricin",
+            "Cyanide",
+            "Asbestos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "In &quot;Magic: The Gathering&quot;, during the design for Planar Chaos, what color did the developers think of adding in as the sixth color?",
+        "correct_answer": "Purple",
+        "incorrect_answers": [
+            "Brown",
+            "Pink",
+            "Orange"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "What did the first moving picture depict?",
+        "correct_answer": "A galloping horse",
+        "incorrect_answers": [
+            "A woman in a dress",
+            "A man walking",
+            "A crackling fire"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "Neptune&#039;s greek name was...",
+        "correct_answer": "Poseidon",
+        "incorrect_answers": [
+            "Ares",
+            "Zeus",
+            "Apollo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In the 2002 film &quot;Kung Pow! Enter the Fist&quot;, why was Wimp Lo purposely trained wrong?",
+        "correct_answer": "As a joke",
+        "incorrect_answers": [
+            "For cheating",
+            "Revenge",
+            "To test him"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Out of these four buildings, which one is the tallest, with a height of 1,250 ft (381 m)?",
+        "correct_answer": "Empire State Building, United States",
+        "incorrect_answers": [
+            "Bank of China Tower, Hong Kong",
+            "Federation Tower, Russia",
+            "Gevora Hotal, United Arab Emirates"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Mythology",
+        "question": "Who is a minor god that is protector and creator of various arts, such as cheese making and bee keeping.",
+        "correct_answer": "Aristaeus",
+        "incorrect_answers": [
+            "Autonoe",
+            "Carme",
+            "Cephisso"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Pearl Jam was originally named after which sports figure?",
+        "correct_answer": "Mookie Blaylock",
+        "incorrect_answers": [
+            "Oil Can Boyd",
+            "Danger Fourpence",
+            "Blue Moon Odom"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who played Deputy Marshal Samuel Gerard in the 1993 film &quot;The Fugitive&quot;?",
+        "correct_answer": "Tommy Lee Jones",
+        "incorrect_answers": [
+            "Harrison Ford",
+            "Harvey Keitel",
+            "Martin Landau"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "How many seasons did the TV show &quot;Donkey Kong Country&quot; last?",
+        "correct_answer": "2",
+        "incorrect_answers": [
+            "1",
+            "4",
+            "5"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Super Smash Bros. Ultimate, which of the following pair of characters are NOT considered &quot;Echo Fighters&quot;?",
+        "correct_answer": "Link &amp; Young Link",
+        "incorrect_answers": [
+            "Marth &amp; Lucina",
+            "Richter &amp; Simon",
+            "Peach &amp; Daisy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Who had a 1981 hit with the song &quot;Japanese Boy&quot;?",
+        "correct_answer": "Aneka",
+        "incorrect_answers": [
+            "Toyah",
+            "Sandra",
+            "Madonna"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which franchise does the creature &quot;Slowpoke&quot; originate from?",
+        "correct_answer": "Pokemon",
+        "incorrect_answers": [
+            "Dragon Ball",
+            "Sonic The Hedgehog",
+            "Yugioh"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Where does water from Poland Spring water bottles come from?",
+        "correct_answer": "Maine, United States",
+        "incorrect_answers": [
+            "Hesse, Germany",
+            "Masovia, Poland",
+            "Bavaria, Poland"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "In The Lies of Locke Lamora, what title is Locke known by in the criminal world?",
+        "correct_answer": "The Thorn of Camorr",
+        "incorrect_answers": [
+            "The Rose of the Marrows",
+            "The Thorn of Emberlain",
+            "The Thorn of the Marrows"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "This album, now considered to be one of the greatest of all time, was a commercial failure when it was released.",
+        "correct_answer": "The Velvet Underground and Nico",
+        "incorrect_answers": [
+            "Abbey Road",
+            "Led Zeppelin IV",
+            "Pet Sounds"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Venus of Willendorf is one of the earliest works of art, depicting the planets Mars and Venus embrace in the heavens at night.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What are the scales on all snakes and most lizards are made of?",
+        "correct_answer": "Keratin",
+        "incorrect_answers": [
+            "Ecdysis",
+            "Epidermis",
+            "Ankyloglossia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Call Of Duty: Zombies&quot;, what is the name of Samantha Maxis&#039; dog?",
+        "correct_answer": "Fluffy",
+        "incorrect_answers": [
+            "Baxter",
+            "Fido",
+            "Henry"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Sonic the Hedgehog 2&quot; for the Sega Genesis, what do you input in the sound test screen to access the secret level select?",
+        "correct_answer": "The Lead Programmer&#039;s birthday",
+        "incorrect_answers": [
+            "The first release date of &quot;Sonic the Hedgehog&quot;",
+            "The date Sonic Team was founded",
+            "The first release date of &quot;Sonic the Hedgehog 2&quot;"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Comics",
+        "question": "What are the Three Virtues of Bionicle?",
+        "correct_answer": "Unity, Duty, Destiny",
+        "incorrect_answers": [
+            "Build, Play, Change",
+            "Work, Play, Live",
+            "Forge, Build, Fight"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "To bypass US Munitions Export Laws, the creator of the PGP published all the source code in book form. ",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "When was the &quot;Siege of Leningrad&quot; lifted during World War II?",
+        "correct_answer": "January 1944",
+        "incorrect_answers": [
+            "September 1943",
+            "November 1943",
+            "March 1944"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Where did the Great Storm of 1987 make landfall at, first?",
+        "correct_answer": "Cornwall",
+        "incorrect_answers": [
+            "Surrey",
+            "Wales",
+            "The Midlands"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Pure water effectively conducts electricity ",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "What caused Jake Lloyd who played Anakin Skywalker in The Phantom Menace to quit acting?",
+        "correct_answer": "Bullying",
+        "incorrect_answers": [
+            "Criminal Record",
+            "Nomination for Worst Actor",
+            "Racism"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the smallest country in the world?",
+        "correct_answer": "Vatican City",
+        "incorrect_answers": [
+            "Maldives",
+            "Monaco",
+            "Malta"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "The song Scatman&#039;s World was released after Scatman (Ski-Ba-Bop-Ba-Dop-Bop).",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Which James Bond film had the theme song written and performed by English singer-songwriter Adele?",
+        "correct_answer": "Skyfall",
+        "incorrect_answers": [
+            "Casino Royale",
+            "Quantum Solace",
+            "Spectre"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Sea sponges can have hearts.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Who had hits in the 70s with the songs &quot;Lonely Boy&quot; and &quot;Never Let Her Slip Away&quot;?",
+        "correct_answer": "Andrew Gold",
+        "incorrect_answers": [
+            "Elton John",
+            "Leo Sayer",
+            "Barry White "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "How many people can you recruit in the game Suikoden in a single playthrough?",
+        "correct_answer": "107",
+        "incorrect_answers": [
+            "108",
+            "93",
+            "96"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the anime, &quot;Fullmetal Alchemist&quot;, who is known as the &#039;Flame Alchemist&#039;?",
+        "correct_answer": "Roy Mustang",
+        "incorrect_answers": [
+            "Edward Elric",
+            "Maes Hughes",
+            "Lin Yao"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In which game did the character &quot;Mario&quot; make his first appearance?",
+        "correct_answer": "Donkey Kong",
+        "incorrect_answers": [
+            "Super Mario Bros.",
+            "Super Mario Land",
+            "Mario Bros."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "What year was O.J. Simpson aquitted of his murder charges?",
+        "correct_answer": "1995",
+        "incorrect_answers": [
+            "1992",
+            "1996",
+            "1991"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Dee from &quot;It&#039;s Always Sunny in Philadelphia&quot; has dated all of the following guys EXCEPT",
+        "correct_answer": "Matthew &quot;Rickety Cricket&quot; Mara",
+        "incorrect_answers": [
+            "Colin the Thief",
+            "Ben the Soldier",
+            "Kevin Gallagher aka Lil&#039; Kevin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;PAYDAY 2&quot;, what weapon has the highest base weapon damage on a per-shot basis?",
+        "correct_answer": "HRL-7",
+        "incorrect_answers": [
+            "Heavy Crossbow",
+            "Thanatos .50 cal",
+            "Broomstick Pistol"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "Which actor from The Young Ones also played Lord Flashheart in one episode of Blackadder II?",
+        "correct_answer": "Rik Mayall",
+        "incorrect_answers": [
+            "Adrian Edmondson",
+            "Nigel Planer",
+            "Christopher Ryan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "What is the fourth digit of &pi;?",
+        "correct_answer": "1",
+        "incorrect_answers": [
+            "2",
+            "3",
+            "4"
+        ]
+    }
+]

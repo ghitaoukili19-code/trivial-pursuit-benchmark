@@ -1,0 +1,596 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch is located on which Welsh island?",
+        "correct_answer": "Anglesey",
+        "incorrect_answers": [
+            "Barry",
+            "Bardsey",
+            "Caldey"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which was the first video game to be produced by development company Rare?",
+        "correct_answer": "Slalom",
+        "incorrect_answers": [
+            "R.C. Pro-Am",
+            "Donkey Kong Country",
+            "Battletoads"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "In what Disney movie can you spot the character &quot;Pac-Man&quot; in if you look closely enough in some scenes?",
+        "correct_answer": "Tron",
+        "incorrect_answers": [
+            "Big Hero 6",
+            "Fantasia",
+            "Monsters, Inc."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What is the real name of Canadian electronic music producer deadmau5?",
+        "correct_answer": "Joel Zimmerman",
+        "incorrect_answers": [
+            "Sonny Moore",
+            "Adam Richard Wiles",
+            "Thomas Wesley Pentz"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the capital of Denmark?",
+        "correct_answer": "Copenhagen",
+        "incorrect_answers": [
+            "Aarhus",
+            "Odense",
+            "Aalborg"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who played Thanos in Avengers: Infinity War and Avengers: End Game?",
+        "correct_answer": "Josh Brolin",
+        "incorrect_answers": [
+            "Tom Hiddleston",
+            "Adam Sandler",
+            "Sean Gunn"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "What 1970&#039;s American ballad referred to the 1959 plane crash as the &quot;the day the music died&quot;?",
+        "correct_answer": "American Pie",
+        "incorrect_answers": [
+            "Kentucky Rain",
+            "I Will Always Love You",
+            "Rock &#039;n&#039; Roll Suicide"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these following weapon or equipment exists in Counter Strike but not in Counter Strike: Source?",
+        "correct_answer": "Tactical Shield",
+        "incorrect_answers": [
+            "Molotov Cocktail",
+            "MP5 Navy",
+            "TMP"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which animation studio animated &quot;Hidamari Sketch&quot;?",
+        "correct_answer": "Shaft",
+        "incorrect_answers": [
+            "Trigger",
+            "Kyoto Animation",
+            "Production I.G"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "The Alps are a mountain range on which continent?",
+        "correct_answer": "Europe",
+        "incorrect_answers": [
+            "North America",
+            "Asia",
+            "Africa"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What does the D stand for in D-pad, found on most video game controllers?",
+        "correct_answer": "Directional",
+        "incorrect_answers": [
+            "Dynamic",
+            "Dial-up",
+            "Design"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "What does LTS stand for in the software market?",
+        "correct_answer": "Long Term Support",
+        "incorrect_answers": [
+            "Long Taco Service",
+            "Ludicrous Transfer Speed",
+            "Ludicrous Turbo Speed"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Gadgets",
+        "question": "Which round does a WW2 M1 Garand fire?",
+        "correct_answer": ".30-06",
+        "incorrect_answers": [
+            ".308",
+            "7.62",
+            "7.62x51mm"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "What was the cause of Marilyn Monroes suicide?",
+        "correct_answer": "Drug Overdose",
+        "incorrect_answers": [
+            "Knife Attack",
+            "House Fire",
+            "Gunshot"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What ability does Princess Sofia the First have from her amulet that allows her to breathe underwater?",
+        "correct_answer": "Mermaid Transformation",
+        "incorrect_answers": [
+            "Artificial Gills",
+            "Bubble Head",
+            "Bubble Shield"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which English football club has the nickname &#039;The Foxes&#039;?",
+        "correct_answer": "Leicester City",
+        "incorrect_answers": [
+            "Northampton Town",
+            "Bradford City",
+            "West Bromwich Albion"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of these is NOT the name of an album released by Miami-based producer DJ Khaled?",
+        "correct_answer": "Don&#039;t Ever Play Yourself",
+        "incorrect_answers": [
+            "Major Key",
+            "Suffering From Success",
+            "I Changed A Lot"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who directed the movies &quot;Pulp Fiction&quot;, &quot;Reservoir Dogs&quot; and &quot;Django Unchained&quot;?",
+        "correct_answer": "Quentin Tarantino",
+        "incorrect_answers": [
+            "Martin Scorcese",
+            "Steven Spielberg",
+            "James Cameron"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "The song &quot;Three Lions&quot; by the Lightning Seeds was made for which major football event in 1996?",
+        "correct_answer": "European Championships",
+        "incorrect_answers": [
+            "World Cup",
+            "Champions League",
+            "Confederations Cup"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Santorini is an island belonging to what European Country?",
+        "correct_answer": "Greece",
+        "incorrect_answers": [
+            "Italy",
+            "Spain",
+            "Turkey"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Pok&eacute;mon Sun and Moon, a male Salandit can evolve to a Salazzle.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Which one of the following is not made by Ford?",
+        "correct_answer": "Camry",
+        "incorrect_answers": [
+            "Fusion",
+            "Model A",
+            "F-150"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "In Roman Numerals, what does XL equate to?",
+        "correct_answer": "40",
+        "incorrect_answers": [
+            "60",
+            "15",
+            "90"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "In standard Monopoly, what&#039;s the rent if you land on Park Place with no houses?",
+        "correct_answer": "$35",
+        "incorrect_answers": [
+            "$30",
+            "$50",
+            "$45"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "Who wrote &quot;The Scarlet Letter&quot;, published in 1850?",
+        "correct_answer": "Nathaniel Hawthorne",
+        "incorrect_answers": [
+            "Washington Irving",
+            "James Fenimore Cooper",
+            "Catherine Maria Sedgwick"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Terraria, which of the following items does the Martian Saucer mini-boss NOT drop?",
+        "correct_answer": "Drill Containment Unit",
+        "incorrect_answers": [
+            "Anti-Gravity Hook",
+            "Influx Waver",
+            "Cosmic Car Key"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In &quot;The Simpsons&quot;, what is the real name of &quot;Comic Book Guy&quot;?",
+        "correct_answer": "Jeff Albertson",
+        "incorrect_answers": [
+            "Comic Book Guy",
+            "Edward Stone",
+            "Jack Richardson"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Argentina&#039;s name comes from the latin name for Silver.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Chino Moreno is the lead singer of which alternative metal band?",
+        "correct_answer": "Deftones",
+        "incorrect_answers": [
+            "Tool",
+            "Korn",
+            "Type O Negative"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "How many episodes were in season five of Samurai Jack?",
+        "correct_answer": "10",
+        "incorrect_answers": [
+            "12",
+            "11",
+            "13"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "There is a Donald Trump Board Game, which was made in 1989.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When was Napoleon Bonaparte crowned emperor of the French? ",
+        "correct_answer": " December 2nd 1804",
+        "incorrect_answers": [
+            " July 3rd 1802",
+            " March 8th 1803",
+            " October 15th 1804"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;The Binding of Isaac&quot;, what is the name of the final boss that you fight in The Void?",
+        "correct_answer": "Delirium",
+        "incorrect_answers": [
+            "Mega Satan",
+            "Hush",
+            "The Lamb"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the &quot;Pikmin&quot; series, what is the only pikmin type to possess visible ears?",
+        "correct_answer": "Yellow",
+        "incorrect_answers": [
+            "Red",
+            "White",
+            "Winged"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which movie sequel had improved box office results compared to its original film?",
+        "correct_answer": "Toy Story 2",
+        "incorrect_answers": [
+            "Sin City: A Dame to Kill For",
+            "Speed 2: Cruise Control",
+            "Son of the Mask"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What name is the main character Chihiro given in the 2001 movie &quot;Spirited Away&quot;?",
+        "correct_answer": "Sen (Thousand)",
+        "incorrect_answers": [
+            "Hyaku (Hundred)",
+            "Ichiman (Ten thousand)",
+            "Juu (Ten)"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Unix Time is defined as the number of seconds that have elapsed since when?",
+        "correct_answer": "Midnight, January 1, 1970",
+        "incorrect_answers": [
+            "Midnight, July 4, 1976",
+            "Midnight on the creator of Unix&#039;s birthday",
+            "Midnight, July 4, 1980"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "On the Beaufort Scale of wind force, what wind name is given to number 8?",
+        "correct_answer": "Gale",
+        "incorrect_answers": [
+            "Storm",
+            "Hurricane",
+            "Breeze"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "When was the first Call of Duty title released?",
+        "correct_answer": "October 29, 2003",
+        "incorrect_answers": [
+            "December 1, 2003",
+            "November 14, 2002",
+            "July 18, 2004"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "In human biology, a circadium rhythm relates to a period of roughly how many hours?",
+        "correct_answer": "24",
+        "incorrect_answers": [
+            "8",
+            "16",
+            "32"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;A Hat In Time&quot; who is the final boss?",
+        "correct_answer": "Mustache Girl",
+        "incorrect_answers": [
+            "Snatcher",
+            "Conductor",
+            "Mafia Boss"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In what year was the video game company Electronic Arts founded?",
+        "correct_answer": "1982",
+        "incorrect_answers": [
+            "1999",
+            "1981",
+            "2005"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "What is the fastest  land animal?",
+        "correct_answer": "Cheetah",
+        "incorrect_answers": [
+            "Lion",
+            "Thomson&rsquo;s Gazelle",
+            "Pronghorn Antelope"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the game Sonic Forces, which of the following was not from a previous game?",
+        "correct_answer": "Infinite",
+        "incorrect_answers": [
+            "Metal Sonic",
+            "Zavoc",
+            "Chaos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "By what name is Carlos Estevez better known? ",
+        "correct_answer": "Charlie Sheen",
+        "incorrect_answers": [
+            "Ricky Martin",
+            "Bruno Mars",
+            "Joaquin Phoenix"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the prison in &quot;Half Life 2&quot;?",
+        "correct_answer": "Nova Prospekt",
+        "incorrect_answers": [
+            "Great Prospekt",
+            "New Prospect",
+            "Lesser Prospekt"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "How many permanent companions are there in the base game version of Fallout: New Vegas?",
+        "correct_answer": "8",
+        "incorrect_answers": [
+            "7",
+            "9",
+            "6"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which of these is not a world in the anime &quot;Buddyfight&quot;?",
+        "correct_answer": "Ancient Dragon World",
+        "incorrect_answers": [
+            "Dragon World",
+            "Star Dragon World",
+            "Darkness Dragon World"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the original Mega Man series, who is Mega Man&#039;s arch nemesis?",
+        "correct_answer": "Dr. Wily",
+        "incorrect_answers": [
+            "Dr. Light",
+            "Dr. Bad",
+            "Mr. Z"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "How many French Open&#039;s did Bj&ouml;rn Borg win?",
+        "correct_answer": "6",
+        "incorrect_answers": [
+            "4",
+            "9",
+            "2"
+        ]
+    }
+]

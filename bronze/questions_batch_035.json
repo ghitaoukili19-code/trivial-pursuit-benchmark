@@ -1,0 +1,586 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What is Hypernatremia?",
+        "correct_answer": "Increase in blood sodium",
+        "incorrect_answers": [
+            "Decrease in blood potassium",
+            "Increase in blood glucose",
+            "Decrease in blood iron"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "&quot;The Singing Cowboy&quot; Gene Autry is credited with the first recording for all but which classic Christmas jingle?",
+        "correct_answer": "White Christmas",
+        "incorrect_answers": [
+            "Frosty the Snowman",
+            "Rudolph the Red-Nosed Reindeer",
+            "Here Comes Santa Claus"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Shrimp can swim backwards.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which city is the capital of Michigan?",
+        "correct_answer": "Lansing",
+        "incorrect_answers": [
+            "Kalamazoo",
+            "Ann Arbor",
+            "Detroit"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Need for Speed: Porsche Unleashed&quot;, the player can only drive cars manufactured by Porsche.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "In Greek Mythology, who killed Achilles?",
+        "correct_answer": "Paris",
+        "incorrect_answers": [
+            "Hector",
+            "Helen",
+            "Pericles"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "&quot;Rumble&quot; by Link Wray is the only instrumental song to ever have been banned from US radio.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which souls game was not directed by Hidetaka Miyazaki?",
+        "correct_answer": "Dark Souls 2",
+        "incorrect_answers": [
+            "Demon Souls",
+            "Dark Souls",
+            "Dark Souls 3"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The son of which pope supposedly held a lecherous f&ecirc;te involving 50 courtesans in the papal palace?",
+        "correct_answer": "Alexander VI",
+        "incorrect_answers": [
+            "Innocent V",
+            "Urban II",
+            "Pius III"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which country has the Union Jack in its flag?",
+        "correct_answer": "New Zealand",
+        "incorrect_answers": [
+            "South Africa",
+            "Canada",
+            "Hong Kong"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What did the abbreviation &quot;RMS&quot; stand for in the RMS Titanic in 1912?",
+        "correct_answer": "Royal Mail Ship",
+        "incorrect_answers": [
+            "Royal Majesty Service",
+            "Regular Maritime Schedule ",
+            "Regulated Maelstrom Sensor"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "You could walk from Norway to North Korea while only passing through Russia.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "Which of these mythological creatures is said to be half-man and half-horse?",
+        "correct_answer": "Centaur",
+        "incorrect_answers": [
+            "Minotaur",
+            "Pegasus",
+            "Gorgon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?",
+        "correct_answer": "Clipper Chip",
+        "incorrect_answers": [
+            "Enigma Machine",
+            "Skipjack",
+            "Nautilus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "In June 2017, Saudi Arabia and Egypt broke off ties with which country over its supposed support for terrorism?",
+        "correct_answer": "Qatar",
+        "incorrect_answers": [
+            "Bahrain",
+            "United States of America",
+            "Russia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "How many wheels does a unicycle have?",
+        "correct_answer": "1",
+        "incorrect_answers": [
+            "4",
+            "3",
+            "6"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who was the Prime Minister of Japan when Japan declared war on the US?",
+        "correct_answer": "Hideki Tojo",
+        "incorrect_answers": [
+            "Michinomiya Hirohito",
+            "Isoroku Yamamoto",
+            "Fumimaro Konoe"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the 2012 animated film &quot;Wolf Children&quot;, what are the names of the wolf children?",
+        "correct_answer": "Ame &amp; Yuki",
+        "incorrect_answers": [
+            "Hana &amp; Yuki",
+            "Ame &amp; Hana",
+            "Chuck &amp; Anna"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Ed Koch, the Mayor of New York in 1984, played himself in which Muppets movie?",
+        "correct_answer": "The Muppets Take Manhattan",
+        "incorrect_answers": [
+            "The Great Muppet Caper",
+            "The Muppet Christmas Carol",
+            "The Muppet Movie"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "How many cores does the Intel i7-6950X have?",
+        "correct_answer": "10",
+        "incorrect_answers": [
+            "12",
+            "8",
+            "4"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "Which of these did mathematician Leonhard Euler NOT develop?",
+        "correct_answer": "An improvement to the Fast Fourier Transform",
+        "incorrect_answers": [
+            "A method of solving first-order differential equations",
+            "An identity linking the numbers e, pi and i",
+            "A formula linking vertices, edges and faces on a graph"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Which of these programming languages is a low-level language?",
+        "correct_answer": "Assembly",
+        "incorrect_answers": [
+            "Python",
+            "C#",
+            "Pascal"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who rode on horseback to warn the Minutemen that the British were coming during the U.S. Revolutionary War?",
+        "correct_answer": "Paul Revere",
+        "incorrect_answers": [
+            "Thomas Paine",
+            "Henry Longfellow",
+            "Nathan Hale"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which of the following nations was NOT a belligerent in World War I?",
+        "correct_answer": "Denmark",
+        "incorrect_answers": [
+            "Portugal",
+            "Greece",
+            "Romania"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "The word &quot;abulia&quot; means which of the following?",
+        "correct_answer": "The inability to make decisions",
+        "incorrect_answers": [
+            "The inability to stand up",
+            "The inability to concentrate on anything",
+            "A feverish desire to rip one&#039;s clothes off"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "When was the board game Twister, released to the public?",
+        "correct_answer": "April 1966",
+        "incorrect_answers": [
+            "September 1965",
+            "January 1969",
+            "February 1966"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which of the following is not a studio album by the band Pink Floyd?",
+        "correct_answer": "Moving Pictures",
+        "incorrect_answers": [
+            "The Dark Side of the Moon",
+            "Wish You Were Here",
+            "Animals"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?",
+        "correct_answer": "Jumping over an office chair",
+        "incorrect_answers": [
+            "Jumping backwards over a desk",
+            "Standing on his head",
+            "Typing on a keyboard during a handstand"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "Ada Lovelace is often considered the first computer programmer.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following games in the Anno series introduced the &quot;Eco Balance&quot; gameplay mechanic?",
+        "correct_answer": "Anno 2070",
+        "incorrect_answers": [
+            "Anno 1404",
+            "Anno 2205",
+            " Anno 1701"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "In a normal distribution, 95% of the data lies within how many standard deviations of the mean?",
+        "correct_answer": "2",
+        "incorrect_answers": [
+            "1",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In the Lord of the Rings: The Two Towers, where are the party of orcs taking the hobbits?",
+        "correct_answer": "Isengard",
+        "incorrect_answers": [
+            "Rivendell",
+            "Mordor",
+            "Moria"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What is the correct phrase for the Latin saying &quot;Romanes Eunt Domus&quot; in Monty Python&#039;s Life of Brian?",
+        "correct_answer": "Romani Ite Domum",
+        "incorrect_answers": [
+            "Romans Go Home",
+            "Roxani Ite Domum",
+            "Tomate Ite Domum"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "In the Harry Potter universe, who does Draco Malfoy end up marrying?",
+        "correct_answer": "Astoria Greengrass",
+        "incorrect_answers": [
+            "Pansy Parkinson",
+            "Millicent Bulstrode",
+            "Hermione Granger"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Who was the original drummer for The Beatles?",
+        "correct_answer": "Tommy Moore",
+        "incorrect_answers": [
+            "Ringo Starr",
+            "Stuart Sutcliffe",
+            "Pete Best"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "&quot;Sleepyhead&quot; is the debut single from which Electronic band?",
+        "correct_answer": "Passion Pit",
+        "incorrect_answers": [
+            "The Chemical Brothers",
+            "LadyTron",
+            "Kraftwerk"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Soulja Boy&#039;s &#039;Crank That&#039; won a Grammy for Best Rap Song in 2007.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "What is the weight of a Gold Bar in Fallout: New Vegas?",
+        "correct_answer": "35 Pounds",
+        "incorrect_answers": [
+            "30 Pounds",
+            "40 Pounds",
+            "32.50 Pounds"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which of these is a type of stretch/deep tendon reflex?",
+        "correct_answer": "Ankle jerk reflex",
+        "incorrect_answers": [
+            "Gag reflex",
+            "Pupillary light reflex",
+            "Scratch reflex"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which animation studio produced the anime adaptation of &quot;xxxHolic&quot;?",
+        "correct_answer": "Production I.G",
+        "incorrect_answers": [
+            "Sunrise",
+            "Xebec",
+            "Kyoto Animation"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "In season one of the US Kitchen Nightmares, Gordan Ramsay tried to save 10 different restaurants. How many ended up closing afterwards?",
+        "correct_answer": "9",
+        "incorrect_answers": [
+            "6",
+            "3",
+            "0"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the survival horror game, &quot;Cry of Fear,&quot; what was the name of Simon&#039;s close friend/potential love interest?",
+        "correct_answer": "Sophie",
+        "incorrect_answers": [
+            "Olivia",
+            "Jessica",
+            "Alice"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "When did Spongebob Squarepants first air?",
+        "correct_answer": "May 1, 1999",
+        "incorrect_answers": [
+            "July 20, 2000",
+            "February 6, 2003",
+            "June 27, 1997"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the game Dark Souls, what is the name of the region you&#039;re in for the majority of the game?",
+        "correct_answer": "Lordran",
+        "incorrect_answers": [
+            "Drangleic",
+            "Oolacile",
+            "Catarina"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is not a playable character in &quot;Enter The Gungeon?&quot;",
+        "correct_answer": "The Heavy",
+        "incorrect_answers": [
+            "The Bullet",
+            "The Robot",
+            "The Cultist"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "&quot;Some people call me the space cowboy&quot; is the first line from what song?",
+        "correct_answer": "The Joker",
+        "incorrect_answers": [
+            "Fandango",
+            "Take The Money and Run",
+            "Fly Like an Eagle"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "TF2: What code does Soldier put into the door keypad in &quot;Meet the Spy&quot;?",
+        "correct_answer": "1111",
+        "incorrect_answers": [
+            "1432",
+            "1337",
+            "No code"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In World War ll, Great Britian used inflatable tanks on the ports of Great Britain to divert Hitler away from Normandy/D-day landing.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Where was Portuguese explorer Ferdinand Magellan killed in 1521?",
+        "correct_answer": "The Phillipines",
+        "incorrect_answers": [
+            "Canary Islands",
+            "Guam",
+            "Argentina"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Like with the Neanderthals, Homo sapiens sapiens also interbred with the Denisovans.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    }
+]

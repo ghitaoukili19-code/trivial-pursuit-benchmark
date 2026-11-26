@@ -1,0 +1,592 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is Laos?",
+        "correct_answer": "Country",
+        "incorrect_answers": [
+            "Region",
+            "River",
+            "City"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Who is the lead singer of Foo Fighters?",
+        "correct_answer": "Dave Grohl",
+        "incorrect_answers": [
+            "Dave Mustaine",
+            "James Hetfield",
+            "Little Red Riding Hood"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+        "correct_answer": "Heartbleed",
+        "incorrect_answers": [
+            "Shellshock",
+            "Corrupted Blood",
+            "Shellscript"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which of the following Ivy League universities has its official motto in Hebrew as well as in Latin?",
+        "correct_answer": "Yale University",
+        "incorrect_answers": [
+            "Princeton University",
+            "Harvard University",
+            "Columbia University"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "As of February 2019, the &quot;Donkey Kong Country&quot; series only had released five games (not counting remakes or ports).",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In which year did the first Monster Hunter game get released?",
+        "correct_answer": "2004",
+        "incorrect_answers": [
+            "2006",
+            "2005",
+            "2002"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What is the name given to the series of confrontations between the UK and Iceland over North Atlantic fishing rights?",
+        "correct_answer": "The Cod Wars",
+        "incorrect_answers": [
+            "The Lobster Wars",
+            "The Halibut Wars",
+            "The Mackerel Wars"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;The Elder Scrolls 3: Morrowind&quot;, which of the following factions is not joinable?",
+        "correct_answer": "The Dark Brotherhood",
+        "incorrect_answers": [
+            "Fighters Guild",
+            "Mages Guild",
+            "Thieves Guild"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who wrote and directed the 1986 film &#039;Platoon&#039;?",
+        "correct_answer": "Oliver Stone",
+        "incorrect_answers": [
+            "Francis Ford Coppola",
+            "Stanley Kubrick",
+            "Michael Cimino"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following games was NOT included in Valve&#039;s Orange Box?",
+        "correct_answer": "Counter-Strike",
+        "incorrect_answers": [
+            "Portal",
+            "Half-Life 2: Episode Two",
+            "Team Fortress 2"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which sign of the zodiac is represented by the Crab?",
+        "correct_answer": "Cancer",
+        "incorrect_answers": [
+            "Libra",
+            "Virgo",
+            "Sagittarius"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Comics",
+        "question": "What is the real hair colour of the mainstream comic book version (Earth-616) of Daredevil?",
+        "correct_answer": "Blonde",
+        "incorrect_answers": [
+            "Auburn",
+            "Brown",
+            "Black"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which band released the album &quot;Sonic Highways&quot; in 2014?",
+        "correct_answer": "Foo Fighters",
+        "incorrect_answers": [
+            "Coldplay",
+            "Nickelback",
+            "The Flaming Lips"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What is the name of the final villain in the manga series &quot;Bleach&quot;?",
+        "correct_answer": "Yhwach",
+        "incorrect_answers": [
+            "Juha Bach",
+            "Yuhabah",
+            "Juhabach"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the anime &quot;Naruto&quot;, the main character is a female.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What is the star sign of someone born on Valentines day?",
+        "correct_answer": "Aquarius",
+        "incorrect_answers": [
+            "Pisces",
+            "Capricorn",
+            "Scorpio"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the 2015 RPG &quot;Undertale&quot;, which character do you first encounter after falling down into the underground?",
+        "correct_answer": "Flowey",
+        "incorrect_answers": [
+            "Toriel",
+            "Sans",
+            "Papyrus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which &quot;Fallout: New Vegas&quot; quest is NOT named after a real-life song?",
+        "correct_answer": "They Went That-a-Way",
+        "incorrect_answers": [
+            "Come Fly With Me",
+            "Ain&#039;t That a Kick in the Head",
+            "Ring-a-Ding Ding"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "What&#039;s the name of Batman&#039;s parents?",
+        "correct_answer": "Thomas &amp; Martha",
+        "incorrect_answers": [
+            "Joey &amp; Jackie",
+            "Jason &amp; Sarah",
+            "Todd &amp; Mira"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What is the name of the infamous pachinko machine from &quot;Kaiji&quot;?",
+        "correct_answer": "The Bog",
+        "incorrect_answers": [
+            "The Devil",
+            "The Undefeated",
+            "The Dragon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The starting pistol of the Terrorist team in a competitive match of Counter Strike: Global Offensive is what?",
+        "correct_answer": "Glock-18",
+        "incorrect_answers": [
+            "Tec-9",
+            "Desert Eagle",
+            "Dual Berretas"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The original Roman alphabet lacked the following letters EXCEPT:",
+        "correct_answer": "X",
+        "incorrect_answers": [
+            "W",
+            "U",
+            "J"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+        "correct_answer": "Twilight Zone Tower of Terror",
+        "incorrect_answers": [
+            "The Haunted Mansion",
+            "Pirates of the Caribbean",
+            "Peter Pan&#039;s Flight"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Butters Stotch, Pip Pirrup, and Wendy Testaburger are all characters in which long running animated TV series?",
+        "correct_answer": "South Park",
+        "incorrect_answers": [
+            "The Simpsons",
+            "Family Guy",
+            "Bob&#039;s Burgers"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "Which of these games includes the phrase &quot;Do not pass Go, do not collect $200&quot;?",
+        "correct_answer": "Monopoly",
+        "incorrect_answers": [
+            "Pay Day",
+            "Cluedo",
+            "Coppit"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What numbers did Sayaka Maizono write on the wall in Dangan Ronpa Trigger Happy Havoc?",
+        "correct_answer": "11037",
+        "incorrect_answers": [
+            "4, 8, 15, 16, 23, 42",
+            "55730",
+            "3, 9, 11, 12, 15, 17,"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of these languages was NOT included in the 2016 song &quot;Don&#039;t Mind&quot; by Kent Jones?",
+        "correct_answer": "Portuguese",
+        "incorrect_answers": [
+            "Japanese",
+            "French",
+            "Spanish"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Kingdom Hearts&quot;, what mission are Donald and Goofy assigned by King Mickey?",
+        "correct_answer": "To find the Key bearer and stick with him!",
+        "incorrect_answers": [
+            "To find the Key bearer and steal the key!",
+            "To find the Key bearer and report back!",
+            "To find the Key bearer and kill him!"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which of the following ancient peoples was NOT classified as Hellenic (Greek)?",
+        "correct_answer": "Illyrians",
+        "incorrect_answers": [
+            "Dorians",
+            "Achaeans",
+            "Ionians"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "What was the last Aphex Twin album released before his decade-long hiatus?",
+        "correct_answer": "Drukqs",
+        "incorrect_answers": [
+            "Windowlicker",
+            "Syro",
+            "Collected Ambient Works 85-92"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "After the 1516 Battle of Marj Dabiq, the Ottoman Empire took control of Jerusalem from which sultanate?",
+        "correct_answer": "Mamluk",
+        "incorrect_answers": [
+            "Ayyubid",
+            "Ummayyad",
+            "Seljuq"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "The 2016 Disney animated film &#039;Moana&#039; is based on which culture?",
+        "correct_answer": "Polynesian",
+        "incorrect_answers": [
+            "Native American",
+            "Japanese",
+            "Nordic"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What is the homeworld of the Elites from Halo?",
+        "correct_answer": "Sanghelios",
+        "incorrect_answers": [
+            "Te",
+            "Doisac",
+            "Eayn"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What is the medical term for low blood sugar?",
+        "correct_answer": "Hypoglycemia",
+        "incorrect_answers": [
+            "Hypothyroidism",
+            "Hypothermia",
+            "Hypoxia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Bugs Bunny, Tony the Tiger, and other bipedal animal characters are known as what type of character?",
+        "correct_answer": "Anthropomorphic",
+        "incorrect_answers": [
+            "Anthropolegic ",
+            "Anthrologic",
+            "Anthrogenetic"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Hong Kong was a part of which country&#039;s territory before Britain regained it in 1945?",
+        "correct_answer": "Japan",
+        "incorrect_answers": [
+            "China",
+            "Phillipines",
+            "French Indonesia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "&quot;Lift Your Spirit&quot; is an album by which artist?",
+        "correct_answer": "Aloe Blacc",
+        "incorrect_answers": [
+            "Lena Meyer-Landrut",
+            "Stevie Wonder",
+            "Taylor Swift"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "Which Star Trek race advances itself through assimilation?",
+        "correct_answer": "Borg",
+        "incorrect_answers": [
+            "Vulcan",
+            "Betazoid",
+            "Klingon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "What do you call a baby bat?",
+        "correct_answer": "Pup",
+        "incorrect_answers": [
+            "Cub",
+            "Chick",
+            "Kid"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In which British seaside town was the BBC sitcom &quot;Fawlty Towers&quot; set?",
+        "correct_answer": "Torquay",
+        "incorrect_answers": [
+            "Blackpool",
+            "Bournemouth",
+            "Great Yarmouth"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "The internet browser Firefox is named after the Red Panda.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The game &quot;Jetpack Joyride&quot; was created by &quot;Redbrick Studios&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "When was Tesla founded?",
+        "correct_answer": "2003",
+        "incorrect_answers": [
+            "2008",
+            "2005",
+            "2007"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Where in La Coru&ntilde;a (Spain) is the headquarters of &quot;Inditex&quot;, the biggest fashion group in the world?",
+        "correct_answer": "Arteijo",
+        "incorrect_answers": [
+            "Sanjenjo",
+            "Mug&iacute;a",
+            "&Oacute;rdenes"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The title of the 1969 film &quot;Krakatoa, East_of Java&quot; is incorrect, as Krakatoa is in fact west of Java.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which Kingdom Hearts game featured the cast of &quot;The World Ends With You&quot;?",
+        "correct_answer": "Dream Drop Distance",
+        "incorrect_answers": [
+            "Birth By Sleep",
+            "365/2 Days",
+            "Re:Chain of Memories"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "When did Radiohead release their album &quot;OK Computer&quot;?",
+        "correct_answer": "1997",
+        "incorrect_answers": [
+            "1995",
+            "2000",
+            "1993"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What was the name of the planned invasion of Japan towards the end of World War II?",
+        "correct_answer": "Operation Downfall",
+        "incorrect_answers": [
+            "Operation Boarding Party",
+            "Operation Ironclad",
+            "Operation Aflame"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What does VR stand for?",
+        "correct_answer": "Virtual Reality",
+        "incorrect_answers": [
+            "Very Real",
+            "Visual Recognition",
+            "Voice Recognition"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "&quot;Gimmick!&quot; is a Japanese Famicom game that uses a sound chip expansion in the cartridge. What is it called?",
+        "correct_answer": "FME-7",
+        "incorrect_answers": [
+            "VRC7",
+            "VRC6",
+            "MMC5"
+        ]
+    }
+]

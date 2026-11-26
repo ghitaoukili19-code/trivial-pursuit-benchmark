@@ -1,0 +1,588 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What year is on the flag of the US state Wisconsin?",
+        "correct_answer": "1848",
+        "incorrect_answers": [
+            "1634",
+            "1783",
+            "1901"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Rabbits are rodents.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What was David Bowie&#039;s real surname?",
+        "correct_answer": "Jones",
+        "incorrect_answers": [
+            "Johnson",
+            "Edwards",
+            "Carter"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Mythology",
+        "question": "Which Norse God has a horse named Sleipnir?",
+        "correct_answer": "Odin",
+        "incorrect_answers": [
+            "Thor",
+            "Frigg",
+            "Balder"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Norwegian producer Kygo released a remix of the song &quot;Sexual Healing&quot; by Marvin Gaye.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "&quot;The Big Bang Theory&quot; was first theorized by a priest of what religious ideology?",
+        "correct_answer": "Catholic",
+        "incorrect_answers": [
+            "Christian",
+            "Jewish",
+            "Islamic"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which constellation contains the center of the Milky Way?",
+        "correct_answer": "Sagittarius",
+        "incorrect_answers": [
+            "Scorpius",
+            "Ophiuchus",
+            "Capricornus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "The website &quot;Shut Up &amp; Sit Down&quot; reviews which form of media?",
+        "correct_answer": "Board Games",
+        "incorrect_answers": [
+            "Television Shows",
+            "Video Games",
+            "Films"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The main character in the &quot;Half-Life&quot; franchise is named Morgan Freeman.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "What does the term USB stand for?",
+        "correct_answer": "Universal Serial Bus",
+        "incorrect_answers": [
+            "Universal Simtex Blot",
+            "Unified Signal Bus",
+            "Unityped Semtex Backer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "The medical term for the belly button is which of the following?",
+        "correct_answer": "Umbilicus",
+        "incorrect_answers": [
+            "Nevus",
+            "Nares",
+            "Paxillus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which of the following Soviet revolutionaries was exiled from the USSR and later assassinated in 1940 for criticizing Stalinism?",
+        "correct_answer": "Leon Trotsky",
+        "incorrect_answers": [
+            "Lev Kamenev",
+            "Mikhail Kalinin",
+            "Vladimir Lenin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "What city did the Lakers represent before relocating to Los Angeles?",
+        "correct_answer": "Minneapolis",
+        "incorrect_answers": [
+            "Philadelphia",
+            "Chicago",
+            "San Francisco"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Scottish producer Calvin Harris is from the town of Dumfries, Scotland.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following is NOT one of the main characters in Grand Theft Auto V&rsquo;s story mode?",
+        "correct_answer": "Tommy Vercetti",
+        "incorrect_answers": [
+            "Michael de Santa",
+            "Franklin Clinton",
+            "Trevor Phillips"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the game &quot;Destiny,&quot; the three subclasses of the Hunter are Bladedancer, Nightstalker, and Sunsinger.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When Christopher Columbus sailed to America, what was the first region he arrived in?",
+        "correct_answer": "The Bahamas Archipelago",
+        "incorrect_answers": [
+            "Florida",
+            "Isthmus of Panama",
+            "Nicaragua"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "The Axiom of Preventive Medicine states that people with ___ risk for a disease should be screened and we should treat ___ of those people.",
+        "correct_answer": "low, all",
+        "incorrect_answers": [
+            "low, some",
+            "high, all",
+            "high, some"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Centripetal force is an apparent force that acts outward on a body moving around a center, arising from the body&#039;s inertia.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Cook, Serve, Delicious!, which food is NOT included in the game?",
+        "correct_answer": "Pie",
+        "incorrect_answers": [
+            "Shish Kabob",
+            "Hamburger",
+            "Lasagna"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Fallout 4, which type of power armor is first encountered in the early mission &quot;When Freedom Calls&quot; in a crashed Vertibird?",
+        "correct_answer": "T-45",
+        "incorrect_answers": [
+            "T-51",
+            "T-60",
+            "X-01"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "How many degrees Fahrenheit is 100 degrees Celsius? ",
+        "correct_answer": "212",
+        "incorrect_answers": [
+            "326",
+            "100",
+            "451"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "How many semitones are in an octave?",
+        "correct_answer": "12",
+        "incorrect_answers": [
+            "7",
+            "11",
+            "14"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Which of the following languages does NOT use gender as a part of its grammar?",
+        "correct_answer": "Turkish",
+        "incorrect_answers": [
+            "German",
+            "Danish",
+            "Polish"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What is the hottest planet in the solar system",
+        "correct_answer": "Venus",
+        "incorrect_answers": [
+            "Jupiter",
+            "Mercury ",
+            "Mars"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these online games was originally named LindenWorld in it&#039;s early development?",
+        "correct_answer": "SecondLife",
+        "incorrect_answers": [
+            "ActiveWorlds",
+            "IMVU",
+            "HabboHotel"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "In baseball, how many fouls are an out?",
+        "correct_answer": "0",
+        "incorrect_answers": [
+            "5",
+            "3",
+            "2"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Fallout: New Vegas, which one of these casinos can you not play in?",
+        "correct_answer": "Lucky 38",
+        "incorrect_answers": [
+            "The Tops",
+            "Gammorah",
+            "Ultra-Luxe"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "What is Justin Bieber&#039;s debut Album?",
+        "correct_answer": "My World 2.0",
+        "incorrect_answers": [
+            "U Smile",
+            "Baby",
+            "Purpose"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Which of the following is an existing family in &quot;The Sims&quot;?",
+        "correct_answer": "The Goth Family",
+        "incorrect_answers": [
+            "The Family",
+            "The Simoleon Family",
+            "The Proud Family"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which Oceanian nation is known in Māori as Aotearoa?",
+        "correct_answer": "New Zealand",
+        "incorrect_answers": [
+            "Australia",
+            "Solomon Islands",
+            "New Caledonia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Typically, how many keys are on a piano?",
+        "correct_answer": "88",
+        "incorrect_answers": [
+            "24",
+            "12",
+            "96"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Danganronpa: Trigger Happy Havoc, what is the protagonist&#039;s name?",
+        "correct_answer": "Makoto Naegi",
+        "incorrect_answers": [
+            "Hajime Hinata",
+            "Nagito Komaeda",
+            "Komaru Naegi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "When was Final Fantasy XV released?",
+        "correct_answer": "November 29th, 2016",
+        "incorrect_answers": [
+            "October 25th, 2016",
+            "December 31th, 2016",
+            "November 30th, 2016"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the nickname of the US state of California?",
+        "correct_answer": "Golden State",
+        "incorrect_answers": [
+            "Sunshine State",
+            "Bay State",
+            "Treasure State"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Which actor plays Obi-Wan Kenobi in Star Wars Episodes I-III?",
+        "correct_answer": "Ewan McGregor",
+        "incorrect_answers": [
+            "Alec Guinness",
+            "Hayden Christensen",
+            "Liam Neeson"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Which of these Indian languages is not part of the Indo-European language family?",
+        "correct_answer": "Tamil",
+        "incorrect_answers": [
+            "Hindi",
+            "Punjabi",
+            "Urdu"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What is the Gray Wolf&#039;s scientific name?",
+        "correct_answer": "Canis Lupus",
+        "incorrect_answers": [
+            "Canis Aureus",
+            "Canis Latrans",
+            "Canis Lupus Lycaon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "How many strings are there on a cello?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "5",
+            "6",
+            "8"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "What year was Min Yoongi from South Korea boy band &quot;BTS&quot; born in?",
+        "correct_answer": "1993",
+        "incorrect_answers": [
+            "1992",
+            "1995",
+            "1994"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Polaris is the brightest star in the northern hemisphere night sky.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which is the largest city in Morocco?",
+        "correct_answer": "Casablanca",
+        "incorrect_answers": [
+            "Rabat",
+            "Fes",
+            "Sale"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "The film Mad Max: Fury Road features the Dies Irae  from which composer&#039;s requiem?",
+        "correct_answer": "Verdi",
+        "incorrect_answers": [
+            "Mozart",
+            "Berlioz",
+            "Brahms"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The protagonist in the game &quot;Cave Story&quot; is named",
+        "correct_answer": "Quote",
+        "incorrect_answers": [
+            "Kazuma",
+            "Curly",
+            "Arthur"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Who created &quot;RWBY&quot;?",
+        "correct_answer": "Monty Oum",
+        "incorrect_answers": [
+            "Miles Luna",
+            "Kerry Shawcross",
+            "Shane Newville"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Comics",
+        "question": "In the webcomic &quot;Ava&#039;s Demon&quot;, what sin is &quot;Nevy Nervine&quot; based off of? ",
+        "correct_answer": "Envy ",
+        "incorrect_answers": [
+            "Sloth",
+            "Wrath ",
+            "Lust"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In what year was the first Transformers movie released?",
+        "correct_answer": "1986",
+        "incorrect_answers": [
+            "2007",
+            "1984",
+            "2009"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who was the only US President to be elected four times?",
+        "correct_answer": "Franklin Roosevelt",
+        "incorrect_answers": [
+            "Theodore Roosevelt",
+            "George Washington",
+            "Abraham Lincoln"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "How many points did LeBron James score in his first NBA game?",
+        "correct_answer": "25",
+        "incorrect_answers": [
+            "19",
+            "69",
+            "41"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "How old is Chloe Price in Life is Strange: Before the Storm?",
+        "correct_answer": "16",
+        "incorrect_answers": [
+            "24",
+            "19",
+            "15"
+        ]
+    }
+]

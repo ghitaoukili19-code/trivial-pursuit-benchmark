@@ -1,0 +1,580 @@
+[
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Shaquille O&#039;Neal appeared in the 1997 film &quot;Space Jam&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these was NOT a launch title for the Nintendo 64?",
+        "correct_answer": "Mario Kart 64",
+        "incorrect_answers": [
+            "Super Mario 64",
+            "Pilotwings 64",
+            "Saikyō Habu Shōgi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which player has scored the most goals in the England Premier League (EPL)?",
+        "correct_answer": "Alan Shearer",
+        "incorrect_answers": [
+            "Wayne Rooney",
+            "Lionel Messi",
+            "Didier Drogba"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the game Dead by Daylight, the killer Michael Myers is refered to as &quot;The Shape&quot;.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In which Mario game did the Mega Mushroom make its debut?",
+        "correct_answer": "Mario Party 4",
+        "incorrect_answers": [
+            "New Super Mario Bros.",
+            "Mario Kart Wii",
+            "Super Mario 3D World"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Which song in rapper Kanye West&#039;s album &quot;The Life of Pablo&quot; features Rihanna?",
+        "correct_answer": "Famous",
+        "incorrect_answers": [
+            "Wolves",
+            "Ultralight Beam",
+            "Highlights"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the shape of the toy invented by Hungarian professor Ernő Rubik?",
+        "correct_answer": "Cube",
+        "incorrect_answers": [
+            "Sphere",
+            "Cylinder",
+            "Pyramid"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these characters in &quot;Undertale&quot; can the player NOT go on a date with?",
+        "correct_answer": "Toriel",
+        "incorrect_answers": [
+            "Papyrus",
+            "Undyne",
+            "Alphys"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Which artist&rsquo;s studio was known as &#039;The Factory&#039;?",
+        "correct_answer": "Andy Warhol",
+        "incorrect_answers": [
+            "Roy Lichtenstein",
+            "David Hockney",
+            "Peter Blake"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who voices the infamous Citadel Station A.I known as S.H.O.D.A.N, in the System Shock games?",
+        "correct_answer": "Terri Brosius",
+        "incorrect_answers": [
+            " Jennifer Hale",
+            "Jenn Taylor",
+            "Lori Alan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "The programming language &#039;Swift&#039; was created to replace what other programming language?",
+        "correct_answer": "Objective-C",
+        "incorrect_answers": [
+            "C#",
+            "Ruby",
+            "C++"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Which of these is NOT a Disney cartoon character?",
+        "correct_answer": "Daffy Duck",
+        "incorrect_answers": [
+            "Donald Duck",
+            "Daisy Duck",
+            "Scrooge McDuck"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Where is the fast food chain &quot;Panda Express&quot; headquartered?",
+        "correct_answer": "Rosemead, California",
+        "incorrect_answers": [
+            "Sacramento, California",
+            "Fresno, California",
+            "San Diego, California"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the protagonist in the game &quot;The Walking Dead: Season One&quot;?",
+        "correct_answer": "Lee Everett",
+        "incorrect_answers": [
+            "Clementine",
+            "Kenny",
+            "Rick Grimes"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "What prime number comes next after 19?",
+        "correct_answer": "23",
+        "incorrect_answers": [
+            "25",
+            "21",
+            "27"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The Japanese district Akihabara is also known by what nickname?",
+        "correct_answer": "Electric Town",
+        "incorrect_answers": [
+            "Moon Walk River",
+            "Otaku Central ",
+            "Big Eyes"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following is NOT an official game in Nintendo&#039;s Super Smash Bros. series?",
+        "correct_answer": "Super Smash Bros. Crusade",
+        "incorrect_answers": [
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. Brawl",
+            "Super Smash Bros. for Nintendo 3DS and Wii U"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Which of the following Autobot names in Michael Bay&#039;s movies was NOT a name for a Transformer in the original 1980&#039;s cartoon?",
+        "correct_answer": "Mudflap",
+        "incorrect_answers": [
+            "Skids",
+            "Sideswipe",
+            "Ratchet"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "The largest consumer market in 2015 was...",
+        "correct_answer": "The United States of America",
+        "incorrect_answers": [
+            "Germany",
+            "Japan",
+            "United Kingdom"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Which operating system was released first?",
+        "correct_answer": "Mac OS",
+        "incorrect_answers": [
+            "Windows",
+            "Linux",
+            "OS/2"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which of these fast-food chains is NOT mainly known to sell pizza?",
+        "correct_answer": "Wendy&#039;s",
+        "incorrect_answers": [
+            "Domino&#039;s",
+            "Little Caesars",
+            "Papa John&#039;s"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What does Bart sell his soul for in The Simpsons episode &#039;Bart Sells His Soul&#039;?",
+        "correct_answer": "$5",
+        "incorrect_answers": [
+            "A Copy of Bonestorm 2",
+            "$100",
+            "A Giant Gobstopper"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "There is a city called Rome in every continent on Earth.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The longest place named in the United States is Lake Chargoggagoggmanchauggagoggchaubunagungamaugg, located near Webster, MA.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What is the atomic number of the element Strontium?",
+        "correct_answer": "38",
+        "incorrect_answers": [
+            "73",
+            "47",
+            "11"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "What was Humphrey Bogart&#039;s middle name?",
+        "correct_answer": "DeForest",
+        "incorrect_answers": [
+            "DeWinter",
+            "Steven",
+            "Bryce"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of these countries is the smallest by population?",
+        "correct_answer": "Norway",
+        "incorrect_answers": [
+            "Slovakia",
+            "Finland",
+            "Hong Kong"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the &quot;Ace Attorney&quot; series, who was the truly responsible of the forging of the autopsy report of the pivotal IS-7 incident?",
+        "correct_answer": "Bansai Ichiyanagi",
+        "incorrect_answers": [
+            "Manfred Von Karma",
+            "Gregory Edgeworth",
+            "Tateyuki Shigaraki"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "The 2010 film &quot;The Social Network&quot; is a biographical drama film about MySpace founder Tom Anderson.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "What was the religion of famous singer &quot;Freddie Mercury&quot;?",
+        "correct_answer": "Zoroastrianism",
+        "incorrect_answers": [
+            "Paganism",
+            "Ashurism",
+            "Judaism"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which company did Bethesda purchase the Fallout Series from?",
+        "correct_answer": "Interplay Entertainment ",
+        "incorrect_answers": [
+            "Capcom",
+            "Blizzard Entertainment",
+            "Nintendo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "Which actor portrays &quot;Walter White&quot; in the series &quot;Breaking Bad&quot;?",
+        "correct_answer": " Bryan Cranston",
+        "incorrect_answers": [
+            "Andrew Lincoln",
+            "Aaron Paul",
+            "RJ Mitte"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which monster in &quot;Monster Hunter Tri&quot; was causing earthquakes in Moga Village?",
+        "correct_answer": "Ceadeus",
+        "incorrect_answers": [
+            "Alatreon",
+            "Rathalos",
+            "Lagiacrus"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Theodore Roosevelt Jr. was the only General involved in the initial assault on D-Day.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Bosnia and Herzegovina is a country located in the Baltic region in Europe.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What was the name of the African-American cultural explosion centered in upper Manhattan during the 1920s and 1930s?",
+        "correct_answer": "Harlem Renaissance",
+        "incorrect_answers": [
+            "Inwood Renaissance",
+            "Bed-Stuy Renaissance",
+            "Upper East Renaissance"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the Half-Life franchise, what is the real name of the &quot;gravity gun&quot;?",
+        "correct_answer": "Zero-Point Energy Field Manipulator",
+        "incorrect_answers": [
+            "Universal Gravity Manipulation Device",
+            "Isaac Newton&#039;s Theory Disprover",
+            "Quantum Energy Displacement Modifier"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "What tool lends it&#039;s name to a last-stone advantage in an end in Curling?",
+        "correct_answer": "Hammer",
+        "incorrect_answers": [
+            "Wrench",
+            "Drill",
+            "Screwdriver"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "League of Legends, DOTA 2, Smite and Heroes of the Storm are all part of which game genre?",
+        "correct_answer": "Multiplayer Online Battle Arena (MOBA)",
+        "incorrect_answers": [
+            "Real Time Strategy (RTS)",
+            "First Person Shooter (FPS)",
+            "Role Playing Game (RPG)"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "Dracula is destroyed by contact with sunlight",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "In the Hellboy universe, who founded the BPRD?",
+        "correct_answer": "Trevor Bruttenholm",
+        "incorrect_answers": [
+            "Kate Corrigan",
+            "Johann Kraus",
+            "Benjamin Daimio"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What is the real name of viral internet meme Grumpy Cat?",
+        "correct_answer": "Tardar Sauce",
+        "incorrect_answers": [
+            "Lil Bub",
+            "Maru",
+            "Colonel Meow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the name of the extra pedal on a manual or standard transmission car?",
+        "correct_answer": "Clutch",
+        "incorrect_answers": [
+            "Shifter",
+            "Booster",
+            "Parking Brake"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "On which continent/s is the entire country of Spain specifically located when taking into account all of its territory?",
+        "correct_answer": "Europe and Africa",
+        "incorrect_answers": [
+            "Europe, Africa and Asia",
+            "Europe",
+            "Europe and Asia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which one of the following musical instruments is NOT a part of the Woodwind section?",
+        "correct_answer": "Trumpet",
+        "incorrect_answers": [
+            "Clarinet",
+            "Oboe",
+            "Alto Saxophone"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Pete Townshend&#039;s solo album, &quot;White City: A Novel&quot;, is set in the metropolitan area of Chicago.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Francis Bacon died from a fatal case of pneumonia while he was attempting to preserve meat by stuffing a chicken with snow.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which &quot;Perk-A-Cola&quot; in &quot;Call Of Duty: Zombies&quot; was &quot;reworked&quot; in &quot;Call of Duty: Black Ops II&quot;?",
+        "correct_answer": "Double Tap Root Beer",
+        "incorrect_answers": [
+            "Who&#039;s Who",
+            "Juggernog",
+            "Mule Kick"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Switzerland has four national languages, English being one of them.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "One of the early prototypes of the Sega Dreamcast controller resembled which of the following?",
+        "correct_answer": "Television Remote",
+        "incorrect_answers": [
+            "Tablet",
+            "Hairdryer",
+            "Flip Phone"
+        ]
+    }
+]

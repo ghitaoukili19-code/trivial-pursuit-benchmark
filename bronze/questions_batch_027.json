@@ -1,0 +1,590 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "According to Toby Fox, what was the method to creating the initial tune for Megalovania?",
+        "correct_answer": "Singing into a Microphone",
+        "incorrect_answers": [
+            "Playing a Piano",
+            "Using a Composer Software",
+            "Listened to birds at the park"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "A mathematical constant, known as &quot;The Golden Ratio&quot;, is most commonly represented by which greek letter?",
+        "correct_answer": "&Phi; (phi)",
+        "incorrect_answers": [
+            "&pi; (pi)",
+            "&Psi; (psi)",
+            "&Tau; (tau)"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the Fallout: New Vegas add-on Honest Hearts, what is the name of Joshua Graham&#039;s personal .45 pistol?",
+        "correct_answer": "A Light Shining in Darkness",
+        "incorrect_answers": [
+            "Requiem",
+            "Maria",
+            "Recompense of the Fallen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
+        "correct_answer": "OCBC",
+        "incorrect_answers": [
+            "HSBC",
+            "Standard Chartered",
+            "Bank of China"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Akatsuki&#039;s subclass in &quot;Log Horizon&quot; is what?",
+        "correct_answer": " Tracker",
+        "incorrect_answers": [
+            "Assassin",
+            "Scribe",
+            "Apprentice"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Before 2011, &quot;True Capitalist Radio&quot; was known by a different name. What was that name?",
+        "correct_answer": "True Conservative Radio",
+        "incorrect_answers": [
+            "True Republican Radio",
+            "Texan Capitalist Radio",
+            "United Capitalists"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What year does Part 7 of &quot;JoJo&#039;s Bizarre Adventure&quot; take place in?",
+        "correct_answer": "1890",
+        "incorrect_answers": [
+            "1888",
+            "1999",
+            "2003"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which franchise had a special event hosted in the popular MMORPG Final Fantasy XIV: A Realm Reborn?",
+        "correct_answer": "Yo-kai Watch",
+        "incorrect_answers": [
+            "Pok&eacute;mon",
+            "Yu-gi-oh",
+            "Buddyfight"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In the 1995 film &quot;Balto&quot;, who are Steele&#039;s accomplices?",
+        "correct_answer": "Kaltag, Nikki, and Star",
+        "incorrect_answers": [
+            "Dusty, Kirby, and Ralph",
+            "Nuk, Yak, and Sumac",
+            "Jenna, Sylvie, and Dixie"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?",
+        "correct_answer": "October 21, 2015",
+        "incorrect_answers": [
+            "August 28, 2015",
+            "July 20, 2015",
+            "January 25, 2015"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What country did Shirley Bassey originate from?",
+        "correct_answer": "Wales",
+        "incorrect_answers": [
+            "America",
+            "England",
+            "Canada"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Who painted the Sistine Chapel?",
+        "correct_answer": "Michelangelo",
+        "incorrect_answers": [
+            "Leonardo da Vinci",
+            "Pablo Picasso",
+            "Raphael"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Which of the following is NOT a venomous snake?",
+        "correct_answer": "Reticulated python",
+        "incorrect_answers": [
+            "Malayan Krait",
+            "Yellow bellied sea snake",
+            "Black mamba"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "What genre of music did the band Type O Negative play?",
+        "correct_answer": "Gothic Metal",
+        "incorrect_answers": [
+            "Thrash Metal",
+            "Hard Rock ",
+            "Pop Rock"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "&quot;Friday,&quot; the single by Rebecca Black, was released in February 10th, 2011.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which country first successfully farm-hatched and raised bluefin tuna in 1979?",
+        "correct_answer": "Japan",
+        "incorrect_answers": [
+            "France",
+            "USA",
+            "Philippines"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the beta version of the 1986 game &quot;The Legend of Zelda&quot;, players have the choice between a sword and what other item?",
+        "correct_answer": "Boomerang ",
+        "incorrect_answers": [
+            "Spear",
+            "Slingshot",
+            "Crossbow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In the Mad Max franchise, what type of car is the Pursuit Special driven by Max?",
+        "correct_answer": "Ford Falcon",
+        "incorrect_answers": [
+            "Holden Monaro",
+            "Chrysler Valiant Charger",
+            "Pontiac Firebird"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which one of these was not a beach landing site in the Invasion of Normandy?",
+        "correct_answer": "Silver",
+        "incorrect_answers": [
+            "Gold",
+            "Juno",
+            "Sword"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the game Half-Life, which enemy is showcased as the final boss?",
+        "correct_answer": "The Nihilanth",
+        "incorrect_answers": [
+            "Dr. Wallace Breen",
+            "G-Man",
+            "The Gonarch"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the &quot;To Love-Ru&quot; series, Golden Darkness is sent to kill Lala Deviluke.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "At what temperature does temp in &deg;C equal temp in &deg;F?",
+        "correct_answer": "-40",
+        "incorrect_answers": [
+            "+40",
+            "0",
+            "+100"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which of these colours is NOT featured in the logo for Google?",
+        "correct_answer": "Pink",
+        "incorrect_answers": [
+            "Yellow",
+            "Blue",
+            "Green"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who led France during the &quot;Reign of Terror&quot; ?",
+        "correct_answer": "Maximilien Robespierre",
+        "incorrect_answers": [
+            "Napoleon Bonaparte",
+            "Jean-Paul Marat",
+            "Louis XVI"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "The human heart has how many chambers?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "2",
+            "6",
+            "3"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these characters wasn&#039;t a villian in Club Penguin?",
+        "correct_answer": "The Director",
+        "incorrect_answers": [
+            "Herbert P. Bear",
+            "Tusk",
+            "Ultimate Proto-Bot 10000"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "The freshwater amphibian, the Axolotl, can regrow it&#039;s limbs.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "How many people are in the U.S. House of Representatives?",
+        "correct_answer": "435",
+        "incorrect_answers": [
+            "260",
+            "415",
+            "50"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Wilt Chamberlain scored his infamous 100-point-game against the New York Knicks in 1962.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the punishment for playing Postal 2 in New Zealand?",
+        "correct_answer": "10 years in prison and a fine of $50,000",
+        "incorrect_answers": [
+            "Fine of $5,000",
+            "Nothing",
+            "15 years in prison and a fine of $10,000"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "At which university do &quot;The Big Bang Theory&quot; characters Mr. Wolowitz and Drs. Cooper, Hofstadter and Koothrappali work?",
+        "correct_answer": "Caltech",
+        "incorrect_answers": [
+            "UCLA",
+            "MIT",
+            "UC Berkeley "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Which city features all of their professional sports teams&#039; jersey&#039;s with the same color scheme?",
+        "correct_answer": "Pittsburgh",
+        "incorrect_answers": [
+            "New York",
+            "Seattle",
+            "Tampa Bay"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who won the 2018 Monaco Grand Prix?",
+        "correct_answer": "Daniel Ricciardo",
+        "incorrect_answers": [
+            "Sebastian Vettel",
+            "Kimi Raikkonen",
+            "Lewis Hamilton"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the name of the antagonist group in Danganronpa Another Episode: Ultra Despair Girls?",
+        "correct_answer": "Warriors of Hope",
+        "incorrect_answers": [
+            "The Monokubs",
+            "Warriors of Despair",
+            "The Ultimate Despair"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Gadgets",
+        "question": "When was the iPhone released?",
+        "correct_answer": "2007",
+        "incorrect_answers": [
+            "2005",
+            "2006",
+            "2004"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In Halo 2, how many rounds does the M6C hold in a single magazine?",
+        "correct_answer": "12",
+        "incorrect_answers": [
+            "6",
+            "36",
+            "18"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the leader of Team Instinct in Pok&eacute;mon Go?",
+        "correct_answer": "Spark",
+        "incorrect_answers": [
+            "Candela",
+            "Blanche",
+            "Willow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of these artists has NOT been a member of dancehall group Major Lazer?",
+        "correct_answer": "Skrillex",
+        "incorrect_answers": [
+            "Diplo",
+            "Jillionaire",
+            "Walshy Fire"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Who plays &quot;Bruce Wayne&quot; in the 2008 movie &quot;The Dark Knight&quot;?",
+        "correct_answer": "Christian Bale",
+        "incorrect_answers": [
+            "Michael Caine",
+            "Ron Dean",
+            "Heath Ledger"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "In Half-Life, what is the name of the alien that attaches to heads?",
+        "correct_answer": "Headcrab",
+        "incorrect_answers": [
+            "Bullsquid",
+            "Vortigaunt",
+            "Facehugger"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Killing Floor started as a mod for which Unreal Engine 2 game?",
+        "correct_answer": "Unreal Tournament 2004",
+        "incorrect_answers": [
+            "Deus Ex: Invisible War",
+            "Unreal Tournament 3",
+            "Postal"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "In 2016, the United Kingdom voted to stay in the EU.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In Mulan (1998), who is the leader of the Huns?",
+        "correct_answer": "Shan Yu",
+        "incorrect_answers": [
+            "Chien-Po",
+            "Li Shang",
+            "Fa Zhou"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the main antagonist of Silent Hill 4?",
+        "correct_answer": "Walter Sullivan",
+        "incorrect_answers": [
+            "Alessa Gillespie",
+            "Pyramid Head",
+            "Claudia Wolf"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the 2000 video game &quot;Crimson Skies,&quot; what was the name of the protagonists&#039; zeppelin?",
+        "correct_answer": "Pandora",
+        "incorrect_answers": [
+            "Helios",
+            "Icarus",
+            "Orion"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following is not a real Pok&eacute;mon?",
+        "correct_answer": "Luminid",
+        "incorrect_answers": [
+            "Dragalge",
+            "Mandibuzz",
+            "Araquanid"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Washington, D.C. is considered a US state.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which song on Daft Punk&#039;s &quot;Random Access Memories&quot; features Pharrell Williams?",
+        "correct_answer": "Get Lucky",
+        "incorrect_answers": [
+            "Doin&#039; It Right",
+            "Instant Crush",
+            "The Game of Love"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What American actor directed and co-starred alongside Emily Blunt in 2018&#039;s horror film &quot;A Quiet Place&quot;?",
+        "correct_answer": "John Krasinski",
+        "incorrect_answers": [
+            "Keanu Reeves",
+            "Willem Dafoe",
+            "Josh Brolin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Skylanders Giants, why was Zaps&#039; Wow Pow named &quot;For Riley&quot; ?",
+        "correct_answer": "As a tribute to a fan who passed away",
+        "incorrect_answers": [
+            "As a reference to a film",
+            "After one of the writers of the game",
+            "After a voice actor"
+        ]
+    }
+]

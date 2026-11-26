@@ -1,0 +1,592 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Pokemon Diamond, Pearl and Platinum, where can a Munchlax be found?",
+        "correct_answer": "Honey Trees",
+        "incorrect_answers": [
+            "Trading with an NPC",
+            "Grass on Route 209",
+            "Wayward Cave"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Laserjet and inkjet printers are both examples of what type of printer?",
+        "correct_answer": "Non-impact printer",
+        "incorrect_answers": [
+            "Impact printer",
+            "Daisywheel printer",
+            "Dot matrix printer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What historical event was Tchaikovsky&#039;s 1812 Overture referencing?",
+        "correct_answer": "The Napoleonic Wars",
+        "incorrect_answers": [
+            "The American War of 1812",
+            "The Russian Revolution",
+            "The Charge of the Light Brigade (Crimean War)"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which month is Black History Month in the US?",
+        "correct_answer": "February",
+        "incorrect_answers": [
+            "May",
+            "November",
+            "August"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What is the make and model of the tour vehicles in &quot;Jurassic Park&quot; (1993)?",
+        "correct_answer": "1992 Ford Explorer XLT",
+        "incorrect_answers": [
+            "1992 Toyota Land Cruiser",
+            "1992 Jeep Wrangler YJ Sahar",
+            "Mercedes M-Class"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "Under what pseudonym did Stephen King publish five novels between 1977 and 1984?",
+        "correct_answer": "Richard Bachman",
+        "incorrect_answers": [
+            "J. D. Robb",
+            "Mark Twain",
+            "Lewis Carroll"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The RMS Titanic sunk during her maiden voyage from Southampton, England to which American city?",
+        "correct_answer": "New York City",
+        "incorrect_answers": [
+            "Boston ",
+            "Philadelphia",
+            "Washington"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the final boss in Turok: Dinosaur Hunter?",
+        "correct_answer": "The Campaigner",
+        "incorrect_answers": [
+            "The Primagen",
+            "Oblivion",
+            "Lord Tyrannus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "With which team did Michael Schumacher make his Formula One debut at the 1991 Belgian Grand Prix?",
+        "correct_answer": "Jordan",
+        "incorrect_answers": [
+            "Benetton",
+            "Ferrari",
+            "Mercedes"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "What is the most commonly used noun in the English language?",
+        "correct_answer": "Time",
+        "incorrect_answers": [
+            "Home",
+            "Water",
+            "Man"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What was the name of Sqiudward&#039;s bad painting in the Spongebob episode &quot;Artist Unknown?&quot;",
+        "correct_answer": "Bold and Brash",
+        "incorrect_answers": [
+            "Squidward en Repose",
+            "Rippy Bits",
+            "Tilted Perspectives"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which actress&#039;s real name was Frances Ethel Gumm?",
+        "correct_answer": "Judy Garland",
+        "incorrect_answers": [
+            "Doris Day",
+            "Julie Andrews",
+            "Marilyn Monroe"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In the 2010 Nightmare on Elm Street reboot, who played Freddy Kruger?",
+        "correct_answer": "Jackie Earle Haley",
+        "incorrect_answers": [
+            "Tyler Mane",
+            "Derek Mears",
+            "Gunnar Hansen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which musical artist had a prominent role in the 2017 film &quot;Kingsman: The Golden Circle&quot;?",
+        "correct_answer": "Elton John",
+        "incorrect_answers": [
+            "Lady Gaga",
+            "Rihanna",
+            "Justin Bieber"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Peter Jackson&#039;s film series &quot;The Lord of the Rings&quot; was shot entirely in which country?",
+        "correct_answer": "New Zealand",
+        "incorrect_answers": [
+            "Scotland",
+            "Canada",
+            "Iceland"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "The main protagonist of the fourth part of JoJo&#039;s Bizarre Adventure is which of the following?",
+        "correct_answer": "Josuke Higashikata",
+        "incorrect_answers": [
+            "Yoshikage kira",
+            "Koichi Hirose",
+            "Joey JoJo"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Call Of Duty: Zombies&quot;, you can upgrade the &quot;Apothicon Servant&quot; in the &quot;Shadows Of Evil&quot; map.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "The new One World Trade Center in Manhattan, New York City was designed by which architect? ",
+        "correct_answer": "David Childs",
+        "incorrect_answers": [
+            "Bjarke Ingels",
+            "Michael Arad",
+            "Fumihiko Maki"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which is the smallest country in the world?",
+        "correct_answer": "Vatican City",
+        "incorrect_answers": [
+            "Lesotho",
+            "Monaco City",
+            "Titania"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "What was the name of the actor who played Leatherface in the 1974 horror film, The Texas Chainsaw Massacre?",
+        "correct_answer": "Gunnar Hansen",
+        "incorrect_answers": [
+            "Edwin Neal",
+            "John Dugan",
+            "Joe Bill Hogan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In which location does Dark Sun Gwyndolin reside in &quot;Dark Souls&quot;?",
+        "correct_answer": "Anor Londo",
+        "incorrect_answers": [
+            "Firelink Shrine",
+            "Blighttown",
+            "Kiln of the first flame"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "The name of Junko Enoshima&#039;s imposter at the beginning of Danganronpa: Trigger Happy Havoc is?",
+        "correct_answer": "Mukuro Ikusaba",
+        "incorrect_answers": [
+            "Ryota Mitarai",
+            "Ultimate Imposter",
+            "Komaru Naegi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Deuterium is an isotope of which element?",
+        "correct_answer": "Hydrogen",
+        "incorrect_answers": [
+            "Nitrogen",
+            "Helium",
+            "Neon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "In the show &#039;Doctor Who&#039;, what is the name of the time-capsule model stolen by &#039;the Doctor&#039;?",
+        "correct_answer": "TT Type 40, Mark 3 (TARDIS)",
+        "incorrect_answers": [
+            "TT Type 1, Mark 3 (TARDIS)",
+            "TT Type 40, Mark 5 (TARDIS)",
+            "TT Type 1, Mark 5 (TARDIS)"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the smallest country in South America by area?",
+        "correct_answer": "Suriname",
+        "incorrect_answers": [
+            "Brazil",
+            "Uruguay",
+            "Chile"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the adventurer you meet at the mines in Stardew Valley?",
+        "correct_answer": "Marlon",
+        "incorrect_answers": [
+            "Marnie",
+            "Morris",
+            "Marvin"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Niko Bellic is the protagonist of Grand Theft Auto IV.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;One Piece,&quot; what color is Tony Tony Chopper&#039;s nose?",
+        "correct_answer": "Blue",
+        "incorrect_answers": [
+            "Black",
+            "Grey",
+            "Red"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In the Netflix show, Stranger Things, what song would Will sing to himself as he was missing?",
+        "correct_answer": "Should I Stay or Should I Go?",
+        "incorrect_answers": [
+            "Love Will Tear Us Apart",
+            "This Charming Man",
+            "Africa"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "There is an island in Japan called Ōkunoshima, A.K.A. &quot;Rabbit Island&quot;, so named because of it&#039;s huge population of rabbits.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which one of these people has been in the band &#039;&#039;Metallica&#039;&#039; in the past?",
+        "correct_answer": "Dave Mustaine",
+        "incorrect_answers": [
+            "Kurt Cobain",
+            "Joey Belladonna",
+            "Dave Lombardo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "Which famous spy novelist wrote the childrens&#039; story &quot;Chitty-Chitty-Bang-Bang&quot;?",
+        "correct_answer": "Ian Fleming",
+        "incorrect_answers": [
+            "Joseph Conrad",
+            "John Buchan",
+            "Graham Greene"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In &quot;SpongeBob SquarePants&quot;, what is the name of Sandy Cheek&#039;s place of residence?",
+        "correct_answer": "Sandy&#039;s Treedome",
+        "incorrect_answers": [
+            "&quot;The Dome&quot;",
+            "Sandy&#039;s Bubble",
+            "Auquatic Reseach Centre"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+        "correct_answer": "Key",
+        "incorrect_answers": [
+            "Sword",
+            "Pen",
+            "Cellphone"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "The 1996 film &#039;Fargo&#039; is primarily set in which US state?",
+        "correct_answer": "Minnesota",
+        "incorrect_answers": [
+            "North Dakota",
+            "South Dakota",
+            "Wisconsin"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "Berlin was the capital of two countries for about 40 years.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "An Ankh is the Egyptian Hieroglyph for what?",
+        "correct_answer": "Life",
+        "incorrect_answers": [
+            "Love",
+            "Hatred",
+            "Poison"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the anime, &quot;Super Sonico&quot;, what is Super Sonico&#039;s favorite food?",
+        "correct_answer": "Macroons",
+        "incorrect_answers": [
+            "Ice Cream",
+            "Pizza",
+            "Chips"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "To the nearest minute, how long does it take for light to travel from the Sun to the Earth?",
+        "correct_answer": "8 Minutes",
+        "incorrect_answers": [
+            "6 Minutes",
+            "2 Minutes",
+            "12 Minutes"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "Which art movement was Pablo Picasso known for co-founding?",
+        "correct_answer": "Cubism",
+        "incorrect_answers": [
+            "Futurism",
+            "Expressionism",
+            "Impressionism"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "The F1 season of 1994 is remembered for what tragic event?",
+        "correct_answer": "Death of Ayrton Senna (San Marino)",
+        "incorrect_answers": [
+            "The Showdown (Australia)",
+            "Verstappen on Fire (Germany)",
+            "Schumacher&#039;s Ban (Britain)"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In which one of these cities did the Great Stink of 1858 occur?",
+        "correct_answer": "London",
+        "incorrect_answers": [
+            "Berlin",
+            "New York",
+            "Moscow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which Overwatch character says the line &quot;Heroes never die!&quot;?",
+        "correct_answer": "Mercy",
+        "incorrect_answers": [
+            "Reaper",
+            "Sonic",
+            "Ana"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Pink Guy&#039;s debut album was &quot;Pink Season&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Super Mario Bros., who informs Mario that the princess is in another castle?",
+        "correct_answer": "Toad",
+        "incorrect_answers": [
+            "Luigi",
+            "Yoshi",
+            "Bowser"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Which of these is NOT a catchphrase used by Rick Sanchez in the TV show &quot;Rick and Morty&quot;?",
+        "correct_answer": "Slam dunk, nothing but net!",
+        "incorrect_answers": [
+            "Hit the sack, Jack!",
+            "Rikki-Tikki-Tavi, biatch!",
+            "Wubba-lubba-dub-dub!"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Which Manchester nightclub was considered central to the &#039;Madchester&#039; music scene in the late 80&#039;s?",
+        "correct_answer": "The Ha&ccedil;ienda",
+        "incorrect_answers": [
+            "The Warehouse Project",
+            "LIV",
+            "The Liar&#039;s Club"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Who is considered the &quot;Father of Modern Philosophy&quot;?",
+        "correct_answer": "Ren&eacute; Descartes",
+        "incorrect_answers": [
+            "Plato",
+            "Albert Einstein",
+            "Antoine Lavoiser"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who was the leader of the Communist Party of Yugoslavia ?",
+        "correct_answer": "Josip Broz Tito",
+        "incorrect_answers": [
+            "Karadjordje Petrovic",
+            "Milos Obilic",
+            "Aleskandar Petrovic"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Where is the city of Haarlem located?",
+        "correct_answer": "The Netherlands",
+        "incorrect_answers": [
+            "Germany",
+            "United States",
+            "Switzerland"
+        ]
+    }
+]

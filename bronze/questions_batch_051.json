@@ -1,0 +1,592 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the Nintendo Game Splatoon 2, what is Marina&#039;s screen name?",
+        "correct_answer": "DJ_Hyperfresh",
+        "incorrect_answers": [
+            "MC.princess",
+            "Kidnotsquid123",
+            "I&lt;30ffTh3H00k"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Who was the first white band to play the Apollo Theater?",
+        "correct_answer": "Buddy Holly and The Crickets",
+        "incorrect_answers": [
+            "Chuck Berry",
+            "The Beatles",
+            "Elvis"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Kiznaiver is an adaptation of a manga.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which one of these artists appears in the album Deltron 3030?",
+        "correct_answer": "Dan the Automater",
+        "incorrect_answers": [
+            "Lamarr Kendrick",
+            "Danger Mouse",
+            "CeeLo Green"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "All of the following are towns/villages in the Pacific Island nation of Kiribati EXCEPT:",
+        "correct_answer": "Urutora",
+        "incorrect_answers": [
+            "Rungata",
+            "London",
+            "Washington"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "What is the exact length of one non-curved part in Lane 1 of an Olympic Track?",
+        "correct_answer": "84.39m",
+        "incorrect_answers": [
+            "100m",
+            "100yd",
+            "109.36yd"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When did L. L. Zamenhof first publish &quot;Unua Libro&quot;, the first publication describing his international language Esperanto?",
+        "correct_answer": "1887",
+        "incorrect_answers": [
+            "1897",
+            "1905",
+            "1915"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Psych-Horror &quot;Eternal Darkness: Sanity&#039;s Requiem&quot;, developed by Silicon Knights in 2002, was published by who and on what platform?",
+        "correct_answer": "Nintendo&reg; Co. Ltd. | GameCube&trade;",
+        "incorrect_answers": [
+            "Sony&reg; Computer Entertainment&trade; Inc. | PlayStation&reg; 2",
+            "Microsoft&reg; Game Studios&trade; | XBox&trade;",
+            "Sega&reg; Enterprises Co. Ltd. | Dreamcast&trade;"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Call Of Duty: Black Ops II, who is the main antagonist?",
+        "correct_answer": "Raul Men&eacute;ndez ",
+        "incorrect_answers": [
+            "Vladimir Makarov ",
+            "Frank Woods",
+            "DeFalco"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Kingdom Hearts, how many members does Organization XIII have in total?",
+        "correct_answer": "14",
+        "incorrect_answers": [
+            "10",
+            "13",
+            "12"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "What is the name of the Greek god of blacksmiths?",
+        "correct_answer": "Hephaestus",
+        "incorrect_answers": [
+            "Dyntos",
+            "Vulcan",
+            "Artagatus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Where are the Nazca Lines located?",
+        "correct_answer": "Peru",
+        "incorrect_answers": [
+            "Brazil",
+            "Colombia",
+            "Ecuador"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the game Tom Clancy&#039;s Rainbow 6 Siege, what organization is Valkyrie from?",
+        "correct_answer": "Navy Seals",
+        "incorrect_answers": [
+            "S.A.S",
+            "G.I.G.N",
+            "F.B.I"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What stage of development do the majority of eukaryotic cells remain in for most of their life?",
+        "correct_answer": "Interphase",
+        "incorrect_answers": [
+            "Prophase",
+            "Stasis",
+            "Telophase"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "A cancelled Call Of Duty title would have taken place in ancient Rome.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the main protagonist in the &#039;Ratchet and Clank&#039; game series?",
+        "correct_answer": "Ratchet",
+        "incorrect_answers": [
+            "Clank",
+            "Captin Qwark",
+            "Dr Nefarious"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "The numbering system with a radix of 16 is more commonly referred to as ",
+        "correct_answer": "Hexidecimal",
+        "incorrect_answers": [
+            "Binary",
+            "Duodecimal",
+            "Octal"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who is able to grab the survivors with his tongue in Left 4 Dead?",
+        "correct_answer": "Smoker",
+        "incorrect_answers": [
+            "Jockey",
+            "Hunter",
+            "Boomer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "In what year did Canada stop producing the penny?",
+        "correct_answer": "2012",
+        "incorrect_answers": [
+            "2013",
+            "2011",
+            "2010"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "Which fictional English county was the setting for Thomas Hardy&#039;s novels?",
+        "correct_answer": "Wessex",
+        "incorrect_answers": [
+            "Barsetshire",
+            "Fulchester",
+            "Ambridge"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Velma Kelly and Roxie Hart are the protagonists of which Oscar winning movie?",
+        "correct_answer": "Chicago",
+        "incorrect_answers": [
+            "Dreamgirls",
+            "Cabaret",
+            "All That Jazz"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What is the molecular formula of the active component of chili peppers(Capsaicin)?",
+        "correct_answer": "C18H27NO3",
+        "incorrect_answers": [
+            "C21H23NO3",
+            "C6H4Cl2",
+            "C13H25NO4"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "In &quot;Little Women&quot;, which of the March sisters married Laurie?",
+        "correct_answer": "Amy",
+        "incorrect_answers": [
+            "Beth",
+            "Jo",
+            "Meg"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What is the 4th boss in the 1997 video game &quot;Crash Bandicoot 2: Cortex Strikes Back&quot;?",
+        "correct_answer": "Dr. N. Gin",
+        "incorrect_answers": [
+            "Dr. Neo Cortex",
+            "Komodo Brothers",
+            "Tiny Tiger"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "&quot;Tachycardia&quot; or &quot;Tachyarrhythmia&quot; refers to a resting heart-rate near or over 100 BPM.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which one of these nations was added to Civilization V with the &quot;Gods &amp; Kings&quot; expansion?",
+        "correct_answer": "The Netherlands",
+        "incorrect_answers": [
+            "The Zulu",
+            "The Ottomans",
+            "The Kongo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What is Scooby Doo&#039;s full name?",
+        "correct_answer": "Scoobert Doo",
+        "incorrect_answers": [
+            "Scooter Doo",
+            "Scooby Dooby Doo",
+            "Scoobity Doo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What is the cartoon character, Andy Capp, known as in Germany?",
+        "correct_answer": "Willi Wakker",
+        "incorrect_answers": [
+            "Dick Tingeler",
+            "Helmut Schmacker",
+            "Rod Tapper"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the game Destiny, who succeeded Peter Dinklage in voicing the protagonist&#039;s &quot;Ghost&quot;?",
+        "correct_answer": "Nolan North",
+        "incorrect_answers": [
+            "John DiMaggio",
+            "Mark Hamill",
+            " Troy Baker"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:",
+        "correct_answer": "A&#039; + B&#039;",
+        "incorrect_answers": [
+            "A&#039;B + B&#039;A",
+            "A&#039;B&#039;",
+            "AB&#039; + AB"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the second-generation Pok&eacute;mon games, which Pok&eacute;mon can you start with?",
+        "correct_answer": "Chikorita, Cyndaquil, and Totodile",
+        "incorrect_answers": [
+            "Bulbasaur, Charmander, and Squirtle",
+            "Treecko,Torchic, and Mudkip",
+            "Grassy, Firey, and Watery"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who played the female lead in the 1933 film &quot;King Kong&quot;?",
+        "correct_answer": "Fay Wray",
+        "incorrect_answers": [
+            "Jean Harlow",
+            "Vivien Leigh",
+            "Mae West"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Team Fortress 2&quot;, how much health does a scout have when overhealed?",
+        "correct_answer": "185",
+        "incorrect_answers": [
+            "215",
+            "195",
+            "225"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "In linguistics, which of the following is not one of the Gricean Maxims under the Cooperative Principal?",
+        "correct_answer": "Length",
+        "incorrect_answers": [
+            "Quality",
+            "Relation",
+            "Manner"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "On which planet does the game Freedom Planet (2014) take place?",
+        "correct_answer": "Avalice",
+        "incorrect_answers": [
+            "Freedom",
+            "Galaxytrail",
+            "Shang Mu"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of these is NOT an island that is part of the Philippines?",
+        "correct_answer": "Java",
+        "incorrect_answers": [
+            "Luzon",
+            "Mindanao",
+            "Palawan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "The Swedish word &quot;Grunka&quot; means what in English?",
+        "correct_answer": "Thing",
+        "incorrect_answers": [
+            "People",
+            "Place",
+            "Pineapple"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "There was a satirical candidate named &quot;Deez Nuts&quot; running in the 2016 US presidential elections.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Bj&ouml;rk&#039;s &quot;Unison&quot; contains a sample of which Oval song?",
+        "correct_answer": "Aero Deck",
+        "incorrect_answers": [
+            "Textuell",
+            "Panorama",
+            "Do While"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "What is the commonly used keyboard shortcut for the &#039;Copy&#039; function on Windows OS?",
+        "correct_answer": "Ctrl + C",
+        "incorrect_answers": [
+            "Ctrl + X",
+            "Alt + C",
+            "Alt + X"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Half-Life by Valve uses the GoldSrc game engine, which is a highly modified version of what engine?",
+        "correct_answer": "Quake Engine",
+        "incorrect_answers": [
+            "Doom Engine",
+            "id Engine",
+            "Source Engine"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The White Cliffs of Dover is located in which country? ",
+        "correct_answer": "United Kingdom",
+        "incorrect_answers": [
+            "United States",
+            "Netherlands",
+            "Sweden"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Terraria, which of these items is NOT crafted at a Mythril Anvil?",
+        "correct_answer": "Ankh Charm",
+        "incorrect_answers": [
+            "Venom Staff",
+            "Sky Fracture",
+            "Orichalcum Tools"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the game Call of Duty, what is the last level where you play as an American soldier?",
+        "correct_answer": "Festung Recogne",
+        "incorrect_answers": [
+            "Ste. Mere-Eglise (Day)",
+            "Chateau",
+            "Brecourt"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "Which one of these is not a real game in the Dungeons &amp; Dragons series?",
+        "correct_answer": "Extreme Dungeons &amp; Dragons",
+        "incorrect_answers": [
+            "Advanced Dungeons &amp; Dragons",
+            "Dungeons &amp; Dragons 3.5th edition",
+            "Advanced Dungeons &amp; Dragons 2nd edition"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the &quot;Kagerou Daze&quot; series, Shintaro Kisaragi is prominently shown with the color red.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "How many values can a single byte represent?",
+        "correct_answer": "256",
+        "incorrect_answers": [
+            "8",
+            "1",
+            "1024"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What do sailors call the right side of a boat?",
+        "correct_answer": "Starboard",
+        "incorrect_answers": [
+            "Port",
+            "Stern",
+            "Bow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Which cartoon family lives in 31 Spooner Street, Quahog, Rhode Island USA?",
+        "correct_answer": "The Griffins",
+        "incorrect_answers": [
+            "The Simpsons",
+            "The Jetsons",
+            "The Hills"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the shortest month of the year?",
+        "correct_answer": "February",
+        "incorrect_answers": [
+            "December",
+            "April",
+            "September"
+        ]
+    }
+]

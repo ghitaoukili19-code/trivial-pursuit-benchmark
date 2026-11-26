@@ -1,0 +1,588 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "In what year was the smash hit song &quot;Scatman&#039;s World&quot; released?",
+        "correct_answer": "1995",
+        "incorrect_answers": [
+            "1996",
+            "1994",
+            "1993"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The Lego Group was founded in 1932.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "Who is the second person to take up the mantle of Night Owl in the Watchmen graphic novel?",
+        "correct_answer": "Daniel Dreiberg",
+        "incorrect_answers": [
+            "Nelson Gardner",
+            "Hollis Mason",
+            "Adrian Veidt"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The &quot;Trail of Tears&quot; was a result of which United States President&#039;s Indian Removal Policy?",
+        "correct_answer": "Andrew Jackson",
+        "incorrect_answers": [
+            "Harry S. Truman",
+            "Martin Van Buren",
+            "John Quincy Adams"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "The &quot;To Love-Ru&quot; Manga was started in what year?",
+        "correct_answer": "2006",
+        "incorrect_answers": [
+            "2007",
+            "2004",
+            "2005"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What is a dead mall?",
+        "correct_answer": "A mall with high vacancy rates or low consumer foot traffic",
+        "incorrect_answers": [
+            "A mall with no stores",
+            "A mall that has been condemed",
+            "A mall after business hours"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "&quot;Banjo-Kazooie&quot; originally started its development as a totally different game for the SNES under which codename?",
+        "correct_answer": "Project Dream",
+        "incorrect_answers": [
+            "Project Ukulele",
+            "Project Land",
+            "Project BK"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "The French word for &quot;glass&quot; is &quot;glace&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who was the star of the TV series &quot;24&quot;?",
+        "correct_answer": "Kiefer Sutherland",
+        "incorrect_answers": [
+            "Kevin Bacon",
+            "Hugh Laurie",
+            "Rob Lowe"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Five Nights at Freddy&#039;s 1, how can you make Golden Freddy disappear?",
+        "correct_answer": "Enable cameras",
+        "incorrect_answers": [
+            "Turn on the light",
+            "Shut the door",
+            "Do nothing"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "The movie &quot;The Nightmare before Christmas&quot; was all done with physical objects.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who made Garry&#039;s Mod?",
+        "correct_answer": "Garry Newman",
+        "incorrect_answers": [
+            "Randy Newman",
+            "Facepunch Studios",
+            "Gabe Newell"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "How many voice channels does the Super Nintendo Entertainment System support?",
+        "correct_answer": "8",
+        "incorrect_answers": [
+            "6",
+            "10",
+            "12"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "The British Rail Class 700, Class 707 and the Class 717 are part of what train family?",
+        "correct_answer": "Desiro City",
+        "incorrect_answers": [
+            "Networker",
+            "Aventra",
+            "Electrostar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Tetsuya Fujita was a scientist that developed the scale for which natural disaster?",
+        "correct_answer": "Tornadoes",
+        "incorrect_answers": [
+            "Hurricanes",
+            "Earthquakes",
+            "Volcanoes"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "What TV show featured older women named Blanche, Rose, Dorothy and Sophia?",
+        "correct_answer": "The Golden Girls",
+        "incorrect_answers": [
+            "Cheers",
+            "The Wonder Years",
+            "Family Ties"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the name of the ocean that Hawaii is located in?",
+        "correct_answer": "Pacific",
+        "incorrect_answers": [
+            "Atlantic",
+            "Indian",
+            "Arctic"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the Assassin&#039;s Creed series,what was the name of Desmond Miles given by Abstergo?",
+        "correct_answer": "Subject 17",
+        "incorrect_answers": [
+            "Subject 16",
+            "Subject 18",
+            "Alta&iuml;r Ibn-La&#039;Ahad"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which of the following countries was the first to send an object into space?",
+        "correct_answer": "Germany",
+        "incorrect_answers": [
+            "USA",
+            "Russia",
+            "China"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "What color is a Steller&#039;s Jay?",
+        "correct_answer": "blue and black",
+        "incorrect_answers": [
+            "blue and grey",
+            "blue and white",
+            "grey and black"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "How many classes are there in Team Fortress 2?",
+        "correct_answer": "9",
+        "incorrect_answers": [
+            "10",
+            "8",
+            "7"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "All of the following programs are classified as raster graphics editors EXCEPT:",
+        "correct_answer": "Inkscape",
+        "incorrect_answers": [
+            "Paint.NET",
+            "GIMP",
+            "Adobe Photoshop"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which variant of the MP5 is depicted in Counter-Strike 1.6?",
+        "correct_answer": "MP5N",
+        "incorrect_answers": [
+            "MP5SD",
+            "MP5K",
+            "MP5RAS"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which planet in the Solar System is the closest to the Sun?",
+        "correct_answer": "Mercury",
+        "incorrect_answers": [
+            "Earth",
+            "Mars",
+            "Venus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which item of clothing is usually worn by a Scotsman at a wedding?",
+        "correct_answer": "Kilt",
+        "incorrect_answers": [
+            "Skirt",
+            "Dress",
+            "Rhobes"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the real name of the Scout in &quot;Team Fortress 2&quot;?",
+        "correct_answer": "Jeremy",
+        "incorrect_answers": [
+            "Lance",
+            "Walter",
+            "John"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Mythology",
+        "question": "Ska&eth;i is the Norse Goddess of skiing, mountains, winter and bowhunting.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "Which of these is not an additional variation of the color purple?",
+        "correct_answer": "Kobicha",
+        "incorrect_answers": [
+            "Byzantium",
+            "Pomp and Power",
+            "Palatinate"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "When was the Sega Genesis released in Japan?",
+        "correct_answer": "October 29, 1988",
+        "incorrect_answers": [
+            "August 14, 1989",
+            "November 30, 1990",
+            "September 1, 1986"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What is largely considered the precursor to the USB format?",
+        "correct_answer": "PS/2",
+        "incorrect_answers": [
+            "SVGA",
+            "PCIe",
+            "FireWire"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What was the most populous city in the Americas in 2015?",
+        "correct_answer": "S&atilde;o Paulo",
+        "incorrect_answers": [
+            "New York",
+            "Mexico City",
+            "Los Angeles"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In Pok&eacute;mon Chronicles, why was Misty afraid of Gyarados?",
+        "correct_answer": "She crawled into it&#039;s mouth as a baby.",
+        "incorrect_answers": [
+            "She found it scary.",
+            "She was badly injured from it.",
+            "It is part Bug."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Danganronpa Another Episode: Ultra Despair Girls is set after which Danganronpa game?",
+        "correct_answer": "Danganronpa: Trigger Happy Havoc",
+        "incorrect_answers": [
+            "Danganronpa 2: Goodbye Despair",
+            "Danganronpa V3: Killing Harmony",
+            "Danganronpa 3: The End of Hope&#039;s Peak High School"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Who was &quot;Kung Fu Fighting&quot; in 1974?",
+        "correct_answer": "Carl Douglas",
+        "incorrect_answers": [
+            "The Bee Gees",
+            "Heatwave",
+            "Kool &amp; the Gang"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "Grant Gustin plays which superhero on the CW show of the same name?",
+        "correct_answer": "The Flash",
+        "incorrect_answers": [
+            "The Arrow",
+            "Black Canary",
+            "Daredevil"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "The Doppler effect applies to light.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "How many games in the Crash Bandicoot series were released on the original Playstation?",
+        "correct_answer": "5",
+        "incorrect_answers": [
+            "4",
+            "3",
+            "6"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which song made by MAN WITH A MISSION was used as the opening for the anime &quot;Log Horizon&quot;?",
+        "correct_answer": "&quot;Database&quot;",
+        "incorrect_answers": [
+            "&quot;Dead End in Tokyo&quot;",
+            "&quot;Raise Your Flag&quot;",
+            "&quot;Out of Control&quot;"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which area of Eastern Europe is famous for its association with vampires?",
+        "correct_answer": "Transylvania",
+        "incorrect_answers": [
+            "Silesia",
+            "Macedonia",
+            "Slovakia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Naturally occuring uranium primarily consists of which isotope?",
+        "correct_answer": "238",
+        "incorrect_answers": [
+            "235",
+            "239",
+            "233"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of these Mediterranian islands is under the sovereign rule of France?",
+        "correct_answer": "Corsica",
+        "incorrect_answers": [
+            "Majorca",
+            "Sardinia",
+            "Malta"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "With which doubles partner did John McEnroe have most success?",
+        "correct_answer": "Peter Fleming",
+        "incorrect_answers": [
+            "Mark Woodforde",
+            "Michael Stich",
+            "Mary Carillo"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "The 2016 United States Presidential Election is the first time Hillary Clinton has run for President.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which of these African regions does *not* directly border the Democratic Republic of The Congo?",
+        "correct_answer": "Sudan",
+        "incorrect_answers": [
+            "Central African Republic",
+            "Tanzania",
+            "Zambia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Call Of Duty: Zombies&quot;, completing which map&#039;s main easter egg will reward you with the achievement, &quot;Little Lost Girl&quot;?",
+        "correct_answer": "Origins",
+        "incorrect_answers": [
+            "Revelations",
+            "Moon",
+            "Tranzit"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following games has the most playable characters?",
+        "correct_answer": "Timesplitters: Future Perfect",
+        "incorrect_answers": [
+            "Mortal Kombat: Armageddon",
+            "Marvel Vs. Capcom 2",
+            "Dragon Ball Z: Budokai Tenkaichi 3"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Korean girl group, TWICE, consists of 9 members",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Mythology",
+        "question": "Which of the following is NOT a god in Norse Mythology.",
+        "correct_answer": "Jens",
+        "incorrect_answers": [
+            "Loki",
+            "Tyr",
+            "Snotra"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What does a funambulist walk on?",
+        "correct_answer": "A Tight Rope",
+        "incorrect_answers": [
+            "Broken Glass",
+            "Balls",
+            "The Moon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Call Of Duty: Zombies&quot;, completing which map&#039;s easter egg will reward you with the achievement, &quot;Time Travel Will Tell&quot;?",
+        "correct_answer": "Shangri-La",
+        "incorrect_answers": [
+            "Ascension",
+            "Moon",
+            "Die Rise"
+        ]
+    }
+]

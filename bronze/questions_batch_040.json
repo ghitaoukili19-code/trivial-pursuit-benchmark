@@ -1,0 +1,588 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Which type of rock is created by intense heat AND pressure?",
+        "correct_answer": "Metamorphic",
+        "incorrect_answers": [
+            "Sedimentary",
+            "Igneous",
+            "Diamond"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "After which Danish city is the 72th element on the periodic table named?",
+        "correct_answer": "Copenhagen",
+        "incorrect_answers": [
+            "Odense",
+            "Herning",
+            "Skagen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What town was &quot;Springfield&quot; from &quot;The Simpsons&quot; originally named after?",
+        "correct_answer": "Springfield, Oregon",
+        "incorrect_answers": [
+            "Springfield, Missouri",
+            "Springfield, Illinois",
+            "Springfield, Massachusetts"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;Hunter x Hunter&quot;, which of the following is NOT a type of Nen aura?",
+        "correct_answer": "Restoration",
+        "incorrect_answers": [
+            "Emission",
+            "Transmutation",
+            "Specialization"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Which of these anatomical terms refers to the tail end of the creature?",
+        "correct_answer": "Caudal",
+        "incorrect_answers": [
+            "Ventral",
+            "Proximal",
+            "Coronal"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which popular jazz standard begins with the line &quot;Someday, when I&#039;m awfully low&quot;?",
+        "correct_answer": "The Way You Look Tonight",
+        "incorrect_answers": [
+            "Autumn Leaves",
+            "Dream a Little Dream of Me",
+            "All the Things You Are"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "How tall is Tom Cruise?",
+        "correct_answer": "5&prime; 7&Prime;",
+        "incorrect_answers": [
+            "5&prime; 9&Prime;",
+            "5&prime; 4&Prime;",
+            "5&prime; 5&Prime;"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What does CPR, the emergency procedure to assist someone who has suffered cardiac arrest, stand for?",
+        "correct_answer": "Cardiopulmonary resuscitation",
+        "incorrect_answers": [
+            "Chronic pain relief",
+            "Cancer pain release",
+            "Contraceptive prevalence rate"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Stevie Wonder&#039;s real name is Stevland Hardaway Morris.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How many provinces are in the Netherlands?",
+        "correct_answer": "12",
+        "incorrect_answers": [
+            "14",
+            "10",
+            "13"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "You can tell the age of a ladybird by counting the spots on his back.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "What is the name of the pirate that sings the intro to &quot;Spongebob Squarepants&quot;?",
+        "correct_answer": "Painty",
+        "incorrect_answers": [
+            "Patchy",
+            "Lloyd",
+            "Larry"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "There exists an island named &quot;Java&quot;.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Who won the UEFA Champions League in 2017?",
+        "correct_answer": "Real Madrid C.F.",
+        "incorrect_answers": [
+            "Atletico Madrid",
+            "AS Monaco FC",
+            "Juventus F.C."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Grand Theft Auto: V, what wanted level does the player receive if they enter Zancudo Army Base north of Los Santos?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "3",
+            "5",
+            "1"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Splatoon, what is the age that inklings can freely change between squid and humanoid forms?",
+        "correct_answer": "14",
+        "incorrect_answers": [
+            "13",
+            "16",
+            "10"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these Pok&eacute;mon cannot learn Surf?",
+        "correct_answer": "Arbok",
+        "incorrect_answers": [
+            "Linoone",
+            "Tauros",
+            "Nidoking"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
+        "correct_answer": "Hewlett-Packard",
+        "incorrect_answers": [
+            "Toshiba",
+            "Asus",
+            "Dell"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the main protagonist in Danganronpa 2: Goodbye Despair?",
+        "correct_answer": "Hajime Hinata",
+        "incorrect_answers": [
+            "Nagito Komaeda",
+            "Makoto Naegi",
+            "Junko Enoshima"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the SHMUP series, &quot;Darius&quot;, what is the name of the antagonist faction you fight against?",
+        "correct_answer": "Belsar",
+        "incorrect_answers": [
+            "Bacterion",
+            "Bydo",
+            "Orn Empire"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Comics",
+        "question": "Which planet did Superman come from?",
+        "correct_answer": "Krypton",
+        "incorrect_answers": [
+            "Avalon",
+            "Xolnar",
+            "Starhaven"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?",
+        "correct_answer": "John Steinbeck",
+        "incorrect_answers": [
+            "F. Scott Fitzgerald",
+            "Ernest Hemingway",
+            "William Faulkner"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "In which country is located the municipality of Arteijo?",
+        "correct_answer": "Spain",
+        "incorrect_answers": [
+            "Morocco",
+            "France",
+            "Belgium"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which of the following are cells of the adaptive immune system?",
+        "correct_answer": "Cytotoxic T cells",
+        "incorrect_answers": [
+            "Dendritic cells",
+            "Natural killer cells",
+            "White blood cells"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the canonical name of the Persona 4 protagonist?",
+        "correct_answer": "Yu Narukami",
+        "incorrect_answers": [
+            "Minato Arisato",
+            "Soji Seta",
+            "Nagito Komaeda"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Tony Hawk&#039;s Underground&quot;, the main character&#039;s friend turned rival is named &quot;Jeff Sampson&quot;",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Super Mario World 2: Yoshi&#039;s Island&quot;, which of these colors is NOT represented by a Yoshi?",
+        "correct_answer": "White",
+        "incorrect_answers": [
+            "Purple",
+            "Brown",
+            "Red"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the original DOOM games, which of the following demons is a recolor of the Baron of Hell, but is weaker than the Baron?",
+        "correct_answer": "Hell Knight",
+        "incorrect_answers": [
+            "Mancubus",
+            "Pinky",
+            "Arch-Vile"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In which year did the First World War begin?",
+        "correct_answer": "1914",
+        "incorrect_answers": [
+            "1930",
+            "1917",
+            "1939"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "Former United States President Bill Clinton famously played which instrument?",
+        "correct_answer": "Saxophone",
+        "incorrect_answers": [
+            "Baritone horn",
+            "Piano",
+            "Violin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In what year did the North American Video Game Crash occur?",
+        "correct_answer": "1983",
+        "incorrect_answers": [
+            "1982",
+            "1993",
+            "1970"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "In &quot;It&#039;s Always Sunny in Philadelphia&quot; what was the name of Frank&#039;s wrestling persona?",
+        "correct_answer": "The Trash Man",
+        "incorrect_answers": [
+            "Bird of War",
+            "Day Man",
+            "The Maniac"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What was studio Trigger&#039;s first original long-form animated series for television?",
+        "correct_answer": "Kill la Kill",
+        "incorrect_answers": [
+            "Kiznaiver",
+            "Inferno Cop",
+            "Gurren Lagann"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Which of the following bones is not in the leg?",
+        "correct_answer": "Radius",
+        "incorrect_answers": [
+            "Patella",
+            "Tibia",
+            "Fibula "
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "MacOS is based on Linux.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What was the first living creature in space?",
+        "correct_answer": "Fruit Flies ",
+        "incorrect_answers": [
+            "Monkey",
+            "Dog",
+            "Mouse"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which franchise was NOT featured in the 2015 video game &quot;Lego Dimensions&quot;?",
+        "correct_answer": "Breaking Bad",
+        "incorrect_answers": [
+            "Portal",
+            "Doctor Who",
+            "Back to the Future"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "The Olympics tennis court is a giant green screen.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "Which of the following is NOT a computer science algorithm?",
+        "correct_answer": "Float Sort",
+        "incorrect_answers": [
+            "Bubble Sort",
+            "Merge Sort",
+            "Quick Sort"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Which of these paintings did Johannes Vermeer not paint?",
+        "correct_answer": "Bacchus",
+        "incorrect_answers": [
+            "Girl with a Pearl Earring",
+            "The Milkmaid",
+            "The Lacemaker"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What minimum level in the Defence skill is needed to equip Dragon Armour in the MMO RuneScape?",
+        "correct_answer": "60",
+        "incorrect_answers": [
+            "65",
+            "55",
+            "70"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Who is the creator of the soft drink, Dr. Pepper?",
+        "correct_answer": "Charles Alderton",
+        "incorrect_answers": [
+            "James Wellington",
+            "Johnson Hinsin",
+            "Boris Heviltik"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "Automobiles produced by Tesla Motors operate on which form of energy?",
+        "correct_answer": "Electricity",
+        "incorrect_answers": [
+            "Gasoline",
+            "Diesel",
+            "Nuclear"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Eurobeat is primarily an Italian genre of music.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which of the following liquids is least viscous? Assume temperature is 25&deg;C.",
+        "correct_answer": "Acetone",
+        "incorrect_answers": [
+            "Water",
+            "Mercury",
+            "Benzene"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which Greek god was the god of the Sun?",
+        "correct_answer": "Helios",
+        "incorrect_answers": [
+            "Zeus",
+            "Hades",
+            "Poseidon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "The Andaman and Nicobar Islands in South East Asia are controlled by which country?",
+        "correct_answer": "India",
+        "incorrect_answers": [
+            "Vietnam",
+            "Thailand",
+            "Indonesia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "Integration is the reverse of what mathematical operation?",
+        "correct_answer": "Derivation",
+        "incorrect_answers": [
+            "Division",
+            "Standard Deviation",
+            "Multiplication"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which 80s band is fronted by singer/guitarist Robert Smith?",
+        "correct_answer": "The Cure",
+        "incorrect_answers": [
+            "The Smiths",
+            "Echo &amp; the Bunnymen",
+            "New Order"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which US state is furthest north east?",
+        "correct_answer": "Maine",
+        "incorrect_answers": [
+            "New York",
+            "Georgia",
+            "Florida"
+        ]
+    }
+]

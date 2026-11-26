@@ -1,0 +1,572 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What was the name of the sea witch in the 1989 Disney film &quot;The Little Mermaid&quot;?",
+        "correct_answer": "Ursula",
+        "incorrect_answers": [
+            "Madam Mim",
+            "Maleficent",
+            "Lady Tremaine"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Amazon acquired Twitch in August 2014 for $970 million dollars.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What was Frank West&#039;s job in &quot;Dead Rising&quot;?",
+        "correct_answer": "Photojournalist",
+        "incorrect_answers": [
+            "Janitor",
+            "Chef",
+            "Taxi Driver"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which planet did the &quot;Viking 1&quot; spacecraft send surface images of, starting in 1976?",
+        "correct_answer": "Mars",
+        "incorrect_answers": [
+            "Saturn",
+            "Jupiter",
+            "Venus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Folic acid is the synthetic form of which vitamin?",
+        "correct_answer": "Vitamin B",
+        "incorrect_answers": [
+            "Vitamin A",
+            "Vitamin C",
+            "Vitamin D"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which is the chemical name of H2O?",
+        "correct_answer": "Dihydrogen Monoxide",
+        "incorrect_answers": [
+            "Ammonium chloride",
+            "Anhydrous Sodium Carbonate",
+            "Manganese dioxide"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "What was the name of the hip hop group Kanye West was a member of in the late 90s?",
+        "correct_answer": "The Go-Getters",
+        "incorrect_answers": [
+            "The Jumpers",
+            "The Kickstarters",
+            "The Beat-Busters"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "E = MC3",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which country was Eliza &quot;Ash&quot; Cohen from &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; born in?",
+        "correct_answer": "Israel",
+        "incorrect_answers": [
+            "United States of America",
+            "Mexico",
+            "Canada"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "Despite being seperated into multiple countries, The Scandinavian countries are unified by all having the same monarch.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "The novel &quot;Jane Eyre&quot; was written by what author? ",
+        "correct_answer": "Charlotte Bront&euml;",
+        "incorrect_answers": [
+            "Emily Bront&euml;",
+            "Jane Austen",
+            "Louisa May Alcott"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which one of these Rammstein songs has two official music videos?",
+        "correct_answer": "Du Riechst So Gut",
+        "incorrect_answers": [
+            "Du Hast",
+            "Benzin",
+            "Mein Teil"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "According to a song by Belinda Carlisle, Heaven is a place on what?",
+        "correct_answer": "Earth",
+        "incorrect_answers": [
+            "Venus",
+            "Mars",
+            "Uranus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is the capital city of Bermuda?",
+        "correct_answer": "Hamilton",
+        "incorrect_answers": [
+            "Santo Dominigo",
+            "San Juan",
+            "Havana"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Nick Mason is the only member to appear on every Pink Floyd album.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In what year was the game &quot;Fallout&quot; released?",
+        "correct_answer": "1997",
+        "incorrect_answers": [
+            "1998",
+            "1999",
+            "1996"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "In the Seven Wonders of the World, which wonder is the only that has survived to this day?",
+        "correct_answer": "Great Pyramid of Giza",
+        "incorrect_answers": [
+            "Colossus of Rhodes",
+            "Lighthouse of Alexandria",
+            "Statue of Zeus at Olympia"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "There is 47 prefectures in Japan.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In Dragon Ball Z, who was the first character to go Super Saiyan 2?",
+        "correct_answer": "Gohan",
+        "incorrect_answers": [
+            "Goku",
+            "Vegeta",
+            "Trunks"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The video game publishers known as &quot;tinyBuild&quot; published which of these games?",
+        "correct_answer": "Clustertruck",
+        "incorrect_answers": [
+            "Don&#039;t Starve",
+            "Stardew Valley",
+            "Slime Rancher"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "May 16th of every year is known as __________ Day, named after a punk band prominent in the 1990s.",
+        "correct_answer": "Lagwagon",
+        "incorrect_answers": [
+            "Goldfinger",
+            "Less Than Jake",
+            "Lit"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "What does the &quot;MP&quot; stand for in MP3?",
+        "correct_answer": "Moving Picture",
+        "incorrect_answers": [
+            "Music Player",
+            "Multi Pass",
+            "Micro Point"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "Jaguar Cars was previously owned by which car manfacturer?",
+        "correct_answer": "Ford",
+        "incorrect_answers": [
+            "Chrysler",
+            "General Motors",
+            "Fiat"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Who is the lead singer of Green Day?",
+        "correct_answer": "Billie Joe Armstrong",
+        "incorrect_answers": [
+            "Mike Dirnt",
+            "Sean Hughes",
+            "Tr&eacute; Cool"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "During the Mongolian invasions of Japan, what were the Mongol boats mostly stopped by?",
+        "correct_answer": "Typhoons",
+        "incorrect_answers": [
+            "Tornados",
+            "Economic depression",
+            "Samurai"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "All of the following countries have official claims to territory in Antartica EXCEPT:",
+        "correct_answer": "United States",
+        "incorrect_answers": [
+            "Australia",
+            "Chile",
+            "Norway"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "A universal set, or a set that contains all sets, exists.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which NBA player has the most games played over the course of their career?",
+        "correct_answer": "Robert Parish",
+        "incorrect_answers": [
+            "Kareem Abdul-Jabbar",
+            "Kevin Garnett",
+            "Kobe Bryant"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "What was the name of the planet in &quot;Aliens&quot;?",
+        "correct_answer": "LV-426",
+        "incorrect_answers": [
+            "Weyland Yutani Corporation Base",
+            "FR-838",
+            "DI-621"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the creature that the main character befriends in &quot;The Last Guardian&quot;?",
+        "correct_answer": "Trico",
+        "incorrect_answers": [
+            "Nico",
+            "Wolf",
+            "Andazi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What was the total length of the Titanic?",
+        "correct_answer": "882 ft | 268.8 m",
+        "incorrect_answers": [
+            "759 ft | 231.3 m",
+            "1042 ft | 317.6 m",
+            "825 ft | 251.5 m"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What are rhino&#039;s horn made of?",
+        "correct_answer": "Keratin",
+        "incorrect_answers": [
+            "Bone",
+            "Ivory",
+            "Skin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "In Rudyard Kipling&#039;s &quot;The Jungle Book&quot;, what type of snake was Kaa?",
+        "correct_answer": "Python",
+        "incorrect_answers": [
+            "Cobra",
+            "Anaconda",
+            "Viper"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which Beatles album does NOT feature any of the band members on it&#039;s cover?",
+        "correct_answer": "The Beatles (White Album)",
+        "incorrect_answers": [
+            "Rubber Soul",
+            "Abbey Road",
+            "Magical Mystery Tour"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In the TV series &quot;Person of Interest&quot;, who plays the character &quot;Harold Finch&quot;?",
+        "correct_answer": "Michael Emerson",
+        "incorrect_answers": [
+            "Jim Caviezel",
+            "Taraji P. Henson",
+            "Kevin Chapman"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Martin Luther King Jr. and Anne Frank were born the same year. ",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "How many books are in Euclid&#039;s Elements of Geometry?",
+        "correct_answer": "13",
+        "incorrect_answers": [
+            "8",
+            "10",
+            "17"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which Formula One driver was nicknamed &#039;The Professor&#039;?",
+        "correct_answer": "Alain Prost",
+        "incorrect_answers": [
+            "Ayrton Senna",
+            "Niki Lauda",
+            "Emerson Fittipaldi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What name does the little headcrab in &quot;Half Life 2&quot; have?",
+        "correct_answer": "Lamarr",
+        "incorrect_answers": [
+            "Jumperr",
+            "Drett",
+            "Jerry"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "The K-Pop Boy Band BTS debuted in the year 2013.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which genre of music is John Coltrane primarily associated with?",
+        "correct_answer": "Jazz",
+        "incorrect_answers": [
+            "Rock and Roll",
+            "Death Metal",
+            "Folk"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the &quot;Call Of Duty: Zombies&quot; map &quot;Origins&quot;, how many steps are there to upgrade a Staff?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "7",
+            "5",
+            "3"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;PUBATTLEGROUNDS&quot; which ammo type does the M24 use?",
+        "correct_answer": "7.62mm",
+        "incorrect_answers": [
+            "5.56mm",
+            "9mm",
+            ".300 Magnum"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "When was Left 4 Dead 2 released?",
+        "correct_answer": "November 17, 2009",
+        "incorrect_answers": [
+            "May 3, 2008",
+            "November 30, 2009",
+            "June 30, 2010"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "What is the oldest Disney film?",
+        "correct_answer": "Snow White and the Seven Dwarfs",
+        "incorrect_answers": [
+            "Pinocchio",
+            "Dumbo",
+            "Fantasia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "In the Board Game, Settlers of Catan, a die roll of what number causes the Robber to attack? ",
+        "correct_answer": "7",
+        "incorrect_answers": [
+            "3",
+            "10",
+            "1"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "In the Panic! At the Disco&#039;s song &quot;Nothern Downpour&quot;, which lyric follows &#039;I know the world&#039;s a broken bone&#039;.",
+        "correct_answer": "&quot;So melt your headaches call it home&quot;",
+        "incorrect_answers": [
+            "&quot;So sing your song until you&#039;re home&quot;",
+            "&quot;So let them know they&#039;re on their own&quot;",
+            "&quot;So start a fire in their cold stone&quot;"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What is Meg&#039;s full name in &quot;Family Guy&quot;?",
+        "correct_answer": "Megatron Griffin",
+        "incorrect_answers": [
+            "Who-Cares Griffin",
+            "Neil Griffin",
+            "Megan Griffin"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Albert Einstein won a noble prize for his theory of relativity.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    }
+]

@@ -1,0 +1,590 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who co-founded the YouTube Let&#039;s Play channel &quot;Game Grumps&quot; alongside Newgrounds animator Egoraptor?",
+        "correct_answer": "JonTron",
+        "incorrect_answers": [
+            "Pewdiepie",
+            "Tobuscus",
+            "Markiplier"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "What is Tiger Woods&#039; all-time best career golf-score?",
+        "correct_answer": "61",
+        "incorrect_answers": [
+            "65",
+            "63",
+            "67"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "&quot;Resident Evil 7&quot; is the first first-person Resident Evil game.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What is the last letter of the Greek alphabet?",
+        "correct_answer": "Omega",
+        "incorrect_answers": [
+            "Mu",
+            "Epsilon",
+            "Kappa"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Call Of Duty: Zombies&quot;, completing which map&#039;s main easter egg will reward you with the achievement, &quot;High Maintenance&quot;?",
+        "correct_answer": "Die Rise",
+        "incorrect_answers": [
+            "Mob Of The Dead",
+            "Origins",
+            "Ascension"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Water is naturally coloured blue.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Who painted the Mona Lisa?",
+        "correct_answer": "Leonardo da Vinci",
+        "incorrect_answers": [
+            "Pablo Picasso",
+            "Claude Monet",
+            "Vincent van Gogh"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "How many colors are there in a rainbow?",
+        "correct_answer": "7",
+        "incorrect_answers": [
+            "8",
+            "9",
+            "10"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "FLAC stands for &quot;Free Lossless Audio Condenser&quot;&#039;",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "How many dots are on a single die?",
+        "correct_answer": "21",
+        "incorrect_answers": [
+            "24",
+            "15",
+            "18"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In The Lord of the Rings: The Fellowship of the Ring, which one of the following characters from the book was left out of the film?",
+        "correct_answer": "Tom Bombadil",
+        "incorrect_answers": [
+            "Strider",
+            "Barliman Butterbur",
+            "Celeborn"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In World of Warcraft, which raid instance features a chess event?",
+        "correct_answer": "Karazhan",
+        "incorrect_answers": [
+            "Zul&#039;Aman",
+            "Blackwing Lair",
+            "Temple of Ahn&#039;Qiraj"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "How many legs is it biologically impossible for a centipede to have?",
+        "correct_answer": "100",
+        "incorrect_answers": [
+            "26",
+            "50",
+            "74"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the video game &quot;Postal 2&quot;, what is the name of Postal Dude&#039;s dog?",
+        "correct_answer": "Champ",
+        "incorrect_answers": [
+            "Snoopy",
+            "Krotchy",
+            "Duke"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The Tiananmen Square protests of 1989 were held in Hong Kong.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "In aeronautics, flaps and slats are used to control what on an aircraft?",
+        "correct_answer": "Lift",
+        "incorrect_answers": [
+            "Thrust",
+            "Drag",
+            "Weight "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "What year did the Chevrolet LUV mini truck make its debut?",
+        "correct_answer": "1972",
+        "incorrect_answers": [
+            "1982",
+            "1975",
+            "1973"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Due to the Nagoya Resolution, China agreed to allow Taiwan to compete separately in international sporting events under what name?",
+        "correct_answer": "Chinese Taipei",
+        "incorrect_answers": [
+            "Chinese Taiwan",
+            "Republic of Taiwan",
+            "Republic of Taipei "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of the following is NOT a song in BROCKHAMPTON&#039;s SATURATION album series?",
+        "correct_answer": "LAMB",
+        "incorrect_answers": [
+            "HOTTIE",
+            "SWAMP",
+            "BUMP"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Toussaint Louverture led a successful slave revolt in which country?",
+        "correct_answer": "Haiti",
+        "incorrect_answers": [
+            "France",
+            "Cuba",
+            "United States"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "What is the name of a nine sided polygon?",
+        "correct_answer": "Nonagon",
+        "incorrect_answers": [
+            "Hexagon",
+            "Octagon",
+            "Heptagon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What was the Maximum Level in World of Warcraft: Battle for Azeroth?",
+        "correct_answer": "120",
+        "incorrect_answers": [
+            "100",
+            "90",
+            "150"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "In 2012, which movie won every category in the 32nd &quot;Golden Raspberry Awards&quot;?",
+        "correct_answer": "Jack and Jill",
+        "incorrect_answers": [
+            "The Girl with the Dragon Tattoo",
+            "Thor",
+            "The King&#039;s Speech"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "How many women joined the United States Armed Services during World War II?",
+        "correct_answer": "350,000",
+        "incorrect_answers": [
+            "225,000",
+            "100,000",
+            "500,000"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Which &quot;Toy Story&quot; character was voiced by Don Rickles?",
+        "correct_answer": "Mr. Potato Head",
+        "incorrect_answers": [
+            "Slinky Dog",
+            "Hamm",
+            "Rex"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which of these is NOT a bone found in the human arm?",
+        "correct_answer": "Tibia",
+        "incorrect_answers": [
+            "Humerus",
+            "Ulna",
+            "Radius"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Paper Mario: The Thousand Year Door&quot;, what is Hooktail&#039;s weakness?",
+        "correct_answer": "The Sound of Crickets",
+        "incorrect_answers": [
+            "Attacks from Koopas",
+            "The &quot;Ice Storm&quot; Item",
+            "The Hammer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these TrackMania environments was NOT in the original game?",
+        "correct_answer": "Bay",
+        "incorrect_answers": [
+            "Desert",
+            "Snow",
+            "Rally"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the videogame Bully, what is the protagonist&#039;s last name?",
+        "correct_answer": "Hopkins",
+        "incorrect_answers": [
+            "Smith",
+            "Kowalski",
+            "Crabblesnitch"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What was the name of the protagonist in the movie Commando (1985)?",
+        "correct_answer": "John Matrix",
+        "incorrect_answers": [
+            "Ben Richards",
+            "Douglas Quaid",
+            "Harry Tasker"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Bridgetown is the capital of which island country in the Carribean?",
+        "correct_answer": "Barbados",
+        "incorrect_answers": [
+            "Cuba",
+            "Jamaica&lrm;",
+            "Dominica"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "Which 1994 film did Roger Ebert famously despise, saying &quot;I hated hated hated hated hated this movie&quot;.",
+        "correct_answer": "North",
+        "incorrect_answers": [
+            "3 Ninjas Kick Back",
+            "The Santa Clause",
+            "Richie Rich"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In &quot;Star Trek&quot;, what is the Ferengi&#039;s First Rule of Acquisition?",
+        "correct_answer": "Once you have their money, you never give it back. ",
+        "incorrect_answers": [
+            "Never place friendship above profit",
+            "Greed is Eternal",
+            "Never allow family to stand in the way of opportunity"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "When was &quot;Luigi&#039;s Mansion 3&quot; released?",
+        "correct_answer": "October 31st, 2019",
+        "incorrect_answers": [
+            "January 13th, 2019",
+            "September 6th, 2018",
+            "October 1st, 2019"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the longest river in Europe?",
+        "correct_answer": "Volga",
+        "incorrect_answers": [
+            "Danube",
+            "Rhine",
+            "Thames"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following was NOT a playable character in the game Kingdom Hearts: Birth by Sleep?",
+        "correct_answer": "Ignis",
+        "incorrect_answers": [
+            "Ventus",
+            "Terra",
+            "Aqua"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following Copy Abilities was only featured in &quot;Kirby &amp; The Amazing Mirror&quot;?",
+        "correct_answer": "Mini",
+        "incorrect_answers": [
+            "Magic",
+            "Smash",
+            "Missile"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Overwatch,&quot; an allied McCree will say &quot;Step right up&quot; upon using his ultimate ability Deadeye.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of the following language families is the most controversial amongst modern linguists?",
+        "correct_answer": "Altaic",
+        "incorrect_answers": [
+            "Sino-Tibetan",
+            "Dravidian",
+            "Indo-European"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "How many studio albums have the duo Daft Punk released?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "1",
+            "5",
+            "2"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "Which of these game-based comics were published in 2011 by DC Comics?",
+        "correct_answer": "Infamous",
+        "incorrect_answers": [
+            "Left 4 Dead: The Sacrifice",
+            "Prototype",
+            "Kane &amp; Lynch"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of the following guitarists recorded an album as a member of the Red Hot Chili Peppers?",
+        "correct_answer": "Dave Navarro",
+        "incorrect_answers": [
+            "Tom Morello ",
+            "Billy Corgan",
+            "Ed O&#039;Brien"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Who played Batman in the 1997 film &quot;Batman and Robin&quot;?",
+        "correct_answer": "George Clooney",
+        "incorrect_answers": [
+            "Michael Keaton",
+            "Val Kilmer",
+            "Christian Bale"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "What is the stage name of New Zealand singer Phillipa &quot;Pip&quot; Brown?",
+        "correct_answer": "Ladyhawke",
+        "incorrect_answers": [
+            "Lorde",
+            "Kesha",
+            "Anika Moa"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "What is the Roman numeral for 500?",
+        "correct_answer": "D",
+        "incorrect_answers": [
+            "L",
+            "C",
+            "X"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Alzheimer&#039;s disease primarily affects which part of the human body?",
+        "correct_answer": "Brain",
+        "incorrect_answers": [
+            "Lungs",
+            "Skin",
+            "Heart"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "The first Grand Theft Auto was also planned for the Nintendo 64.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of these is NOT a song by Pegboard Nerds?",
+        "correct_answer": "WiFi Tears",
+        "incorrect_answers": [
+            "Swamp Thing",
+            "Emoji",
+            "BAMF"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "What is the scientific name for the extinct hominin known as &quot;Lucy&quot;?",
+        "correct_answer": "Australopithecus Afarensis",
+        "incorrect_answers": [
+            "Australopithecus Africanus",
+            "Australopithecus Architeuthis",
+            "Australopithecus Antaris"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "How many different notes is the tune, &quot;Song of Healing&quot;, comprised of in &quot;The Legend of Zelda: Majora&#039;s Mask&quot;?",
+        "correct_answer": "3",
+        "incorrect_answers": [
+            "4",
+            "1",
+            "6"
+        ]
+    }
+]

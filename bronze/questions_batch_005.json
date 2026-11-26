@@ -1,0 +1,592 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "How many officially recognized dwarf planets in the solar system are named after Polynesian deities?",
+        "correct_answer": "2",
+        "incorrect_answers": [
+            "0",
+            "1",
+            "5"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Montreal is in which Canadian province?",
+        "correct_answer": "Quebec",
+        "incorrect_answers": [
+            "Ontario",
+            "Nova Scotia",
+            "Alberta"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Of the following space shooter games, which came out first?",
+        "correct_answer": "Space Invaders",
+        "incorrect_answers": [
+            "Galaxian",
+            "Galaga",
+            "Sinistar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What are the three starter Pokemon available in Pokemon Black and White?",
+        "correct_answer": "Snivy, Tepig, Oshawott",
+        "incorrect_answers": [
+            "Snivy, Fennekin, Froakie",
+            "Chespin, Tepig, Froakie",
+            "Chespin, Fennekin, Oshawott"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "In 2006, which band released their debut album &quot;A Fever You Can&#039;t Sweat Out&quot;?",
+        "correct_answer": "Panic! At the Disco",
+        "incorrect_answers": [
+            "Twenty One Pilots",
+            "My Chemical Romance",
+            "Fall Out Boy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Gadgets",
+        "question": "Which of the following is not a type of computer mouse?",
+        "correct_answer": "Smoothie mouse",
+        "incorrect_answers": [
+            "Drum mouse",
+            "Trackball mouse",
+            "Optical mouse"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In the show &quot;The Office&quot; who does Michael Scott eventually end up with?",
+        "correct_answer": "Holly Flax",
+        "incorrect_answers": [
+            "Angela Martin",
+            "Jan Levinson",
+            "Pam Beesly"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the capital of Scotland?",
+        "correct_answer": "Edinburgh",
+        "incorrect_answers": [
+            "Glasgow",
+            "Dundee",
+            "London"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which was the first M-rated video game developed by Squaresoft/Square Enix?",
+        "correct_answer": "Parasite Eve",
+        "incorrect_answers": [
+            "Final Fantasy VIII",
+            "Front Mission",
+            "Vagrant Story"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of the following music bands is not from Finland?",
+        "correct_answer": "Sabaton",
+        "incorrect_answers": [
+            "Apocalyptica",
+            "Waltari",
+            "Lordi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What event led to Liechenstein adding a crown to its flag?",
+        "correct_answer": "The 1936 Olympics",
+        "incorrect_answers": [
+            "Coronation of Prince Johann I Joseph in 1805",
+            "Charles VI&#039;s decree in 1719",
+            "Signing of the 1862 Constitution of Liechtenstein"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Which cartoon family lives in 742 Evergreen Terrace, Springfield USA?",
+        "correct_answer": "The Simpsons",
+        "incorrect_answers": [
+            "The Hills",
+            "The Flintstones",
+            "The Griffins"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What nation produces roughly 40% of the world&rsquo;s vanilla?",
+        "correct_answer": "Madagascar",
+        "incorrect_answers": [
+            "Indonesia",
+            "China",
+            "Mexico"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which sign of the zodiac comes between Virgo and Scorpio?",
+        "correct_answer": "Libra",
+        "incorrect_answers": [
+            "Gemini",
+            "Taurus",
+            "Capricorn"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these Fortnite emotes does NOT involve a sport in some way?",
+        "correct_answer": "Freestylin&#039;",
+        "incorrect_answers": [
+            "Red Card",
+            "Kick Ups",
+            "Baller"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which of the following battles is often considered as marking the beginning of the fall of the Western Roman Empire?",
+        "correct_answer": "Battle of Adrianople",
+        "incorrect_answers": [
+            "Battle of Thessalonica",
+            "Battle of Pollentia",
+            "Battle of Constantinople"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "The heroine of &quot;Humanity Has Declined&quot; is a mediator between humans and what?",
+        "correct_answer": "Fairies",
+        "incorrect_answers": [
+            "Elves",
+            "The Earth",
+            "Animals"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What country is the second largest in the world by area?",
+        "correct_answer": "Canada",
+        "incorrect_answers": [
+            "Russia",
+            "China",
+            "United States of America"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What was the character Kirby originally going to be named?",
+        "correct_answer": "Popopo",
+        "incorrect_answers": [
+            "Dedede",
+            "Waddle Dee",
+            "Prince Puff"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;The Melancholy of Haruhi Suzumiya&quot; series, the SOS Brigade club leader is unknowingly treated as a(n) __ by her peers.",
+        "correct_answer": "God",
+        "incorrect_answers": [
+            "Alien",
+            "Time Traveler",
+            "Esper"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In &quot;The Simpsons&quot;, where did Homer and Marge first meet?",
+        "correct_answer": "At Summer Camp",
+        "incorrect_answers": [
+            "At High School",
+            "At Church",
+            "At 742 Evergreen Terrace"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "The first true automobile ever made was the 1886 Benz Patent-Motorwagen.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "The Chevrolet Corvette has always been made exclusively with V8 engines only.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Given that all party members are maxed, who is the fastest party member in Super Mario RPG: Legend of The Seven Stars?",
+        "correct_answer": "Geno",
+        "incorrect_answers": [
+            "Mario",
+            "Bowser",
+            "Peach"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Throughout the entirety of &quot;Dragon Ball Z&quot;, Goku only kills two characters: a miniboss named Yakon and Kid Buu.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Which of the following chemicals are found in eggplant seeds?",
+        "correct_answer": "Nicotine",
+        "incorrect_answers": [
+            "Mescaline",
+            "Cyanide",
+            "Psilocybin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What was the real name of the Albanian national leader Skanderbeg?",
+        "correct_answer": "Gjergj Kastrioti",
+        "incorrect_answers": [
+            "Diturak Zhulati",
+            "Iskander Bejko",
+            "Mirash Krasniki"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "What&#039;s the weakness of american vampires (Scott Snyder&#039;s American Vampire)?",
+        "correct_answer": "Gold",
+        "incorrect_answers": [
+            "Sunlight",
+            "Wood",
+            "Silver"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What disease crippled President Franklin D. Roosevelt and led him to help the nation find a cure? ",
+        "correct_answer": "Polio",
+        "incorrect_answers": [
+            "Cancer",
+            "Meningitis",
+            "HIV"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "What is the orange and white bot&#039;s name in &quot;Star Wars: The Force Awakens&quot;?",
+        "correct_answer": "BB-8",
+        "incorrect_answers": [
+            "BB-3",
+            "AA-A",
+            "R2-D2"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "On which continent does the Andes mountain range lie?",
+        "correct_answer": "South America",
+        "incorrect_answers": [
+            "Europe",
+            "Asia",
+            "Africa"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "George Orwell wrote this book, which is often considered a statement on government oversight.",
+        "correct_answer": "1984",
+        "incorrect_answers": [
+            "The Old Man and the Sea",
+            "Catcher and the Rye",
+            "To Kill a Mockingbird"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Who is the lead singer of Arctic Monkeys?",
+        "correct_answer": "Alex Turner",
+        "incorrect_answers": [
+            "Jamie Cook",
+            "Matt Helders",
+            "Nick O&#039;Malley"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What year was the game &quot;Overwatch&quot; revealed?",
+        "correct_answer": "2014",
+        "incorrect_answers": [
+            "2015",
+            "2011",
+            "2008"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which of these two plates are best know for forming earthquakes and tsunami&#039;s? ",
+        "correct_answer": "Convergent Plate Boundaries/Oceanic Crust",
+        "incorrect_answers": [
+            "Divergent Plate Boundaries/Convergent/Oceanic Crust",
+            "Transform Plate Boundaries/Divergent Plate Boundaries",
+            "Oceanic &amp; Continental Crust/Transform Plate Boundaries"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the common, gun-toting enemies of the &quot;Oddworld&quot; video game series?",
+        "correct_answer": "Sligs",
+        "incorrect_answers": [
+            "Scrabs",
+            "Slogs",
+            "Glukkons"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Who did Steven Gerrard win the Champions League with?",
+        "correct_answer": "Liverpool",
+        "incorrect_answers": [
+            "Real Madrid",
+            "Chelsea",
+            "Man City"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;Highschool DxD&quot;, what is the name of the item some humans are born with?",
+        "correct_answer": "Sacred Gear",
+        "incorrect_answers": [
+            "Imperial Arm",
+            "Hallowed Relic",
+            "Blessed Artifact"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What power does Max Caulfield from &quot;Life is Strange&quot; have?",
+        "correct_answer": "Rewinding Time",
+        "incorrect_answers": [
+            "Invisibility",
+            "Telepathy",
+            "Super Strength"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who was the leader of Sweden in the Great Northern War?",
+        "correct_answer": "Charles XII",
+        "incorrect_answers": [
+            "Per Albin Hansson",
+            "Peter the Great",
+            "Gustavus Adolphus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Medaka Kurokami from &quot;Medaka Box&quot; has what abnormality?",
+        "correct_answer": "The End",
+        "incorrect_answers": [
+            "Perfection",
+            "Sandbox",
+            "Fairness"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who directed the 2015 movie &quot;The Revenant&quot;?",
+        "correct_answer": "Alejandro G. I&ntilde;&aacute;rritu",
+        "incorrect_answers": [
+            "Christopher Nolan",
+            "David Fincher",
+            "Wes Anderson"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Abolitionist John Brown raided the arsenal in which Virginia Town?",
+        "correct_answer": "Harper&#039;s Ferry",
+        "incorrect_answers": [
+            "Richmond",
+            "Harrisonburg",
+            "Martinsburg"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "The shape of the Earth is a perfect sphere.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Which film star has his statue in Leicester Square?",
+        "correct_answer": "Charlie Chaplin",
+        "incorrect_answers": [
+            "Paul Newman",
+            "Rowan Atkinson ",
+            "Alfred Hitchcock"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "In music theory, how many notes are in a seventh chord?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "3",
+            "7",
+            "2"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "In 2008, Usain Bolt set the world record for the 100 meters with one shoelace untied.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What color is Ryūko Matoi&#039;s half of the Scissor Blade in the anime Kill la KIll?",
+        "correct_answer": "Red",
+        "incorrect_answers": [
+            "Green",
+            "Blue",
+            "Purple"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Which track by &quot;Massive Attack&quot; is used for the theme of &quot;House&quot;? ",
+        "correct_answer": "Teardrop",
+        "incorrect_answers": [
+            "Protection",
+            "Angel",
+            "Black Milk"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which Apollo mission was the last one in NASA&#039;s Apollo program?",
+        "correct_answer": "Apollo 17",
+        "incorrect_answers": [
+            "Apollo 13",
+            "Apollo 11",
+            "Apollo 15"
+        ]
+    }
+]

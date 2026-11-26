@@ -1,0 +1,584 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "What is Grumpy Cat&#039;s real name?",
+        "correct_answer": "Tardar Sauce",
+        "incorrect_answers": [
+            "Sauce",
+            "Minnie",
+            "Broccoli"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "When is the Ides of March?",
+        "correct_answer": "March 15",
+        "incorrect_answers": [
+            "March 14",
+            "March 31",
+            "March 1"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "The Killer Whale is considered a type of dolphin.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What is the default name of the Vampire character in &quot;Shining Soul 2&quot;.",
+        "correct_answer": "Bloodstar",
+        "incorrect_answers": [
+            "Sachs",
+            "Dracuul",
+            "Alucard"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which country hosted the 2018 FIFA World Cup?",
+        "correct_answer": "Russia",
+        "incorrect_answers": [
+            "Germany",
+            "United States",
+            "Saudi Arabia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Who is a co-founder of music streaming service Spotify?",
+        "correct_answer": "Daniel Ek",
+        "incorrect_answers": [
+            "Sean Parker",
+            "Felix Miller",
+            "Michael Breidenbruecker"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What year did the Battle of Agincourt take place?",
+        "correct_answer": "1415",
+        "incorrect_answers": [
+            "1463",
+            "1401",
+            "1422"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "Who won the 10th season of Big Brother in the United States?",
+        "correct_answer": "Dan Gheesling",
+        "incorrect_answers": [
+            "Adam Jasinski",
+            "Hayden Moss",
+            "Dick Donato"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "The Neanderthals were a direct ancestor of modern humans.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following is not a character in the Street Fighter series?",
+        "correct_answer": "Mai Shiranui",
+        "incorrect_answers": [
+            "Laura Matsuda",
+            "Sakura Kasugano",
+            "Ibuki"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "The singer Billie Holiday was also known as &quot;Lady Day&quot;.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "This movie contains the quote, &quot;I love the smell of napalm in the morning!&quot;",
+        "correct_answer": "Apocalypse Now",
+        "incorrect_answers": [
+            "Platoon",
+            "The Deer Hunter",
+            "Full Metal Jacket"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Frederick Banting and John Macleod won a Nobel Prize for their contributions to the scientific fields of quantum mechanics.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "What is Hellboy&#039;s true name?",
+        "correct_answer": "Anung Un Rama",
+        "incorrect_answers": [
+            "Right Hand of Doom",
+            "Ogdru Jahad",
+            "Azzael"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "How many partners can you obtain in Paper Mario: The Thousand-Year Door?",
+        "correct_answer": "7",
+        "incorrect_answers": [
+            "6",
+            "9",
+            "10"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "If a person&#039;s hair is described as &#039;Titian&#039;, what colour is it?",
+        "correct_answer": "Red",
+        "incorrect_answers": [
+            "Blonde",
+            "Brunette",
+            "Black"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "In Norse Mythology, Baldr was killed by Loki with a magical spear made from what plant?",
+        "correct_answer": "Mistletoe",
+        "incorrect_answers": [
+            "Wolf&#039;s Bane",
+            "Buckthorn",
+            "Hemlock"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What dog breed is one of the oldest breeds of dog and has flourished since before 400 BCE.",
+        "correct_answer": "Pugs",
+        "incorrect_answers": [
+            "Bulldogs",
+            "Boxers",
+            "Chihuahua"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "What is the name of the first human being in Norse mythology?",
+        "correct_answer": "Ask",
+        "incorrect_answers": [
+            "Asmund",
+            "Ake",
+            "Asger"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following Mario Kart 8 Deluxe items will NOT make you invincible?",
+        "correct_answer": "Golden Mushroom",
+        "incorrect_answers": [
+            "Star",
+            "Bullet Bill",
+            "Boo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "In Magic: The Gathering, what card&#039;s flavor text is &quot;Catch!&quot;?",
+        "correct_answer": "Lava Axe",
+        "incorrect_answers": [
+            "Stone-Throwing Devils",
+            "Ember Shot",
+            "Throwing Knife"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "In the complex plane, multiplying a given function by i rotates it anti-clockwise by how many degrees?",
+        "correct_answer": "90",
+        "incorrect_answers": [
+            "180",
+            "270",
+            "0"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Fallout: New Vegas, upon starting each one of the four campaign DLCs, which one of them does not have a warning screen/recommended level? ",
+        "correct_answer": "Honest Hearts ",
+        "incorrect_answers": [
+            "Old World Blues",
+            "Lonesome Road",
+            "Dead Money"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Gadgets",
+        "question": "When did the CD begin to appear on the consumer market?",
+        "correct_answer": "1982",
+        "incorrect_answers": [
+            "1992",
+            "1972",
+            "1962"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the Capital of the United States?",
+        "correct_answer": "Washington, D.C.",
+        "incorrect_answers": [
+            "Los Angelas, CA",
+            "New York City, NY",
+            "Houston, TX"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "When was the FC Schalke 04 founded?",
+        "correct_answer": "1904",
+        "incorrect_answers": [
+            "1909",
+            "2008",
+            "1999"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of the following countries is within the Eurozone but outside of the Schengen Area?",
+        "correct_answer": "Cyprus",
+        "incorrect_answers": [
+            "Malta",
+            "Greece",
+            "Portugal"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the &quot;Little Lost Girl&quot; Easter Egg in Call of Duty: Black Ops II, what&#039;s the last step required for the achievement?",
+        "correct_answer": "Raise Hell",
+        "incorrect_answers": [
+            "Freedom",
+            "Skewer the Winged Beast",
+            "Ascend from Darkness"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The protagonist of the hit game, Half-Life 2 is called:",
+        "correct_answer": "Gordon Freeman",
+        "incorrect_answers": [
+            "Alyx Vance",
+            "Isaac Kleiner",
+            "Wallace Breen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "When Donkey Kong died in the &quot;Donkey Kong Country&quot; episode &quot;It&#039;s a Wonderful Life&quot;, who was his guardian angel?",
+        "correct_answer": "Eddie the Mean Old Yeti",
+        "incorrect_answers": [
+            "Kiddy Kong",
+            "Diddy Kong",
+            "King K. Rool"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which of the stands from &quot;JoJo&#039;s Bizarre Adventure&quot; mimics the likeness of a tomato?",
+        "correct_answer": "Pearl Jam",
+        "incorrect_answers": [
+            "Red Hot Chili Pepper",
+            "Cream Starter",
+            "Nut King Call"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the game Warframe, what is the bipedal robot from the Corpus faction called?",
+        "correct_answer": "MOA",
+        "incorrect_answers": [
+            "Corpus Tech",
+            "Crewman",
+            "Corpus Walker"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In what year was Pok&eacute;mon Diamond &amp; Pearl released in Japan?",
+        "correct_answer": "2006",
+        "incorrect_answers": [
+            "2009",
+            "2007",
+            "2008"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "What was the date of original airing of the pilot episode of My Little Pony: Friendship is Magic?",
+        "correct_answer": "October 10th, 2010",
+        "incorrect_answers": [
+            "November 6th, 2010",
+            "April 14th, 1984",
+            "May 18th, 2015"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the capital of Seychelles?",
+        "correct_answer": "Victoria",
+        "incorrect_answers": [
+            "Luanda",
+            "N&#039;Djamena",
+            "Tripoli"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which African American is in part responsible for integrating  Major League baseball?",
+        "correct_answer": "Jackie Robinson",
+        "incorrect_answers": [
+            "Curt Flood",
+            "Roy Campanella",
+            "Satchell Paige"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the Overlord Anime who was Cocytus made by?",
+        "correct_answer": "Warrior Takemikazuchi",
+        "incorrect_answers": [
+            "Peroroncino",
+            "Ulbert Alain Odle",
+            "Bukubukuchagama"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What was William Frederick Cody better known as?",
+        "correct_answer": "Buffalo Bill",
+        "incorrect_answers": [
+            "Billy the Kid",
+            "Wild Bill Hickok",
+            "Pawnee Bill"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which is not a type of neuron?",
+        "correct_answer": "Perceptual Neuron",
+        "incorrect_answers": [
+            "Sensory Neuron",
+            "Motor Neuron",
+            "Interneuron"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "The author behind the acclaimed novel &quot;Leaving Las Vegas&quot; also wrote an episode of Rugrats.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In WarioWare: Smooth Moves, which one of these is NOT a Form?",
+        "correct_answer": "The Hotshot",
+        "incorrect_answers": [
+            "The Discard",
+            "The Elephant",
+            "The Mohawk"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Which M83 album is the song &quot;Midnight City&quot; featured in?",
+        "correct_answer": "Hurry Up, We&#039;re Dreaming",
+        "incorrect_answers": [
+            "Saturdays = Youth",
+            "Before the Dawn Heals Us",
+            "Junk"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What is the &quot;powerhouse&quot; of the Eukaryotic animal cell?",
+        "correct_answer": "Mitochondria",
+        "incorrect_answers": [
+            "Nucleus",
+            "Chloroplast",
+            "Endoplasmic Reticulum"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The Ace Attorney trilogy was suppose to end with &quot;Phoenix Wright: Ace Attorney &minus; Trials and Tribulations&quot; as its final game.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Only one country in the world starts with the letter Q.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the anime Initial D, how does Takumi Fujiwara describe a drift?",
+        "correct_answer": "&#039;. . . the front tires slide so the car won&#039;t face the inside&#039;",
+        "incorrect_answers": [
+            "&#039;. . . the wheels lose traction, making the car slide sideways&#039;",
+            "&#039;. . . the car oversteers through a curve, causing it to turn faster&#039;",
+            "&#039;. . . you turn a lot&#039;"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Codemasters is the developer of the Gran Turismo series.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "In poker, &quot;EV&quot; means what?",
+        "correct_answer": "Expected Value",
+        "incorrect_answers": [
+            "Equity Value",
+            "Equivalent Variation",
+            "Equity Variation"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "St. Louis is the capital of the US State Missouri.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Kingdom Hearts&quot;, what is the name of Sora&#039;s home world?",
+        "correct_answer": "Destiny Islands",
+        "incorrect_answers": [
+            "Agrabah",
+            "Land of Departure",
+            "Disney Town"
+        ]
+    }
+]

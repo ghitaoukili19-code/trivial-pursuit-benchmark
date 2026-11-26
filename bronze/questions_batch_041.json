@@ -1,0 +1,586 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Gadgets",
+        "question": "When was the compact disc player first released?",
+        "correct_answer": "1982",
+        "incorrect_answers": [
+            "1983",
+            "1981",
+            "1980"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the capital of Romania?",
+        "correct_answer": "Bucharest",
+        "incorrect_answers": [
+            "Bratislava",
+            "Belgrade",
+            "Budapest"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "Which of these in the Star Trek series is NOT Klingon food?",
+        "correct_answer": "Hors d&#039;oeuvre",
+        "incorrect_answers": [
+            "Racht",
+            "Gagh",
+            "Bloodwine"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What type of Pok&eacute;mon is Charizard?",
+        "correct_answer": "Fire/Flying",
+        "incorrect_answers": [
+            "Fire",
+            "Dragon",
+            "Fire/Dragon"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The flag of South Africa features 7 colours.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "Which of the following mathematicians made major contributions to game theory?",
+        "correct_answer": "John Von Neumann",
+        "incorrect_answers": [
+            "Carl Friedrich Gauss",
+            "Leonhard Euler",
+            "Stefan Banach"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "When did the French Revolution begin?",
+        "correct_answer": "1789",
+        "incorrect_answers": [
+            "1823",
+            "1756",
+            "1799"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "In Black Hammer, what dimension does Colonel Weird travel through?",
+        "correct_answer": "Para-Zone",
+        "incorrect_answers": [
+            "Hyperspace",
+            "Mirror Universe",
+            "Phantom Zone"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which is the only US state located entirely within the Appalachia region?",
+        "correct_answer": "West Virginia",
+        "incorrect_answers": [
+            "Pennsylvania",
+            "Alabama",
+            "Kentucky"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "Chronic Wasting Disease (CWD) exclusively infects members of which family of animals?",
+        "correct_answer": "Cervids",
+        "incorrect_answers": [
+            "Hominids",
+            "Felids",
+            "Canids"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "In &quot;Star Trek&quot;, what is the Klingon delicacy of &quot;gagh&quot; made from?",
+        "correct_answer": "Serpent worms",
+        "incorrect_answers": [
+            "Earthworms",
+            "Spaghetti noodles",
+            "Klingworms"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "Who is the father of Icarus, who flew too close to the sun?",
+        "correct_answer": "Daedalus",
+        "incorrect_answers": [
+            "Minos",
+            "Perseus",
+            "Zeus"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "The protagonist in &quot;Humanity Has Declined&quot; has no discernable name and is simply referred to as &#039;I&#039; for most of the series.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which &quot;Call Of Duty: Zombies&quot; map introduced the &quot;Staffs Of The Ancients&quot;?",
+        "correct_answer": "Origins",
+        "incorrect_answers": [
+            "Shangri-La",
+            "Revelations",
+            "Nuketown"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What was another suggested name for, the 1985 film, Back to the Future?",
+        "correct_answer": "Spaceman From Pluto",
+        "incorrect_answers": [
+            "Hill Valley Time Travelers",
+            "The Time Travelers",
+            "The Lucky Man"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the Monster Hunter Series, it is possible to capture Elder Dragons.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the capital of the US state Nevada?",
+        "correct_answer": "Carson City",
+        "incorrect_answers": [
+            "Las Vegas",
+            "Henderson",
+            "Reno"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "The composition &quot;1812 Overture&quot; by Tchaikovsky symbolized the War of 1812 between the United States, and Great Britain.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "EDM producer Marshmello performs live wearing clothes and a marshmallow mask of what colour?",
+        "correct_answer": "White",
+        "incorrect_answers": [
+            "Black",
+            "Blue",
+            "Yellow"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Romanian belongs to the Romance language family, shared with French, Spanish, Portuguese and Italian. ",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "What candidate won the 2012 US Presidential Election?",
+        "correct_answer": "Barack Obama",
+        "incorrect_answers": [
+            "Mitt Romney",
+            "Bob Hope",
+            "Ross Perot"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Call Of Duty: Zombies&quot;, &quot;Richtofen&quot; is in possession of two filled blood vials belonging to who?",
+        "correct_answer": "Sal DeLuca and Finn O&#039;Leary",
+        "incorrect_answers": [
+            "Richtofen",
+            "Al Arlington and Sal DeLuca",
+            "Jessica Rose and Jack Vincent"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "How many controllers could a Nintendo GameCube have plugged in at one time?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "8",
+            "6",
+            "2"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "In networking, what does OSPF stand for?",
+        "correct_answer": "Open Shortest Path First",
+        "incorrect_answers": [
+            "Order State Part First",
+            "Order Sense Ping Find",
+            "Open Signal Path Finder"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who&#039;s the Captain of the S.T.A.R.S. Bravo Team in Resident Evil 1?",
+        "correct_answer": "Enrico Marini",
+        "incorrect_answers": [
+            "Albert Wesker",
+            "Richard Aiken",
+            "Rebecca Chambers"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In what Half-Life expansion can you find Gordon&#039;s picture in an &quot;Employee of the Month&quot; picture frame?",
+        "correct_answer": "Half-Life: Opposing Force",
+        "incorrect_answers": [
+            "Half-Life: Blue Shift",
+            "Half-Life: Decay",
+            "They Hunger"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What country is Sean Matsuda from in Street Fighter?",
+        "correct_answer": "Brazil",
+        "incorrect_answers": [
+            "Japan",
+            "USA",
+            "UK"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In the show &quot;Fat Albert and the Cosby Kids&quot;, what is the name of the characters&#039; fictional gang?",
+        "correct_answer": "The Junkyard Gang",
+        "incorrect_answers": [
+            "The Trash Troupe",
+            "The Scrapyard Seven",
+            "The Rotten Posse"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "According to the BBPA, what is the most common pub name in the UK?",
+        "correct_answer": "Red Lion",
+        "incorrect_answers": [
+            "Royal Oak",
+            "White Hart",
+            "King&#039;s Head"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "What was the name of the cold-war singer who has a song in Grand Theft Auto IV, and a wall landmark in Moscow for his memorial?",
+        "correct_answer": "Viktor Tsoi",
+        "incorrect_answers": [
+            "Jimi Hendrix",
+            "Brian Jones",
+            "Vladimir Vysotsky"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Comics",
+        "question": "Deadpool&#039;s identity is Slade Wilson.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the video game &quot;Transistor&quot;, &quot;Red&quot; is the name of the main character.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Which of these movies did Jeff Bridges not star in?",
+        "correct_answer": "The Hateful Eight",
+        "incorrect_answers": [
+            "Tron: Legacy",
+            "The Giver",
+            "True Grit"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which of these is an official currency of the Cook Islands?",
+        "correct_answer": "New Zealand Dollar",
+        "incorrect_answers": [
+            "United States Dollar",
+            "British Pound",
+            "Australian Dollar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is NOT the name of a team leader in Pok&eacute;mon GO?",
+        "correct_answer": "Leif",
+        "incorrect_answers": [
+            "Blanche",
+            "Spark",
+            "Candela"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What is the theme song of &quot;Neon Genesis Evangelion&quot;?",
+        "correct_answer": "A Cruel Angel&#039;s Thesis",
+        "incorrect_answers": [
+            "Stardust Crusaders",
+            "Requiem for a Dream",
+            "God Knows"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Who sang backup vocals on Rockwell&#039;s hit 1984 single &#039;Somebody&#039;s Watching Me&#039;?",
+        "correct_answer": "Michael Jackson",
+        "incorrect_answers": [
+            "Paul McCartney",
+            "Elton John",
+            "Prince"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "How many protons are in an oxygen atom?",
+        "correct_answer": "Eight",
+        "incorrect_answers": [
+            "Four",
+            "Two",
+            "Six"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who was the first president of the United States?",
+        "correct_answer": "George Washington",
+        "incorrect_answers": [
+            "James Madison",
+            "Thomas Jefferson",
+            "James K. Polk"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What term is best associated with Sigmund Freud?",
+        "correct_answer": "Psychoanalysis",
+        "incorrect_answers": [
+            "Cognitive-Behavioral Therapy",
+            "Theory of Gravity",
+            "Dialectical Behavior Therapy"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Nintendo started out as a playing card manufacturer.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which of the following physicists did NOT work on the Manhattan project?",
+        "correct_answer": "Murray Gell-Mann",
+        "incorrect_answers": [
+            "Richard Feynman",
+            "J. Robert Oppenheimer",
+            "John Von-Neumann"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Which animal was part of an Russian domestication experiment in 1959?",
+        "correct_answer": "Foxes",
+        "incorrect_answers": [
+            "Pigeons",
+            "Bears",
+            "Alligators"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Which artist painted &ldquo;The Treachery of Images,&rdquo; a painting of a pipe with the description &quot;this is not a pipe&quot;?",
+        "correct_answer": "Magritte",
+        "incorrect_answers": [
+            "Matisse",
+            "Modigliani",
+            "Munch "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In Star Trek: The Next Generation, what is the name of Data&#039;s cat?",
+        "correct_answer": "Spot",
+        "incorrect_answers": [
+            "Mittens",
+            "Tom",
+            "Kitty"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "What&#039;s Dr. Doofenshmirtz first name?",
+        "correct_answer": "Heinz",
+        "incorrect_answers": [
+            "Hans",
+            "Hank",
+            "Heidi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "When Gmail first launched, how much storage did it provide for your email?",
+        "correct_answer": "1GB",
+        "incorrect_answers": [
+            "512MB",
+            "5GB",
+            "Unlimited"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Before the 19th Century, the &quot;Living Room&quot; was originally called the...",
+        "correct_answer": "Parlor",
+        "incorrect_answers": [
+            "Open Room",
+            "Sitting Room",
+            "Loft"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "British actor David Morrissey stars as which role in &quot;The Walking Dead&quot;?",
+        "correct_answer": "The Governor",
+        "incorrect_answers": [
+            "Negan",
+            "Rick Grimes",
+            "Daryl Dixon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Kingdom Hearts which of the following people can NOT wield a keyblade?",
+        "correct_answer": "Larxene",
+        "incorrect_answers": [
+            "Xehanort",
+            "Lea",
+            "Mickey"
+        ]
+    }
+]

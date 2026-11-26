@@ -1,0 +1,588 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What is the correct spelling of the protagonist of the book in The NeverEnding Story (1984)?",
+        "correct_answer": "Atreyu",
+        "incorrect_answers": [
+            "Atrayu",
+            "Atraiyu",
+            "Atraeyu"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "Which classic horror character killed Elizabeth Lavenza?",
+        "correct_answer": "Frankenstein&#039;s Monster",
+        "incorrect_answers": [
+            "Count Dracula",
+            "Werewolf",
+            "The Creature from the Black Lagoon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the main character in Metal Gear Rising: Revengeance?",
+        "correct_answer": "Raiden",
+        "incorrect_answers": [
+            "Solid Snake",
+            "Otacon",
+            "Revolver Ocelot"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Who was the most streamed artist on Spotify in 2019?",
+        "correct_answer": "Post Malone",
+        "incorrect_answers": [
+            "Billie Eilish",
+            "Ariana Grande",
+            "Drake"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Super Mario Bros. was the first video game ever created.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "How many metal bars does it take to smith a platebody in the MMO &quot;RuneScape&quot;?",
+        "correct_answer": "5 bars",
+        "incorrect_answers": [
+            "3 bars",
+            "2 bars",
+            "10 bars"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "In Michael Crichton&#039;s novel &quot;Jurassic Park&quot;, John Hammond meets his demise at the claws of which dinosaur?",
+        "correct_answer": "Procompsognathus",
+        "incorrect_answers": [
+            "Dilophosaurus",
+            "Tyrannosaurus Rex",
+            "Velociraptor"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which slogan did the fast food company, McDonald&#039;s, use before their &quot;I&#039;m Lovin&#039; It&quot; slogan?",
+        "correct_answer": "We Love to See You Smile",
+        "incorrect_answers": [
+            "Why Pay More!?",
+            "Have It Your Way",
+            "Making People Happy Through Food"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Which of these European cities was the first to host the modern Summer Olympic Games three times?",
+        "correct_answer": "London",
+        "incorrect_answers": [
+            "Paris",
+            "Athens",
+            "Rome"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What are human nails made of?",
+        "correct_answer": "Keratin",
+        "incorrect_answers": [
+            "Bone",
+            "Chitin",
+            "Calcium"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "The pickled gherkin was first added to hamburgers because a US health law required all fast-food to include a source of Vitamin C.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What is the chemical makeup of water?",
+        "correct_answer": "H20",
+        "incorrect_answers": [
+            "C12H6O2",
+            "CO2",
+            "H"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Tennis was once known as Racquetball.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "To the nearest whole number, how many radians are in a whole circle?",
+        "correct_answer": "6",
+        "incorrect_answers": [
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The &#039;64&#039; in the Nintendo-64 console refers to what?",
+        "correct_answer": "The bits in the CPU architecture",
+        "incorrect_answers": [
+            "The number of megabytes of RAM",
+            "Capacity of the ROM Cartridges in megabytes",
+            "Clock speed of the CPU in Hertz"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "What&#039;s Harry Potter&#039;s dad&#039;s name?",
+        "correct_answer": "James Potter",
+        "incorrect_answers": [
+            "Joey Potter",
+            "Frank Potter",
+            "Hairy Potter Sr."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Macintosh has named six of its operating systems after big cats. What big cat did Macintosh name their 2007 release after? ",
+        "correct_answer": "Leopard",
+        "incorrect_answers": [
+            "Tiger",
+            "Panther",
+            "Puma"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "What is the name of the gang that Ponyboy is a part of in the book, The Outsiders?",
+        "correct_answer": "The Greasers",
+        "incorrect_answers": [
+            "The Outsiders",
+            "The Mafia",
+            "The Socs"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which of the following European languages is classified as a &quot;language isolate?&quot;",
+        "correct_answer": "Basque",
+        "incorrect_answers": [
+            "Galician",
+            "Maltese",
+            "Hungarian"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Which of the following movies was not based on a novel by Stephen King? ",
+        "correct_answer": "The Thing",
+        "incorrect_answers": [
+            "Carrie",
+            "Misery",
+            "The Green Mile"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "March 10th is also known as Mar10 Day.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "&quot;Tomb Raider&quot; icon Lara Croft was originally called...",
+        "correct_answer": "Laura Cruz",
+        "incorrect_answers": [
+            "Laura Craft",
+            "Laura Croft",
+            "Lara Craft"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Mythology",
+        "question": "In Greek Mythology, who was the daughter of King Minos?",
+        "correct_answer": "Ariadne",
+        "incorrect_answers": [
+            "Athena",
+            "Ariel",
+            "Alana"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Which one is NOT the function of engine oil in car engines?",
+        "correct_answer": "Combustion",
+        "incorrect_answers": [
+            "Lubrication",
+            "Cooling",
+            "Reduce corrosion"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What was the first Call of Duty game to include the Zombies gamemode?",
+        "correct_answer": "Call of Duty: World at War",
+        "incorrect_answers": [
+            "Call of Duty: Black Ops",
+            "Call of Duty: Modern Warfare 2",
+            "Call of Duty: Black Ops III"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The first Maxis game to feature the fictional language &quot;Simlish&quot; was The Sims (2000).",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "The &quot;British Invasion&quot; was a cultural phenomenon in music where British boy bands became popular in the USA in what decade?",
+        "correct_answer": "60&#039;s",
+        "incorrect_answers": [
+            "50&#039;s",
+            "40&#039;s",
+            "30&#039;s"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "What is the primary purpose of the Fourth Amendment to the US Constitution?",
+        "correct_answer": "Preventing unreasonable searches and seizures",
+        "incorrect_answers": [
+            "Preventing cruel and unusual punishments",
+            "Protecting against imprisonment without due process of law",
+            "Protecting the right to keep and bear arms"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "The Windows 7 operating system has six main editions.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Greenland is a part of which kingdom?",
+        "correct_answer": "Denmark",
+        "incorrect_answers": [
+            "Sweden",
+            "Norway",
+            "United Kingdom"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Call of Duty: Black Ops III&quot; Zombies, what does completing all the main easter eggs reward you with?",
+        "correct_answer": "1,000,000 XP",
+        "incorrect_answers": [
+            "Juggernog at the start of each game",
+            "50 Liquid Diviniums",
+            "All three options."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Which element has the highest melting point?",
+        "correct_answer": "Carbon",
+        "incorrect_answers": [
+            "Tungsten",
+            "Platinum",
+            "Osmium"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which car manufacturer won the 2017 24 Hours of Le Mans?",
+        "correct_answer": "Porsche",
+        "incorrect_answers": [
+            "Toyota",
+            "Audi",
+            "Chevrolet"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which game in the &quot;Monster Hunter&quot; series introduced the monster &quot;Gobul&quot;?",
+        "correct_answer": "Monster Hunter Tri",
+        "incorrect_answers": [
+            "Monster Hunter Freedom Unite",
+            "Monster Hunter Frontier",
+            "Monster Hunter Generations"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following colors does the Zombie eyes glow in the &quot;Nuketown&quot; map in &quot;Call of Duty: Black Ops II&quot; Zombies mode?",
+        "correct_answer": "Yellow and Blue",
+        "incorrect_answers": [
+            "Yellow and Red",
+            "Red and Blue",
+            "Blue and White"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What is the name of the second studio album released by American rapper Post Malone in 2018?",
+        "correct_answer": "Beerbongs &amp; Bentleys",
+        "incorrect_answers": [
+            "Takin&#039; Shots",
+            "Rockstar",
+            "Better Now"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What do the Dutch call their language?",
+        "correct_answer": "Nederlands",
+        "incorrect_answers": [
+            "Dansk",
+            "Deutsch",
+            "Hollander"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What step in cellular respiration forms ATP?",
+        "correct_answer": "Oxidative Phosphorylation",
+        "incorrect_answers": [
+            "Glycolysis",
+            "Pyruvate Oxidation",
+            "Calvin Cycle"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "Which of the following dice is not a platonic solid?",
+        "correct_answer": "10-sided die",
+        "incorrect_answers": [
+            "12-sided die",
+            "20-sided die",
+            "8-sided die"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "In computing, what does MIDI stand for?",
+        "correct_answer": "Musical Instrument Digital Interface",
+        "incorrect_answers": [
+            "Musical Interface of Digital Instruments",
+            "Modular Interface of Digital Instruments",
+            "Musical Instrument Data Interface"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "In which Shakespearean play will you find the suicide of Ophelia?",
+        "correct_answer": "Hamlet",
+        "incorrect_answers": [
+            "Macbeth",
+            "Othello",
+            "King Lear"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "In the children&#039;s book series, where is Paddington Bear originally from?",
+        "correct_answer": "Peru",
+        "incorrect_answers": [
+            "India",
+            "Iceland",
+            "Canada"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Gouda cheese is from which European country?",
+        "correct_answer": "The Netherlands",
+        "incorrect_answers": [
+            "Belgium",
+            "Germany",
+            "France"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "What was the name of the the first episode of Doctor Who to air in 1963?",
+        "correct_answer": "An Unearthly Child",
+        "incorrect_answers": [
+            "The Daleks",
+            "The Aztecs",
+            "The Edge of Destruction"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Swedish DJ Tim Bergling, who produced songs such as &quot;Levels&quot; and &quot;Wake Me Up&quot;, is better known under what alias?",
+        "correct_answer": "Avicii",
+        "incorrect_answers": [
+            "deadmau5",
+            "Alesso",
+            "Skrillex"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the 1988 film &quot;Akira&quot;, Tetsuo ends up destroying Tokyo.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What is the collective noun for rats?",
+        "correct_answer": "Mischief",
+        "incorrect_answers": [
+            "Pack",
+            "Race",
+            "Drift"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the game &quot;Terraria&quot;, which of these bosses are pre-hardmode bosses?",
+        "correct_answer": "Eye of Cthulhu",
+        "incorrect_answers": [
+            "Plantera",
+            "Skeletron Prime",
+            "The Destroyer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these songs does NOT play during the Ruins segments of the 2015 game &quot;Undertale&quot;?",
+        "correct_answer": "Another Medium",
+        "incorrect_answers": [
+            "Anticipation",
+            "Unnecessary Tension",
+            "Ruins"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In &quot;Rick and Morty&quot;, from which dimension do Rick and Morty originate from?",
+        "correct_answer": "C-137",
+        "incorrect_answers": [
+            "J1977",
+            "C-136",
+            "C500-a"
+        ]
+    }
+]

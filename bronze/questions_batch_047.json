@@ -1,0 +1,590 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "What are the cylinder-like parts that pump up and down within the engine?",
+        "correct_answer": "Pistons",
+        "incorrect_answers": [
+            "Leaf Springs",
+            "Radiators",
+            "ABS"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Which of following is rude and dishonorable by Klingon standards?",
+        "correct_answer": "Taking his D&#039;k tahg",
+        "incorrect_answers": [
+            "Insulting and laughing at him at the dinner table",
+            "Reaching over and taking his meal",
+            "Punching him and taking his ship station position"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "When was the Gregorian Calendar first adopted?",
+        "correct_answer": "1582",
+        "incorrect_answers": [
+            "1623",
+            "1501",
+            "1555"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "How many games are there in the &quot;Colony Wars&quot; series for the PlayStation?",
+        "correct_answer": "3",
+        "incorrect_answers": [
+            "2",
+            "4",
+            "5"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "After India, which country produces the second most movies per year?",
+        "correct_answer": "Nigeria",
+        "incorrect_answers": [
+            "United States",
+            "China",
+            "France"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The Sun rises from the North.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the game &quot;Subnautica&quot;, a &quot;Spadefish&quot; will attack you.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The Sniper&#039;s SMG in Team Fortress 2, was originally intended to be the Scout&#039;s primary weapon.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which of the following countries has a flag featuring a yellow lion wielding a sword on a dark red background?",
+        "correct_answer": "Sri Lanka",
+        "incorrect_answers": [
+            "Kiribati",
+            "Scotland",
+            "Bhutan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "About how much of their body weight in food do sea otters eat every day?",
+        "correct_answer": "25%",
+        "incorrect_answers": [
+            "10%",
+            "80%",
+            "45%"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What is the name of Funny Valentine&#039;s stand in Jojo&#039;s Bizarre Adventure Part 7, Steel Ball Run?",
+        "correct_answer": "Dirty Deeds Done Dirt Cheap",
+        "incorrect_answers": [
+            "Filthy Acts Done For A Reasonable Price",
+            "Civil War",
+            "God Bless The USA"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What is the name of the character Nicolas Cage plays in the movie &quot;National Treasure?&quot;",
+        "correct_answer": "Benjamin Franklin Gates",
+        "incorrect_answers": [
+            "Thomas Jefferson Walker",
+            "George Washington Swanson",
+            "John Quincy Beckett"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Animal Crossing, who is the manager of the town shop?",
+        "correct_answer": "Tom Nook",
+        "incorrect_answers": [
+            "Mr. Resetti",
+            "Gracie",
+            "K.K. Slider"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What does the DOS in Microsoft&#039;s first operating system &quot;MS-DOS&quot; stand for?",
+        "correct_answer": "Disk Operating System",
+        "incorrect_answers": [
+            "Dumb Operating System",
+            "Driver Oriented System",
+            "Diskless Operating System"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which of the following countries was not an axis power during World War II?",
+        "correct_answer": " Soviet Union",
+        "incorrect_answers": [
+            "Italy",
+            "Germany",
+            "Japan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is Solid Snake&#039;s real name?",
+        "correct_answer": "David",
+        "incorrect_answers": [
+            "Solid Snake",
+            "John",
+            "Huey"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "Which of these animals is NOT a lizard?",
+        "correct_answer": "Tuatara",
+        "incorrect_answers": [
+            "Komodo Dragon",
+            "Gila Monster",
+            "Green Iguana"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of these is NOT a song featured on Green Day&#039;s 21st Century Breakdown album?",
+        "correct_answer": "She&#039;s A Rebel",
+        "incorrect_answers": [
+            "Know Your Enemy",
+            "&iquest;Viva la Gloria? (Little Girl)",
+            "Before The Lobotomy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Who was the British Prime Minister at the outbreak of the Second World War in 1939?",
+        "correct_answer": "Neville Chamberlain",
+        "incorrect_answers": [
+            "Stanley Baldwin",
+            "Winston Churchill",
+            "Ramsay MacDonald"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "What is the maximum value of a 32-bit signed binary integer?",
+        "correct_answer": "2,147,483,647",
+        "incorrect_answers": [
+            "255",
+            "2048",
+            "9,223,372,036,854,775,807"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which actor auditioned for the role of Luke Skywalker?",
+        "correct_answer": "Kurt Russell",
+        "incorrect_answers": [
+            "Christopher Lambert",
+            "Laurence Fishburne",
+            "James Remar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "What is the name of Chris&#039;s brother in &quot;Everybody Hates Chris&quot;?",
+        "correct_answer": "Drew",
+        "incorrect_answers": [
+            "Jerome",
+            "Greg",
+            "Joe"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In the show &quot;Steven Universe&quot;, who are the main two employees of The Big Donut?",
+        "correct_answer": "Sadie and Lars",
+        "incorrect_answers": [
+            "Steven and James",
+            "Erik and Julie",
+            "Bob and May"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who was the first explorer to sail to North America?",
+        "correct_answer": "Leif Erikson",
+        "incorrect_answers": [
+            "Christopher Columbus",
+            "Amerigo Vespucci",
+            "Ferdinand Magellan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is not one of Dracula&#039;s relics found in the video game &quot;Castlevania II: Simon&#039;s Quest&quot;?",
+        "correct_answer": "The Tooth",
+        "incorrect_answers": [
+            "The Nail",
+            "The Eyeball",
+            "The Rib Bone"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What word represents the letter &#039;T&#039; in the NATO phonetic alphabet?",
+        "correct_answer": "Tango",
+        "incorrect_answers": [
+            "Target",
+            "Taxi",
+            "Turkey"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is the most populous Muslim-majority nation in 2010?",
+        "correct_answer": "Indonesia",
+        "incorrect_answers": [
+            "Saudi Arabia",
+            "Iran",
+            "Sudan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In which U.S. state is Far Cry 5&#039;s fictional setting &#039;Hope County&#039; located?",
+        "correct_answer": "Montana",
+        "incorrect_answers": [
+            "Idaho",
+            "Wyoming",
+            "North Carolina"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the &quot;Dragon Ball&quot; franchise, what is the name of Goku&#039;s brother?",
+        "correct_answer": "Raditz",
+        "incorrect_answers": [
+            "Gohan",
+            "Vegeta",
+            "Bardock"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Which movie released in 2016 features Superman and Batman fighting?",
+        "correct_answer": "Batman v Superman: Dawn of Justice",
+        "incorrect_answers": [
+            "Batman v Superman: Superapocalypse",
+            "Batman v Superman: Black of Knight",
+            "Batman v Superman: Knightfall"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Sean Bean voices the character of &quot;Martin Septim&quot; in which Elder Scrolls game?",
+        "correct_answer": "The Elder Scrolls IV: Oblivion",
+        "incorrect_answers": [
+            "The Elder Scrolls V: Skyrim",
+            "The Elder Scrolls III: Morrowind ",
+            "The Elder Scrolls Online"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "The sum of any two odd integers is odd.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Which major bank&#039;s collapse was notable as one of the causes of the Financal Crisis of 2008?",
+        "correct_answer": "Lehman Brothers",
+        "incorrect_answers": [
+            "HSBC",
+            "Barclays",
+            "Lloyds"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which company developed and published Game Dev Tycoon?",
+        "correct_answer": "Greenheart Games",
+        "incorrect_answers": [
+            "Greenland Games",
+            "The Tycoonists",
+            "MomCorp"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Which of Michael Jackson&#039;s albums sold the most copies?",
+        "correct_answer": "Thriller",
+        "incorrect_answers": [
+            "Dangerous",
+            "Bad",
+            "Off the Wall"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which musical instrument is nicknamed &#039;the clown of the orchestra&#039;?",
+        "correct_answer": "Bassoon",
+        "incorrect_answers": [
+            "Piccolo",
+            "Tuba",
+            "Flute"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "The character Plum from &quot;No Game No Life&quot; is a girl.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Mitsubishi Motors has had a 30-year partnership with Jackie Chan, whose movies have prominently featured their vehicles.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In World of Warcraft Lore, four Old Gods created a giant and powerful creature. What was it called? ",
+        "correct_answer": "The Ancient One",
+        "incorrect_answers": [
+            "Anomalous",
+            "Eater of Souls",
+            "The Lich King"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Which movie served as the KTMA pilot episode for the show &quot;Mystery Science Theater 3000&quot;?",
+        "correct_answer": "The Green Slime",
+        "incorrect_answers": [
+            "The Robot Vs. The Aztec Mummy",
+            "The Crawling Eye",
+            "Plan 9 From Outer Space"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In Stardew Valley, what is the reward for completing all of the Bulletin Board bundles?",
+        "correct_answer": "Additional Friendship points",
+        "incorrect_answers": [
+            "Glittering Boulder removed",
+            "Bus is repaired",
+            "Greenhouse"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which of these is NOT a city in India?",
+        "correct_answer": "Islamabad",
+        "incorrect_answers": [
+            "Hyderabad",
+            "Ahmedabad",
+            "Ghaziabad"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Halo&quot;, what is the name of the planet which Installation 04 orbits?",
+        "correct_answer": "Threshold",
+        "incorrect_answers": [
+            "Substance",
+            "Sanghelios",
+            "Te"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who are the original creators of Rachet &amp; Clank?",
+        "correct_answer": "Insomniac Games",
+        "incorrect_answers": [
+            "PixelTail Games",
+            "Rare",
+            "Bethesda"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What does IWHBYD stand for on the skull in the Halo series?",
+        "correct_answer": "I Would Have Been Your Daddy",
+        "incorrect_answers": [
+            "I Wanna Have Babies You Down",
+            "I Would Hate Being Your Driver",
+            "I Would Have Bought Your Dog"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Foie gras is a French delicacy typically made from what part of a duck or goose?",
+        "correct_answer": "Liver",
+        "incorrect_answers": [
+            "Heart",
+            "Stomach",
+            "Intestines"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the half-demon character in Divinity: Original Sin 2 who you talk to to transition between acts?",
+        "correct_answer": "Malady",
+        "incorrect_answers": [
+            "Meister Siva",
+            "Gawin",
+            "Exter"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What is the name of the popular animatronic singing fish prop, singing such hits such as &quot;Don&#039;t Worry, Be Happy&quot;?",
+        "correct_answer": "Big Mouth Billy Bass",
+        "incorrect_answers": [
+            "Big Billy Bass",
+            "Singing Fish",
+            "Sardeen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Which of the following is NOT a Russian car manufacturer?",
+        "correct_answer": "BYD",
+        "incorrect_answers": [
+            "Silant",
+            "Dragon",
+            "GAZ"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the largest country in the world?",
+        "correct_answer": "Russia",
+        "incorrect_answers": [
+            "Canada",
+            "China",
+            "United States"
+        ]
+    }
+]

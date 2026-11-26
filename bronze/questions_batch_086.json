@@ -1,0 +1,584 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The Khajiit are a race of cat-like creatures from which epic series of role-playing games, set across the land of Tamriel?",
+        "correct_answer": "The Elder Scrolls",
+        "incorrect_answers": [
+            "Lord of the Rings",
+            "The Witcher",
+            "Neverwinter Nights"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Who had a 1969 top 5 hit with the song,  &#039;A Boy Named Sue&#039;?",
+        "correct_answer": "Johnny Cash",
+        "incorrect_answers": [
+            "Bob Dylan",
+            "Willie Nelson",
+            "Kris Kristofferson"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the game &quot;Undertale&quot;, who was Mettaton&#039;s creator?",
+        "correct_answer": "Alphys",
+        "incorrect_answers": [
+            "Undyne",
+            "Sans",
+            "Asgore"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "When does Finland celebrate their independence day?",
+        "correct_answer": "December 6th",
+        "incorrect_answers": [
+            "January 2nd",
+            "November 12th",
+            "February 8th"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "What nickname was given to Air Canada Flight 143 after it ran out of fuel and glided to safety in 1983?",
+        "correct_answer": "Gimli Glider",
+        "incorrect_answers": [
+            "Gimli Microlight",
+            "Gimli Chaser",
+            "Gimli Superb"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Generally, which component of a computer draws the most power?",
+        "correct_answer": "Video Card",
+        "incorrect_answers": [
+            "Hard Drive",
+            "Processor",
+            "Power Supply"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who was the first footballer to score 200 goals in the English Premier League?",
+        "correct_answer": "Alan Shearer",
+        "incorrect_answers": [
+            "Wayne Rooney",
+            "Robbie Fowler",
+            "Thierry Henry"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Activision created Battlefield 1.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Kangaroos keep food in their pouches next to their children.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Along with Gabe Newell, who co-founded Valve?",
+        "correct_answer": "Mike Harrington",
+        "incorrect_answers": [
+            "Robin Walker",
+            "Marc Laidlaw",
+            "Stephen Bahl"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Assyrian king Sennacherib&#039;s destruction of Babylon in 689 BCE was viewed as a triumph by other Assyrian citizens.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The file hosting service, &quot;Google Drive&quot; was launched on what day?",
+        "correct_answer": "April 24, 2012",
+        "incorrect_answers": [
+            "January 12, 2014",
+            "November 14, 2008",
+            "January 20, 2010"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "In Magic: The Gathering, what term for blocking was established in the Portal set?",
+        "correct_answer": "Intercepting",
+        "incorrect_answers": [
+            "Blocking",
+            "Resisting",
+            "Shielding"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In Rainbow 6 Siege, what is Mozzie&#039;s real name?",
+        "correct_answer": "Max Goose",
+        "incorrect_answers": [
+            "Mick Seagull",
+            "Hugo Sparrow",
+            "Dan Bird"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "By how many minutes are you late to work in &quot;Half-Life&quot;?",
+        "correct_answer": "30",
+        "incorrect_answers": [
+            "5",
+            "60",
+            "15"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Where is the Volga River?",
+        "correct_answer": "Russia",
+        "incorrect_answers": [
+            "Bulgaria",
+            "India",
+            "Sweden"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which member of the Velvet Room is not a playable character in Persona 4 Arena Ultimax?",
+        "correct_answer": "Theodore",
+        "incorrect_answers": [
+            "Elizabeth",
+            "Margaret",
+            "Marie"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The M41 Walker Bulldog remains in service in some countries to this day.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which race in Guild Wars 2 believes in the Eternal Alchemy?",
+        "correct_answer": "Asura",
+        "incorrect_answers": [
+            "Humans",
+            "Norn",
+            "Charr"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In the 1992 film &quot;Army of Darkness&quot;, what name does Ash give to his double-barreled shotgun?",
+        "correct_answer": "Boomstick",
+        "incorrect_answers": [
+            "Bloomstick",
+            "Blastbranch",
+            "2-Pump Chump"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "What was the name of Marilyn Monroe&#039;s first husband?",
+        "correct_answer": "James Dougherty",
+        "incorrect_answers": [
+            "Joe Dimaggio",
+            "Kirk Douglas",
+            "Arthur Miller"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the video game &quot;League of Legends&quot; which character is known as &quot;The Sinister Blade&quot;?",
+        "correct_answer": "Katarina",
+        "incorrect_answers": [
+            "Shaco",
+            "Akali",
+            "Zed"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "What weakpoint of Achilles was expoited by the Trojan prince, Paris?",
+        "correct_answer": "Heel",
+        "incorrect_answers": [
+            "Neck",
+            "Back",
+            "Calf"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What were the Chilled Monkey Brains made from during Indiana Jones and the Temple of Doom?",
+        "correct_answer": "Custard and Raspberry Sauce",
+        "incorrect_answers": [
+            "Strawberry Ice Cream",
+            "Cherry Yogurt",
+            "Raspberry Sorbet"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "A minotaur is half human half what?",
+        "correct_answer": "Bull",
+        "incorrect_answers": [
+            "Cow",
+            "Horse",
+            "Eagle"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+        "correct_answer": "FM-7",
+        "incorrect_answers": [
+            "PC-9801",
+            "Xmillennium ",
+            "MSX"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which of these English football clubs is based in Liverpool?",
+        "correct_answer": "Everton",
+        "incorrect_answers": [
+            "West Ham United",
+            "Crystal Palace",
+            "Arsenal"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Saul Hudson (Slash) of the band Guns N&#039; Roses is known for playing what type of guitar?",
+        "correct_answer": "Les Paul Standard",
+        "incorrect_answers": [
+            "Fender Stratocaster",
+            "LsL Mongrel",
+            "Gretsch Falcon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Minecraft, what types of sound files are required for custom SFX to work in resource packs?",
+        "correct_answer": ".ogg",
+        "incorrect_answers": [
+            ".wav",
+            ".mp3",
+            ".class"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "Which of the following is not a work authored by Fyodor Dostoevsky?",
+        "correct_answer": "Anna Karenina",
+        "incorrect_answers": [
+            "Notes from the Underground",
+            "Crime and Punishment",
+            "The Brothers Karamazov"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "What numbers are in the 5th row of Pascal&#039;s Triangle?",
+        "correct_answer": "1 4 6 4 1",
+        "incorrect_answers": [
+            "1 3 3 1",
+            "1 5 10 10 5 1",
+            "1 6 15 20 15 6 1"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is not a character in the game, &quot;Lethal League&quot;?",
+        "correct_answer": "Rex",
+        "incorrect_answers": [
+            "Switch",
+            "Candyman",
+            "Sonata"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "A group of islands is called an &#039;archipelago&#039;.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Gosho Aoyama Made This Series: (Detective Conan / Case Closed!)",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "Which famous book is sub-titled &#039;The Modern Prometheus&#039;?",
+        "correct_answer": "Frankenstein",
+        "incorrect_answers": [
+            "Dracula",
+            "The Strange Case of Dr. Jekyll and Mr. Hyde ",
+            "The Legend of Sleepy Hollow"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "The word &quot;Inception&quot; came from the 2010 blockbuster hit &quot;Inception&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "What name did Tom Hanks give to his volleyball companion in the film `Cast Away`?",
+        "correct_answer": "Wilson",
+        "incorrect_answers": [
+            "Friday",
+            "Jones",
+            "Billy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the first book of the Old Testament?",
+        "correct_answer": "Genesis",
+        "incorrect_answers": [
+            "Exodus",
+            "Leviticus",
+            "Numbers"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Which of the following passenger jets is the longest?",
+        "correct_answer": "Boeing 747-8",
+        "incorrect_answers": [
+            "Airbus A350-1000",
+            "Airbus A330-200",
+            "Boeing 787-10"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "Which of these is a colony of polyps and not a jellyfish?",
+        "correct_answer": "Portuguese Man-of-War",
+        "incorrect_answers": [
+            "Sea Wasp",
+            "Irukandji",
+            "Sea Nettle"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "&quot;Elementary, my dear Watson&quot; is a phrase that is never truly said within the Conan Doyle books of Sherlock Holmes.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;The Binding of Isaac&quot;, which item instantly kills Mom and Mom&#039;s Heart?",
+        "correct_answer": "The Bible",
+        "incorrect_answers": [
+            "The Halo",
+            "Brimstone",
+            "Book of Shadows"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which American celebrity died in 1977 playing golf in La Moraleja, Madrid?",
+        "correct_answer": "Bing Crosby",
+        "incorrect_answers": [
+            "Elvis Presley",
+            "Charlie Chaplin",
+            "Groucho Marx"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "How long is a light-year?",
+        "correct_answer": "9.461 Trillion Kilometres",
+        "incorrect_answers": [
+            "1 AU",
+            "105.40 Earth-years",
+            "501.2 Million Miles"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the Super Mario Bros. Series, what is Yoshi&#039;s scientific name?",
+        "correct_answer": "T. Yoshisaur Munchakoopas",
+        "incorrect_answers": [
+            "Yoshi",
+            "T. Yoshisotop Munchakoopas",
+            "Yossy"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In AMC&#039;s &quot;The Walking Dead,&quot; the characters Rick, Carl, Daryl, Morgan, Carol and Maggie were introduced in Season 1.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Hitman: Blood Money, what is the name of the target in the mission &quot;Death of a Showman&quot;?",
+        "correct_answer": "Joseph Clarence",
+        "incorrect_answers": [
+            "The Swing King",
+            "Maynard John",
+            "Manuel Delgado"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the Zombies mode of &quot;Call of Duty: Black Ops&quot;, what is the &quot;Pack-A-Punched&quot; version of the &quot;Galil&quot; called?",
+        "correct_answer": "Lamentation",
+        "incorrect_answers": [
+            "Galvanized Atomic Lead Insertion Liquidator",
+            "Gabig",
+            "Predictive Death Wish"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the main character in the video game &quot;Just Cause 3&quot;?",
+        "correct_answer": "Rico Rodriguez",
+        "incorrect_answers": [
+            "Tom Sheldon",
+            "Marcus Holloway",
+            "Mario Frigo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "Which one of these chassis codes are used by BMW 3-series?",
+        "correct_answer": "E46",
+        "incorrect_answers": [
+            "E39",
+            "E85",
+            "F10"
+        ]
+    }
+]

@@ -1,0 +1,584 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What was the name of the German offensive operation in October 1941 to take Moscow before winter?",
+        "correct_answer": "Operation Typhoon",
+        "incorrect_answers": [
+            "Operation Sunflower",
+            "Operation Barbarossa",
+            "Case Blue"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What is the national bird of Bahrain?",
+        "correct_answer": "Bulbul",
+        "incorrect_answers": [
+            "Hummingbird",
+            "Falcon",
+            "Sparrow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who turns out to be the true victor in the Battle of Armageddon in Mortal Kombat?",
+        "correct_answer": "Shao Kahn",
+        "incorrect_answers": [
+            "Liu Kang",
+            "Shang Tsung",
+            "Raiden"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which genre is the Touhou Project associated with?",
+        "correct_answer": "Shoot &#039;em up (bullet-hell) &amp; Fighting",
+        "incorrect_answers": [
+            "Turn-Based Strategy",
+            "MMORPG",
+            "Building "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following Elite Four members from the 6th Generation of Pok&eacute;mon was a member of Team Flare?",
+        "correct_answer": "Malva",
+        "incorrect_answers": [
+            "Siebold",
+            "Wikstrom",
+            "Drasna"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "The co-creator of Gorillaz, Damon Albarn, is also the lead singer of what band?",
+        "correct_answer": "Blur",
+        "incorrect_answers": [
+            "Oasis",
+            "Radiohead",
+            "Queens of the Stone Age"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "Which sci-fi cult films plot concerns aliens attempting to prevent humans from creating a doomsday weapon?",
+        "correct_answer": "Plan 9 from Outer Space",
+        "incorrect_answers": [
+            "The Man from Planet X",
+            "It Came from Outer Space",
+            "The Day The Earth Stood Still"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the &quot;Neptunia&quot; series which nation does Neptune rule over?",
+        "correct_answer": "Planeptune",
+        "incorrect_answers": [
+            "Lastation",
+            "Leanbox",
+            "Lowee"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What Cartoon Network show aired its first episode on November 4th, 2013?",
+        "correct_answer": "Steven Universe",
+        "incorrect_answers": [
+            "Regular Show",
+            "Adventure Time",
+            "The Amazing World of Gumball"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "What is the romanized Chinese word for &quot;airplane&quot;?",
+        "correct_answer": "Feiji",
+        "incorrect_answers": [
+            "Qiche",
+            "Zongxian",
+            "Huojian"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "When was Cadillac founded?",
+        "correct_answer": "1902",
+        "incorrect_answers": [
+            "1964",
+            "1898",
+            "1985"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "As of the year 2026, how many known moons does Jupiter have?",
+        "correct_answer": "97",
+        "incorrect_answers": [
+            "11",
+            "43",
+            "104"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Which one of these paintings is not by Caspar David Friedrich?",
+        "correct_answer": "The Black Sea",
+        "incorrect_answers": [
+            "The Sea of Ice",
+            "Wanderer above the Sea of Fog",
+            "The Monk by the Sea"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Overwatch&quot;, what is the name of Mercy&#039;s &quot;ultimate ability&quot;?",
+        "correct_answer": "Valkyrie",
+        "incorrect_answers": [
+            "Earthshatter",
+            "Rocket Barrage",
+            "Molten Core"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "In &quot;Shrek&quot;, what comedic actor voices Donkey?",
+        "correct_answer": "Eddie Murphy",
+        "incorrect_answers": [
+            "Chris Rock",
+            "Richard Pryor",
+            "Bernie Mac"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "The French scientists Louis Pasteur and &Eacute;mile Roux developed the first rabies vaccination in 1885.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Until Dawn, both characters Sam and Mike cannot be killed under any means until the final chapter of the game.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Mythology",
+        "question": "Rannamaari was a sea demon that haunted the people of the Maldives and had to be appeased monthly with the sacrifice of a virgin girl.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which country was an allied power in World War II?",
+        "correct_answer": "Soviet Union",
+        "incorrect_answers": [
+            "Italy",
+            "Germany",
+            "Japan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "The Kākāpō is a large, flightless, nocturnal parrot native to which country?",
+        "correct_answer": "New Zealand",
+        "incorrect_answers": [
+            "South Africa",
+            "Australia",
+            "Madagascar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "In Marvel Comics, Taurus is the founder and leader of which criminal organization?",
+        "correct_answer": "Zodiac",
+        "incorrect_answers": [
+            "Scorpio",
+            "Tiger Mafia",
+            "The Union"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which one of these rulers did not belong to the Habsburg dynasty?",
+        "correct_answer": "Philip V",
+        "incorrect_answers": [
+            "Charles V",
+            "Philip II",
+            "Francis Joseph"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "What was the first James Bond film?",
+        "correct_answer": "Dr. No",
+        "incorrect_answers": [
+            "Goldfinger",
+            "From Russia With Love",
+            "Thunderball"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "Which of these numbers is closest to the total number of possible states for an army standard Enigma Machine?",
+        "correct_answer": "1.58 x 10^20",
+        "incorrect_answers": [
+            "1.58 x 10^22",
+            "1.58 x  10^18",
+            "1.58 x 10^24"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "In association football, or soccer, a corner kick is when the game restarts after someone scores a goal.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "What is the name of Layer 7 of the OSI model?",
+        "correct_answer": "Application",
+        "incorrect_answers": [
+            "Session",
+            "Network",
+            "Present"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which Game Development company made No Man&#039;s Sky?",
+        "correct_answer": "Hello Games",
+        "incorrect_answers": [
+            "Dovetail Games",
+            "Valve",
+            "Blizzard Entertainment"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "In the Canadian province of Alberta, the city of Calgary is located further north than the city of Edmonton.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In Tron: Legacy, Kevin Flynn wrote a program to create the perfect system. What was the program&#039;s name?",
+        "correct_answer": "Clu",
+        "incorrect_answers": [
+            "Tron",
+            "MCP",
+            "Quorra"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "Which of these does Charlie NOT read in The Perks of Being a Wallflower?",
+        "correct_answer": "The Grapes of Wrath",
+        "incorrect_answers": [
+            "Hamlet",
+            "The Great Gatsby",
+            "Peter Pan"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the Disgaea series, any character can equip any weapon.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which of these Nicktoons were NOT originally a short on Oh Yeah! Cartoons before becoming their own series?",
+        "correct_answer": "Danny Phantom",
+        "incorrect_answers": [
+            "ChalkZone",
+            "My Life as a Teenage Robot",
+            "The Fairly OddParents"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "How many Mudokons are rescuable in &quot;Oddworld: New &#039;N&#039; Tasty&quot;?",
+        "correct_answer": "299",
+        "incorrect_answers": [
+            "301",
+            "50",
+            "300"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which country is featured in Ace Combat 5: The Unsung War?",
+        "correct_answer": "Osea",
+        "incorrect_answers": [
+            "Aurelia",
+            "Australia",
+            "Japan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which rap group released the album &quot;Straight Outta Compton&quot;?",
+        "correct_answer": "N.W.A",
+        "incorrect_answers": [
+            "Wu-Tang Clan",
+            "Run-D.M.C.",
+            "Beastie Boys"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Left 4 Dead, what is the name of the Special Infected that is unplayable in Versus mode?",
+        "correct_answer": "The Witch",
+        "incorrect_answers": [
+            "The Tank",
+            "The Smoker",
+            "The Spitter"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Which of the following languages is used as a scripting language in the Unity 3D game engine?",
+        "correct_answer": "C#",
+        "incorrect_answers": [
+            "Java",
+            "C++",
+            "Objective-C"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "In an orchestra, what is the lowest member of the brass family?",
+        "correct_answer": "Tuba",
+        "incorrect_answers": [
+            "Trombone",
+            "Contrabass",
+            "Bassoon"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "The average lifespan of a wildcat is only around 5-6 years. ",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Night in the Woods, which instrument did Casey play?",
+        "correct_answer": "Drums",
+        "incorrect_answers": [
+            "Bass",
+            "Piano",
+            "Sax"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "How many laws of thermodynamics are there?",
+        "correct_answer": "Four",
+        "incorrect_answers": [
+            "Three",
+            "Two",
+            "Five"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who directed Marvel&#039;s Avengers Endgame?",
+        "correct_answer": "The Russo Brothers",
+        "incorrect_answers": [
+            "Zack Synder",
+            "Josh Whedon",
+            "Kevin Feige"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "Apple was on the verge of bankruptcy in 1997 and was saved by Microsoft",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which country produced football players such as Cafu, Roberto Carlos and Pel&eacute;?",
+        "correct_answer": "Brazil",
+        "incorrect_answers": [
+            "Argentina",
+            "Portugal",
+            "Spain"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In The Elder Scrolls: Oblivion, the horse that goes by the name Shadowmere is given by what guild?",
+        "correct_answer": "Dark Brotherhood",
+        "incorrect_answers": [
+            "Thieves",
+            "Fighters",
+            "Mages"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "How many copies of the notorious E.T. game for the Atari 2600 did Atari end up selling?",
+        "correct_answer": "1.5 Million",
+        "incorrect_answers": [
+            "1 Million",
+            "250 Thousand",
+            "Less than 250 Thousand"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The collapse of the Soviet Union took place in which year?",
+        "correct_answer": "1991",
+        "incorrect_answers": [
+            "1992",
+            "1891",
+            "1990"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "A scalene triangle has two sides of equal length.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In which year did the British television series &quot;The Bill&quot; end?",
+        "correct_answer": "2010",
+        "incorrect_answers": [
+            "2001",
+            "2007",
+            "2012"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is not a wonder weapon in &quot;Call Of Duty: Zombies&quot;?",
+        "correct_answer": "R115 Resonator",
+        "incorrect_answers": [
+            "GKZ-45 Mk3",
+            "Ray Gun",
+            "Scavenger"
+        ]
+    }
+]

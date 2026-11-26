@@ -1,0 +1,588 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In 1720, England was in massive debt and became involved in the South Sea Bubble. Who was the main mastermind behind it?",
+        "correct_answer": "John Blunt",
+        "incorrect_answers": [
+            "Daniel Defoe",
+            "Robert Harley",
+            "John Churchill"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of the following is not a megadiverse country - one that harbors a high number of the earth&#039;s endemic species?",
+        "correct_answer": "Thailand",
+        "incorrect_answers": [
+            "Peru",
+            "Mexico",
+            "South Africa"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Mythology",
+        "question": "Janus was the Roman god of doorways and passageways.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who is Manchester United&#039;s top premier league goal scorer?",
+        "correct_answer": "Wayne Rooney",
+        "incorrect_answers": [
+            "Sir Bobby Charlton",
+            "Ryan Giggs",
+            "David Beckham"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "The biggest distinction between a eukaryotic cell and a prokaryotic cell is:",
+        "correct_answer": "The presence or absence of a nucleus",
+        "incorrect_answers": [
+            "The overall size",
+            "The presence or absence of certain organelles",
+            "The mode of reproduction"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "The difference between the lengths of a Boeing 777-300ER and an Airbus A350-1000 is closest to:",
+        "correct_answer": "0.1m",
+        "incorrect_answers": [
+            "1m",
+            "10m ",
+            "100m"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The ADAM collecters in the Bioshock series are known as Little Sisters.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the victim mentioned in the second KG-8 incident, in Ace attorney Investigations, Case 4?",
+        "correct_answer": "Deid Mann",
+        "incorrect_answers": [
+            "Frank Sahwit",
+            "Shey De Killer",
+            "Raymond Shields"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What is the German word for &quot;spoon&quot;?",
+        "correct_answer": "L&ouml;ffel",
+        "incorrect_answers": [
+            "Gabel",
+            "Messer",
+            "Essst&auml;bchen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "The Rio 2016 Summer Olympics held it&#039;s closing ceremony on what date?",
+        "correct_answer": "August 21",
+        "incorrect_answers": [
+            "August 23",
+            "August 19",
+            "August 17"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What animal is featured on the cover of English electronic music group The Prodigy&#039;s album, &quot;The Fat of the Land&quot;?",
+        "correct_answer": "Crab",
+        "incorrect_answers": [
+            "Fox",
+            "Elephant",
+            "Tiger"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Adolf Hitler was a german soldier in World War I.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "Which actor has NOT portrayed Billy Flynn in the musical &quot;Chicago&quot;?",
+        "correct_answer": "Christopher Walken",
+        "incorrect_answers": [
+            "David Hasselhoff",
+            "Jerry Springer",
+            "Patrick Swayze"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Counter-Strike: Global Offensive, what&#039;s the rarity of discontinued skins called?",
+        "correct_answer": "Contraband",
+        "incorrect_answers": [
+            "Discontinued",
+            "Diminished",
+            "Limited"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+        "correct_answer": "India",
+        "incorrect_answers": [
+            "Papua New Guinea",
+            "Ethiopia",
+            "China"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which Las Vegas casino was originally constructed and operated by mobster Bugsy Siegel?",
+        "correct_answer": "The Flamingo",
+        "incorrect_answers": [
+            "The MGM Grand",
+            "The Sands",
+            "The Sahara"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Who played Stan&#039;s dog in the South Park episode &quot;Big Gay Al&#039;s Big Gay Boat Ride&quot;?",
+        "correct_answer": "George Clooney",
+        "incorrect_answers": [
+            "Jay Leno",
+            "Matt Stone",
+            "Robert Smith"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which 1958 movie starred Kirk Douglas and Tony Curtis as half-brothers Einar and Eric?",
+        "correct_answer": "The Vikings ",
+        "incorrect_answers": [
+            "The Long Ships",
+            "Prince Valiant",
+            "Spartacus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the main healing item in Dark Souls?",
+        "correct_answer": "Estus Flask",
+        "incorrect_answers": [
+            "Health Potion",
+            "Orange Juice",
+            "Ashen Flask"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Who wrote the musical composition, &quot;Rhapsody In Blue&quot;?",
+        "correct_answer": "George Gershwin",
+        "incorrect_answers": [
+            "Irving Berlin",
+            "Duke Ellington",
+            "Johnny Mandel"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "In what sport does Fanny Chmelar compete for Germany?",
+        "correct_answer": "Skiing",
+        "incorrect_answers": [
+            "Swimming",
+            "Showjumping",
+            "Gymnastics"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of these country&#039;s capitals starts with the letter B?",
+        "correct_answer": "Lebanon",
+        "incorrect_answers": [
+            "Jordan",
+            "Kuwait",
+            "Qatar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?",
+        "correct_answer": "Coffee Lake",
+        "incorrect_answers": [
+            "Sandy Bridge",
+            "Skylake",
+            "Broadwell"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Which is the most abundant element in the universe?",
+        "correct_answer": "Hydrogen",
+        "incorrect_answers": [
+            "Helium",
+            "Lithium",
+            "Oxygen"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Tony Hawk&#039;s extreme sports videogames revolve around performing professional BMX tricks.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Who was a voice actor for the English dubbing of HOWL&#039;S MOVING CASTLE (2004)?",
+        "correct_answer": "Christian Bale",
+        "incorrect_answers": [
+            "Matt Damon",
+            "Joseph Gordon-Levitt",
+            "Willem Dafoe"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Gadgets",
+        "question": "In what year was the Oculus Rift revealed to the public through a Kickstarter campaign?",
+        "correct_answer": "2012",
+        "incorrect_answers": [
+            "2010",
+            "2011",
+            "2013"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What sport is being played in the Anime Eyeshield 21?",
+        "correct_answer": "American Football",
+        "incorrect_answers": [
+            "Baseball",
+            "Football",
+            "Basketball"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Who was the British Prime Minister at the outbreak of the Second World War?",
+        "correct_answer": "Neville Chamberlain",
+        "incorrect_answers": [
+            "Clement Attlee",
+            "Winston Churchill",
+            "Stanley Baldwin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "During the Wars of the Roses (1455 - 1487) which Englishman was dubbed &quot;the Kingmaker&quot;?",
+        "correct_answer": "Richard Neville",
+        "incorrect_answers": [
+            "Richard III",
+            "Henry V",
+            "Thomas Warwick"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "In ancient Greece, if your job were a &quot;hippeus&quot; which of these would you own?",
+        "correct_answer": "Horse",
+        "incorrect_answers": [
+            "Weave",
+            "Guitar",
+            "Boat"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "Who was Donald Trump&#039;s first wife?",
+        "correct_answer": "Ivana Zeln&iacute;čkov&aacute;",
+        "incorrect_answers": [
+            "Melania Knauss",
+            "Marla Maples",
+            "Nancy Davis"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Peter Molyneux was the founder of Bullfrog Productions.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is Russia&#039;s second-largest city?",
+        "correct_answer": "Saint Petersburg",
+        "incorrect_answers": [
+            "Minsk",
+            "Nizhny Novgorod",
+            "Vladivostok"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who was the original voice actor of Shaggy Rogers in Scooby-Doo?",
+        "correct_answer": "Casey Kasem",
+        "incorrect_answers": [
+            "Dante Basco",
+            "Billy West",
+            "Frank Welker"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What does AD stand for in relation to Windows Operating Systems? ",
+        "correct_answer": "Active Directory",
+        "incorrect_answers": [
+            "Alternative Drive",
+            "Automated Database",
+            "Active Department"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is a type of monster found in Minecraft?",
+        "correct_answer": "Skeleton",
+        "incorrect_answers": [
+            "Werewolf",
+            "Vampire",
+            "Minotaur"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The game series &quot;Titanfall&quot; runs on the Unreal Engine.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "Which greek mathematician ran through the streets of Syracuse naked while shouting &quot;Eureka&quot; after discovering the principle of displacement?",
+        "correct_answer": "Archimedes",
+        "incorrect_answers": [
+            "Euclid",
+            "Homer",
+            "Eratosthenes"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Approximately how many Apple I personal computers were created?",
+        "correct_answer": "200",
+        "incorrect_answers": [
+            "100",
+            "500",
+            "1000"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What was the name of the protagonist of Metal Gear Solid V: The Phantom Pain?",
+        "correct_answer": "Punished &quot;Venom&quot; Snake",
+        "incorrect_answers": [
+            "Miller",
+            "Solid Snake",
+            "Ocelot"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Who performed the guitar solo on Michael Jackson&#039;s hit &quot;Beat It&quot;?",
+        "correct_answer": "Eddie Van Halen",
+        "incorrect_answers": [
+            "Steve Vai",
+            "Kirk Hammett",
+            "Zakk Wylde"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "George Lucas directed the entire original Star Wars trilogy.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "The HBO series &quot;Game of Thrones&quot; is based on which series of books?",
+        "correct_answer": "A Song of Ice and Fire",
+        "incorrect_answers": [
+            "The Wheel of Time",
+            "Harry Potter",
+            "The Notebook"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In what year was the original Sonic the Hedgehog game released?",
+        "correct_answer": "1991",
+        "incorrect_answers": [
+            "1989",
+            "1993",
+            "1995"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In what year did the nuclear power plant in Chernobyl melt down?",
+        "correct_answer": "1986",
+        "incorrect_answers": [
+            "1991",
+            "1975",
+            "1998"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "Which classic book opens with the line &quot;Call me Ishmael&quot;?",
+        "correct_answer": "Moby Dick",
+        "incorrect_answers": [
+            "A Tale of Two Cities",
+            "Kidnapped",
+            "Wuthering Heights"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Which movie includes a giant bunny-like spirit who has magic powers including growing trees?",
+        "correct_answer": "My Neighbor Totoro",
+        "incorrect_answers": [
+            "Hop",
+            "Rise of the Guardians",
+            "Alice in Wonderland"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Which nation joined NATO as its 29th member in 2017?",
+        "correct_answer": "Montenegro",
+        "incorrect_answers": [
+            "Estonia",
+            "Andorra",
+            "Iceland"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Mythology",
+        "question": "Who is the Egyptian god of reproduction and lettuce?",
+        "correct_answer": "Min",
+        "incorrect_answers": [
+            "Menu",
+            "Mut",
+            "Meret"
+        ]
+    }
+]

@@ -1,0 +1,584 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;FTL: Faster Than Light&quot;, how many races are there, including the Lanius?",
+        "correct_answer": "8",
+        "incorrect_answers": [
+            "9",
+            "7",
+            "10"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "From what show is the character &quot;James Doakes&quot;? ",
+        "correct_answer": "Dexter",
+        "incorrect_answers": [
+            "Marvel&#039;s Daredevil",
+            "Boardwalk Empire",
+            "The Walking Dead"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "Which figure from Greek mythology traveled to the underworld to return his wife Eurydice to the land of the living?",
+        "correct_answer": "Orpheus",
+        "incorrect_answers": [
+            "Hercules",
+            "Perseus",
+            "Daedalus"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Klingons once had a period of Democracy in their history, they referred to it as the &quot;Dark Times&quot;.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Gadgets",
+        "question": "Which company manufactured the iconic TR-808 drum machine?",
+        "correct_answer": "Roland",
+        "incorrect_answers": [
+            "Technics",
+            "Korg",
+            "Casio"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which of the following anime of the mecha genre began airing in 1982?",
+        "correct_answer": "The Super Dimension Fortress Macross",
+        "incorrect_answers": [
+            "Mobile Suit Gundam",
+            "Armored Trooper VOTOMS",
+            "Neon Genesis Evangelion"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which of the following was Brazil was a former colony under?",
+        "correct_answer": "Portugal",
+        "incorrect_answers": [
+            "Spain",
+            "The Netherlands",
+            "France"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In what year was the first eSports competition?",
+        "correct_answer": "1972",
+        "incorrect_answers": [
+            "1989",
+            "1990",
+            "2000"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which was the first &quot;Call Of Duty: Zombies&quot; map to introduce the &quot;Wunderwaffe DG-2&quot;?",
+        "correct_answer": "Shi No Numa",
+        "incorrect_answers": [
+            "Tranzit",
+            "Kino Der Toten",
+            "Der Riese"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Divinity: Original Sin II, what is the name of the skeletal origin character?",
+        "correct_answer": "Fane",
+        "incorrect_answers": [
+            "Lohse",
+            "The Red Prince",
+            "There are no skeletal origin characters"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "In the webcomic Homestuck, the first character introduced is Dave Strider.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In Super Smash Bros. for Nintendo 3DS and Nintendo Wii U, who was the sixth fighter to be added to the game post-launch?",
+        "correct_answer": "Corrin",
+        "incorrect_answers": [
+            "Cloud",
+            "Bayonnetta",
+            "Ryu"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;JoJo&#039;s Bizarre Adventure&quot;, which of the following Stands does NOT have a time-based ability?",
+        "correct_answer": "20th Century Boy",
+        "incorrect_answers": [
+            "Made in Heaven",
+            "Star Platinum",
+            "The World"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Nutella is produced by the German company Ferrero.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Studio Ghibli is a Japanese animation studio responsible for the films &quot;Wolf Children&quot; and &quot;The Boy and the Beast&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Rust, how many Timed Explosive Charges does it take to destroy a Ladder Hatch?",
+        "correct_answer": "1",
+        "incorrect_answers": [
+            "3",
+            "2",
+            "5"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the currency of India and Pakistan as well as a few other Asian countries?",
+        "correct_answer": "Rupee",
+        "incorrect_answers": [
+            "Riyal",
+            "Peso",
+            "Dinar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "Who created Ultron of Earth-616?",
+        "correct_answer": "Henry Pym",
+        "incorrect_answers": [
+            "Amadeus Cho",
+            "Tony Stark",
+            "Reed Richards"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is &quot;dabbing&quot;?",
+        "correct_answer": "A dance",
+        "incorrect_answers": [
+            "A medical procedure",
+            "A sport",
+            "A language"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who was the topscorer for England national football team?",
+        "correct_answer": "Wayne Rooney",
+        "incorrect_answers": [
+            "David Beckham",
+            "Steven Gerrard",
+            "Michael Owen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Who is the lead singer of the British pop rock band Coldplay?",
+        "correct_answer": "Chris Martin",
+        "incorrect_answers": [
+            "Jonny Buckland",
+            "Guy Berryman",
+            "Will Champion"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "Who wrote the children&#039;s story &quot;The Little Match Girl&quot;?",
+        "correct_answer": "Hans Christian Andersen",
+        "incorrect_answers": [
+            "Charles Dickens",
+            "Lewis Carroll",
+            "Oscar Wilde"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "No Game No Life first aired in 2014.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In the 1969 Cartoon show &quot;Dastardly and Muttley in Their Flying Machines&quot;, which were NOT one of the lyrics in the opening theme?",
+        "correct_answer": "Stab him",
+        "incorrect_answers": [
+            "Nab him",
+            "Jab him",
+            "Tab him"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Samhainophobia is the term used for an abnormal and persistent fear of halloween.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which group performs the song &quot;Crash into Me&quot;?",
+        "correct_answer": "Dave Matthews Band",
+        "incorrect_answers": [
+            "Phish",
+            "The Grateful Dead",
+            "Destiny&#039;s Child"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which character is from &quot;Splatoon&quot;?",
+        "correct_answer": "Marie",
+        "incorrect_answers": [
+            "Cyrus",
+            "Palutena",
+            "Shulk"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "Who was the first official world chess champion?",
+        "correct_answer": "Wilhelm Steinitz",
+        "incorrect_answers": [
+            "Jos&eacute; Ra&uacute;l Capablanca",
+            "Emanuel Lasker",
+            "Bobby Fischer"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "The board game Go has more possible legal positions than the number of atoms in the visible universe.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "When was Nintendo&#039;s Virtual Boy released?",
+        "correct_answer": "1995",
+        "incorrect_answers": [
+            "1989",
+            "1997",
+            "1992"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "All of the following are names of the Seven Warring States EXCEPT:",
+        "correct_answer": "Zhai (翟)",
+        "incorrect_answers": [
+            "Zhao (趙)",
+            "Qin (秦)",
+            "Qi (齊)"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The USS Missouri (BB-63) last served in the Korean War.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "What nationality was the famous artist Van Gogh?",
+        "correct_answer": "Dutch",
+        "incorrect_answers": [
+            "French",
+            "Russian",
+            "Polish"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the game developer who created &quot;Call Of Duty: Zombies&quot;?",
+        "correct_answer": "Treyarch",
+        "incorrect_answers": [
+            "Sledgehammer Games",
+            "Infinity Ward",
+            "Naughty Dog"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "Prior to working at Wizards of the Coast, &quot;Mark Rosewater&quot; was a writer for which show?",
+        "correct_answer": "Roseanne",
+        "incorrect_answers": [
+            "Boy Meets World",
+            "The X-Files",
+            "NYPD Blue"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which of the following spacecraft never touched the moon?",
+        "correct_answer": "Mariner 4",
+        "incorrect_answers": [
+            "Apollo 11",
+            "Luna 2",
+            "SMART-1"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In World of Warcraft, What was the name of the spell that caused a plague that famously killed millions of players in 2005?",
+        "correct_answer": "Corrupted Blood",
+        "incorrect_answers": [
+            "Necrotic Plague",
+            "Unbound Infestation",
+            "Mutated Infection"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the main villain in Bendy and the ink machine?",
+        "correct_answer": "Bendy",
+        "incorrect_answers": [
+            "Joey Drew",
+            "Alice",
+            "Boris"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is a Tetris piece called?",
+        "correct_answer": "Tetromino",
+        "incorrect_answers": [
+            "Tetratile",
+            "Tetris",
+            "Tetripiece"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What is the most-visited website out of these options?",
+        "correct_answer": "Google",
+        "incorrect_answers": [
+            "YouTube",
+            "Facebook",
+            "Wikipedia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which episode of the Phantasy Star Online series is exclusive to the Nintendo Gamecube?",
+        "correct_answer": "Episode III",
+        "incorrect_answers": [
+            "Episode I",
+            "Episode II",
+            "Episode IV"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Antibiotics are generally taken to combat what?",
+        "correct_answer": "Bacterial infections",
+        "incorrect_answers": [
+            "Viruses",
+            "Migraines",
+            "Muscular pains"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which character in the &quot;Animal Crossing&quot; series uses the phrase &quot;zip zoom&quot; when talking to the player?",
+        "correct_answer": "Scoot",
+        "incorrect_answers": [
+            "Drake",
+            "Bill",
+            "Mallary"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In the War of the Pacific (1879 - 1883), Bolivia lost its access to the Pacific Ocean after being defeated by which South American country?",
+        "correct_answer": "Chile",
+        "incorrect_answers": [
+            "Peru",
+            "Brazil",
+            "Argentina"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is the only fighter in the game &quot;Super Smash Bros. Melee&quot; capable of dealing damage with their taunt animation?",
+        "correct_answer": "Luigi",
+        "incorrect_answers": [
+            "Mr. Game &amp; Watch",
+            "Jigglypuff",
+            "Pichu"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "The last Windows operating system to be based on the Windows 9x kernel was Windows 98.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "The core of the Sun can reach which temperature?",
+        "correct_answer": "27&deg; Million F (15&deg; Million C)",
+        "incorrect_answers": [
+            "938,000&deg; F (521093.3&deg; C)",
+            "8&deg; Billion F (&deg;4.4 Billion C)",
+            "Absolute Zero (Both F and C)"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Who won the 1989 Drum Corps International championships?",
+        "correct_answer": "Santa Clara Vanguard",
+        "incorrect_answers": [
+            "Blue Devils",
+            "The Academy",
+            "The Bluecoats"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;One Piece&quot;, who confirms the existence of the legendary treasure, One Piece?",
+        "correct_answer": "Edward &quot;Whitebeard&quot; Newgate",
+        "incorrect_answers": [
+            "Former Marine Fleet Admiral Sengoku",
+            "Pirate King Gol D Roger",
+            "Silvers Rayleigh"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What is the birth name of Michael Caine?",
+        "correct_answer": "Maurice Micklewhite",
+        "incorrect_answers": [
+            "Morris Coleman",
+            "Carl Myers",
+            "Martin Michaels"
+        ]
+    }
+]

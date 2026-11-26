@@ -1,0 +1,588 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the &quot;Call Of Duty: Zombies&quot; map &quot;Origins&quot;, how many numbered power generators are there?",
+        "correct_answer": "6",
+        "incorrect_answers": [
+            "8",
+            "5",
+            "3"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The games Cry of Fear, Natural Selection and Counter-Strike were originally mods for what video game?",
+        "correct_answer": "Half-Life",
+        "incorrect_answers": [
+            "Warcraft III",
+            "Arma 2",
+            "Doom"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "Which former US president was nicknamed &quot;Teddy&quot; after he refused to shoot a defenseless black bear?",
+        "correct_answer": "Theodore Roosevelt",
+        "incorrect_answers": [
+            "Woodrow Wilson",
+            "James F. Fielder",
+            "Andrew Jackson"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Long John Baldry, the voice of Dr. Robotnik in Adventures Of Sonic The Hedgehog, was in a band with which music artist in the 1960s?",
+        "correct_answer": "Elton John",
+        "incorrect_answers": [
+            "Freddie Mercury",
+            "Paul McCartney",
+            "Johnny Cash"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of these women is not a member of the Korean girl group TWICE?",
+        "correct_answer": "Kang Seulgi",
+        "incorrect_answers": [
+            "Myoui Mina",
+            "Kim Dahyun",
+            "Hirai Momo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which of the following Assyrian kings did NOT rule during the Neo-Assyrian Empire?",
+        "correct_answer": "Shamshi-Adad III",
+        "incorrect_answers": [
+            "Shalmaneser V",
+            "Esharhaddon",
+            "Ashur-nasir-pal II"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "What vulnerability ranked #1 on the OWASP Top 10 in 2013?",
+        "correct_answer": "Injection ",
+        "incorrect_answers": [
+            "Broken Authentication",
+            "Cross-Site Scripting",
+            "Insecure Direct Object References"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What snowy mob was added in Minecraft 1.10?",
+        "correct_answer": "Polar bears",
+        "incorrect_answers": [
+            "Eskimos",
+            "Penguins",
+            "Walking TNT"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Comics",
+        "question": "In the Batman comics, by what other name is the villain Dr. Jonathan Crane known?",
+        "correct_answer": "Scarecrow",
+        "incorrect_answers": [
+            "Bane",
+            "Calendar Man",
+            "Clayface"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "A statue of Charles Darwin sits in what London museum?",
+        "correct_answer": "Natural History Museum",
+        "incorrect_answers": [
+            "Tate",
+            "British Museum",
+            "Science Museum"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the first episode of Yu-Gi-Oh: Duel Monsters, what book is Seto Kaiba seen reading at Domino High School?",
+        "correct_answer": "Thus Spoke Zarathustra",
+        "incorrect_answers": [
+            "Beyond Good and Evil",
+            "The Republic",
+            "Meditations"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which survivor in Left 4 Dead sacrificed themself to save the other survivors?",
+        "correct_answer": "Bill",
+        "incorrect_answers": [
+            "Louis",
+            "Francis",
+            "Zoey"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the game The World Ends With You, all of these characters act as a game partner with Neku for a week except:",
+        "correct_answer": "Rhyme",
+        "incorrect_answers": [
+            "Shiki",
+            "Joshua",
+            "Beat"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which band recorded the album &quot;Parallel Lines&quot;?",
+        "correct_answer": "Blondie",
+        "incorrect_answers": [
+            "Paramore",
+            "Coldplay",
+            "The Police"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Rocket League, you can play Basketball.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What year did the movie &quot;Napoleon Dynamite&quot; come out?",
+        "correct_answer": "2004",
+        "incorrect_answers": [
+            "2002",
+            "2003",
+            "2005"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which water-type Pok&eacute;mon starter was introduced in the 4th generation of the series?",
+        "correct_answer": "Piplup",
+        "incorrect_answers": [
+            "Totodile",
+            "Oshawott",
+            "Mudkip"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the main character of the game Half-Life: Opposing Force?",
+        "correct_answer": "Adrian Shephard",
+        "incorrect_answers": [
+            "Gordon Freeman",
+            "Alyx Vance",
+            "Barney Calhoun"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "The mountainous Khyber Pass connects which of the two following countries?",
+        "correct_answer": "Afghanistan and Pakistan",
+        "incorrect_answers": [
+            "India and Nepal",
+            "Pakistan and India",
+            "Tajikistan and Kyrgyzstan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "What is the longest bridge in the world?",
+        "correct_answer": "Danyang&ndash;Kunshan Grand Bridge, China",
+        "incorrect_answers": [
+            "Lake Pontchartrain Causeway, United States",
+            "King Fahd Causeway Bridge I, Saudi Arabia",
+            "Sultan Abdul Halim Muadzam Shah Bridge, Malaysia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who is the protagonist of the 2002 film &quot;Kung Pow! Enter the Fist&quot;?",
+        "correct_answer": "Chosen One",
+        "incorrect_answers": [
+            "Dragon King",
+            "Iron Monkey",
+            "Master Tang"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Deus Ex (2000) does not feature the World Trade Center because it was destroyed by terrorist attacks according to the game&#039;s plot.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "An octopus can fit through any hole larger than its beak.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The names of Tom Nook&#039;s cousins in the Animal Crossing franchise are named &quot;Timmy&quot; and &quot;Jimmy&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these game franchises were made by Namco?",
+        "correct_answer": "Tekken",
+        "incorrect_answers": [
+            "Street Fighter",
+            "Mortal Kombat",
+            "Dragon Quest"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which song in Drake&#039;s &quot;Views&quot; features Future?",
+        "correct_answer": "Grammys",
+        "incorrect_answers": [
+            "Too Good",
+            "Faithful",
+            "Pop Style"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "&quot;Cube&quot;, &quot;Cube 2: Hypercube&quot; and &quot;Cube Zero&quot; were directed by the same person.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Pneumonoultramicroscopicsilicovolcanoconiosis is a synonym for the disease known as silicosis.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is the last name of the primary female protagonist of Final Fantasy VIII?",
+        "correct_answer": "Heartilly",
+        "incorrect_answers": [
+            "Loire",
+            "Almasy",
+            "Trepe"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In the television show Breaking Bad, what is the street name of Walter and Jesse&#039;s notorious product?",
+        "correct_answer": "Blue Sky",
+        "incorrect_answers": [
+            "Baby Blue",
+            "Rock Candy",
+            "Pure Glass"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these characters is NOT a boss in Crash Bash?",
+        "correct_answer": "Ripper Roo",
+        "incorrect_answers": [
+            "Papu Papu",
+            "Komodo brothers",
+            "Nitros Oxide"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "The band Muse released their first album, Showbiz, in what year?",
+        "correct_answer": "1999",
+        "incorrect_answers": [
+            "1998",
+            "2000",
+            "2001"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "How many stars are there to collect in Super Mario 64?",
+        "correct_answer": "120",
+        "incorrect_answers": [
+            "60",
+            "80",
+            "100"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which of these is NOT an Australian state or territory?",
+        "correct_answer": "Alberta",
+        "incorrect_answers": [
+            "New South Wales",
+            "Victoria",
+            "Queensland"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Former United States Presidents John Adams and Thomas Jefferson died within hours of each other.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which stretch of water connects the Atlantic Ocean to the Mediterranean Sea?",
+        "correct_answer": "Strait of Gibraltar",
+        "incorrect_answers": [
+            "Gibraltar Way",
+            "Spanish Straits",
+            "Channelle de Tangiers"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which band name isn&#039;t a Stand in &quot;JoJo&#039;s Bizarre Adventure&quot;?",
+        "correct_answer": "AC/DC",
+        "incorrect_answers": [
+            "Green Day",
+            "Survivor",
+            "Red Hot Chili Peppers"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which country does the power metal band &quot;Sabaton&quot; originate from?",
+        "correct_answer": "Sweden",
+        "incorrect_answers": [
+            "Germany",
+            "United States",
+            "Finland"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "The Maori hold that which island nation was founded by Kupe, who discovered it under a long white cloud?",
+        "correct_answer": "New Zealand",
+        "incorrect_answers": [
+            "Vanuatu",
+            "Fiji",
+            "Hawaii"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "What is the real name of the &quot;Master Of Magnetism&quot; Magneto?",
+        "correct_answer": "Max Eisenhardt",
+        "incorrect_answers": [
+            "Charles Xavier",
+            "Pietro Maximoff",
+            "Johann Schmidt"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "When was the city of Rome, Italy founded?",
+        "correct_answer": "753 BCE",
+        "incorrect_answers": [
+            "902 BCE",
+            "524 BCE",
+            "697 BCE"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Who voices the main character Blu in the 2011 animated film &quot;Rio&quot;?",
+        "correct_answer": "Jesse Eisenberg",
+        "incorrect_answers": [
+            "Michael Cera",
+            "Jonah Hill",
+            "Zach Galifianakis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Who discovered the Law of Gravity?",
+        "correct_answer": "Sir Isaac Newton",
+        "incorrect_answers": [
+            "Galileo Galilei",
+            "Charles Darwin",
+            "Albert Einstein"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In what dialogue did Socrates defend himself to the court of Athens? ",
+        "correct_answer": "The Apology",
+        "incorrect_answers": [
+            "The Euthyphro",
+            "The Laws",
+            "The Republic"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "How old was Laurence Fishburne when Francis Ford Coppola cast him in Apocalypse Now (1979)? ",
+        "correct_answer": "14",
+        "incorrect_answers": [
+            "16",
+            "18",
+            "20"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the capital of India?",
+        "correct_answer": "New Delhi",
+        "incorrect_answers": [
+            "Beijing",
+            "Montreal",
+            "Tithi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Which coding language was the #1 programming language in terms of usage on GitHub in 2015?",
+        "correct_answer": "JavaScript",
+        "incorrect_answers": [
+            "C#",
+            "Python",
+            "PHP"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which year did Jenson Button won his first ever Formula One World Drivers&#039; Championship?",
+        "correct_answer": "2009",
+        "incorrect_answers": [
+            "2010",
+            "2007",
+            "2006"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Who is a pioneer of &quot;Minimal Music&quot; in 1960s?",
+        "correct_answer": "Steve Reich",
+        "incorrect_answers": [
+            "Wolfgang Amadeus Mozart",
+            "Brian Eno",
+            "Sigur R&oacute;s"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Portal 2, how did CEO of Aperture Science, Cave Johnson, presumably die?",
+        "correct_answer": "Moon Rock Poisoning",
+        "incorrect_answers": [
+            "Accidentally sending a portal to the Moon",
+            "Slipped in the shower",
+            "Asbestos Poisoning"
+        ]
+    }
+]

@@ -1,0 +1,582 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following is not a character in the video game Doki Doki Literature Club?",
+        "correct_answer": "Nico",
+        "incorrect_answers": [
+            "Monika",
+            "Natsuki",
+            "Sayori"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the MMO RPG &quot;Realm of the Mad God&quot;, what class is known for having the highest possible defense?",
+        "correct_answer": "The Knight",
+        "incorrect_answers": [
+            "The Wizard",
+            "The Archer",
+            "The Warrior"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What was the name of the image that features as the default background wallpaper for Windows XP?",
+        "correct_answer": "Bliss",
+        "incorrect_answers": [
+            "Azul",
+            "Red moon desert",
+            "Tulips"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "In computing, how many bits are in a nibble?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "16",
+            "32",
+            "2"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the game Pok&eacute;mon Conquest, which warlord is able to bond with Zekrom and a shiny Rayquazza?",
+        "correct_answer": "Nobunaga",
+        "incorrect_answers": [
+            "The Player",
+            "Oichi",
+            "Hideyoshi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The city of Rockport is featured in which of the following video games?",
+        "correct_answer": "Need for Speed: Most Wanted (2005)",
+        "incorrect_answers": [
+            "Infamous 2",
+            "Saints Row: The Third",
+            "Burnout Revenge"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Brazil used to be an empire.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which Elite Four member from the first generation of Pok&eacute;mon became the champion in the next generation?",
+        "correct_answer": "Lance",
+        "incorrect_answers": [
+            "Agatha",
+            "Bruno",
+            "Lorelei"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of the following is the longest river in Europe?",
+        "correct_answer": "Volga",
+        "incorrect_answers": [
+            "Danube",
+            "Ural",
+            "Dnieper"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "Which of these Roman gods doesn&#039;t have a counterpart in Greek mythology?",
+        "correct_answer": "Janus",
+        "incorrect_answers": [
+            "Vulcan",
+            "Juno",
+            "Mars"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "Gabe Newell was born in which year?",
+        "correct_answer": "1962 ",
+        "incorrect_answers": [
+            "1970",
+            "1960",
+            "1972"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which JoJo&#039;s Bizarre Adventure character possesses the Stand named Silver Chariot?",
+        "correct_answer": "Jean Pierre Polnareff",
+        "incorrect_answers": [
+            "Noriaki Kakyoin",
+            "Hol Horse",
+            "Hermes Costello"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which one of these games came out first?",
+        "correct_answer": "Terraria",
+        "incorrect_answers": [
+            "Minecraft",
+            "Starbound",
+            "Factorio"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The following Spanish provinces are located in the northern area of Spain except:",
+        "correct_answer": "Murcia",
+        "incorrect_answers": [
+            "Asturias",
+            "Navarre",
+            "Le&oacute;n"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What does TIE stand for in reference to the TIE Fighter in &quot;Star Wars&quot;?",
+        "correct_answer": "Twin Ion Engine",
+        "incorrect_answers": [
+            "Twin Iron Engine",
+            "Twin Intercepter Engine",
+            "Twin Inception Engine"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of the following countries is an island?",
+        "correct_answer": "Cyprus",
+        "incorrect_answers": [
+            "Azerbaijan",
+            "El Salvador",
+            "Djibouti"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which one of these rappers is NOT a member of the rap group Wu-Tang Clan?",
+        "correct_answer": "Dr.Dre",
+        "incorrect_answers": [
+            "Ol&#039; Dirty Bastard",
+            "GZA",
+            "Method Man"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which song previously recorded by Elvis Presley was covered by UB40 with a reggae beat?",
+        "correct_answer": "Can&#039;t Help Falling in Love",
+        "incorrect_answers": [
+            "Jailhouse Rock",
+            "In the Ghetto",
+            "Wooden Heart"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In the movie &quot;Back to the Future,&quot; what speed does Doc Brown&#039;s DeLorean need to reach in order to travel through time?",
+        "correct_answer": "88 mph",
+        "incorrect_answers": [
+            "77 mph",
+            "100 mph",
+            "70 mph"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In Battlestar Galactica (2004), Cylons were created by man as cybernetic workers and soldiers.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of these is NOT the name of an album released by American rapper Viper?",
+        "correct_answer": "The Life of Pablo",
+        "incorrect_answers": [
+            "Kill Urself My Man",
+            "You&#039;ll Cowards Don&#039;t Even Smoke Crack",
+            "Yo Wife Handcuffin&#039; Me"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "What is the code name for the mobile operating system Android 7.0?",
+        "correct_answer": "Nougat",
+        "incorrect_answers": [
+            "Ice Cream Sandwich",
+            "Jelly Bean",
+            "Marshmallow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In 2004, which person(s) created &quot;Roblox&quot;?",
+        "correct_answer": "David Baszucki and Erik Cassel",
+        "incorrect_answers": [
+            "Erik Cassel",
+            "Jonas Alto and Sarah Smith",
+            "James Kolein"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the Halo series, what fleet was Thel &#039;Vadam supreme commander of before being branded an Arbiter?",
+        "correct_answer": "Fleet of Particular Justice",
+        "incorrect_answers": [
+            "Fleet of Sacred Consecration",
+            "Fleet of Furious Redemption",
+            "Fleet of Righteous Vigilance"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "What was Sir Donald Bradman&#039;s batting average in test matches?",
+        "correct_answer": "99.94",
+        "incorrect_answers": [
+            "100",
+            "69.51",
+            "44.78"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who composed the soundtrack for the game VVVVVV?",
+        "correct_answer": "Magnus P&aring;lsson",
+        "incorrect_answers": [
+            "Terry Cavanagh",
+            "Danny Baranowsky",
+            "Joel Zimmerman"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "In which year was the pen and paper RPG &quot;Deadlands&quot; released?",
+        "correct_answer": "1996",
+        "incorrect_answers": [
+            "2003",
+            "1999",
+            "1993"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The shotgun appears in every numbered Resident Evil game.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "When did the rapper Eazy-E die?",
+        "correct_answer": "March 26, 1995",
+        "incorrect_answers": [
+            "July 11, 1992",
+            "February 14, 1993",
+            "October 21, 1994"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Comics",
+        "question": "Who is the creator of the comic series &quot;The Walking Dead&quot;?",
+        "correct_answer": "Robert Kirkman",
+        "incorrect_answers": [
+            "Stan Lee",
+            "Malcolm Wheeler-Nicholson",
+            "Robert Crumb"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "What animal is pictured on the logo of the automobile manufacturer Porsche?",
+        "correct_answer": "Horse",
+        "incorrect_answers": [
+            "Bull",
+            "Lion",
+            "Cheetah"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What nuts are used in the production of marzipan?",
+        "correct_answer": "Almonds",
+        "incorrect_answers": [
+            "Peanuts",
+            "Walnuts",
+            "Pistachios"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Ellie Goulding&#039;s earliest album was named?",
+        "correct_answer": "Lights",
+        "incorrect_answers": [
+            "Halcyon",
+            "Bright Lights",
+            "Halcyon Days"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which famous military commander marched an army, which included war elephants, over the Alps during the Second Punic War?",
+        "correct_answer": "Hannibal",
+        "incorrect_answers": [
+            "Garmanicus",
+            "Alexander the Great",
+            "Tiberius"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Hippopotomonstrosesquippedaliophobia is the irrational fear of long words.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Leonardo da Vinci was not the creator of the Mona Lisa.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Terry Gilliam is the only American member of the comedy troupe &quot;Monty Python.&quot;",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What programming language does the Source Engine use?",
+        "correct_answer": "C++ ",
+        "incorrect_answers": [
+            "Python",
+            "Java",
+            "Lua"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who won the 1994 San Marino Grand Prix, the race in which Ayrton Senna was killed?",
+        "correct_answer": "Michael Schumacher",
+        "incorrect_answers": [
+            "Nicola Larini",
+            "Gerhard Berger",
+            "Mika H&auml;kkinen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the video game Overwatch, which playable character is infamous for saying &quot;It&#039;s high noon.&quot;?",
+        "correct_answer": "McCree",
+        "incorrect_answers": [
+            "Hanzo",
+            "Pharah",
+            "Soldier: 76"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "What is the most common type of pitch thrown by pitchers in baseball?",
+        "correct_answer": "Fastball",
+        "incorrect_answers": [
+            "Slowball",
+            "Screwball",
+            "Palmball"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Comics",
+        "question": "Who is Batman?",
+        "correct_answer": "Bruce Wayne",
+        "incorrect_answers": [
+            "Clark Kent",
+            "Barry Allen",
+            "Tony Stark"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What&#039;s the famous line Vaas says in &quot;Far Cry 3&quot;?",
+        "correct_answer": "Did I ever tell you the definition of Insanity?",
+        "incorrect_answers": [
+            "Have I failed to entertain you?",
+            "You&#039;re my b*tch!",
+            "Maybe your best course...would be to tread lightly."
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Slovakia is a member of European Union-",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which Italian automobile manufacturer gained majority control of U.S. automobile manufacturer Chrysler in 2011?",
+        "correct_answer": "Fiat",
+        "incorrect_answers": [
+            "Maserati",
+            "Alfa Romeo",
+            "Ferrari"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Augustus was the cousin of Julius Caesar. ",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What was the code name given to Sonic the Hedgehog 4 during its development?",
+        "correct_answer": "Project Needlemouse",
+        "incorrect_answers": [
+            "Project Bluespike",
+            "Project Roboegg",
+            "Project Darksphere"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "According to Greek Mythology, Atlas was an Olympian God.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "How old was the famous King Tutankhamen (Tut) when he died?",
+        "correct_answer": "19",
+        "incorrect_answers": [
+            "21",
+            "15",
+            "30"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "TF2: Sentry rocket damage falloff is calculated based on the distance between the sentry and the enemy, not the engineer and the enemy",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    }
+]

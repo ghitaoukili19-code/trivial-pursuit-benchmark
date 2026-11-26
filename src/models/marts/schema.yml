@@ -1,0 +1,68 @@
+version: 2
+ 
+models:
+
+  - name: mart_performance_ia
+
+    description: "Indicateurs globaux de performance des modèles IA"
+
+    columns:
+
+      - name: ai_model
+
+        data_tests:
+
+          - not_null
+ 
+  - name: mart_performance_categorie
+
+    columns:
+
+      - name: ai_model
+
+        data_tests:
+
+          - not_null
+
+      - name: category
+
+        data_tests:
+
+          - not_null
+ 
+  - name: mart_performance_difficulte
+
+    columns:
+
+      - name: ai_model
+
+        data_tests:
+
+          - not_null
+
+      - name: difficulty
+
+        data_tests:
+
+          - not_null
+ 
+  - name: mart_temps_reponse
+
+    columns:
+
+      - name: ai_model
+
+        data_tests:
+
+          - not_null
+ 
+  - name: mart_questions_detaillees
+
+    columns:
+
+      - name: question
+
+        data_tests:
+
+          - not_null
+ 

@@ -1,0 +1,588 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What is the fastest speed possible in Trackmania&sup2;: Stadium?",
+        "correct_answer": "1000  km/h",
+        "incorrect_answers": [
+            "500 km/h",
+            "320 km/h",
+            "100 km/h"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What scientific family does the Aardwolf belong to?",
+        "correct_answer": "Hyaenidae",
+        "incorrect_answers": [
+            "Canidae",
+            "Felidae",
+            "Eupleridae"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
+        "correct_answer": "28%",
+        "incorrect_answers": [
+            "13%",
+            "20%",
+            "7%"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In what year did Kentucky become the 15th state to join the union?",
+        "correct_answer": "1792",
+        "incorrect_answers": [
+            "1782",
+            "1798",
+            "1788"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the Pok&eacute;mon series, which type is Sudowoodo, the Imitation Pok&eacute;mon?",
+        "correct_answer": "Rock",
+        "incorrect_answers": [
+            "Grass",
+            "Bug",
+            "Ground"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Enthalpy is a measure of the energy that is not available for work during a thermodynamic process.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "The Sun is considered a star.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What CS:GO case contains the Butterfly Knife?",
+        "correct_answer": "Breakout Case",
+        "incorrect_answers": [
+            "Shadow Case",
+            "Vanguard Case",
+            "Esports 2014 Case"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Who sculpted the statue of David?",
+        "correct_answer": "Michelangelo",
+        "incorrect_answers": [
+            "Gian Lorenzo Bernini",
+            "Auguste Rodin",
+            "Donatello"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In which &quot;Call of Duty&quot; game are the &quot;Apothicons&quot; introduced in the Zombies mode?",
+        "correct_answer": "Call Of Duty: Black Ops III",
+        "incorrect_answers": [
+            "Call Of Duty: Black Ops",
+            "Call Of Duty: World At War",
+            "Call Of Duty: Black Ops II"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the main character in &quot;Life is Strange&quot;?",
+        "correct_answer": "Maxine Caulfield",
+        "incorrect_answers": [
+            "Victoria Chase",
+            "Stella Hill",
+            "Chloe Price"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the browser game Kantai Collection heavily inspired by?",
+        "correct_answer": "Second World War",
+        "incorrect_answers": [
+            "Manga",
+            "World of Warcraft",
+            "An Anime"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the largest country, by area, that has only one time zone?",
+        "correct_answer": "China",
+        "incorrect_answers": [
+            "Canada",
+            "India",
+            "Russia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "The humerus, paired radius, and ulna come together to form what joint?",
+        "correct_answer": "Elbow",
+        "incorrect_answers": [
+            "Knee",
+            "Sholder",
+            "Ankle"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "In chess, which is a characteristic of the King&#039;s Gambit?",
+        "correct_answer": "Sacrificing a pawn",
+        "incorrect_answers": [
+            "Sacrificing the king for a queen",
+            "Castling kingside",
+            "Moving the king on the 2nd move"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "What manufacturer made the car used in Back to the Future?",
+        "correct_answer": "DeLorean",
+        "incorrect_answers": [
+            "Ford",
+            "Toyota",
+            "Daihatsu"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Adolf Hitler was tried at the Nuremberg trials.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The drug cartel run by Pablo Escobar originated in which South American city?",
+        "correct_answer": "Medell&iacute;n",
+        "incorrect_answers": [
+            "Bogot&aacute;",
+            "Quito",
+            "Cali"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "At what temperature does water boil?",
+        "correct_answer": "212&deg;F",
+        "incorrect_answers": [
+            "200&deg;F",
+            "181&deg;F",
+            "178&deg;F"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "The main protagonist of the fifth part of JoJo&#039;s Bizarre Adventure is which of the following?",
+        "correct_answer": "Giorno Giovanna",
+        "incorrect_answers": [
+            "Guido Mista",
+            "Jonathan Joestar",
+            "Joey JoJo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which Iron Maiden album did the song &quot;Dream of Mirrors&quot; feature in?",
+        "correct_answer": "Brave New World",
+        "incorrect_answers": [
+            "Dance of Death",
+            "A Matter of Life and Death",
+            "Somewhere in Time"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which achievement name is shared between Team Fortress 2 and Left 4 Dead 2?",
+        "correct_answer": "Rode Hard, Put Away Wet",
+        "incorrect_answers": [
+            "The Quick and the Dead",
+            "Cache Grab",
+            "F in Chemistry"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What does the acronym CDN stand for in terms of networking?",
+        "correct_answer": "Content Delivery Network",
+        "incorrect_answers": [
+            "Content Distribution Network",
+            "Computational Data Network",
+            "Compressed Data Network"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the official language of Bhutan?",
+        "correct_answer": "Dzongkha",
+        "incorrect_answers": [
+            "Ladakhi",
+            "Karen",
+            "Groma"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who was the first American in space?",
+        "correct_answer": "Alan Shephard",
+        "incorrect_answers": [
+            "Neil Armstrong",
+            "John Glenn",
+            "Jim Lovell"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What is the last line muttered in the anime film &quot;The End of Evangelion&quot;?",
+        "correct_answer": "&quot;How disgusting.&quot;",
+        "incorrect_answers": [
+            "&quot;Idiot, I won&#039;t let you kill me!&quot;",
+            "&quot;Nothing.&quot;",
+            "&quot;Goddammit, Shinji.&quot;"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which of the following is NOT a passive electrical component?",
+        "correct_answer": "Transistor",
+        "incorrect_answers": [
+            "Resistor",
+            "Capacitor",
+            "Inductor"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "If you planted the seeds of Quercus robur what would grow?",
+        "correct_answer": "Trees",
+        "incorrect_answers": [
+            "Flowers",
+            "Vegtables",
+            "Grains"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What is Scooby-Doo&#039;s real name?",
+        "correct_answer": "Scoobert",
+        "incorrect_answers": [
+            "Scooter",
+            "Scrappy",
+            "Shooby"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which genre of Hip Hop does MC Frontalot rap?",
+        "correct_answer": "Nerdcore",
+        "incorrect_answers": [
+            "Horrorcore",
+            "Christian",
+            "Crunk"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "When was the video game publisher &quot;Ubisoft&quot; founded ?",
+        "correct_answer": "March 1986",
+        "incorrect_answers": [
+            "April 1990",
+            "June 2001",
+            "August 1956"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who is attributed credit for recording the epic poem The Odyssey?",
+        "correct_answer": "Homer",
+        "incorrect_answers": [
+            "Aristotle",
+            "Odysseus",
+            "Socrates"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of a popular franchise that includes placing blocks down and surviving in an open world? ",
+        "correct_answer": "Minecraft",
+        "incorrect_answers": [
+            "Unturned",
+            "Roblox",
+            "Grand Theft Auto V"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What video game genre were the original Warcraft games?",
+        "correct_answer": "RTS (Real Time Strategy)",
+        "incorrect_answers": [
+            "RPG (Role Playing Game)",
+            "TBS (Turn Based Strategy)",
+            "MMO (Massively Multiplayer Online)"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "The Hippogriff, not to be confused with the Griffon, is a magical creature with the front half of an eagle, and the back half of what?",
+        "correct_answer": "A Horse",
+        "incorrect_answers": [
+            "A Dragon",
+            "A Tiger",
+            "A Lion"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Hyenas are more closely related to cats than to dogs.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who was a military strategist in the Eastern Zhou period?",
+        "correct_answer": "Sun Tzu",
+        "incorrect_answers": [
+            "Lu Bu",
+            "Genghis Khan",
+            "Vlad The Impaler"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When did Vesuvius destroy the city of Pompeii? ",
+        "correct_answer": "79 AD",
+        "incorrect_answers": [
+            "62 AD",
+            "31 BC",
+            "54 BC"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "&quot;Half-Life 2&quot; runs on the Source Engine.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "Which car tire manufacturer is famous for its &quot;Eagle&quot; brand of tires, and is the official tire supplier of NASCAR?",
+        "correct_answer": "Goodyear",
+        "incorrect_answers": [
+            "Pirelli",
+            "Bridgestone",
+            "Michelin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which animation studio animated the 2016 anime &quot;Mob Psycho 100&quot;?",
+        "correct_answer": "Bones",
+        "incorrect_answers": [
+            "A-1 Pictures",
+            "Shaft",
+            "Madhouse"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "George W. Bush lost the popular vote in the 2004 United States presidential election.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which band, with Boy George on lead vocals, won the Brit Awards in 1984?",
+        "correct_answer": "Culture Club\t",
+        "incorrect_answers": [
+            "Eurythmics",
+            "UB40",
+            "The Police"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "In 2016, who won the Formula 1 World Constructor&#039;s Championship for the third time in a row?",
+        "correct_answer": "Mercedes-AMG Petronas",
+        "incorrect_answers": [
+            "Scuderia Ferrari",
+            "McLaren Honda",
+            "Red Bull Racing Renault"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which of these is the name of the largest city in the US state Tennessee?",
+        "correct_answer": "Memphis",
+        "incorrect_answers": [
+            "Thebes",
+            "Alexandria",
+            "Luxor"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which color cannot be produced in Roses, even through genetic alteration?",
+        "correct_answer": "Blue",
+        "incorrect_answers": [
+            "Black",
+            "Orange",
+            "Brown"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which studio animated Afro Samurai?",
+        "correct_answer": "Gonzo",
+        "incorrect_answers": [
+            "Kyoto Animation",
+            "xebec",
+            "Production I.G"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What is the name given to Indian food cooked over charcoal in a clay oven?",
+        "correct_answer": "Tandoori",
+        "incorrect_answers": [
+            "Biryani",
+            "Pani puri",
+            "Tiki masala"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In which 1955 film does Frank Sinatra play Nathan Detroit?",
+        "correct_answer": "Guys and Dolls",
+        "incorrect_answers": [
+            "Anchors Aweigh",
+            "From Here to Eternity",
+            "High Society"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "The color of the pills in the Matrix were Blue and Yellow.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    }
+]

@@ -1,0 +1,584 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "In Formula 1, the Virtual Safety Car was introduced following the fatal crash of which driver?",
+        "correct_answer": "Jules Bianchi",
+        "incorrect_answers": [
+            "Ayrton Senna",
+            "Ronald Ratzenberger",
+            "Gilles Villeneuve"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "&quot;Green Eggs And Ham&quot; is a book by which author?",
+        "correct_answer": "Dr. Seuss",
+        "incorrect_answers": [
+            "Beatrix Potter",
+            "Roald Dahl",
+            "A.A. Milne"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Which musician has collaborated with American producer Porter Robinson and released the 2016 song &quot;Shelter&quot;?",
+        "correct_answer": "Madeon",
+        "incorrect_answers": [
+            "Mat Zo",
+            "deadmau5",
+            "Zedd"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "How many seasons did &quot;Stargate SG-1&quot; have?",
+        "correct_answer": "10",
+        "incorrect_answers": [
+            "3",
+            "7",
+            "12"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which Daft Punk album is the song &quot;Harder, Better, Faster, Stronger&quot; from?",
+        "correct_answer": "Discovery",
+        "incorrect_answers": [
+            "Homework",
+            "Random Access Memories",
+            "Human After All"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the game &quot;Cave Story,&quot; what is the character Balrog&#039;s catchphrase?",
+        "correct_answer": "Huzzah!",
+        "incorrect_answers": [
+            "Yes!",
+            "Whoa there!",
+            "Nyeh heh heh!"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How many sovereign states are members of the United Nations?",
+        "correct_answer": "195",
+        "incorrect_answers": [
+            "201",
+            "153",
+            "178"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "In 1547 who became the 1st Tsar of Russia",
+        "correct_answer": "Ivan the Terrible",
+        "incorrect_answers": [
+            "Alexis of Russia",
+            "Mikhail Romanov",
+            "Peter the Great"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which day did World War I begin?",
+        "correct_answer": "July 28",
+        "incorrect_answers": [
+            "January 28",
+            "June 28",
+            "April 28"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the world strategy game &#039;Sid Meier&#039;s Civilization&#039;, a programming bug caused the AI depiction of Gandhi to do which of the following?",
+        "correct_answer": "Become aggressive and launch nuclear strikes",
+        "incorrect_answers": [
+            "Begin speaking in German ",
+            "Become friendly and trade his entire wealth",
+            "Launch attacks on his own cities and assets"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The Spitfire L.F. Mk IX had what engine?",
+        "correct_answer": "Merlin 66",
+        "incorrect_answers": [
+            "Griffon 65",
+            "Merlin 50",
+            "Merlin X"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which car did not appear in the 2002 Lego Game: Drome Racers?",
+        "correct_answer": "Wasp",
+        "incorrect_answers": [
+            "Raptor",
+            "Hornet",
+            "Behemoth"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "The music group Daft Punk got their name from a negative review they received.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Vincent van Gogh cut off one of his ears.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "What is the unit of electrical inductance?",
+        "correct_answer": "Henry",
+        "incorrect_answers": [
+            "Weber",
+            "Coulomb",
+            "Mho"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "By which name is Ramon Estevez better known as?",
+        "correct_answer": "Martin Sheen",
+        "incorrect_answers": [
+            "Charlie Sheen",
+            "Ramon Sheen",
+            "Emilio Estevez"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Call Of Duty: Zombies&quot;, which weapon does NOT deal any damage?",
+        "correct_answer": "31-79 JGb215",
+        "incorrect_answers": [
+            "Sliquifier",
+            "V-R11",
+            "Wunderwaffe DG-2"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "&#039;I&#039;m never gonna dance again, guilty feet have got no rhythm&#039; were lyrics from which Wham! hit single?",
+        "correct_answer": "Careless Whisper",
+        "incorrect_answers": [
+            "Wake Me Up Before You Go-Go",
+            "Last Christmas",
+            "Everything She Wants"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which of these 1900s tanks were designed and built BEFORE the others?",
+        "correct_answer": "Renault FT",
+        "incorrect_answers": [
+            "M4 Sherman",
+            " Panzer IV",
+            "Cromwell "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Harvard University is located in which city?",
+        "correct_answer": "Cambridge",
+        "incorrect_answers": [
+            "Providence",
+            "New York",
+            "Washington D.C."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which Borough is the farthest in the north of New York City?",
+        "correct_answer": "Bronx",
+        "incorrect_answers": [
+            "Queens",
+            "Brooklyn",
+            "Manhattan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What was the first ever London Underground line to be built?",
+        "correct_answer": "Metropolitan Line",
+        "incorrect_answers": [
+            "Circle Line",
+            "Bakerloo Line",
+            "Victoria Line"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The pantheon in Rome was used to worship what god?",
+        "correct_answer": "Any god they wanted",
+        "incorrect_answers": [
+            "Athena",
+            "Zeus",
+            "Both Athena and Zeus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In Digimon, what is the Japanese name for the final evolutionary stage?",
+        "correct_answer": "Ultimate",
+        "incorrect_answers": [
+            "Mega",
+            "Adult",
+            "Champion"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Leonardo Di Caprio won his first Best Actor Oscar for his performance in which film?",
+        "correct_answer": "The Revenant",
+        "incorrect_answers": [
+            "The Wolf Of Wall Street",
+            "Shutter Island",
+            "Inception"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who stars in Brutal Legend?",
+        "correct_answer": "Jack Black",
+        "incorrect_answers": [
+            "Kanye West",
+            "Lemmy",
+            "Ozzy Osbourne"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the game Pok&eacute;mon Conquest, how many kingdoms make up the region of Ransei?",
+        "correct_answer": "17",
+        "incorrect_answers": [
+            "18",
+            "15",
+            "16"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Rhode Island is actually located on the US mainland, despite its name.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the mod &quot;Cry of Fear&quot; based off of?",
+        "correct_answer": "Half-Life",
+        "incorrect_answers": [
+            "Counter Strike: Source",
+            "Half-Life 2",
+            "It&#039;s a stand alone game, not a mod"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "What does the Latin phrase &quot;Veni, vidi, vici&quot; translate into English?",
+        "correct_answer": "I came, I saw, I conquered",
+        "incorrect_answers": [
+            "See no evil, hear no evil, speak no evil",
+            "Life, liberty, and happiness",
+            "Past, present, and future"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the name of the alcoholic beverage made from potatoes or grains that originates from Poland and Russia?",
+        "correct_answer": "Vodka",
+        "incorrect_answers": [
+            "Absinthe",
+            "Rum",
+            "Sake"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What was the reason for the banning of episode 35 of the &quot;Pok&eacute;mon Original Series&quot; Anime?",
+        "correct_answer": "Gun Usage",
+        "incorrect_answers": [
+            "Flashing Images",
+            "Jynx",
+            "Strong Violence"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which of the following Arab countries does NOT have a flag containing only Pan-Arab colours?",
+        "correct_answer": "Qatar",
+        "incorrect_answers": [
+            "Kuwait",
+            "United Arab Emirates",
+            "Jordan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What was the category of the 2005 hurricane, Hurricane Katrina, in the Saffir-Simpson hurricane wind scale?",
+        "correct_answer": "Category 5",
+        "incorrect_answers": [
+            "Category 1",
+            "Category 4",
+            "Category 2"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "What is the romanized Arabic word for &quot;moon&quot;?",
+        "correct_answer": "Qamar",
+        "incorrect_answers": [
+            "Najma",
+            "Kawkab",
+            "Shams"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Linus Sebastian is the creator of the Linux kernel, which went on to be used in Linux, Android, and Chrome OS.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "It is automatically considered entrapment in the United States if the police sell you illegal substances without revealing themselves.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Like his character in &quot;Parks and Recreation&quot;, Aziz Ansari was born in South Carolina.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The acronym DOTA stands for",
+        "correct_answer": "Defense of the Ancients",
+        "incorrect_answers": [
+            "Defense of the Artifacts",
+            "Defense of the Antiques",
+            "Defense of the Animated"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What does DNA stand for?",
+        "correct_answer": "Deoxyribonucleic Acid",
+        "incorrect_answers": [
+            "Deoxyribogenetic Acid",
+            "Deoxyribogenetic Atoms",
+            "Detoxic Acid"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "The set of all algebraic numbers is countable.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which one of these tanks was designed and operated by the United Kingdom?",
+        "correct_answer": "Tog II",
+        "incorrect_answers": [
+            "M4 Sherman",
+            "Tiger H1",
+            "T-34"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "How long is an IPv6 address?",
+        "correct_answer": "128 bits",
+        "incorrect_answers": [
+            "32 bits",
+            "64 bits",
+            "128 bytes"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "A bear does NOT defecate during hibernation. ",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the protagonist of Life Is Strange?",
+        "correct_answer": "Max Caulfield",
+        "incorrect_answers": [
+            "Frank Bowers",
+            "Rachel Amber",
+            "Kate Marsh"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Resident Evil 2&quot;, what is Leon Kennedy&#039;s middle name?",
+        "correct_answer": "Scott",
+        "incorrect_answers": [
+            "Shaun",
+            "Simon",
+            "Sam"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "In the Greek Mythology, the Gorgon can turn those who behold her to stone.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "What port does HTTP run on?",
+        "correct_answer": "80",
+        "incorrect_answers": [
+            "53",
+            "443",
+            "23"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Which of these television shows makes everyone look under their chair?",
+        "correct_answer": "Oprah",
+        "incorrect_answers": [
+            "Jimmy Fallon",
+            "Saturday Night Live",
+            "Larry Rubert"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Which element has the chemical symbol &#039;Fe&#039;?",
+        "correct_answer": "Iron",
+        "incorrect_answers": [
+            "Gold",
+            "Silver",
+            "Tin"
+        ]
+    }
+]

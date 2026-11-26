@@ -1,0 +1,592 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "In which year was the Megadeth album &quot;Peace Sells... but Who&#039;s Buying?&quot; released?",
+        "correct_answer": "1986",
+        "incorrect_answers": [
+            "1979",
+            "1987",
+            "1983"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "In Yu-Gi-Oh, how does a player perform an Xyz Summon?",
+        "correct_answer": "Overlay at least 2 Monsters of the Same Level",
+        "incorrect_answers": [
+            "Activate a Spell and Send Monsters to the Graveyard",
+            "Add the Monsters&#039; Levels Together to Match the Xyz Monster",
+            "Banish A Number of Monsters From Your Hand And Deck"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "How many carbon cars are there in Burnout Paradise?",
+        "correct_answer": "6",
+        "incorrect_answers": [
+            "4",
+            "3",
+            "5"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What is the main CPU is the Sega Mega Drive / Sega Genesis?",
+        "correct_answer": "Motorola 68000",
+        "incorrect_answers": [
+            "Zilog Z80",
+            "Yamaha YM2612",
+            "Intel 8088"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the official language of Costa Rica?",
+        "correct_answer": "Spanish",
+        "incorrect_answers": [
+            "English",
+            "Portuguese",
+            "Creole"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What year did the Vietnam War end?",
+        "correct_answer": "1975",
+        "incorrect_answers": [
+            "1978",
+            "1967",
+            "1969"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What is the name of JoJo&#039;s Bizarre Adventure Part 5?",
+        "correct_answer": "Vento Aureo",
+        "incorrect_answers": [
+            "Vento Oreo",
+            "Vanto Aureo",
+            "Vento Eureo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What national museum will you find in Cooperstown, New York?",
+        "correct_answer": "National Baseball Hall of Fame",
+        "incorrect_answers": [
+            "Metropolitan Museum of Art",
+            "National Toy Hall of Fame",
+            "Museum of Modern Art"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What do sailors call the back of a boat?",
+        "correct_answer": "Stern",
+        "incorrect_answers": [
+            "Bow",
+            "Starboard",
+            "Port"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "In &quot;The Lord of the Rings,&quot; who is the owner of Asfaloth, the horse which brings Frodo to Rivendell?",
+        "correct_answer": "Glorfindel",
+        "incorrect_answers": [
+            "Arwen",
+            "Aragorn",
+            "Haldir"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which small country is located between the borders of France and Spain?",
+        "correct_answer": "Andorra",
+        "incorrect_answers": [
+            "San Marino",
+            "Vatican City",
+            "Lichtenstein"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which Nintendo 64 game did NOT have Luigi in it?",
+        "correct_answer": "Super Mario 64",
+        "incorrect_answers": [
+            "Mario Party 2",
+            "Paper Mario",
+            "Super Smash Bros."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who plays Alice in the Resident Evil movies?",
+        "correct_answer": "Milla Jovovich",
+        "incorrect_answers": [
+            "Madison Derpe",
+            "Milla Johnson",
+            "Kim Demp"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "In the 2014 FIFA World Cup, what was the final score in the match Brazil - Germany?",
+        "correct_answer": "1-7",
+        "incorrect_answers": [
+            "1-5",
+            "1-6",
+            "2-6"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "When was the game &#039;Portal 2&#039; released?",
+        "correct_answer": "2011",
+        "incorrect_answers": [
+            "2014",
+            "2009",
+            "2007"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Which of the following is not a Flintstones character?",
+        "correct_answer": "Lord Rockingham IX",
+        "incorrect_answers": [
+            "Rockhead Slate",
+            "The Great Gazoo",
+            "Barney Rubble"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the 8th installment in the Fire Emblem series?",
+        "correct_answer": "The Sacred Stones",
+        "incorrect_answers": [
+            "Blazing Sword",
+            "Awakening",
+            "Path of Radiance"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "What is the derivative of sin(x)",
+        "correct_answer": "cos(x)",
+        "incorrect_answers": [
+            "csc(x)",
+            "-cos(x)",
+            "-sin(x)"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What was the name of the national hero of the Philippines who inspired and lead the Philippine Revolution against colonial Spain?",
+        "correct_answer": "Jos&eacute; Rizal",
+        "incorrect_answers": [
+            "Sim&oacute;n Bol&iacute;var",
+            "Benito Ju&aacute;rez",
+            "Jos&eacute; de San Mart&iacute;n"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the fighting game &quot;Skullgirls,&quot; which character utilizes a folding chair called the &quot;Hurting&quot; as a weapon?",
+        "correct_answer": "Beowulf",
+        "incorrect_answers": [
+            "Big Band",
+            "Squigly",
+            "Cerebella"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which of the three astronauts of the Apollo 11 spaceflight did NOT walk on the moon?",
+        "correct_answer": "Michael Collins",
+        "incorrect_answers": [
+            "Buzz Aldrin",
+            "Neil Armstrong",
+            "None of them"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The idea of Socialism was articulated and advanced by whom?",
+        "correct_answer": "Karl Marx",
+        "incorrect_answers": [
+            "Vladimir Lenin",
+            "Joseph Stalin",
+            "Vladimir Putin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Which artist&#039;s style was to use small different colored dots to create a picture?",
+        "correct_answer": "Georges Seurat",
+        "incorrect_answers": [
+            "Paul C&eacute;zanne",
+            "Vincent Van Gogh",
+            "Henri Rousseau"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What do sailors call the left side of a boat?",
+        "correct_answer": "Port",
+        "incorrect_answers": [
+            "Starboard",
+            "Bow",
+            "Stern"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which one of these characters is NOT a playable fighter in Super Smash Bros. Ultimate?",
+        "correct_answer": "Kumatora",
+        "incorrect_answers": [
+            "King K. Rool",
+            "Incineroar",
+            "Corrin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "The theme for the popular science fiction series &quot;Doctor Who&quot; was composed by who?",
+        "correct_answer": "Ron Grainer",
+        "incorrect_answers": [
+            "Murray Gold",
+            "Delia Derbyshire",
+            "Peter Howell"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which of these words refers to something made, distributed, or sold illegally?",
+        "correct_answer": "Bootleg",
+        "incorrect_answers": [
+            "Bootblack",
+            "Bootlace",
+            "Bootstrap"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which actor provided the voice for the main character&#039;s father in Fallout 3?",
+        "correct_answer": "Liam Neeson",
+        "incorrect_answers": [
+            "Kiefer Sutherland",
+            "Brendan Gleeson",
+            "Robbie Coltrane"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "In Kendrick Lamar&#039;s 2012 album, &quot;Good Kid, M.A.A.D City&quot;, the album&#039;s story takes place in which city?",
+        "correct_answer": "Compton",
+        "incorrect_answers": [
+            "Detroit",
+            "New York",
+            "Baltimore"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Where does the Mac part of the name Fleetwood Mac come from?",
+        "correct_answer": "John McVie",
+        "incorrect_answers": [
+            "Christine McVie",
+            "Mac McAnally",
+            "David Tennant"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who in Pulp Fiction says &quot;No, they got the metric system there, they wouldn&#039;t know what the f*** a Quarter Pounder is.&quot;",
+        "correct_answer": "Vincent Vega",
+        "incorrect_answers": [
+            "Jules Winnfield",
+            "Jimmie Dimmick",
+            "Butch Coolidge"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Vietnam&#039;s national flag is a red star in front of a yellow background.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Who played Sgt. Gordon Elias in &#039;Platoon&#039; (1986)?",
+        "correct_answer": "Willem Dafoe",
+        "incorrect_answers": [
+            "Charlie Sheen",
+            "Matt Damon",
+            "Johnny Depp"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "Which of the following is the oldest of these computers by release date?",
+        "correct_answer": "TRS-80",
+        "incorrect_answers": [
+            "Commodore 64",
+            "ZX Spectrum",
+            "Apple 3"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "In the Greek Mythology, the god of war is called Mars.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Call of Duty: Zombies&quot;, what group does Doctor Maxis work for?",
+        "correct_answer": "Group 935",
+        "incorrect_answers": [
+            "Group Reanimate",
+            "Group Rezurrection",
+            "Division 9"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Rapper Snoop Dogg&#039;s real name is &#039;Cordozar Calvin Broadus, Jr.&#039;.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "In the game &quot;Racko&quot; you may pick up ANY card from the discard pile.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "Which Doom Patrol member was a later addition, first appearing in 1989?",
+        "correct_answer": "Crazy Jane",
+        "incorrect_answers": [
+            "Elast-Girl",
+            "Robotman",
+            "Negative Man"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which is the most popular spoken language in the Southern Hemisphere?",
+        "correct_answer": "Portuguese",
+        "incorrect_answers": [
+            "English ",
+            "Spanish",
+            "French"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which operation in &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; introduced the &quot;Skyscraper&quot; map?",
+        "correct_answer": "Red Crow",
+        "incorrect_answers": [
+            "Velvet Shell",
+            "Skull Rain",
+            "Dust Line"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How many time zones are in Russia?",
+        "correct_answer": "11",
+        "incorrect_answers": [
+            "8",
+            "5",
+            "2"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In the episode of SpongeBob SquarePants, &quot;Survival of the Idiots&quot;, Spongebob called Patrick which nickname?",
+        "correct_answer": "Pinhead",
+        "incorrect_answers": [
+            "Starfish",
+            "Larry",
+            "Dirty Dan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the &quot;Ace Attorney&quot; series, what is the relationship between Apollo Justice and Trucy Wright?",
+        "correct_answer": "They&#039;re half-siblings",
+        "incorrect_answers": [
+            "They&#039;re co-workers",
+            "They&#039;re friends",
+            "They&#039;re both attorneys"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Super Mario Bros.&quot;, the clouds and bushes have the same artwork and are just different colors.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the video game &quot;Closers Online: Dimension Conflict&quot;, who is the administrator of team Wildh&uuml;ter?",
+        "correct_answer": "Alice Wiseman",
+        "incorrect_answers": [
+            "Kim Yujung",
+            "Wolfgang Schneider",
+            "Hong Siyoung"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "Which of the following Union Pacific &#039;Big Boy&#039; locomotives was restored to working order in 2019?",
+        "correct_answer": "4014",
+        "incorrect_answers": [
+            "4012",
+            "4004",
+            "4000"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Who created the Cartoon Network series &quot;Regular Show&quot;?",
+        "correct_answer": "J. G. Quintel",
+        "incorrect_answers": [
+            "Ben Bocquelet",
+            "Pendleton Ward",
+            "Rebecca Sugar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "The map featured in Arma 3 named &quot;Altis&quot; is based off of what Greek island?",
+        "correct_answer": "Lemnos",
+        "incorrect_answers": [
+            "Ithaca",
+            "Naxos",
+            "Anafi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which Kirby game first introduced Copy Abilities?",
+        "correct_answer": "Kirby&#039;s Adventure",
+        "incorrect_answers": [
+            "Kirby Super Star",
+            "Kirby&#039;s Dream Land 2",
+            "Kirby&#039;s Dream Land"
+        ]
+    }
+]

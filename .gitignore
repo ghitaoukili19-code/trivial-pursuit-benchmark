@@ -1,0 +1,26 @@
+# Environnement Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Fichiers sensibles
+.env
+profiles.yml
+profiles.yml.save
+
+# Fichiers générés dbt
+target/
+logs/
+dbt_packages/
+
+# Bases DuckDB
+*.duckdb
+*.duckdb.wal
+
+# Configuration locale
+.user.yml
+
+# Fichiers temporaires
+*.log
+.DS_Store

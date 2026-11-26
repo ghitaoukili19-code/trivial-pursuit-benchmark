@@ -1,0 +1,590 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "The Svalbard Archipelago is a dependency of which country?",
+        "correct_answer": "Norway",
+        "incorrect_answers": [
+            "Denmark",
+            "Iceland",
+            "Russia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "The main antagonist of the second part of JoJo&#039;s Bizarre Adventure is which of the following?",
+        "correct_answer": "Kars",
+        "incorrect_answers": [
+            "Erina Joestar",
+            "Santana",
+            "Wired Beck"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which country inside the United Kingdom does NOT appear on its flag, the Union Jack?",
+        "correct_answer": "Wales",
+        "incorrect_answers": [
+            "Scotland",
+            "Ireland",
+            "Isle of Wight"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Which gas forms about 78% of the Earth&rsquo;s atmosphere?",
+        "correct_answer": "Nitrogen",
+        "incorrect_answers": [
+            "Oxygen",
+            "Argon",
+            "Carbon Dioxide"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The catastrophic nuclear accident that occurred in Ukraine in 1986 occurred at which power plant?",
+        "correct_answer": "Chernobyl",
+        "incorrect_answers": [
+            "Ignalina",
+            "Mayak",
+            "Kursk"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What element does the Zinogre use in Monster Hunter?",
+        "correct_answer": "Thunder",
+        "incorrect_answers": [
+            "Ice",
+            "Fire",
+            "Water"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who was Tetris created by?",
+        "correct_answer": "Alexey Pajitnov",
+        "incorrect_answers": [
+            "Toru Iwatani",
+            "Allan Alcorn",
+            "William Higinbotham"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Cesar Romero played which iconic Batman villain from the 1960&#039;s TV show?",
+        "correct_answer": "The Joker",
+        "incorrect_answers": [
+            "The Penguin",
+            "The Riddler",
+            "Mr. Freeze"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Who was the only president to not be in office in Washington D.C?",
+        "correct_answer": "George Washington",
+        "incorrect_answers": [
+            "Abraham Lincoln",
+            "Richard Nixon",
+            "Thomas Jefferson"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In the show &quot;Futurama&quot; what is Fry&#039;s full name?",
+        "correct_answer": "Philip J. Fry",
+        "incorrect_answers": [
+            "Fry J. Philip",
+            "Fry Rodr&iacute;guez",
+            "Fry Philip"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Who is the primary lyricist for Canadian progressive rock band Rush?",
+        "correct_answer": "Neil Peart",
+        "incorrect_answers": [
+            "Geddy Lee",
+            "Alex Lifeson",
+            "John Rutsey"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "A plant that has a life cycle for more than a year is known as an annual.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;PUBATTLEGROUNDS&quot; what is the name of the Military Base island?",
+        "correct_answer": "Sosnovka",
+        "incorrect_answers": [
+            "Novorepnoye",
+            "Mylta",
+            "Yasnaya"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "Which Shakespeare play inspired the musical &#039;West Side Story&#039;?",
+        "correct_answer": "Romeo &amp; Juliet",
+        "incorrect_answers": [
+            "Hamlet",
+            "Macbeth",
+            "Othello"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Celebrities",
+        "question": "Billy Herrington is from which US state?",
+        "correct_answer": "New York",
+        "incorrect_answers": [
+            "Arizona",
+            "California",
+            "Georgia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What caused the titular mascot of Yo-Kai Watch, Jibanyan, to become a yokai?",
+        "correct_answer": "Being run over by a truck",
+        "incorrect_answers": [
+            "Ate one too many chocobars",
+            "Through a magical ritual",
+            "When he put on the harmaki"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What is Fergie&#039;s debut album called?",
+        "correct_answer": "The Dutchess",
+        "incorrect_answers": [
+            "Fergalicious ",
+            "The Sweet Escape",
+            "Loose"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following has Jennifer Taylor NOT voiced?",
+        "correct_answer": "Sarah Kerrigan",
+        "incorrect_answers": [
+            "Princess Peach",
+            "Zoey",
+            "Cortana"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who is regarded as the best Romanian footballer of all time?",
+        "correct_answer": "Gheorghe Hagi",
+        "incorrect_answers": [
+            "Cristian Chivu",
+            "Nicolae Dobrin",
+            "Gheorghe Popescu"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the &quot;Melancholy of Haruhi Suzumiya&quot; series, the narrator goes by the nickname Kyon.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "United States President John F. Kennedy was assassinated during his presidential motorcade in Atlanta, Georgia on November 22nd, 1963.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who plays protagonist Ethan Hunt in the &quot;Mission: Impossible&quot; film-series?",
+        "correct_answer": "Tom Cruise",
+        "incorrect_answers": [
+            "Johnny Depp",
+            "Sean Connery",
+            "Pierce Brosnan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Gadgets",
+        "question": "Out of all of the NASA Space Shuttles, which 2 have been destroyed in disasters?",
+        "correct_answer": "Challenger and Columbia",
+        "incorrect_answers": [
+            "Enterprise and Atlantis",
+            "Discovery and Endeavour",
+            "None of the Above"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When did O, Canada officially become the national anthem?",
+        "correct_answer": "1980",
+        "incorrect_answers": [
+            "1950",
+            "1920",
+            "1880"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What machine element is located in the center of fidget spinners?",
+        "correct_answer": "Bearings",
+        "incorrect_answers": [
+            "Axles",
+            "Gears",
+            "Belts"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the 15th letter of the Greek alphabet?",
+        "correct_answer": "Omicron (&Omicron;)",
+        "incorrect_answers": [
+            "Sigma (&Sigma;)",
+            "Pi (&Pi;)",
+            "Nu (&Nu;)"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "Who was the first American Vampire (Scott Snyder&#039;s American Vampire)?",
+        "correct_answer": "Skinner Sweet",
+        "incorrect_answers": [
+            "Hattie Hargrove",
+            "Pearl Jones",
+            "James &quot;Jim&quot; Book"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "The White Ranger was the leader of the Power Rangers.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "What superhero has been played in film by actors Michael Keaton, Val Kilmer, George Clooney and Christian Bale?",
+        "correct_answer": "Batman",
+        "incorrect_answers": [
+            "Superman",
+            "Iron Man",
+            "Spiderman"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which country developed the AK-47 assault rifle?",
+        "correct_answer": "Soviet Union",
+        "incorrect_answers": [
+            "Iran",
+            "Israel",
+            "Poland"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "Which RAID array type is associated with data mirroring?",
+        "correct_answer": "RAID 1",
+        "incorrect_answers": [
+            "RAID 0",
+            "RAID 10",
+            "RAID 5"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which country does the electronic music duo &quot;The Knife&quot; originate from?",
+        "correct_answer": "Sweden",
+        "incorrect_answers": [
+            "Finland",
+            "Denmark",
+            "Norway"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What year did World War II end?",
+        "correct_answer": "1945",
+        "incorrect_answers": [
+            "1943",
+            "1947",
+            "1950"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "During Wimbledon, spectators in the grounds can buy the tennis balls that have been used in matches.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "Who painted &quot;American Gothic&quot;?",
+        "correct_answer": "Grant Wood",
+        "incorrect_answers": [
+            "Anita Malfatti",
+            "Pablo Picasso",
+            "Marc Chagall"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "Color model CMYK stands for?",
+        "correct_answer": "Cyan, Magenta, Yellow, and Black",
+        "incorrect_answers": [
+            "Cream, Maroon, Yellow, and Black",
+            "Cyan, Magenta, Yellow, and Khaki",
+            "Cream, Maroon, Yellow, and Khaki"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "In the year 1818, novelist Mary Shelly is credited with writing a fiction novel and creating this infamous character.",
+        "correct_answer": "Frankenstein&#039;s monster",
+        "incorrect_answers": [
+            "Dracula",
+            "The Thing",
+            "The Invisible Man"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Fallout 4&quot; which faction is not present in the game?",
+        "correct_answer": "The Enclave",
+        "incorrect_answers": [
+            "The Minutemen",
+            "The Brotherhood of Steel",
+            "The Institute"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The creator of the Touhou Project series is:",
+        "correct_answer": "ZUN",
+        "incorrect_answers": [
+            "SUN",
+            "RUN",
+            "PUN"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "Who invented the &quot;Spanning Tree Protocol&quot;?",
+        "correct_answer": "Radia Perlman",
+        "incorrect_answers": [
+            "Paul Vixie",
+            "Vint Cerf",
+            "Michael Roberts"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Who painted the painting &quot;Nighthawks&quot;?",
+        "correct_answer": "Edward Hopper",
+        "incorrect_answers": [
+            "Johannes Vermeer",
+            "Vincent van Gogh",
+            "Salvador Dali"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What is the name of the &quot;Flash&quot; and &quot;Arrow&quot; spinoff featuring a team of characters that have appeared on both shows?",
+        "correct_answer": "Legends of Tomorrow",
+        "incorrect_answers": [
+            "Heroes of Tomorrow",
+            "The Justice Society of America",
+            "The Justice Society"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What was The Velvet Underground&#039;s first album called?",
+        "correct_answer": "The Velvet Underground &amp; Nico",
+        "incorrect_answers": [
+            "Loaded",
+            "The Velvet Underground",
+            "White Light / White Heat"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which country was NOT formerly part of Yugoslavia?",
+        "correct_answer": "Albania",
+        "incorrect_answers": [
+            "Croatia",
+            "Serbia",
+            "Macedonia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What battle was the longest in World War I, lasting approximately 303 days?",
+        "correct_answer": "Battle of Verdun ",
+        "incorrect_answers": [
+            "Battle of Passchendaele",
+            "Battle of Amiens",
+            "Battle of Stalingrad"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Which programming language was developed by Sun Microsystems in 1995?",
+        "correct_answer": "Java",
+        "incorrect_answers": [
+            "Python",
+            "Solaris OS",
+            "C++"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Tokyo is the capital of Japan.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following Pok&eacute;mon games released first?",
+        "correct_answer": "Pok&eacute;mon Crystal",
+        "incorrect_answers": [
+            "Pok&eacute;mon Platinum",
+            "Pok&eacute;mon FireRed",
+            "Pok&eacute;mon Black"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What is the name of the family that the domestic cat is a member of?",
+        "correct_answer": "Felidae",
+        "incorrect_answers": [
+            "Felinae",
+            "Felis",
+            "Cat"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Xanthophobia is the fear of what color?",
+        "correct_answer": "Yellow",
+        "incorrect_answers": [
+            "Blue",
+            "Red",
+            "Green"
+        ]
+    }
+]

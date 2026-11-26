@@ -1,0 +1,596 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which artist collaborated with American DJ Dillon Francis to release the song 2016 &quot;Need You&quot;?",
+        "correct_answer": "NGHTMRE",
+        "incorrect_answers": [
+            "LOUDPVCK",
+            "KRNE",
+            "DVBBS"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "J.K. Rowling completed &quot;Harry Potter and the Deathly Hallows&quot; in which hotel in Edinburgh, Scotland?",
+        "correct_answer": "The Balmoral",
+        "incorrect_answers": [
+            "The Dunstane Hotel",
+            "Hotel Novotel",
+            "Sheraton Grand Hotel &amp; Spa"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What is the relationship between Rick and Morty in the show &quot;Rick and Morty&quot;?",
+        "correct_answer": "Grandfather and Grandson",
+        "incorrect_answers": [
+            "Father and Son",
+            "Best Friends",
+            "Crimefighting Partners"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the canon &quot;Neptunia&quot; games, Neptune is always the main protagonist.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What was the release date of &quot;Grand Theft Auto IV&quot;?",
+        "correct_answer": "April 29, 2008",
+        "incorrect_answers": [
+            "May 21, 2009",
+            "June 22, 2010",
+            "July 28, 2008"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What medication was once commonly used as rat poison?",
+        "correct_answer": "Coumadin",
+        "incorrect_answers": [
+            "Aspirin",
+            "Eliquis",
+            "Tylenol"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "In Calvin and Hobbes, what is the name of the babysitter&#039;s boyfriend?",
+        "correct_answer": "Charlie",
+        "incorrect_answers": [
+            "Dave",
+            "Charles",
+            "Nathaniel"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Donkey Kong was originally set to be a Popeye arcade game.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "&quot;The Day the Music Died&quot; was a tragic plane crash that killed three musicians in which decade?",
+        "correct_answer": "50&#039;s",
+        "incorrect_answers": [
+            "60&#039;s",
+            "70&#039;s",
+            "40&#039;s"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What is the name of the queen&#039;s pet in A Bug&#039;s Life?",
+        "correct_answer": "Aphie",
+        "incorrect_answers": [
+            "Flik",
+            "Hopper",
+            "Dot"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What was Napoleon Bonaparte&#039;s name before he changed it?",
+        "correct_answer": "Napoleone di Buonaparte",
+        "incorrect_answers": [
+            "Naapolion van Bonijpaart",
+            "Napole&atilde;o do Boaparte",
+            "Napoleona de Buenoparte"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "In which country was the 1992 Summer Olympics Games held?",
+        "correct_answer": "Spain",
+        "incorrect_answers": [
+            "Russia",
+            "Korea",
+            "USA"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What were the first two Pok&eacute;mon games released?",
+        "correct_answer": "Red and Green",
+        "incorrect_answers": [
+            "Red and Blue",
+            "Green and Blue",
+            "Red and Yellow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "How old was Lyndon B. Johnson when he assumed the role of President of the United States?",
+        "correct_answer": "55",
+        "incorrect_answers": [
+            "50",
+            "60",
+            "54"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Which of the following figures did NOT have a cameo on &quot;The Drew Carey Show&quot; (1995-2004)?",
+        "correct_answer": "Bill Cosby",
+        "incorrect_answers": [
+            "Donald Trump",
+            "&quot;Weird Al&quot; Yankovic",
+            "Daffy Duck"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which album by American rapper Kanye West contained songs such as &quot;Love Lockdown&quot;, &quot;Paranoid&quot; and &quot;Heartless&quot;?",
+        "correct_answer": "808s &amp; Heartbreak",
+        "incorrect_answers": [
+            "Late Registration",
+            "The Life of Pablo",
+            "Graduation"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "Of the following, which Stephen King novel was published earliest?",
+        "correct_answer": "&quot;Cujo&quot;",
+        "incorrect_answers": [
+            "&quot;Misery&quot;",
+            "&quot;Christine&quot;",
+            "&quot;IT&quot;"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In Geometry Dash, what is level 13?",
+        "correct_answer": "Electroman Adventures",
+        "incorrect_answers": [
+            "Theory of Everything",
+            "Clubstep ",
+            "Clutterfunk"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "Who wrote &quot;A Tale of Two Cities&quot;?",
+        "correct_answer": "Charles Dickens",
+        "incorrect_answers": [
+            "Charles Darwin",
+            "Mark Twain",
+            "Roald Dahl"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "Which programming language shares its name with an island in Indonesia?",
+        "correct_answer": "Java",
+        "incorrect_answers": [
+            "Python",
+            "C",
+            "Jakarta"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In what year was Hearthstone released?",
+        "correct_answer": "2014",
+        "incorrect_answers": [
+            "2011",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The first game in the Touhou Project, &quot;Highly Responsive to Prayers&quot;, is part of which genre?",
+        "correct_answer": "Breakout/Arkanoid",
+        "incorrect_answers": [
+            "Shoot &#039;em Up",
+            "Puzzle",
+            "Fighter"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "The painting &quot;Guernica&quot; by Pablo Picasso expressed emotions of dread in response to which war?",
+        "correct_answer": "Spanish Civil War",
+        "incorrect_answers": [
+            "World War I",
+            "The Crimean War",
+            "Spanish-American War"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which actor plays the character &quot;Tommy Jarvis&quot; in &quot;Friday the 13th: The Final Chapter&quot; (1984)?",
+        "correct_answer": "Corey Feldman",
+        "incorrect_answers": [
+            "Macaulay Culkin",
+            "Mel Gibson",
+            "Mark Hamill"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the game Cry of Fear, which enemy can cause the player to kill themselves if they are wielding a loaded firearm?",
+        "correct_answer": "Drowned",
+        "incorrect_answers": [
+            "Suicider",
+            "Citalopram",
+            "Psycho"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In the 1984 movie &quot;The Terminator&quot;, what model number is the Terminator portrayed by Arnold Schwarzenegger?",
+        "correct_answer": "T-800",
+        "incorrect_answers": [
+            "I-950",
+            "T-888",
+            "T-1000"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Greenland is almost as big as Africa.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What year were the Marian Reforms instituted in the Roman Republic?",
+        "correct_answer": "107 BCE",
+        "incorrect_answers": [
+            "42 BCE",
+            "264 BCE",
+            "102 CE"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What are the smallest blood vessels in the human body?",
+        "correct_answer": "Capillaries",
+        "incorrect_answers": [
+            "Arterioles",
+            "Veinules",
+            "Lymphatics"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Who had a 1976 hit with the song &#039;You Make Me Feel Like Dancing&#039;?",
+        "correct_answer": "Leo Sayer",
+        "incorrect_answers": [
+            "Elton John",
+            "Billy Joel",
+            "Andy Gibb"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the full name of the protagonist from the indie adventure game &quot;Night in the Woods&quot;?",
+        "correct_answer": "Margaret Borowski",
+        "incorrect_answers": [
+            "Marlena Woborski",
+            "Milena Catharina",
+            "Katia Managan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What color is the iconic arcade character Q*Bert?",
+        "correct_answer": "Orange",
+        "incorrect_answers": [
+            "Blue",
+            "Green",
+            "Brown"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What was George Michael&#039;s chart-topping 1987 debut studio album?",
+        "correct_answer": "Faith",
+        "incorrect_answers": [
+            "Songs from the Last Century",
+            "Patience",
+            "Older"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following is not a playable race in the MMORPG Guild Wars 2? ",
+        "correct_answer": "Tengu",
+        "incorrect_answers": [
+            "Sylvari",
+            "Charr",
+            "Asura "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?",
+        "correct_answer": "Transport",
+        "incorrect_answers": [
+            "Session",
+            "Data link",
+            "Network"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What was the first .hack game?",
+        "correct_answer": ".hack//Infection",
+        "incorrect_answers": [
+            ".hack//Zero",
+            ".hack//Sign",
+            ".hack//Liminality"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "The success of DC Comics&#039; Swamp Thing, Sandman, and other books in a similar style, led to the creation of what new imprint in 1993?",
+        "correct_answer": "Vertigo",
+        "incorrect_answers": [
+            "Impact",
+            "New Universe",
+            "Red Circle"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Which animated movie was first to feature a celebrity as a voice actor?",
+        "correct_answer": "Aladdin",
+        "incorrect_answers": [
+            "Toy Story",
+            "James and the Giant Peach",
+            "The Hunchback of Notre Dame"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "&quot;Exile&quot; and &quot;Revelations&quot; were the third and fourth installments of which PC game series?",
+        "correct_answer": "Myst",
+        "incorrect_answers": [
+            "Shivers",
+            "Doom",
+            "Tropico"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which character in Undertale tells you that you&#039;re &quot;gonna have a bad time&quot;?",
+        "correct_answer": "Sans",
+        "incorrect_answers": [
+            "Undyne",
+            "Asgore",
+            "Asriel Dreemurr"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "This play is generally considered to be the most adaptable of Shakespeare&rsquo;s works, and follows two &ldquo;star-crossed lovers&rdquo;.",
+        "correct_answer": "Romeo and Juliet",
+        "incorrect_answers": [
+            "Hamlet",
+            "The Tempest",
+            "King Lear"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Mythology",
+        "question": "Who did Hippomenes defeat in a footrace?",
+        "correct_answer": "Atalanta",
+        "incorrect_answers": [
+            "Peleus",
+            "Theseus",
+            "Jason"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In &quot;Star Trek: Voyager&quot;, which episode did Voyager establish real-time communication with Starfleet Headquarters?",
+        "correct_answer": "Pathfinder",
+        "incorrect_answers": [
+            "Message In A Bottle",
+            "Someone To Watch Over Me",
+            "Counterpoint"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the main antagonist of Ori and the Blind Forest?",
+        "correct_answer": "Kuro",
+        "incorrect_answers": [
+            "Nibel",
+            "Gumo",
+            "King Rammer XII"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+        "correct_answer": "Spider",
+        "incorrect_answers": [
+            "Wild dog",
+            "Monkey",
+            "Crocodile"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the &quot;S.T.A.L.K.E.R.&quot; series, which of these items can&#039;t be used to lower the player&#039;s accumulated radiation?",
+        "correct_answer": "Radioprotectant",
+        "incorrect_answers": [
+            "Anti-rad",
+            "Medkit",
+            "Vodka"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the &quot;PAYDAY&quot; series, what is the real name of the character known as &quot;Dallas&quot;?",
+        "correct_answer": "Nathan Steele",
+        "incorrect_answers": [
+            "Nate Siemens",
+            "Nick Stamos",
+            "Nolan Stuhlinger"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is NOT a team available in the game Pok&eacute;mon Go?",
+        "correct_answer": "Team Rocket",
+        "incorrect_answers": [
+            "Team Instinct",
+            "Team Valor",
+            "Team Mystic"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "America&#039;s Strategic Defense System during the Cold War was nicknamed after this famous movie.",
+        "correct_answer": "Star Wars",
+        "incorrect_answers": [
+            "Jaws",
+            "Blade Runner",
+            "Alien"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the game Minecraft, how many iron ingots are required to make an iron golem?",
+        "correct_answer": "36",
+        "incorrect_answers": [
+            "40",
+            "32",
+            "46"
+        ]
+    }
+]

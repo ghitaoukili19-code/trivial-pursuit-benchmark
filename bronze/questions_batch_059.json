@@ -1,0 +1,588 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which Sonic the Hedgehog game introudced Knuckles the Echidna?",
+        "correct_answer": "Sonic the Hedgehog 3",
+        "incorrect_answers": [
+            "Sonic the Hedgehog 2",
+            "Sonic &amp; Knuckles",
+            "Sonic Adventure"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the book &amp; video game Metro 2033, which Moscow Metro station is the main character Artyom&#039;s home station?",
+        "correct_answer": "VDNKh",
+        "incorrect_answers": [
+            "Prospekt Mira",
+            "Kitay-Gorod",
+            "Botanichesky Sad"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "&quot;Stadium of Light&quot; is the home stadium for which soccer team?",
+        "correct_answer": "Sunderland FC",
+        "incorrect_answers": [
+            "Barcelona FC",
+            "Paris Saints-Germain",
+            "Manchester United"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How many counties in the Republic of Ireland.",
+        "correct_answer": "26",
+        "incorrect_answers": [
+            "32",
+            "28",
+            "30"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "In &quot;Katamari Damacy&quot;, you control a character known as:",
+        "correct_answer": "The Prince",
+        "incorrect_answers": [
+            "Fujio",
+            "Ichigo ",
+            "Foomin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What does LASER stand for?",
+        "correct_answer": "Light amplification by stimulated emission of radiation",
+        "incorrect_answers": [
+            "Lite analysing by stereo ecorazer",
+            "Light amplifier by standby energy of radio",
+            "Life antimatter by standing entry of range"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which of these teams isn&#039;t a member of the NHL&#039;s &quot;Original Six&quot; era?",
+        "correct_answer": "Philadelphia Flyers",
+        "incorrect_answers": [
+            "New York Rangers",
+            "Toronto Maple Leafs",
+            "Boston Bruins"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Gadgets",
+        "question": "Which company developed the Hololens?",
+        "correct_answer": "Microsoft",
+        "incorrect_answers": [
+            "HTC",
+            "Oculus",
+            "Tobii"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "The snowmobile was invented by Canadian Joseph-Armand Bombardier in 1937.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Comics",
+        "question": "In the Hellboy universe, what was Abe Sapien&#039;s birth name?",
+        "correct_answer": "Langdon Everett Caul",
+        "incorrect_answers": [
+            "Lord Baltimore",
+            "Sir Edward Grey",
+            "Landis Pope"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the game &quot;Hearthstone&quot;, what is the best rank possible?",
+        "correct_answer": "Rank 1 Legend",
+        "incorrect_answers": [
+            "Rank 1 Elite",
+            "Rank 1 Master",
+            "Rank 1 Supreme"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "The commercial UK channel ITV stands for &quot;International Television&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Fallout 4&quot;, what is the name of the dog you find at Red Rocket truck stop?",
+        "correct_answer": "Dogmeat",
+        "incorrect_answers": [
+            "Sparky",
+            "Quazar",
+            "Chop"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the &quot;Toaru Kagaku no Railgun&quot; anime,  espers can only reach a maximum of level 6 in their abilities.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "On the periodic table of elements, what is the symbol for Tin?",
+        "correct_answer": "Sn",
+        "incorrect_answers": [
+            "Ti",
+            "Ni",
+            "Na"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is NOT a Humongous Entertainment game franchise?",
+        "correct_answer": "Commander Keen",
+        "incorrect_answers": [
+            "Pajama Sam",
+            "Putt-Putt",
+            "Freddi Fish"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Who is the colossal titan in &quot;Attack On Titan&quot;?",
+        "correct_answer": "Bertolt Hoover",
+        "incorrect_answers": [
+            "Reiner",
+            "Eren",
+            "Sasha"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which nation hosted the FIFA World Cup in 2006?",
+        "correct_answer": "Germany",
+        "incorrect_answers": [
+            "United Kingdom",
+            "Brazil",
+            "South Africa"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What was the name given to Android 4.3?",
+        "correct_answer": "Jelly Bean",
+        "incorrect_answers": [
+            "Lollipop",
+            "Nutella",
+            "Froyo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "If soccer is called football in England, what is American football called in England?",
+        "correct_answer": "American football",
+        "incorrect_answers": [
+            "Combball",
+            "Handball",
+            "Touchdown"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "About how much money did it cost for Tommy Wiseau to make his masterpiece &quot;The Room&quot; (2003)?",
+        "correct_answer": "$6 Million",
+        "incorrect_answers": [
+            "$20,000",
+            "$1 Million",
+            "$10 Million"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who discovered Penicillin?",
+        "correct_answer": "Alexander Flemming",
+        "incorrect_answers": [
+            "Marie Curie",
+            "Alfred Nobel",
+            "Louis Pasteur"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is the land connecting North America and South America?",
+        "correct_answer": "Isthmus of Panama",
+        "incorrect_answers": [
+            "Isthmus of Suez",
+            "Urals",
+            "Australasia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who led the Communist Revolution of Russia?",
+        "correct_answer": "Vladimir Lenin",
+        "incorrect_answers": [
+            "Joseph Stalin",
+            "Vladimir Putin",
+            "Mikhail Gorbachev"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In PROTOTYPE 2, which of the following abilities/weapons is NOT obtained by an Evolved?",
+        "correct_answer": "Tendrils",
+        "incorrect_answers": [
+            "Blade",
+            "Bio-Bomb",
+            "Pack Leader"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In which film does Humphrey Bogart say the famous line, &quot;Here&#039;s looking at you, kid&quot;?",
+        "correct_answer": "Casablanca",
+        "incorrect_answers": [
+            "The Maltese Falcon",
+            "The Treasure of the Sierra Madre",
+            "Citizen Kane"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In the movie The Revenant, DiCaprio&#039;s character hunts down the killer of his son.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What year was Red Hot Chill Pepper&#039;s album &quot;Californication&quot; released?",
+        "correct_answer": "1999",
+        "incorrect_answers": [
+            "1997",
+            "2000",
+            "1992"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "Which Greek &amp; Roman god was known as the god of music, truth and prophecy, healing, the sun and light, plague, poetry, and more?",
+        "correct_answer": "Apollo",
+        "incorrect_answers": [
+            "Aphrodite",
+            "Artemis",
+            "Athena"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "How many times was Albert Einstein married in his lifetime?",
+        "correct_answer": "Twice",
+        "incorrect_answers": [
+            "Five",
+            "Thrice",
+            "Once"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which Irish village in County Mayo built a tourism industry on the back of an alleged appearance by the Virgin Mary in 1879?",
+        "correct_answer": "Knock",
+        "incorrect_answers": [
+            "Ballycastle",
+            "Swinford",
+            "Turlough"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which of these holidays is NOT usually celebrated in the month of December?",
+        "correct_answer": "Thanksgiving",
+        "incorrect_answers": [
+            "Christmas",
+            "Kwanzaa",
+            "Hanukkah"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "Which of the following characters is not in the board game Clue?",
+        "correct_answer": "Mister Indigo",
+        "incorrect_answers": [
+            "Colonel Mustard",
+            "Reverend Green",
+            "Miss Scarlet"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Which internet company began life as an online bookstore called &#039;Cadabra&#039;?",
+        "correct_answer": "Amazon",
+        "incorrect_answers": [
+            "eBay",
+            "Overstock",
+            "Shopify"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of these artists was NOT a member of the electronic music supergroup Swedish House Mafia, which split up in 2013?",
+        "correct_answer": "Alesso",
+        "incorrect_answers": [
+            "Steve Angello",
+            "Sebastian Ingrosso",
+            "Axwell"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the name of the former country that was succeeded by countries such as Serbia, Croatia and Slovenia?",
+        "correct_answer": "Yugoslavia",
+        "incorrect_answers": [
+            "Czechoslovakia",
+            "Abkhazia",
+            "South Ossetia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What was the soft drink Pepsi originally introduced as?",
+        "correct_answer": "Brad&#039;s Drink",
+        "incorrect_answers": [
+            "Pepsin Pop",
+            "Carolina Cola",
+            "Pepsin Syrup"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "What is the name of Eragon&#039;s dragon in &quot;Eragon&quot;?",
+        "correct_answer": "Saphira",
+        "incorrect_answers": [
+            "Glaedr",
+            "Thorn",
+            "Arya"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "What is the nickname of Northampton town&#039;s rugby union club?",
+        "correct_answer": "Saints",
+        "incorrect_answers": [
+            "Harlequins",
+            "Saracens",
+            "Wasps"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "The phrase &quot;accident waiting to happen&quot; is an example of what type of figure of speech?",
+        "correct_answer": "Idiom",
+        "incorrect_answers": [
+            "Simile",
+            "Metaphor",
+            "Analogy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "What is the oldest team in the NFL?",
+        "correct_answer": "Arizona Cardinals",
+        "incorrect_answers": [
+            "Chicago Bears",
+            "Green Bay Packers",
+            "New York Giants"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "What three movies, in order from release date, make up the &quot;Dollars Trilogy&quot;?",
+        "correct_answer": "&quot;A Fistful of Dollars&quot;, &quot;For a Few Dollars More&quot;, &quot;The Good, the Bad, and the Ugly&quot;",
+        "incorrect_answers": [
+            "&quot;The Good, the Bad, and the Ugly&quot;, &quot;For A Few Dollars More&quot;, &quot;A Fistful of Dollars&quot;",
+            "&quot;For a Few Dollars More&quot;, &quot;The Good, the Bad, and the Ugly&quot;, &quot;A Fistful of Dollars&quot;",
+            "&quot;For a Few Dollars More&quot;, &quot;A Fistful of Dollars&quot;, &quot;The Good, the Bad, and the Ugly&quot;"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Hidden in the files for &quot;Mario Kart Arcade GP&quot; is a picture of the Beslan school hostage crisis.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who in this list is one of the co-founders of Valve?",
+        "correct_answer": "Gabe Newell",
+        "incorrect_answers": [
+            "Robin Walker",
+            "Marc Laidlaw",
+            "Ray Ueno"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Otters have pockets under their arms for carrying their favourite snacks and rocks.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Which Hanna-Barbera cartoon character travelled with a canine companion named Beegle Beagle?",
+        "correct_answer": "Grape Ape",
+        "incorrect_answers": [
+            "Boss Gator",
+            "Wally Gator",
+            "Yogi Bear"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "How many studio albums have the heavy metal band, &#039;Metallica&#039; released in the period between 1983 and 2016?",
+        "correct_answer": "10",
+        "incorrect_answers": [
+            "7",
+            "9",
+            "12"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Iconic cartoon character Mickey Mouse made his onscreen debut in what year?",
+        "correct_answer": "1928",
+        "incorrect_answers": [
+            "1929",
+            "1922",
+            "1932"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "You can square root a negative number with an imaginary number &quot;i&quot;.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "What is the scientific name of the red fox?",
+        "correct_answer": "Vulpes Vulpes",
+        "incorrect_answers": [
+            "Vulpes Redus",
+            "Red Fox",
+            "Vulpes Vulpie"
+        ]
+    }
+]

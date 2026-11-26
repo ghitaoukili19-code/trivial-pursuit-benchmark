@@ -1,0 +1,582 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who voiced the character Joel in &quot;The Last of Us&quot;?",
+        "correct_answer": "Troy Baker",
+        "incorrect_answers": [
+            "Nolan North",
+            "John DiMaggio",
+            "Steve Blum"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "The ancient Roman god of war was commonly known as which of the following?",
+        "correct_answer": "Mars",
+        "incorrect_answers": [
+            "Jupiter",
+            "Juno",
+            "Ares"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "In the Morse code, which letter is indicated by 3 dots? ",
+        "correct_answer": "S",
+        "incorrect_answers": [
+            "O",
+            "A",
+            "C"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Who directed the 1973 film &quot;American Graffiti&quot;?",
+        "correct_answer": "George Lucas",
+        "incorrect_answers": [
+            "Ron Howard",
+            "Francis Ford Coppola",
+            "Steven Spielberg"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which dictator killed the most people?",
+        "correct_answer": "Mao Zedong",
+        "incorrect_answers": [
+            "Joseph Stalin",
+            "Adolf Hitler",
+            "Kim Il Sung"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "What was Daft Punk&#039;s first studio album?",
+        "correct_answer": "Homework",
+        "incorrect_answers": [
+            "Discovery",
+            "Random Access Memories",
+            "Human After All"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Comics",
+        "question": "In Black Hammer, what city did the heroes save from the Anti-God?",
+        "correct_answer": "Spiral City",
+        "incorrect_answers": [
+            "Mega-City One",
+            "Rockwood",
+            "Star City"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Don Cheto is the host of the radio station &quot;East Los FM&quot; in GTA V.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which of the following actors does not play a role in the movie &quot;The Usual Suspects?&quot;",
+        "correct_answer": "Steve Buscemi",
+        "incorrect_answers": [
+            "Kevin Spacey",
+            "Benicio Del Toro",
+            "Gabriel Byrne"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Max Schreck, a famous German silent film actor, plays a famous monster in which 1922 film?",
+        "correct_answer": "Nosferatu",
+        "incorrect_answers": [
+            "Frankenstein ",
+            "The Headless Horseman",
+            "H&auml;xan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "This Greek mythological figure is the god/goddess of battle strategy (among other things).",
+        "correct_answer": "Athena",
+        "incorrect_answers": [
+            "Ares",
+            "Artemis",
+            "Apollo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Prior to 2018, which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+        "correct_answer": "Mazda",
+        "incorrect_answers": [
+            "Toyota",
+            "Subaru",
+            "Nissan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the anime &quot;My Hero Academia&quot;, which character is shown with the ability to manipulate gravity?",
+        "correct_answer": "Uraraka",
+        "incorrect_answers": [
+            "Bakugo",
+            "Deku",
+            "Asui "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;Highschool DxD&quot;, Koneko Toujou is from what race?",
+        "correct_answer": "Nekomata",
+        "incorrect_answers": [
+            "Kitsune",
+            "Human",
+            "Kappa"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "How many Star Spirits do you rescue in the Nintendo 64 video game &quot;Paper Mario&quot;?",
+        "correct_answer": "7",
+        "incorrect_answers": [
+            "5",
+            "10",
+            "12"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What was the name of Jonny&#039;s pet dog in The Adventures of Jonny Quest?",
+        "correct_answer": "Bandit",
+        "incorrect_answers": [
+            "Lucky",
+            "Rocky",
+            "Max"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Ana was added as a new hero for the game Overwatch on July 19th, 2016.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Which actor was not a major character in TV Show Freaks and Geeks?",
+        "correct_answer": "Jonah Hill",
+        "incorrect_answers": [
+            "Jason Segel",
+            "Seth Rogen",
+            "James Franco"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Starbound&quot;, according to the asset files, the description of the &quot;Erchius Ghost&quot; is the same as which other assets?",
+        "correct_answer": "Spookit",
+        "incorrect_answers": [
+            "Petricub",
+            "Trictus",
+            "Pyromantle"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "A Boolean value of &quot;0&quot; represents which of these words?",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How many countries are larger than Australia?",
+        "correct_answer": "5",
+        "incorrect_answers": [
+            "4",
+            "3",
+            "6"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What is the name of the famous Apache leader who died in 1909 at the age of 70?",
+        "correct_answer": "Geronimo",
+        "incorrect_answers": [
+            "Sitting Bull",
+            "Red Cloud",
+            "Crazy Horse"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which Nazi General was known as the &quot;Desert Fox&quot;?",
+        "correct_answer": "Erwin Rommel",
+        "incorrect_answers": [
+            "Gerd von Rundstadt",
+            "Wilhelm Keitel",
+            "Heinz Guderian "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the first Left 4 Dead, you can play as either of these four characters.",
+        "correct_answer": "Francis, Bill, Zoey, and Louis",
+        "incorrect_answers": [
+            "Bender, Andrew, Allison, and Brian",
+            "Coach, Ellis, Nick, and Rochelle",
+            "Harry, Ron, Hermione and Dumbledore"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Who is the founder and leader of industrial rock band, &#039;Nine Inch Nails&#039;?",
+        "correct_answer": "Trent Reznor",
+        "incorrect_answers": [
+            "Marilyn Manson",
+            "Robin Finck",
+            "Josh Homme"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Before voicing Pearl in Steven Universe, Deedee Magno Hall was part of which American band?",
+        "correct_answer": "The Party",
+        "incorrect_answers": [
+            "The Weather Girls",
+            "The Pussycat Dolls",
+            "The Cheetah Girls"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "When was Adolf Hitler appointed as Chancellor of Germany?",
+        "correct_answer": "January 30, 1933",
+        "incorrect_answers": [
+            "September 1, 1939",
+            "February 27, 1933",
+            "October 6, 1939"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In the original script of &quot;The Matrix&quot;, the machines used humans as additional computing power instead of batteries.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "The word &quot;science&quot; stems from the word &quot;scire&quot; meaning what?",
+        "correct_answer": "To know",
+        "incorrect_answers": [
+            "To measure",
+            "To live",
+            "To count"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Is Luxembourgish a real language?",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which historical conflict killed the most people?",
+        "correct_answer": "World War II",
+        "incorrect_answers": [
+            "Taiping Rebellion",
+            "Three Kingdoms War",
+            "Mongol conquests"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which of the following landlocked countries is entirely contained within another country?",
+        "correct_answer": "Lesotho",
+        "incorrect_answers": [
+            "Burkina Faso",
+            "Mongolia",
+            "Luxembourg"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "What is the name of Finnish DJ Darude&#039;s hit single released in October 1999?",
+        "correct_answer": "Sandstorm",
+        "incorrect_answers": [
+            "Dust Devil",
+            "Sirocco",
+            "Khamsin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which video game was recalled for containing a hidden, playable South Park episode?",
+        "correct_answer": "Tiger Woods 99 PGA Tour",
+        "incorrect_answers": [
+            "Tony Hawk&#039;s Pro Skater 3",
+            "Sonic Adventure",
+            "Madden 99"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What is the setting of the show &quot;Parks and Recreation&quot;?",
+        "correct_answer": "Pawnee, Indiana",
+        "incorrect_answers": [
+            "Eagleton, Indiana",
+            "Pasadena, California",
+            "London, England"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What was the African nation of Zimbabwe formerly known as?",
+        "correct_answer": "Rhodesia",
+        "incorrect_answers": [
+            "Zambia",
+            "Mozambique",
+            " Bulawayo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "These two countries held a commonwealth from the 16th to 18th century.",
+        "correct_answer": "Poland and Lithuania",
+        "incorrect_answers": [
+            "Hutu and Rwanda",
+            "North Korea and South Korea",
+            "Bangladesh and Bhutan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What was the name given to Japanese military dictators who ruled the country through the 12th and 19th Century?",
+        "correct_answer": "Shogun",
+        "incorrect_answers": [
+            "Ninja",
+            "Samurai",
+            "Shinobi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In the 1971 film &quot;Willy Wonka &amp; the Chocolate Factory&quot;, who played Willy Wonka?",
+        "correct_answer": "Gene Wilder",
+        "incorrect_answers": [
+            "Shia LeBouf",
+            "Peter Ostrum",
+            "Johnny Depp"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Bob and Mike Bryan were well known brothers in which sport?",
+        "correct_answer": "Tennis",
+        "incorrect_answers": [
+            "Basketball",
+            "Football",
+            "Baseball"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the superhero anime, &quot;One Punch Man&quot;, what is the main protagonist&#039;s Hero name?",
+        "correct_answer": "Caped Baldy",
+        "incorrect_answers": [
+            "Strong Fist",
+            "Mad Boxer",
+            "Justice Puncher"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "DHCP stands for Dynamic Host Configuration Port.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "The IBM PC used an Intel 8008 microprocessor clocked at 4.77 MHz and 8 kilobytes of memory.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "What is the collective noun for a group of crows?",
+        "correct_answer": "Murder",
+        "incorrect_answers": [
+            "Pack",
+            "Gaggle",
+            "Herd"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "&quot;Green Eggs and Ham&quot; consists of only 50 different words.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "When setting up a chess board, the king is placed on a square of his own color.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What was the first game to utilize Valve&#039;s &quot;Source 2&quot; engine?",
+        "correct_answer": "Dota 2",
+        "incorrect_answers": [
+            "Counter-Strike: Global Offensive",
+            "Pirates, Vikings &amp; Knights II",
+            "Artifact"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "In 1993, Prince changed his name to an unpronounceable symbol because he was unhappy with his contract with Warner Bros.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What is the name of the device that allows for infinite energy in the anime &quot;Dimension W&quot;?",
+        "correct_answer": "Coils",
+        "incorrect_answers": [
+            "Wires",
+            "Collectors",
+            "Tesla"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the anime Black Butler, who is betrothed to be married to Ciel Phantomhive?",
+        "correct_answer": "Elizabeth Midford",
+        "incorrect_answers": [
+            "Rachel Phantomhive",
+            "Alexis Leon Midford",
+            "Angelina Dalles"
+        ]
+    }
+]

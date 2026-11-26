@@ -1,0 +1,588 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Who was the last emperor of Mexico?",
+        "correct_answer": "Ferdinand Maximilian",
+        "incorrect_answers": [
+            "Andr&eacute;s Manuel L&oacute;pez Obrador",
+            "Napoleon III",
+            "Agust&iacute;n de Iturbide"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the island introduced in the ARMA III: APEX expansion pack?",
+        "correct_answer": "Tanoa",
+        "incorrect_answers": [
+            "Altis",
+            "Stratis",
+            "Malden"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What game mode was not in the original &quot;Wii Sports&quot;?",
+        "correct_answer": "Table Tennis",
+        "incorrect_answers": [
+            "Boxing",
+            "Baseball",
+            "Bowling"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Joseph Smith was the founder of what religion?",
+        "correct_answer": "Mormonism",
+        "incorrect_answers": [
+            "Buddhism",
+            "Christianity",
+            "Hinduism"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Which of these Russian cities did NOT contain a stadium that was used in the 2018 FIFA World Cup?",
+        "correct_answer": "Vladivostok",
+        "incorrect_answers": [
+            "Rostov-on-Don",
+            "Yekaterinburg",
+            "Kaliningrad"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which of the following is a major muscle of the back?",
+        "correct_answer": "Trapezius",
+        "incorrect_answers": [
+            "Trapezium",
+            "Trapezoid",
+            "Triquetrum"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Route 66 in the United States spans the entire mainland of America, from California to New York.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What island in the Canary Islands was the scene of one of the worst air disasters in history with the collision of two jumbo jets?",
+        "correct_answer": "Tenerife",
+        "incorrect_answers": [
+            "Fuerteventura",
+            "Gran Canaria",
+            "Maui"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The New York Times slogan is, &ldquo;All the News That&rsquo;s Fit to&hellip;&rdquo;",
+        "correct_answer": "Print",
+        "incorrect_answers": [
+            "Digest",
+            "Look",
+            "Read"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "Who is the author of the &quot;A Song of Ice and Fire&quot; book series, starting with &quot;A Game of Thrones&quot;?",
+        "correct_answer": "George R. R. Martin",
+        "incorrect_answers": [
+            "Brandon Sanderson",
+            "J. R. R. Tolkien",
+            "Steven Erikson"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "In Prokofiev&#039;s &#039;Peter and the Wolf&#039;, the wolf itself is represented by a trio of which musical instrument?",
+        "correct_answer": "French horn",
+        "incorrect_answers": [
+            "Oboe",
+            "Clarinet",
+            "Cello"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "Who played Marquis de Lafayette and Thomas Jefferson in the original Broadway run of Hamilton?",
+        "correct_answer": "Daveed Diggs",
+        "incorrect_answers": [
+            "Lin-Manuel Miranda",
+            "Javier Mu&ntilde;oz",
+            "Wayne Brady"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In the 2002 film &quot;Kung Pow! Enter the Fist&quot;, Master Pain changes his name to what?",
+        "correct_answer": "Betty",
+        "incorrect_answers": [
+            "Sally",
+            "Amy",
+            "Kitty"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In Miss Kobayashi&#039;s Dragon Maid, Tohru is a member of the harmony faction.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the Nintendo DS game &#039;Ghost Trick: Phantom Detective&#039;, what is the name of the hitman seen at the start of the game?",
+        "correct_answer": "Nearsighted Jeego",
+        "incorrect_answers": [
+            "One Step Ahead Tengo",
+            "Missile",
+            "Cabanela"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which ones of these Mario Kart games was made for the Gameboy Advance?",
+        "correct_answer": "Mario Kart: Super Circuit",
+        "incorrect_answers": [
+            "Mario Kart: Double Dash",
+            "Mario Kart 64",
+            "Super Mario Kart"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "Ancient Greek and Roman sculptors often colored their statues.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which city hosted the CS:GO Dreamhack Open 2015?",
+        "correct_answer": "Cluj-Napoca",
+        "incorrect_answers": [
+            "Cologne",
+            "Atlanta",
+            "London"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "A positron is an antiparticle of a what?",
+        "correct_answer": "Electron",
+        "incorrect_answers": [
+            "Neutron",
+            "Proton",
+            "Photon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Which British writer wrote for both Doctor Who and Sherlock?",
+        "correct_answer": "Steven Moffatt",
+        "incorrect_answers": [
+            "Phil Ford",
+            "Russell T Davies",
+            "Toby Whithouse"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What was the world&#039;s first video game?",
+        "correct_answer": "Draughts",
+        "incorrect_answers": [
+            "Spacewar!",
+            "Pong",
+            "Space Travel"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Who invented the &quot;Flying Shuttle&quot; in 1738; one of the key developments in the industrialization of weaving?",
+        "correct_answer": "John Kay",
+        "incorrect_answers": [
+            "James Hargreaves",
+            "Richard Arkwright",
+            "John Deere"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "Which kind of algorithm is Ron Rivest not famous for creating?",
+        "correct_answer": "Secret sharing scheme",
+        "incorrect_answers": [
+            "Hashing algorithm",
+            "Asymmetric encryption",
+            "Stream cipher"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Klingons respect their disabled comrades, and those who are old, injuried, and helpless.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "In what year was Tchaikovsky&#039;s 1812 Overture composed?",
+        "correct_answer": "1880",
+        "incorrect_answers": [
+            "1812",
+            "1790",
+            "1840"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Which Van Gogh painting depicts the view from his asylum in Saint-R&eacute;my-de-Provence in southern France?",
+        "correct_answer": "The Starry Night",
+        "incorrect_answers": [
+            "Wheatfields with Crows",
+            "The Sower with Setting Sun",
+            "The Church at Auvers"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Liam Howlett founded which electronic music group in 1990?",
+        "correct_answer": "The Prodigy",
+        "incorrect_answers": [
+            "The Chemical Brothers",
+            "The Crystal Method",
+            "Infected Mushroom"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which mountain has the highest peak in South America?",
+        "correct_answer": "Aconcagua, Argentina",
+        "incorrect_answers": [
+            "Ojos del Salado, Argentina/Chile border",
+            "Monte Pissis, Argentina",
+            "Huascar&aacute;n, Peru"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which continent do sweet potatoes originally come from?",
+        "correct_answer": "South America",
+        "incorrect_answers": [
+            "Asia",
+            "Africa",
+            "Europe"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is NOT a playable character in the 2016 video game Overwatch?",
+        "correct_answer": "Invoker",
+        "incorrect_answers": [
+            "Mercy",
+            "Winston",
+            "Zenyatta"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Which of the following car models has been badge-engineered (rebadged) the most?",
+        "correct_answer": "Isuzu Trooper",
+        "incorrect_answers": [
+            "Holden Monaro",
+            "Suzuki Swift",
+            "Chevy Camaro"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "In 2015, David Hasselhof released a single called...",
+        "correct_answer": "True Survivor",
+        "incorrect_answers": [
+            "True Fighter",
+            "Real Kung-Fury",
+            "Real Warrior"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "How many known living species of hyenas are there?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "8",
+            "2",
+            "6"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the first primary weapon the player gets in &quot;PAYDAY: The Heist&quot;?",
+        "correct_answer": "AMCAR-4",
+        "incorrect_answers": [
+            "Brenner 21",
+            "Reinbeck",
+            "M308"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Helen Clark was the 37th Prime Minister of Australia.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "&#039;Don&#039;t You Want Me?&#039; was a number one hit in 1981 for which electropop band?",
+        "correct_answer": "Human League",
+        "incorrect_answers": [
+            "Depeche Mode",
+            "Pet Shop Boys",
+            "Eurythmics"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What&#039;s the English Dub Name of &quot;Smile Precure&quot;?",
+        "correct_answer": "Glitter Force",
+        "incorrect_answers": [
+            "Sparkle Girls",
+            "Fairy Tale Patrol",
+            "Power Princesses"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the Mario Kart and Smash Bros. Games, Princess Rosalina is considered what weight class?",
+        "correct_answer": "Heavy",
+        "incorrect_answers": [
+            "Medium",
+            "Light",
+            "Light-Medium"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What was Radiohead&#039;s first album?",
+        "correct_answer": "Pablo Honey",
+        "incorrect_answers": [
+            "The Bends",
+            "Kid A",
+            "A Moon Shaped Pool"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "The teapot often seen in many 3D modeling applications is called what?",
+        "correct_answer": "Utah Teapot",
+        "incorrect_answers": [
+            "Pixar Teapot",
+            "3D Teapot",
+            "Tennessee Teapot"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What mineral has the lowest number on the Mohs scale?",
+        "correct_answer": "Talc",
+        "incorrect_answers": [
+            "Quartz",
+            "Diamond",
+            "Gypsum"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which is not a playable character in the 2005 video game Killer7?",
+        "correct_answer": "Frank Smith",
+        "incorrect_answers": [
+            "Mask de Smith",
+            "Dan Smith",
+            "Coyote Smith"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+        "correct_answer": "Spruce Goose",
+        "incorrect_answers": [
+            "Noah&#039;s Ark",
+            "Fat Man",
+            "Trojan Horse"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Comics",
+        "question": "In the &quot;Archie&quot; comics, who was Jughead&#039;s first girlfriend?",
+        "correct_answer": "Joani",
+        "incorrect_answers": [
+            "Ethel",
+            "Debbi",
+            "Margret"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "You can legally drink alcohol while driving in Mississippi.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "How many members are there in the idol group &quot;&micro;&#039;s&quot;?",
+        "correct_answer": "9",
+        "incorrect_answers": [
+            "48",
+            "6",
+            "3"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "The Nike apparel and footwear brand takes it&#039;s name from the Greek goddess of what?",
+        "correct_answer": "Victory",
+        "incorrect_answers": [
+            "Courage",
+            "Strength",
+            "Honor"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In Terraria, which debuff does the ankh charm not provide immunity to?",
+        "correct_answer": "Venom",
+        "incorrect_answers": [
+            "Cursed",
+            "Bleeding",
+            "Slow"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "El Ni&ntilde;o pushes warm water to the coasts of the Western Pacific during winter.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the name of the poker hand containing three of a kind and a pair?",
+        "correct_answer": "Full House",
+        "incorrect_answers": [
+            "Flush",
+            "Straight",
+            "High card"
+        ]
+    }
+]

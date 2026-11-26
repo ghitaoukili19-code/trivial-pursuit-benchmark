@@ -1,0 +1,592 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the PAYDAY series, where did Dallas start his criminal career?",
+        "correct_answer": "Chicago, Illinois",
+        "incorrect_answers": [
+            "Dallas, Texas",
+            "New York City, New York",
+            "Boston, Massachusetts"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who voices Max Payne in the 2001 game &quot;Max Payne&quot;?",
+        "correct_answer": "James McCaffrey",
+        "incorrect_answers": [
+            "Sam Lake",
+            "Troy Baker",
+            "Hideo Kojima"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In Two and a Half Men, what is Alan Harper&#039;s son&#039;s name?",
+        "correct_answer": "Jake",
+        "incorrect_answers": [
+            "John",
+            "Jeremy",
+            "James"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;One Piece&quot;, which one of the following is NOT an Ancient Weapon?",
+        "correct_answer": "Jupiter",
+        "incorrect_answers": [
+            "Uranus",
+            "Poseidon",
+            "Pluton"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Tetris is the #1 best-selling video game of all-time.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What is the average lifespan of a domestic rabbit?",
+        "correct_answer": "8-12 years",
+        "incorrect_answers": [
+            "1-2 years",
+            "4-7 years",
+            "14-20 years"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "When you cry in space, your tears stick to your face.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Roughly how many ingested apple seeds would it take to receive a fatal dose of cyanide?",
+        "correct_answer": "200",
+        "incorrect_answers": [
+            "20",
+            "2,000",
+            "20,000"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "Who is the author of the series &quot;Malazan Book of the Fallen&quot;?",
+        "correct_answer": "Steven Erikson",
+        "incorrect_answers": [
+            "Ian Cameron Esslemont",
+            "George R. R. Martin",
+            "J. R. R. Tolkien"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the game &quot;Overwatch,&quot; which quote does the hero &quot;McCree&quot; NOT say upon using his flashbang ability?",
+        "correct_answer": "&quot;You done?&quot;",
+        "incorrect_answers": [
+            "&quot;Whoa there.&quot;",
+            "&quot;Hold up now.&quot;",
+            "&quot;Don&#039;t move.&quot;"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What scientific suborder does the family Hyaenidae belong to?",
+        "correct_answer": "Feliformia",
+        "incorrect_answers": [
+            "Haplorhini",
+            "Caniformia",
+            "Ciconiiformes"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What is the name of the US Navy spy ship which was attacked and captured by North Korean forces in 1968?",
+        "correct_answer": "USS Pueblo",
+        "incorrect_answers": [
+            "USS North Carolina",
+            "USS Constitution",
+            "USS Indianapolis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What does &quot;LCD&quot; stand for?",
+        "correct_answer": "Liquid Crystal Display",
+        "incorrect_answers": [
+            "Language Control Design",
+            "Last Common Difference",
+            "Long Continuous Design"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which Nirvana album had a naked baby on the cover?",
+        "correct_answer": "Nevermind",
+        "incorrect_answers": [
+            "Bleach",
+            "In Utero",
+            "Incesticide"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Wombats are native to which Country?",
+        "correct_answer": "Australia",
+        "incorrect_answers": [
+            "New Zealand",
+            "Papua New Guinea",
+            "Palau"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "According to the United States&#039; CDC, one in how many Americans die annually due to smoking?",
+        "correct_answer": "Five",
+        "incorrect_answers": [
+            "Twenty",
+            "Ten",
+            "One hundred"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "Who serves as the speaker of the prologue in Shakespeare&#039;s Romeo and Juliet?",
+        "correct_answer": "Chorus",
+        "incorrect_answers": [
+            "Montague",
+            "Refrain",
+            "Capulet"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the 2014 Pokemon VGC Finals, which Pokemon was famous for bringing the winner to victory?",
+        "correct_answer": "Pachirisu",
+        "incorrect_answers": [
+            "Garchomp",
+            "Lapras",
+            "Primal Groudon"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Not including false teeth; A human has two sets of teeth in their lifetime.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "On the NBC show Community what was Star Burns&#039; real name?",
+        "correct_answer": "Alex",
+        "incorrect_answers": [
+            "Todd",
+            "Neal",
+            "Grimus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which of the following is considered classical conditioning?",
+        "correct_answer": "Pavlov&#039;s dog experiments",
+        "incorrect_answers": [
+            "Skinner box experiment",
+            "Schr&ouml;dinger&#039;s cat experiment",
+            "Harlow&rsquo;s monkey experiments"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Nickelodeon is owned by what parent company?",
+        "correct_answer": "Viacom",
+        "incorrect_answers": [
+            "CBS",
+            "FOX",
+            "ABC"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Who is the bassist of the British rock band Queen?",
+        "correct_answer": "John Deacon",
+        "incorrect_answers": [
+            "John Major",
+            "John Barrowman",
+            "John Mayer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "This Greek goddess&#039;s name was chosen for the dwarf planet responsible for discord on Pluto&#039;s classification amongst astronomers.",
+        "correct_answer": "Eris",
+        "incorrect_answers": [
+            "Charon",
+            "Ceres",
+            "Dysnomia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "What is the title of the first Sherlock Holmes book by Arthur Conan Doyle?",
+        "correct_answer": "A Study in Scarlet",
+        "incorrect_answers": [
+            "The Sign of the Four",
+            "A Case of Identity",
+            "The Doings of Raffles Haw"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the largest non-continental island in the world?",
+        "correct_answer": "Greenland",
+        "incorrect_answers": [
+            "New Guinea",
+            "Borneo",
+            "Madagascar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Human cells typically have how many copies of each gene?",
+        "correct_answer": "2",
+        "incorrect_answers": [
+            "1",
+            "4",
+            "3"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "How was Socrates executed?",
+        "correct_answer": "Poison",
+        "incorrect_answers": [
+            "Decapitation",
+            "Firing squad",
+            "Crucifixion "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "A lion brandishing a sword is depicted on the national flag of which country?",
+        "correct_answer": "Sri Lanka",
+        "incorrect_answers": [
+            "Albania",
+            "Zambia",
+            "Moldova"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "In what Harry Potter book was a Horcrux first encountered?",
+        "correct_answer": "The Chamber of Secrets",
+        "incorrect_answers": [
+            "The Half-Blood Prince",
+            "The Goblet of Fire",
+            "The Deathly Hallows"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which city did the former NHL team &quot;The Nordiques&quot; originiate from?",
+        "correct_answer": "Quebec City",
+        "incorrect_answers": [
+            "Houston",
+            "Montreal",
+            "New York"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In what year did the Berlin Wall fall?",
+        "correct_answer": "1989",
+        "incorrect_answers": [
+            "1987",
+            "1991",
+            "1993"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In the 2012 film, &quot;The Lorax&quot;, who is the antagonist?",
+        "correct_answer": "Aloysius O&#039;Hare",
+        "incorrect_answers": [
+            "Ted Wiggins",
+            "The Once-Ler",
+            "Grammy Norma"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "What country is Cory in the House set in?",
+        "correct_answer": "The United States of America",
+        "incorrect_answers": [
+            "Canada",
+            "Venezuala",
+            "England"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of these is NOT a name of an album released by American rapper Pitbull?",
+        "correct_answer": "Welcome to Miami",
+        "incorrect_answers": [
+            "Dale",
+            "Global Warming",
+            "Armando"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which of these words means &quot;idle spectator&quot;?",
+        "correct_answer": "Gongoozler",
+        "incorrect_answers": [
+            "Gossypiboma",
+            "Jentacular",
+            "Meupareunia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "What mytological creatures have women&#039;s faces and vultures&#039; bodies?",
+        "correct_answer": "Harpies",
+        "incorrect_answers": [
+            "Mermaids",
+            "Nymph",
+            "Lilith"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;To Love-Ru&quot;, Ren and Run are from what planet?",
+        "correct_answer": "Memorze",
+        "incorrect_answers": [
+            "Deviluke",
+            "Mistletoe",
+            "Okiwana"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Which United Nations principal organ has been suspended since 1994?",
+        "correct_answer": "Trusteeship Council",
+        "incorrect_answers": [
+            "Secretariat",
+            "General Assembly",
+            "Economic and Social Council"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which country did Kabaddi, a contact sport involving tackling, originate from?",
+        "correct_answer": "India",
+        "incorrect_answers": [
+            "Australia",
+            "Turkey",
+            "Cambodia"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Riot Games &quot;League of Legends&quot; the name of Halloween event is called &quot;The Reckoning&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the capital of Vietnam?",
+        "correct_answer": "Hanoi",
+        "incorrect_answers": [
+            "Da Nang",
+            "Hai Phong",
+            "Ho Chi Minh City"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What was the height of Kingda Ka, the tallest roller coaster in the world from 2005 to 2024?",
+        "correct_answer": "456 ft",
+        "incorrect_answers": [
+            "500 ft",
+            "429 ft",
+            "396 ft"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "The term &quot;scientist&quot; was coined in which year?",
+        "correct_answer": "1833",
+        "incorrect_answers": [
+            "1933",
+            "1942",
+            "1796"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Which of these people was NOT a founder of Apple Inc?",
+        "correct_answer": "Jonathan Ive",
+        "incorrect_answers": [
+            "Steve Jobs",
+            "Ronald Wayne",
+            "Steve Wozniak"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "In web design, what does CSS stand for?",
+        "correct_answer": "Cascading Style Sheet",
+        "incorrect_answers": [
+            "Counter Strike: Source",
+            "Corrective Style Sheet",
+            "Computer Style Sheet"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Who was the first man to travel into outer space twice?",
+        "correct_answer": "Gus Grissom",
+        "incorrect_answers": [
+            "Vladimir Komarov",
+            "Charles Conrad",
+            "Yuri Gagarin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Which of these Movies was NOT released in 1996?",
+        "correct_answer": "Gladiator",
+        "incorrect_answers": [
+            "Independence Day",
+            "The Rock",
+            "Mission: Impossible"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Blinky, Pinky, Inky and Clyde are characters from which classic video game?",
+        "correct_answer": "Pac-Man",
+        "incorrect_answers": [
+            "Gauntlet",
+            "Space Invaders",
+            "Street Fighter"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "DragonForce&#039;s &#039;Through the Fire and Flames&#039; is widely considered to be the hardest song in the Guitar Hero series.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    }
+]

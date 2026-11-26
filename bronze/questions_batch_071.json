@@ -1,0 +1,590 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;A Certain Magical Index,&quot; what is Accelerator able to control?",
+        "correct_answer": "Vectors",
+        "incorrect_answers": [
+            "Velocity",
+            "Quantums",
+            "Wormholes"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Alan Reed is known for providing the voice of which character?",
+        "correct_answer": "Fred Flintstone",
+        "incorrect_answers": [
+            "Bugs Bunny",
+            "Fangface",
+            "G.I. Joe"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "When Halo 3: ODST was unveiled in 2008, it had a different title. What was the game formally called?",
+        "correct_answer": "Halo 3: Recon",
+        "incorrect_answers": [
+            "Halo 3: Helljumpers",
+            "Halo 3: Phantom",
+            "Halo 3: Guerilla"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which Australian Prime Minister disappeared in 1967 and was never found?",
+        "correct_answer": "Harold Holt",
+        "incorrect_answers": [
+            "Paul Keating",
+            "Edmund Barton",
+            "Scott Morrison"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "What is the world&#039;s oldest known piece of fiction?",
+        "correct_answer": "Epic of Gilgamesh",
+        "incorrect_answers": [
+            "Papyrus of Ani",
+            "Code of Hammurabi",
+            "Rosetta Stone"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "What is the name of the protagonist of J.D. Salinger&#039;s novel Catcher in the Rye?",
+        "correct_answer": "Holden Caulfield",
+        "incorrect_answers": [
+            "Fletcher Christian",
+            "Jay Gatsby",
+            "Randall Flagg"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Spain was formed in 1469 with the marriage of Isabella I of Castile and Ferdinand II of what other Iberian kingdom?",
+        "correct_answer": "Aragon",
+        "incorrect_answers": [
+            "Galicia",
+            "Le&oacute;n",
+            "Navarre"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What is the name of Sid&#039;s dog in &quot;Toy Story&quot;?",
+        "correct_answer": "Scud",
+        "incorrect_answers": [
+            "Buster",
+            "Whiskers",
+            "Mr. Jones"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who was the first emperor of Rome?",
+        "correct_answer": "Augustus ",
+        "incorrect_answers": [
+            "Julius Caesar",
+            "Pompey Magnus",
+            "Claudius"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which CS:GO eSports team won the major event ESL One Cologne 2016?",
+        "correct_answer": "SK Gaming",
+        "incorrect_answers": [
+            "Team Liquid",
+            "Fnatic",
+            "Virtus.pro"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Which band is the longest active band in the world with no breaks or line-up changes?",
+        "correct_answer": "U2",
+        "incorrect_answers": [
+            "Radiohead",
+            "Rush",
+            "Rolling Stones"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who plays the character of Po in the Kung Fu Panda movies?",
+        "correct_answer": "Jack Black",
+        "incorrect_answers": [
+            "Mirana Jonnes",
+            "McConahey Ramses",
+            "Jim Petersson"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of these countries is not a United Nations member state?",
+        "correct_answer": "Niue",
+        "incorrect_answers": [
+            "Tuvalu",
+            "South Sudan",
+            "Montenegro"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Terraria, you can craft the Cell Phone pre-hardmode.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "How many playable characters are there in Super Smash Bros. for Nintendo 3DS and Wii U?",
+        "correct_answer": "58",
+        "incorrect_answers": [
+            "48",
+            "51",
+            "55"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "How many points is the Z tile worth in Scrabble?",
+        "correct_answer": "10",
+        "incorrect_answers": [
+            "8",
+            "5",
+            "6"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "The very first recorded computer &quot;bug&quot; was a moth found inside a Harvard Mark II computer.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What is the real name of prominent electronic musician Aphex Twin?",
+        "correct_answer": "Richard D. James",
+        "incorrect_answers": [
+            "Richard M. Hall",
+            "Richard W. Wright",
+            "Richard H. Blackmore"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Myopia is the scientific term for which condition?",
+        "correct_answer": "Shortsightedness",
+        "incorrect_answers": [
+            "Farsightedness",
+            "Double Vision",
+            "Clouded Vision"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The default playermodel of Garry&#039;s Mod is this Half Life 2 character.",
+        "correct_answer": "Isaac Kleiner",
+        "incorrect_answers": [
+            "G-Man",
+            "Alyx Vance",
+            "Gordon Freeman"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which popular rock band has a one-armed drummer?",
+        "correct_answer": "Def Leppard",
+        "incorrect_answers": [
+            "The Beatles",
+            "Lynyrd Skynyrd",
+            "Foreigner"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "Which species is a &quot;mountain chicken&quot;?",
+        "correct_answer": "Frog",
+        "incorrect_answers": [
+            "Chicken",
+            "Horse",
+            "Fly"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following is not a prosecutor in the &quot;Ace Attorney&quot; video game series?",
+        "correct_answer": "Jake Marshall",
+        "incorrect_answers": [
+            "Godot",
+            "Miles Edgeworth",
+            "Jacques Portsman"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "&quot;Rich Uncle Pennybags&quot; from the board game &quot;Monopoly&quot; wears a monocle.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "The first &quot;Metal Gear&quot; game was released for the PlayStation 1.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In the TV show &quot;Cheers&quot;, Sam Malone was a former relief pitcher for which baseball team?",
+        "correct_answer": "Boston Red Sox",
+        "incorrect_answers": [
+            "New York Mets",
+            "Baltimore Orioles",
+            "Milwaukee Brewers"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "In which situation was musician John Lennon assassinated?",
+        "correct_answer": "Attempting to enter the Dakota Apartments building",
+        "incorrect_answers": [
+            "During an impromptu walk through Central Park",
+            "Signing an autograph outside the Record Plant studio",
+            "Waiting outside a music venue in Manhattan following a gig"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "The 2014 movie &quot;The Raid 2: Berandal&quot; was mainly filmed in which Asian country?",
+        "correct_answer": "Indonesia",
+        "incorrect_answers": [
+            "Thailand",
+            "Brunei",
+            "Malaysia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What is the name of the cognitive bias wherein a person with low ability in a particular skill mistake themselves as being superior?",
+        "correct_answer": "Dunning-Kruger effect",
+        "incorrect_answers": [
+            "Meyers-Briggs effect",
+            "M&uuml;ller-Lyer effect",
+            "Freud-Hall effect"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What was the name of one of the surviving palaces of Henry VIII located near Richmond, London?",
+        "correct_answer": "Hampton Court",
+        "incorrect_answers": [
+            "St James&#039;s Palace",
+            "Buckingham Palace",
+            "Coughton Court"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "What is the name of Death Grips Front Man, MC Ride?",
+        "correct_answer": "Stefan Burnett",
+        "incorrect_answers": [
+            "Zach Hill",
+            "Andy Morin",
+            "Stanley Burrell"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What household item make the characters of &quot;Steins; Gate&quot; travel through time?",
+        "correct_answer": "Microwave",
+        "incorrect_answers": [
+            "Computer",
+            "Refrigerator",
+            "Televison"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What zodiac sign is represented by a pair of scales?",
+        "correct_answer": "Libra",
+        "incorrect_answers": [
+            "Aries",
+            "Capricorn",
+            "Sagittarius"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What cell organelle is known as &quot;the powerhouse of the cell?&quot;",
+        "correct_answer": "Mitochondria",
+        "incorrect_answers": [
+            "Nucleus",
+            "Golgi apparatus",
+            "Endoplasmic reticulum"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "In aerodynamics, which force pushes an object upwards?",
+        "correct_answer": "Lift",
+        "incorrect_answers": [
+            "Drag",
+            "Weight",
+            "Thrust"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of your team in Star Wars: Republic Commando?",
+        "correct_answer": "Delta Squad",
+        "incorrect_answers": [
+            "The Commandos",
+            "Bravo Six",
+            "Vader&#039;s Fist"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "How many scoring zones are there on a conventional dart board?",
+        "correct_answer": "82",
+        "incorrect_answers": [
+            "62",
+            "42",
+            "102"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Comics",
+        "question": "What is the alter-ego of the DC comics character &quot;Superman&quot;?",
+        "correct_answer": "Clark Kent",
+        "incorrect_answers": [
+            "Bruce Wayne",
+            "Arthur Curry",
+            "John Jones"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "What was the name of the first Robin in the Batman comics?",
+        "correct_answer": "Dick Grayson",
+        "incorrect_answers": [
+            "Bruce Wayne",
+            "Jason Todd",
+            "Tim Drake"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Rainbow Six: Siege&quot;, which of the following operators cannot breach reinforced walls?",
+        "correct_answer": "Buck",
+        "incorrect_answers": [
+            "Thermite",
+            "Hibana",
+            "Maverick"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Watch_Dogs 2 is a prequel.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "In 2010, Twitter and the United States Library of Congress partnered together to archive every tweet by American citizens.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Night In The Woods, what is Mae Borowski mother&#039;s name?",
+        "correct_answer": "Candy",
+        "incorrect_answers": [
+            "Jenny",
+            "Margaret",
+            "Kate"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "When did the French Revolution begin?",
+        "correct_answer": "May 05 1789",
+        "incorrect_answers": [
+            "April 12 1789",
+            "April 05 1789",
+            "May 06 1799"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which part from the JoJo&#039;s Bizarre Adventure manga is about a horse race across America?",
+        "correct_answer": "Part 7: Steel Ball Run",
+        "incorrect_answers": [
+            "Part 6: Stone Ocean",
+            "Part 3: Stardust Crusaders",
+            "Part 5: Golden Wind"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the northernmost human settlement with year round inhabitants?",
+        "correct_answer": "Alert, Canada",
+        "incorrect_answers": [
+            "Nagurskoye, Russia",
+            "McMurdo Station, Antarctica ",
+            "Honningsv&aring;g, Norway"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What lies at the center of our galaxy?",
+        "correct_answer": "A black hole",
+        "incorrect_answers": [
+            "A wormhole",
+            "A supernova",
+            "A quasar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What is the real name of &quot;Warhead&quot; in the Sega Genesis game &quot;Vectorman&quot;?",
+        "correct_answer": "Raster",
+        "incorrect_answers": [
+            "Peacehead",
+            "Vectorkid",
+            "Bitmap"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "This movie contains the quote, &quot;Nobody puts Baby in a corner.&quot;",
+        "correct_answer": "Dirty Dancing",
+        "incorrect_answers": [
+            "Three Men and a Baby",
+            "Ferris Bueller&#039;s Day Off",
+            "Pretty in Pink"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What device allows Tracer to manipulate her own time in the game &quot;Overwatch&quot;?",
+        "correct_answer": "Chronal Accelerator",
+        "incorrect_answers": [
+            "B.L.I.N.K",
+            "Spacial Displacement Manipulator",
+            "TMD (Time Manipulation Device)"
+        ]
+    }
+]

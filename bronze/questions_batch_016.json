@@ -1,0 +1,592 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "What is the approximate value of mathematical constant e?",
+        "correct_answer": "2.72",
+        "incorrect_answers": [
+            "3.14",
+            "1.62",
+            "1.41"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Amsterdam Centraal station is twinned with what station?",
+        "correct_answer": "London Liverpool Street",
+        "incorrect_answers": [
+            "Frankfurt (Main) Hauptbahnhof",
+            "Paris Gare du Nord",
+            "Brussels Midi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Which of the following is NOT a real song from the band Thousand Foot Krutch?",
+        "correct_answer": "Limitless Fury",
+        "incorrect_answers": [
+            "Let The Sparks Fly",
+            "Down",
+            "Give Up The Ghost"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In Left 4 Dead, what is the character Bill&#039;s last name?",
+        "correct_answer": "Overbeck",
+        "incorrect_answers": [
+            "Fish",
+            "Roberts",
+            "Stevenson"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "The most frequent subconscious activity repeated by the human body is blinking.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "What is the first track on the Dave Matthews Band album &quot;Before These Crowded Streets&quot;?",
+        "correct_answer": "Pantala Naga Pampa",
+        "incorrect_answers": [
+            "Stay (Wasting Time)",
+            "Rapunzel",
+            "Don&#039;t Drink The Water"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "The video game &quot;Fuel&quot; has an open world that is 5,560 square miles?",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "What year did Gerald Ford Become President?",
+        "correct_answer": "1974",
+        "incorrect_answers": [
+            "1977",
+            "1973",
+            "1969"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "The Statue of Liberty&#039;s official name is &ldquo;Liberty Enlightening the World&rdquo;.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the profession of Elon Musk&#039;s mom, Maye Musk?",
+        "correct_answer": "Model",
+        "incorrect_answers": [
+            "Professor",
+            "Biologist",
+            "Musician"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What studio animated Fullmetal Alchemist?",
+        "correct_answer": "Bones",
+        "incorrect_answers": [
+            "Trigger",
+            "Pierrot",
+            "xebec"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "What is the name of the main character in the webcomic Gunnerkrigg Court by Tom Siddell?",
+        "correct_answer": "Antimony",
+        "incorrect_answers": [
+            "Bismuth",
+            "Mercury",
+            "Cobalt"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "What was the development code name for the &quot;Weatherlight&quot; expansion for &quot;Magic: The Gathering&quot;, released in 1997?",
+        "correct_answer": "Mocha Latte",
+        "incorrect_answers": [
+            "Decaf",
+            "Frappuccino",
+            "Macchiato"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which king was killed at the Battle of Bosworth Field in 1485? ",
+        "correct_answer": "Richard III",
+        "incorrect_answers": [
+            "Edward V",
+            "Henry VII",
+            "James I"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "What is the name of the album released in 2014 by American band Maroon 5?",
+        "correct_answer": "V",
+        "incorrect_answers": [
+            "X",
+            "III",
+            "IV"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "In Star Trek, what is the name of Spock&#039;s father?",
+        "correct_answer": "Sarek",
+        "incorrect_answers": [
+            "Tuvok",
+            "T&#039;Pal",
+            "Surak"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What is the name of the main antagonists in Battlestar Galactica?",
+        "correct_answer": "The Cylons",
+        "incorrect_answers": [
+            "The Collective",
+            "The Federation",
+            "The Rebels"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "How tall is the Burj Khalifa?",
+        "correct_answer": "2,722 ft",
+        "incorrect_answers": [
+            "2,717 ft",
+            "2,546 ft",
+            "3,024 ft"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "In Jeff Wayne&#039;s Musical Version of War of the Worlds, the chances of anything coming from Mars are...",
+        "correct_answer": "A million to one",
+        "incorrect_answers": [
+            "A billion to one",
+            "A trillion to one",
+            "A hundred to one"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "The album reputation by Taylor Swift has 15 songs",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which of these stars is the largest?",
+        "correct_answer": "UY Scuti",
+        "incorrect_answers": [
+            "VY Canis Majoris",
+            "Betelgeuse",
+            "RW Cephei"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the name of NASA&rsquo;s most famous space telescope?",
+        "correct_answer": "Hubble Space Telescope",
+        "incorrect_answers": [
+            "Big Eye",
+            "Death Star",
+            "Millenium Falcon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following games in the The Legend of Zelda franchise was released in North America before Japan?",
+        "correct_answer": "The Legend of Zelda: Twilight Princess",
+        "incorrect_answers": [
+            "Zelda II: The Adventure of Link",
+            "The Legend of Zelda: Four Swords Adventures",
+            "The Legend of Zelda: Majora&#039;s Mask"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which year was the album &quot;Year of the Snitch&quot; by Death Grips released?",
+        "correct_answer": "2018",
+        "incorrect_answers": [
+            "2013",
+            "2017",
+            "2011"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Marilyn Monroe was born on July 1, 1926.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "Which of these cards from &quot;Magic: The Gathering&quot; has a flavor text that begins with &quot;Oi oi oi&quot;?",
+        "correct_answer": "Uthden Troll",
+        "incorrect_answers": [
+            "Lotleth Troll",
+            "Albino Troll",
+            "Harvester Troll"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What is the standard SI unit for time?",
+        "correct_answer": "Second",
+        "incorrect_answers": [
+            "Minute",
+            "Hour",
+            "Day"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Who won the 2017 Formula One World Drivers&#039; Championship?",
+        "correct_answer": "Lewis Hamilton",
+        "incorrect_answers": [
+            "Sebastian Vettel",
+            "Nico Rosberg",
+            "Max Verstappen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Which artist painted the late 15th century mural &#039;The Last Supper&#039;?",
+        "correct_answer": "Leonardo da Vinci",
+        "incorrect_answers": [
+            "Piero della Francesca",
+            "Paolo Uccello",
+            "Luca Pacioli"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In the Super Mario Bros. Movie (2023), who plays Toad?",
+        "correct_answer": "Keegan-Michael Key",
+        "incorrect_answers": [
+            "Seth Rogan",
+            "Charlie Day",
+            "Jack Black"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is Tasmania?",
+        "correct_answer": "An Australian State",
+        "incorrect_answers": [
+            "A flavor of Ben and Jerry&#039;s ice-cream",
+            "A Psychological Disorder",
+            "The Name of a Warner Brothers Cartoon Character"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who was the voice actor for Snake in Metal Gear Solid V: The Phantom Pain?",
+        "correct_answer": "Kiefer Sutherland",
+        "incorrect_answers": [
+            "David Hayter",
+            "Norman Reedus",
+            "Hideo Kojima"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "When was the programming language &quot;C#&quot; released?",
+        "correct_answer": "2000",
+        "incorrect_answers": [
+            "1998",
+            "1999",
+            "2001"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "&quot;The Genius&quot; is the original and secondary name of which Wu-Tang Clan member?",
+        "correct_answer": "GZA",
+        "incorrect_answers": [
+            "Ghostface Killah",
+            "Ol&#039; Dirty Bastard",
+            "Raekwon the Chef"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "What song includes the words &quot;Numa Numa&quot; which was subject to a Viral Video in 2004?",
+        "correct_answer": "Dragostea Din Tei",
+        "incorrect_answers": [
+            "Despacito",
+            "Gangnam Style",
+            "Asereje"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is the hardest possible difficulty in &quot;Deus Ex: Mankind Divided&quot;?",
+        "correct_answer": "I Never Asked For This",
+        "incorrect_answers": [
+            "Nightmare",
+            "Extreme",
+            "Guru"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?",
+        "correct_answer": "Micronesia",
+        "incorrect_answers": [
+            "Fiji",
+            "Tuvalu",
+            "Marshall Islands"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What year is considered to be the year that the British Empire ended?",
+        "correct_answer": "1997",
+        "incorrect_answers": [
+            "1986",
+            "1981",
+            "1971"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which of the following movies was not based on a book?",
+        "correct_answer": "Citizen Kane",
+        "incorrect_answers": [
+            "The Godfather",
+            "Forrest Gump",
+            "Jurassic Park"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "What is the name of the AHL affiliate of the Toronto Maple Leafs?",
+        "correct_answer": "Toronto Marlies",
+        "incorrect_answers": [
+            "Toronto Rock",
+            "Toronto Argonauts",
+            "Toronto Wolfpack"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What is rapper Drake&#039;s real name?",
+        "correct_answer": "Aubrey Graham",
+        "incorrect_answers": [
+            "Shaun Carter",
+            "Dwayne Carter",
+            "Andre Young"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Comics",
+        "question": "The main six year old protagonist in Calvin and Hobbes is named after what theologian?",
+        "correct_answer": "John Calvin",
+        "incorrect_answers": [
+            "Calvin Klein",
+            "Calvin Coolidge",
+            "Phillip Calvin McGraw"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is H2O?",
+        "correct_answer": "Water",
+        "incorrect_answers": [
+            "Oxygen",
+            "Hydrogen",
+            "None"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of these is not a member of the virtual band Gorillaz?",
+        "correct_answer": "Phi Cypher",
+        "incorrect_answers": [
+            "Murdoc Niccals",
+            "Noodle",
+            "Russel Hobbs"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "In 2013 how much money was lost by Nigerian scams?",
+        "correct_answer": "$12.7 Billion",
+        "incorrect_answers": [
+            "$95 Million",
+            "$956 Million",
+            "$2.7 Billion"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "In &quot;Donkey Kong Country&quot;, why does Donkey Kong want to know the secret of the crystal coconut?",
+        "correct_answer": "He&#039;s the big kahuna.",
+        "incorrect_answers": [
+            "To find out where all the bananas are.",
+            "Because Diddy Kong forced him.",
+            "He wants to punish brutes."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "What team did England beat to win in the 1966 World Cup final?",
+        "correct_answer": "West Germany",
+        "incorrect_answers": [
+            "Soviet Union",
+            "Portugal",
+            "Brazil"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the largest organ of the human body?",
+        "correct_answer": "Skin",
+        "incorrect_answers": [
+            "Heart",
+            "large Intestine",
+            "Liver"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+        "correct_answer": "Bullfighting",
+        "incorrect_answers": [
+            "Fiestas",
+            "Flamenco",
+            "Mariachi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What age was King Henry V when he died?",
+        "correct_answer": "35",
+        "incorrect_answers": [
+            "62",
+            "87",
+            "73"
+        ]
+    }
+]

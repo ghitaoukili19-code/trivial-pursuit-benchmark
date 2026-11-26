@@ -1,0 +1,594 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In what year did the manga &quot;Ping Pong&quot; begin serialization?",
+        "correct_answer": "1996",
+        "incorrect_answers": [
+            "2014",
+            "2010",
+            "2003"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "In the  Rossini opera, what was the name of &#039;The Barber of Seville&#039;?",
+        "correct_answer": "Figaro",
+        "incorrect_answers": [
+            "Angelo",
+            "Fernando",
+            "Dave"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which team won the &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; Invitational Event February 2017 in the PC Category?",
+        "correct_answer": "Continuum",
+        "incorrect_answers": [
+            "GIFU",
+            "Santos Dexterity",
+            "eRa Eternity"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the main character of Metal Gear Solid 2?",
+        "correct_answer": "Raiden",
+        "incorrect_answers": [
+            "Solidus Snake",
+            "Big Boss",
+            "Venom Snake"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Sciophobia is the fear of what?",
+        "correct_answer": "Shadows",
+        "incorrect_answers": [
+            "Eating",
+            "Bright lights",
+            "Transportation"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which game won the &quot;Games for Impact&quot; award in The Game Awards 2015?",
+        "correct_answer": "Life is Strange",
+        "incorrect_answers": [
+            "Ori and the Blind Forest",
+            "Rocket League",
+            "Metal Gear Solid V: The Phantom Pain"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "What is the highest belt you can get in Taekwondo?",
+        "correct_answer": "Black",
+        "incorrect_answers": [
+            "White",
+            "Red",
+            "Green"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "What is Homestuck character Gamzee&#039;s last name?",
+        "correct_answer": "Makara",
+        "incorrect_answers": [
+            "Makera",
+            "Makare",
+            "Makrea"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Gadgets",
+        "question": "Which of the following is used to measure blood pressure?",
+        "correct_answer": "Sphygmomanometer",
+        "incorrect_answers": [
+            "Barometer",
+            "Ruler",
+            "Haemoerythrometer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which country is hosting the 2022 FIFA World Cup?",
+        "correct_answer": "Qatar",
+        "incorrect_answers": [
+            "Uganda",
+            "Vietnam",
+            "Bolivia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In the animated series RWBY, what is the name of the weapon used by Weiss Schnee?",
+        "correct_answer": "Myrtenaster",
+        "incorrect_answers": [
+            "Gambol Shroud",
+            "Crescent Rose",
+            "Ember Celica"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the largest hot desert in the world?",
+        "correct_answer": "Sahara",
+        "incorrect_answers": [
+            "Gobi",
+            "Mojave",
+            "Kalahari"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which U.S. President was famously &#039;attacked&#039; by a swimming rabbit?",
+        "correct_answer": "Jimmy Carter",
+        "incorrect_answers": [
+            "Ronald Reagan",
+            "Lydon B. Johnson",
+            "Gerald Ford"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "What is the name of the fictional retro-mod band starring Austin Powers as the lead vocalist?",
+        "correct_answer": "Ming Tea",
+        "incorrect_answers": [
+            "Cough Fi",
+            "Spear Mint",
+            "Mister E"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "An atom contains a nucleus.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "Hera is god of...",
+        "correct_answer": "Marriage",
+        "incorrect_answers": [
+            "Agriculture",
+            "Sea",
+            "War"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which countries participated in the Lobster War?",
+        "correct_answer": "France and Brazil",
+        "incorrect_answers": [
+            "Canada and Norway",
+            "Australia and New Zealand",
+            "United States and England"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Who had a 1983 hit with the song &#039;Africa&#039;?",
+        "correct_answer": "Toto",
+        "incorrect_answers": [
+            "Foreigner",
+            "Steely Dan",
+            "Journey"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Which of these species is not extinct?",
+        "correct_answer": "Komodo dragon",
+        "incorrect_answers": [
+            "Japanese sea lion",
+            "Tasmanian tiger",
+            "Saudi gazelle"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the Super Mario Bros. series, what game is the  &quot;Carrot&quot; power-up from?",
+        "correct_answer": "Super Mario Land 2: The 6 Golden Coins",
+        "incorrect_answers": [
+            "Super Mario World",
+            "Super Mario Land",
+            "Super Mario 3D Land"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Dihydrogen Monoxide was banned due to health risks after being discovered in 1983 inside swimming pools and drinking water.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What type of creature is a Bonobo?",
+        "correct_answer": "Ape",
+        "incorrect_answers": [
+            "Lion",
+            "Parrot",
+            "Wildcat"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In &quot;The Big Bang Theory&quot;, what is Howard Wolowitz&#039;s nickname in World of Warcraft?",
+        "correct_answer": "Wolowizard",
+        "incorrect_answers": [
+            "Sheldor",
+            "Rajesh",
+            "Priya"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In Monster Hunter Generations, which of these hunter arts are exclusive to the Longsword?",
+        "correct_answer": "Unhinged Spirit",
+        "incorrect_answers": [
+            "Shoryugeki",
+            "Provoke",
+            "Demon Riot"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Which of the following was not an actor/actress on the American television show &quot;Saturday Night Live&quot; in Season 42?",
+        "correct_answer": "Tina Fey",
+        "incorrect_answers": [
+            "Mikey Day",
+            "Kate McKinnon",
+            "Sasheer Zamata"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which country gifted the Statue of Liberty to the United States of America?",
+        "correct_answer": "France",
+        "incorrect_answers": [
+            "Spain",
+            "England",
+            "Germany"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What was the title of Sakamoto Kyu&#039;s song &quot;Ue o Muite Arukou&quot; (I Look Up As I Walk) changed to in the United States?",
+        "correct_answer": "Sukiyaki",
+        "incorrect_answers": [
+            "Takoyaki",
+            "Sushi",
+            "Oden"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "Harry Potter was born on July 31st, 1980.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Where is Apple Inc. headquartered?",
+        "correct_answer": "Cupertino, California",
+        "incorrect_answers": [
+            "Redwood City, California",
+            "Redmond, Washington",
+            "Santa Monica, CA"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What is the elemental symbol for mercury?",
+        "correct_answer": "Hg",
+        "incorrect_answers": [
+            "Me",
+            "Mc",
+            "Hy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In World of Warcraft lore, who was first to have the title &quot;The Ashbringer&quot;?",
+        "correct_answer": "Alexandros Mograine",
+        "incorrect_answers": [
+            "Tirion Fordring",
+            "Arthas Menethil",
+            "Uther the Lightbringer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "When was Hubba Bubba first introduced?",
+        "correct_answer": "1979",
+        "incorrect_answers": [
+            "1984",
+            "1972",
+            "1980"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What year did Australia become a federation?",
+        "correct_answer": "1901",
+        "incorrect_answers": [
+            "1910",
+            "1899",
+            "1911"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What is the official language in Barcelona beside Spanish?",
+        "correct_answer": "Catalan",
+        "incorrect_answers": [
+            " Galician",
+            "French",
+            "Basque"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "The Andrew Lloyd Webber musical &quot;Cats&quot; is based off a book of poems written by which author?",
+        "correct_answer": "T.S. Elliot",
+        "incorrect_answers": [
+            "Andrew Lloyd Webber",
+            "Emily Dickenson",
+            "Robert Frost"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What was the title of ABBA`s first UK hit single?",
+        "correct_answer": "Waterloo",
+        "incorrect_answers": [
+            "Mamma Mia",
+            "Fernando",
+            "Dancing Queen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "What national team won the first UEFA Nations League?",
+        "correct_answer": "Portugal",
+        "incorrect_answers": [
+            "Netherlands",
+            "England",
+            "Switzerland"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What was the name of the first MMORPG to popularize the genre?",
+        "correct_answer": "Ultima Online",
+        "incorrect_answers": [
+            "World of Warcraft",
+            "Meridian 59",
+            "Guild Wars"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Pete Townshend was the first musician to destroy their intrument live on stage.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What is an example of a bacterial pathogen?",
+        "correct_answer": "Cholera",
+        "incorrect_answers": [
+            "Measles ",
+            "AIDS",
+            "Ringworm"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "What Magic: The Gathering card&#039;s flavor text is just &#039;Ribbit.&#039;?",
+        "correct_answer": "Turn to Frog",
+        "incorrect_answers": [
+            "Spore Frog",
+            "Bloated Toad",
+            "Frogmite"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Which of these is NOT a song featured on the Lockjaw EP released in 2013 by Flume &amp; Chet Faker?",
+        "correct_answer": "Left Alone",
+        "incorrect_answers": [
+            "What About Us",
+            "This Song Is Not About A Girl",
+            "Drop The Game"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Where is Hadrian&#039;s Wall located?",
+        "correct_answer": "Carlisle, England",
+        "incorrect_answers": [
+            "Rome, Italy",
+            "Alexandria, Egypt",
+            "Dublin, Ireland"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What was the unofficial name for Germany between 1919 and 1933?",
+        "correct_answer": "Weimar Republic",
+        "incorrect_answers": [
+            "German Democratic Republic",
+            "Federal Republic of Germany",
+            "Oesterreich "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The Hagia Sophia was commissioned by which emperor of the Byzantine Empire?",
+        "correct_answer": "Justinian I",
+        "incorrect_answers": [
+            "Constantine IV",
+            "Arcadius",
+            "Theodosius the Great"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "The notion of a &quot;set that contains all sets which do not contain themselves&quot; is a paradoxical idea attributed to which English philosopher?",
+        "correct_answer": "Bertrand Russel",
+        "incorrect_answers": [
+            "Francis Bacon",
+            "John Locke",
+            "Alfred North Whitehead"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Overwatch,&quot; what is the hero McCree&#039;s full name?",
+        "correct_answer": "Jesse McCree",
+        "incorrect_answers": [
+            "Jack &quot;McCree&quot; Morrison",
+            "Gabriel Reyes",
+            "Jamison &quot;Deadeye&quot; Fawkes"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the game &quot;Subnautica&quot;, which feature was removed due to performance issues in 2016?",
+        "correct_answer": "Terraforming",
+        "incorrect_answers": [
+            "Building",
+            "Crafting",
+            "Multiplayer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which two teams played in Super Bowl XLII?",
+        "correct_answer": "The New York Giants &amp; The New England Patriots",
+        "incorrect_answers": [
+            "The Green Bay Packers &amp; The Pittsburgh Steelers",
+            "The Philadelphia Eagles &amp; The New England Patriots",
+            "The Seattle Seahawks &amp; The Denver Broncos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Gadgets",
+        "question": "Which gaming console is developed by Sony?",
+        "correct_answer": "PlayStation",
+        "incorrect_answers": [
+            "Xbox",
+            "Atari",
+            "Nintendo Switch"
+        ]
+    }
+]

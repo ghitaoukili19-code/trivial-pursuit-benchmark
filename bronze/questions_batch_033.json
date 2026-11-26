@@ -1,0 +1,588 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "What is a polygon with eight sides called?",
+        "correct_answer": "Octagon",
+        "incorrect_answers": [
+            "Hexagon",
+            "Nanagon",
+            "Heptagon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "Which Shakespeare play features the stage direction &quot;Enter a messenger, with two heads and a hand&quot;?",
+        "correct_answer": "Titus Andronicus",
+        "incorrect_answers": [
+            "Othello",
+            "Macbeth",
+            "King Lear"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "The tuba is a part of which musical family?",
+        "correct_answer": "Brass",
+        "incorrect_answers": [
+            "Percussion",
+            "Strings",
+            "Woodwind"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What was the bloodiest single-day battle during the American Civil War?",
+        "correct_answer": "The Battle of Antietam",
+        "incorrect_answers": [
+            "The Siege of Vicksburg",
+            "The Battle of Gettysburg",
+            "The Battles of Chancellorsville"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "What is the name of the song by Beyonc&eacute; and Alejandro Fern&aacute;ndez released in 2007?",
+        "correct_answer": "Amor Gitano",
+        "incorrect_answers": [
+            "La ultima vez",
+            "Rocket",
+            "Hasta Dondes Estes"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In Ms. Kobayashi&#039;s Dragon Maid, who is Kobayashi&#039;s maid?",
+        "correct_answer": "Tohru",
+        "incorrect_answers": [
+            "Lucoa",
+            "Kanna",
+            "Elma"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the 1980s, a service called Gameline allowed users to download games to what console?",
+        "correct_answer": "Atari 2600",
+        "incorrect_answers": [
+            "Sega Genesis",
+            "Nintendo Entertainment System",
+            "ColecoVision"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the game Nuclear Throne, what organization chases the player character throughout the game?",
+        "correct_answer": "The I.D.P.D",
+        "incorrect_answers": [
+            "The Fishmen",
+            "The Bandits",
+            "The Y.V.G.G"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "During the events of Half-Life: Opposing Force, what is the age of Adrian Shephard, the protagonist?",
+        "correct_answer": "22",
+        "incorrect_answers": [
+            "23",
+            "21",
+            "24"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In The Witcher 3, the Zoltan Chivay Gwent card can be found under the Hanged Man&#039;s Tree.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "The LS7 engine is how many cubic inches?",
+        "correct_answer": "427",
+        "incorrect_answers": [
+            "346",
+            "364",
+            "376"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In what year did Microsoft release the original Xbox console in North America?",
+        "correct_answer": "2001",
+        "incorrect_answers": [
+            "1998",
+            "2003",
+            "1996"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Who played the Cenobite called &quot;Pinhead&quot; in the original Hellraiser films?",
+        "correct_answer": "Doug Bradley",
+        "incorrect_answers": [
+            "Doug Jones",
+            "Doug Savant",
+            "Doug Benson"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Albert Einstein had trouble with mathematics when he was in school.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which of the following songs was not originally released by Sir Elton John? ",
+        "correct_answer": "You&#039;ll Be In My Heart",
+        "incorrect_answers": [
+            "Crocodile Rock",
+            "Candle in the Wind",
+            "I Don&#039;t Wanna Go On With You Like That"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is the main ship used by Commander Shepard in the Mass Effect Franchise called?",
+        "correct_answer": "Normandy",
+        "incorrect_answers": [
+            "Osiris",
+            "Infinity",
+            "Endeavour"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "In computing terms, typically what does CLI stand for?",
+        "correct_answer": "Command Line Interface",
+        "incorrect_answers": [
+            "Common Language Input",
+            "Control Line Interface",
+            "Common Language Interface"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What type of cheese, loved by Wallace and Gromit, had it&#039;s sale prices rise after their successful short films?",
+        "correct_answer": "Wensleydale",
+        "incorrect_answers": [
+            "Cheddar",
+            "Moon Cheese",
+            "Edam"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which Touhou character is a Hell Raven?",
+        "correct_answer": "Utsuho Reiuji",
+        "incorrect_answers": [
+            "Flandre Scarlet",
+            "Marisa Kirisame",
+            "Aya Shameimaru"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In which year was Constantinople conquered by the Turks?",
+        "correct_answer": "1453",
+        "incorrect_answers": [
+            "1435",
+            "1454",
+            "1440"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "In the English language, what is the name of the &quot;&amp;&quot; character?",
+        "correct_answer": "Ampersand",
+        "incorrect_answers": [
+            "Eightslash",
+            "And Sign",
+            "Obelus "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What are Sans and Papyrus named after in &quot;Undertale&quot;?",
+        "correct_answer": "Fonts",
+        "incorrect_answers": [
+            "Plants",
+            "Companies",
+            "Ancient writing paper"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which boxer was banned for taking a bite out of Evander Holyfield&#039;s ear in 1997?",
+        "correct_answer": "Mike Tyson",
+        "incorrect_answers": [
+            "Roy Jones Jr.",
+            "Evander Holyfield",
+            "Lennox Lewis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "How many cards are there in a standard deck of playing cards?",
+        "correct_answer": "52",
+        "incorrect_answers": [
+            "32",
+            "40",
+            "64"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which team won the first Overwatch League championship?",
+        "correct_answer": "London Spitfire",
+        "incorrect_answers": [
+            "Philadelphia Fusion",
+            "New York Excelsior",
+            "Seoul Dynasty"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "One of the Nintendo Entertainment System voice channels supports playback of sound samples. Which one?",
+        "correct_answer": "DMC",
+        "incorrect_answers": [
+            "Noise",
+            "Triangle",
+            "Square"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What part of the body produces insulin?",
+        "correct_answer": "Pancreas",
+        "incorrect_answers": [
+            "Kidney",
+            "Liver",
+            "Stomach"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Which dog breed is named after a region in Croatia",
+        "correct_answer": "Dalmatian",
+        "incorrect_answers": [
+            "Pekingnese",
+            "Chihuahua ",
+            "Pomeranian"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which of the following carbonated soft drinks were introduced first?",
+        "correct_answer": "Dr. Pepper",
+        "incorrect_answers": [
+            "Coca-Cola",
+            "Sprite",
+            "Mountain Dew"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "In a standard game of Monopoly, what colour are the two cheapest properties?",
+        "correct_answer": "Brown",
+        "incorrect_answers": [
+            "Green",
+            "Yellow",
+            "Blue"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Call Of Duty: Zombies&quot;, which map features the &quot;Fly Trap&quot; easter egg?",
+        "correct_answer": "Der Riese",
+        "incorrect_answers": [
+            "Tranzit",
+            "Call Of The Dead",
+            "Shi No Numa"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "To become a &quot;one-hit wonder&quot; artist needs to release only one song per year.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "The show &quot;Gilligan&#039;s Island&quot; was cancelled because of low ratings.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "The General Motors EV1 was the first street-legal production electric vehicle.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who was the Prime Minister of the United Kingdom for most of World War II?",
+        "correct_answer": "Winston Churchill",
+        "incorrect_answers": [
+            "Neville Chamberlain",
+            "Harold Macmillan",
+            "Edward Heath"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the series JoJo&#039;s Bizarre Adventure, which main character makes the greatest number of recurring appearances?",
+        "correct_answer": "Jotaro Kujo",
+        "incorrect_answers": [
+            "Giorno Giovanna",
+            "Joseph Joestar",
+            "Josuke Higashikata"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Terry Gilliam was an animator that worked with which British comedy group?",
+        "correct_answer": "Monty Python",
+        "incorrect_answers": [
+            "The Goodies&lrm;",
+            "The League of Gentlemen&lrm;",
+            "The Penny Dreadfuls"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "The average woman is 5 inches / 13 centimeters shorter than the average man.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which of these founding fathers of the United States of America later became president?",
+        "correct_answer": "James Monroe",
+        "incorrect_answers": [
+            "Alexander Hamilton",
+            "Samuel Adams",
+            "Roger Sherman"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "The Suez Canal is located in which African country?",
+        "correct_answer": "Egypt",
+        "incorrect_answers": [
+            "Libya",
+            "Ghana",
+            "Nigeria"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is NOT a playable character race in the video game &quot;Starbound&quot;?",
+        "correct_answer": "Fenerox",
+        "incorrect_answers": [
+            "Floran",
+            "Novakid",
+            "Hylotl"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Which letter do you need to have on a European driver license in order to ride any motorbikes?",
+        "correct_answer": "A",
+        "incorrect_answers": [
+            "X",
+            "D",
+            "B"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What was the destination of the missing flight MH370?",
+        "correct_answer": "Beijing",
+        "incorrect_answers": [
+            "Kuala Lumpur",
+            "Singapore",
+            "Tokyo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is not a playable race in &quot;Final Fantasy XIV: A Realm Reborn&quot;?",
+        "correct_answer": "Hume",
+        "incorrect_answers": [
+            "Miqo&#039;te",
+            "Lalafell",
+            "Roegadyn"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Spoon theory is a theory, utilizing &quot;Spoons&quot; as a metaphor for energy they can use in a day.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which country attacked the USS Liberty on June 8, 1967?",
+        "correct_answer": "Israel",
+        "incorrect_answers": [
+            "Syria",
+            "Saudi Arabia",
+            "Iran"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who is the main protagonist in, the 1985 film, Back to the Future?",
+        "correct_answer": "Marty McFly",
+        "incorrect_answers": [
+            "Emmett &quot;Doc&quot; Brown",
+            "Biff Tannen",
+            "George McFly"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the game Paper Mario for the Nintendo 64 the first partner you meet is a Goomba, what is its name?",
+        "correct_answer": "Goombario",
+        "incorrect_answers": [
+            "Goombella",
+            "Goombarry",
+            "Goomby"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What is the real name of rapper, The Notorious B.I.G?",
+        "correct_answer": "Christopher Wallace",
+        "incorrect_answers": [
+            "Calvin Cordozar Broadus Jr.",
+            "O&#039;Shea Jackson",
+            "Eric Lynn Wright"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Who wrote and directed the animated movie &quot;Spirited Away&quot; (2001)?",
+        "correct_answer": "Hayao Miyazaki",
+        "incorrect_answers": [
+            "Isao Takahata",
+            "Mamoru Hosoda",
+            "Hidetaka Miyazaki"
+        ]
+    }
+]

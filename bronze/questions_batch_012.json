@@ -1,0 +1,590 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In TF2 Lore, what are the names of the Heavy&#039;s younger sisters?",
+        "correct_answer": "Yana and Bronislava",
+        "incorrect_answers": [
+            "Gaba and Anna",
+            "Yanna and Gaba",
+            "Anna and Bronislava"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "The LS2 engine is how many cubic inches?",
+        "correct_answer": "364",
+        "incorrect_answers": [
+            "346",
+            "376",
+            "402"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "In United States history, how many vice presidents did Franklin D. Roosevelt have during his time in office as president?",
+        "correct_answer": "3",
+        "incorrect_answers": [
+            "1",
+            "2",
+            "0"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In what year was the game &quot;Eliminator&quot; released?",
+        "correct_answer": "1998",
+        "incorrect_answers": [
+            "2000",
+            "1999",
+            "2001"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the &quot;Sailor Moon&quot; series, what is Sailor Jupiter&#039;s civilian name?",
+        "correct_answer": "Makoto Kino",
+        "incorrect_answers": [
+            "Minako Aino",
+            "Usagi Tsukino",
+            "Rei Hino"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "A wyvern is the same as a dragon.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Minecraft can be played with a virtual reality headset.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Who is the lead singer of the Smashing Pumpkins?",
+        "correct_answer": "Billy Corgan",
+        "incorrect_answers": [
+            "Brett Scallions",
+            "Eddie Vedder",
+            "Chino Moreno"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In the 1999 movie Fight Club, which of these is not a rule of the &quot;fight club&quot;?",
+        "correct_answer": "Always wear a shirt",
+        "incorrect_answers": [
+            "You do not talk about FIGHT CLUB",
+            "Only two guys to a fight",
+            "Fights will go on as long as they have to"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which American president appears on a one dollar bill?",
+        "correct_answer": "George Washington",
+        "incorrect_answers": [
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "Benjamin Franklin"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In World War II, Hawker Typhoons served in the Pacific theater.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "When was the game &quot;Roblox&quot; released?",
+        "correct_answer": "2006",
+        "incorrect_answers": [
+            "2003",
+            "2002",
+            "2007"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the game Nuclear Throne, which character starts with the least HP?",
+        "correct_answer": "Melting",
+        "incorrect_answers": [
+            "Crystal",
+            "Rebel",
+            "Yung Venuz (Y.V.)"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the &quot;Call Of Duty: Zombies&quot; map &quot;Moon&quot;, there is a secondary called the QED. What does QED stand for?",
+        "correct_answer": "Quantum Entanglement Device",
+        "incorrect_answers": [
+            "Quad Ectoplasmic Driver",
+            "Question Every Dog",
+            "Quality Edward Device"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of these Johns was murdered by gunshots outside the Dakota in New York in 1980?",
+        "correct_answer": "John Lennon",
+        "incorrect_answers": [
+            "Johnny Thunders",
+            "John Denver",
+            "John Cascella"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "What is Doug Walker&#039;s YouTube name?",
+        "correct_answer": "The Nostalgia Critic",
+        "incorrect_answers": [
+            "The Angry Video Game Nerd",
+            "AngryJoeShow",
+            "The Cinema Snob"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who was the first prime minister of Canada?",
+        "correct_answer": "John Macdonald",
+        "incorrect_answers": [
+            "John Abbott",
+            "Alexander Mackenzie",
+            "Robert Borden"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What is the mathematical formula of Ohm&#039;s law?",
+        "correct_answer": "V = I*R",
+        "incorrect_answers": [
+            "I = V*R",
+            "R = V*I",
+            "V = I / R"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "What engine is in the Lexus SC400?",
+        "correct_answer": "1UZ-FE",
+        "incorrect_answers": [
+            "2JZ-GTE",
+            "7M-GTE",
+            "5M-GE"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "The band &quot;Panic! At the Disco&quot; has released 4 albums total",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Miami is Florida&#039;s largest city.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is the name of rocky region that spans most of eastern Canada?",
+        "correct_answer": "Canadian Shield",
+        "incorrect_answers": [
+            "Rocky Mountains",
+            "Appalachian Mountains",
+            "Himalayas"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In the 2014 film &quot;Birdman&quot;, what is the primary instrument in the score?",
+        "correct_answer": "Drums",
+        "incorrect_answers": [
+            "Saxophone",
+            "Violin",
+            "Actual Live Birds Singing"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of the following cities is the capital of Latvia?",
+        "correct_answer": "Riga",
+        "incorrect_answers": [
+            "Minsk",
+            "Tallinn",
+            "Vilnius"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "What special item did the creators of Cards Against Humanity ship for their Black Friday pack?",
+        "correct_answer": "Bull Feces",
+        "incorrect_answers": [
+            "A Card Expansion",
+            "A Racist Toy",
+            "Cat Urine"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the Mario series, which game introduced Mario&#039;s Backflip ability?",
+        "correct_answer": "Donkey Kong (Gameboy)",
+        "incorrect_answers": [
+            "Super Mario 64",
+            "Super Mario 3D Land",
+            "Super Mario Galaxy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "Who played the Waitress in the Spam sketch of &quot;Monty Python&#039;s Flying Circus&quot;?",
+        "correct_answer": "Terry Jones",
+        "incorrect_answers": [
+            "Eric Idle",
+            "Graham Chapman",
+            "John Cleese"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which band had hits in 1975 with the songs, &#039;One Of These Nights&#039; &amp; &#039;Lyin Eyes&#039;?",
+        "correct_answer": "The Eagles",
+        "incorrect_answers": [
+            "Fools Gold",
+            "The Doobie Brothers",
+            "Fleetwood Mac"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What ingredient is NOT used to craft a cake in Minecraft?",
+        "correct_answer": "Bread",
+        "incorrect_answers": [
+            "Wheat",
+            "Milk",
+            "Egg"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In &quot;Jurassic World&quot;, which company purchases InGen and creates Jurassic World?",
+        "correct_answer": "Masrani Global Corporation ",
+        "incorrect_answers": [
+            "Biology Synthetics Technologies",
+            "International Genetics Incorporated",
+            "International Genetic Technologies"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;Black Lagoon&quot;, what colour is Rock&#039;s tie?",
+        "correct_answer": "Teal",
+        "incorrect_answers": [
+            "Crimson",
+            "Dark Brown",
+            "Black"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "Which of these Nickelodeon game shows aired first?",
+        "correct_answer": "Double Dare",
+        "incorrect_answers": [
+            "Nick Arcade",
+            "Finders Keepers",
+            "Nickelodeon Guts"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "When was Club Penguin launched?",
+        "correct_answer": "October 24, 2005",
+        "incorrect_answers": [
+            "October 21, 2005",
+            "March 29, 2006",
+            "November 22, 2004"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In 2013, virtual pop-star Hatsune Miku had a sponsorship with which pizza chain?",
+        "correct_answer": "Domino&#039;s",
+        "incorrect_answers": [
+            "Papa John&#039;s",
+            "Pizza Hut",
+            "Sabarro&#039;s"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "The 1988 Formula 1 season had McLaren win all but one race, what race did they not win?",
+        "correct_answer": "Italian Grand Prix",
+        "incorrect_answers": [
+            "Japanese Grand Prix",
+            "Monaco Grand Prix",
+            "Brazilian Grand Prix"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which company did Valve cooperate with in the creation of the Vive?",
+        "correct_answer": "HTC",
+        "incorrect_answers": [
+            "Oculus",
+            "Google",
+            "Razer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "The &#039;In the Flesh&#039; tour was used in support of what Pink Floyd album?",
+        "correct_answer": "Animals",
+        "incorrect_answers": [
+            "The Wall",
+            "Wish You Were Here",
+            "The Final Cut"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which of the following elements is typically used in the doping of the semiconductor silicon?",
+        "correct_answer": "Boron",
+        "incorrect_answers": [
+            "Oxygen",
+            "Carbon",
+            "Iron"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What was the original name of the search engine &quot;Google&quot;?",
+        "correct_answer": "BackRub",
+        "incorrect_answers": [
+            "CatMassage",
+            "SearchPro",
+            "Netscape Navigator"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the game Battleblock Theater, what was the name of the voice actor who voiced the narrator?",
+        "correct_answer": "Will Stamper",
+        "incorrect_answers": [
+            "Steve Blum",
+            "Richard Epcar",
+            "Yuri Lowenthal"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which darts player has won the most World Championship titles?",
+        "correct_answer": "Phil Taylor",
+        "incorrect_answers": [
+            "Michael van Gerwen",
+            "Raymond van Barneveld",
+            "Eric Bristow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In Avengers: Infinity War, the Reality Stone (aka the Aether) was kept under safe possession by who?",
+        "correct_answer": "The Collector",
+        "incorrect_answers": [
+            "Doctor Strange",
+            "The Grandmaster",
+            "Scarlet Witch"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How many states are in Australia?",
+        "correct_answer": "6",
+        "incorrect_answers": [
+            "7",
+            "8",
+            "5"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the creator of the free, open-source rhythm game &#039;osu!&#039;?",
+        "correct_answer": "Dean &#039;Peppy&#039; Herbert",
+        "incorrect_answers": [
+            "Daisuke &#039;Pixel&#039; Amaya",
+            "Eric &#039;ConcernedApe&#039; Barone",
+            "Toby &#039;FwugRadiation&#039; Fox"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who starred in the film 1973 movie &quot;Enter The Dragon&quot;?",
+        "correct_answer": "Bruce Lee",
+        "incorrect_answers": [
+            "Jackie Chan",
+            "Jet Li",
+            " Yun-Fat Chow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "How many players are there in an association football/soccer team?",
+        "correct_answer": "11",
+        "incorrect_answers": [
+            "10",
+            "9",
+            "8"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What is the scientific name for the Bald Eagle?",
+        "correct_answer": "Haliaeetus Leucocephalus ",
+        "incorrect_answers": [
+            "Tyto Alba",
+            "Cyanocitta Cristata",
+            "Aquila Chrysaetos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "What is the name for the auditory illusion of a note that seems to be rising infinitely?",
+        "correct_answer": "Shepard Tone",
+        "incorrect_answers": [
+            "Glissandro Illusion",
+            "Fransen Effect",
+            "McGurck Effect"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "What is the name of the 2016 mixtape released by Venezuelan electronic producer Arca?",
+        "correct_answer": "Entra&ntilde;as",
+        "incorrect_answers": [
+            "&amp;&amp;&amp;&amp;&amp;&amp;",
+            "Sheep",
+            "Xen"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Kublai Khan is the grandchild of Genghis Khan?",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    }
+]

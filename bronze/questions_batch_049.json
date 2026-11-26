@@ -1,0 +1,594 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How many countries share a land border with Luxembourg?",
+        "correct_answer": "3",
+        "incorrect_answers": [
+            "4",
+            "2",
+            "5"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "A caterpillar has more muscles than humans do.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "A slug&rsquo;s blood is green.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Electronic artists Boys Noize and Skrillex have collaborated and released tracks under what name?",
+        "correct_answer": "Dog Blood",
+        "incorrect_answers": [
+            "Jack &Uuml;",
+            "What So Not",
+            "Noisia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these features was added in the 1994 game &quot;Heretic&quot; that the original &quot;DOOM&quot; could not add due to limitations?",
+        "correct_answer": "Looking up and down",
+        "incorrect_answers": [
+            "Increased room sizes",
+            "Unlimited weapons",
+            "Highly-detailed textures"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Which of these films is NOT set in Los Angeles?",
+        "correct_answer": "RoboCop",
+        "incorrect_answers": [
+            "Blade Runner",
+            "The Terminator",
+            "Predator 2"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Which of the following is not the name of a &quot;Bond Girl&quot;? ",
+        "correct_answer": "Vanessa Kensington",
+        "incorrect_answers": [
+            "Pam Bouvier",
+            "Mary Goodnight",
+            "Wai Lin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What was the FIRST Valve game to have VR?",
+        "correct_answer": "The Lab",
+        "incorrect_answers": [
+            "Dota 2",
+            "Destinations",
+            "Half-Life 2"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What was Manfred von Richthofen&#039;s nickname?",
+        "correct_answer": "The Red Baron",
+        "incorrect_answers": [
+            "The High Flying Ace",
+            "The Blue Serpent ",
+            "The Germany Gunner"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Located in Chile, El Teniente is the world&#039;s largest underground mine for what metal?",
+        "correct_answer": "Copper",
+        "incorrect_answers": [
+            "Iron",
+            "Nickel",
+            "Silver"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "La Fenice opera house is in which Italian city?",
+        "correct_answer": "Venice",
+        "incorrect_answers": [
+            "Milan",
+            "Rome",
+            "Pompeii"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Comics",
+        "question": "What year was the first San Diego Comic-Con?",
+        "correct_answer": "1970",
+        "incorrect_answers": [
+            "2000",
+            "1990",
+            "1985"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "Who wrote the Batman comic series &quot;The Killing Joke&quot;?",
+        "correct_answer": "Alan Moore",
+        "incorrect_answers": [
+            "Bill Finger",
+            "Frank Miller",
+            "Jerry Siegel"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "When was Steam first released?",
+        "correct_answer": "2003",
+        "incorrect_answers": [
+            "2004",
+            "2011",
+            "2007"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "What colour is the female blackbird?",
+        "correct_answer": "Brown",
+        "incorrect_answers": [
+            "Black",
+            "White",
+            "Yellow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Neil Hamburger is played by which comedian?",
+        "correct_answer": "Gregg Turkington",
+        "incorrect_answers": [
+            "Nathan Fielder",
+            "Tim Heidecker",
+            "Todd Glass"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which of these American singers and songwriters won a Nobel Prize in Literature?",
+        "correct_answer": "Bob Dylan",
+        "incorrect_answers": [
+            "Buddy Holly",
+            "Johnny Cash",
+            "Alice Cooper"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What is the atomic number of Uranium ",
+        "correct_answer": "92",
+        "incorrect_answers": [
+            "235",
+            "17",
+            "167"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "In Shakespeare&#039;s play Julius Caesar, Caesar&#039;s last words were...",
+        "correct_answer": "Et tu, Brute? ",
+        "incorrect_answers": [
+            "Iacta alea est!",
+            "Vidi, vini, vici.",
+            "Aegri somnia vana."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What was the first recorded object to ever reach space?",
+        "correct_answer": "Bumper-WAC",
+        "incorrect_answers": [
+            "American Manhole Cover",
+            "Sputnik I ",
+            "Sputnik II"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What was found in 1946 by two young shepards near a cave?",
+        "correct_answer": "Dead Sea Scrolls",
+        "incorrect_answers": [
+            "The Blackbeard Chest",
+            "Sheep",
+            "The First Oaxaca Cave Sleeper"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which of the following landmarks is not located in New York City?",
+        "correct_answer": "Lincoln Memorial",
+        "incorrect_answers": [
+            "Empire State Building",
+            "Times Square",
+            "Central Park"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "How much weight did Chris Pratt lose for his role as Star-Lord in &quot;Guardians of the Galaxy&quot;?",
+        "correct_answer": "60 lbs",
+        "incorrect_answers": [
+            "30 lbs",
+            "50 lbs",
+            "70 lbs"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Which church&#039;s interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
+        "correct_answer": "St. Peter&#039;s Basilica",
+        "incorrect_answers": [
+            "Catania Cathedral",
+            "St. Mark&rsquo;s Basilica",
+            "The Duomo of Florence"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "The character White Diamond from Steven Universe, is voiced by who?",
+        "correct_answer": "Christine Ebersole",
+        "incorrect_answers": [
+            "Ellen McLain",
+            "Aly Michalka",
+            "Rihanna"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "There is only 1 root name server, among 13 in total, that is currently located in Asia.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What Sims console game featured the Black Eyed Peas in the game?",
+        "correct_answer": "The Urbz: Sims In The City",
+        "incorrect_answers": [
+            "The Sims 2",
+            "The Sims",
+            "The Sims: Bustin Out"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "Which mathematician refused the Fields Medal?",
+        "correct_answer": "Grigori Perelman",
+        "incorrect_answers": [
+            "Andrew Wiles",
+            "Terence Tao",
+            "Edward Witten"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "When was Minecraft first released to the public?",
+        "correct_answer": "May 17th, 2009",
+        "incorrect_answers": [
+            "September 17th, 2009",
+            "November 18th, 2011",
+            "October 7th, 2011"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which English king was married to Eleanor of Aquitaine?",
+        "correct_answer": "Henry II",
+        "incorrect_answers": [
+            "Richard I",
+            "Henry I",
+            "Henry V"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the protagonist in Dead Rising 3?",
+        "correct_answer": "Nick Ramos",
+        "incorrect_answers": [
+            "Frank West",
+            "Chuck Greene",
+            "Isabela Keyes"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What Touhou Project character&#039;s first ever appearance was as a midboss in the eighth game, Imperishable Night?",
+        "correct_answer": "Tewi Inaba",
+        "incorrect_answers": [
+            "Mystia Lorelei",
+            "Kaguya Houraisan",
+            "Rumia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "How many albums did King Gizzard &amp; the Lizard Wizard release in 2017?",
+        "correct_answer": "5",
+        "incorrect_answers": [
+            "3",
+            "6",
+            "2"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Actress Susan Sarandon caught pneumonia during filming of which movie?",
+        "correct_answer": "The Rocky Horror Picture Show",
+        "incorrect_answers": [
+            "Thelma and Louise",
+            "Dead Man Walking",
+            "Enchanted"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who is the main antagonist of Christopher Nolan&#039;s 2012 film &quot;The Dark Knight Rises&quot;?",
+        "correct_answer": "Bane",
+        "incorrect_answers": [
+            "The Joker",
+            "CIA",
+            "The Riddler"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "What is the name of Metallica&#039;s debut album, released in 1983?",
+        "correct_answer": "Kill &#039;Em All",
+        "incorrect_answers": [
+            "...And Justice for All",
+            "Master of Puppets",
+            "Countdown to Extinction"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Which artist is famous for cutting off his ear?",
+        "correct_answer": "Vincent van Gogh",
+        "incorrect_answers": [
+            "Salvador Dali",
+            "Rembrandt",
+            "Michelangelo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "On which Beatles album would you find the song &#039;Eleanor Rigby&#039;?",
+        "correct_answer": "Revolver",
+        "incorrect_answers": [
+            "Help!",
+            "Rubber Soul",
+            "Abbey Road"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "In The Lies Of Locke Lamora, what does &quot;Lamora&quot; mean in Throne Therin?",
+        "correct_answer": "Shadow",
+        "incorrect_answers": [
+            "Thievery",
+            "Justice",
+            "Chaos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which of these facilities was not present on the Titanic?",
+        "correct_answer": "Fainting room",
+        "incorrect_answers": [
+            "Turkish bath",
+            "Kennel",
+            "Squash court"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "When was the Declaration of Independence approved by the Second Continental Congress?",
+        "correct_answer": "July 4, 1776",
+        "incorrect_answers": [
+            "May 4, 1776",
+            "June 4, 1776",
+            "July 2, 1776"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which one of these actors is said to be cut from the film &#039;E.T. the Extra-Terrestrial&#039;?",
+        "correct_answer": "Harrison Ford",
+        "incorrect_answers": [
+            "Michael J. Fox",
+            "Andy Kaufman",
+            "Arnold Schwarzenegger"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What was Nickelodeon&#039;s original name?",
+        "correct_answer": "Pinwheel",
+        "incorrect_answers": [
+            "MTVKids",
+            "KidsTV",
+            "Splat!"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which of these chemical compounds is NOT found in gastric acid?",
+        "correct_answer": "Sulfuric acid",
+        "incorrect_answers": [
+            "Hydrochloric acid",
+            "Potassium chloride",
+            "Sodium chloride"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Which of these is Daft Punk&#039;s debut single?",
+        "correct_answer": "The New Wave",
+        "incorrect_answers": [
+            "Da Funk",
+            "Discovery",
+            "Around the World"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which Louis was known as &#039;The Sun King of France&#039;?",
+        "correct_answer": "Louis XIV",
+        "incorrect_answers": [
+            "Louis XIII",
+            "Louis XV",
+            "Louis XVI"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What does the &quot;G&quot; mean in &quot;G-Man&quot;?",
+        "correct_answer": "Government",
+        "incorrect_answers": [
+            "Going",
+            "Ghost",
+            "Geronimo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Madonna&#039;s song &quot;Hung Up&quot; includes a piece from which popular 70s song?",
+        "correct_answer": "Gimmie! Gimmie! Gimme! (A Man After Midnight)",
+        "incorrect_answers": [
+            "Staying Alive",
+            "Night Fever",
+            "The Chain"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who famously coined the phrase &quot;I think, therefore I am&quot;?",
+        "correct_answer": "Descartes",
+        "incorrect_answers": [
+            "Plato",
+            "Aristotle",
+            "Shakespeare"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In career mode of &quot;Need for Speed: Underground 2&quot;, the first car the player can drive is the BMW M3 GTR.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    }
+]

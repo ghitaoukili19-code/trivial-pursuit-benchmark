@@ -1,0 +1,584 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": " In the 1951 movie &quot;The Day The Earth Stood Still&quot; which US city did the alien spaceship land in?",
+        "correct_answer": "Washington D.C.",
+        "incorrect_answers": [
+            " Los Angeles",
+            "New York",
+            "Philadelphia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Only 9% of US Households owned a television in ",
+        "correct_answer": "1950",
+        "incorrect_answers": [
+            "1965",
+            "1913",
+            "1969"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "What was the progressive rock band Rush&#039;s first single?",
+        "correct_answer": "Not Fade Away",
+        "incorrect_answers": [
+            "Tom Sawyer",
+            "Working Man",
+            "Owner of a Lonely Heart"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which song by Swedish electronic musician Avicii samples the song &quot;Something&#039;s Got A Hold On Me&quot; by Etta James?",
+        "correct_answer": "Levels",
+        "incorrect_answers": [
+            "Fade Into Darkness",
+            "Silhouettes",
+            "Seek Bromance"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Call of Duty: United Offensive, what two soldiers share a name of a video game character?",
+        "correct_answer": "Gordon &amp; Freeman",
+        "incorrect_answers": [
+            "Sam &amp; Fisher",
+            "Nathan &amp; Drake",
+            "Dig &amp; Dug"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Yakuza 0, what is the order of the fighting styles acquired as Kazuma Kiryu?",
+        "correct_answer": "Brawler, Rush, Beast, Legend",
+        "incorrect_answers": [
+            "Legend, Rush, Brawler, Beast",
+            "Brawler, Beast, Rush, Legend",
+            "Beast, Brawler, Rush, Legend"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The Panama Canal was opened to traffic within 30 days of the beginning of World War I.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In &quot;Star Trek&quot;, Klingons are commonly referred to as &quot;Black Elves&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What is the hottest planet in the Solar System?",
+        "correct_answer": "Venus",
+        "incorrect_answers": [
+            "Mars",
+            "Mercury",
+            "Jupiter"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which NASA Space Shuttle broke apart during atmospheric re-entry on February 1, 2003? ",
+        "correct_answer": "Columbia",
+        "incorrect_answers": [
+            "Challenger",
+            "Discovery",
+            "Endeavour"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What&#039;s the first National Park designated in the United States?",
+        "correct_answer": "Yellowstone",
+        "incorrect_answers": [
+            "Sequoia ",
+            "Yosemite",
+            "Rocky Mountain"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
+        "correct_answer": "Uranus",
+        "incorrect_answers": [
+            "Jupiter",
+            "Venus",
+            "Neptune"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "How many playable characters were there in Street Fighter II: Champion Edition?",
+        "correct_answer": "12",
+        "incorrect_answers": [
+            "16",
+            "8",
+            "17"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the main character&#039;s name in &quot;Braid&quot;?",
+        "correct_answer": "Tim",
+        "incorrect_answers": [
+            "Boregard",
+            "James",
+            "Jackson"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which game was the Game of the Year in 2018?",
+        "correct_answer": "God of War",
+        "incorrect_answers": [
+            "Detroit: Become Human",
+            "Red Dead Redemption 2",
+            "A Way Out"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which famed architect, who died in 2019 aged 102, designed the glass pyramid at the Louvre museum in Paris?",
+        "correct_answer": "I. M. Pei",
+        "incorrect_answers": [
+            "Pascale Gu&eacute;dot",
+            "Frank Gehry",
+            "Wang Shu"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Under which name was Rodrigo Borgia made Pope?",
+        "correct_answer": "Alexander VI",
+        "incorrect_answers": [
+            "Rodrigo I",
+            "John Paul II",
+            "Pius VII"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "An equilateral triangle always has every angle measuring 60&deg;.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "In DC comics where does the Green Arrow (Oliver Queen) live?",
+        "correct_answer": "Star City",
+        "incorrect_answers": [
+            "Central City",
+            "Gotham City",
+            "Metropolis"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "The band STRFKR was also briefly known as Pyramiddd.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In the comedy series &quot;Trailer Park Boys&quot;, which of the following characters takes care of stray cats?",
+        "correct_answer": "Bubbles",
+        "incorrect_answers": [
+            "Ricky",
+            "Julian",
+            "Randy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "The architect known as Le Corbusier was an important figure in what style of architecture?",
+        "correct_answer": "Modernism",
+        "incorrect_answers": [
+            "Neoclassical",
+            "Baroque",
+            "Gothic Revival"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In Animal Crossing: New Leaf, which of these paintings from Redd&#039;s Art Gallery is always genuine?",
+        "correct_answer": "Warm Painting",
+        "incorrect_answers": [
+            "Jolly Painting",
+            "Neutral Painting",
+            "Wistful Painting"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Who was the Author of the manga Monster Hunter Orage?",
+        "correct_answer": "Hiro Mashima",
+        "incorrect_answers": [
+            "Shin Yamamoto",
+            "Keiichi Hikami",
+            "Hirohiko Araki"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "The cover of The Beatles album &quot;Abbey Road&quot; featured a Volkswagen Beetle in the background.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who&#039;s the creator of Geometry Dash?",
+        "correct_answer": "Robert Topala",
+        "incorrect_answers": [
+            "Scott Cawthon",
+            "Adam Engels",
+            "Andrew Spinks"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What were the first states to break away from Yugoslavia?",
+        "correct_answer": "Slovenia, Croatia",
+        "incorrect_answers": [
+            "Macedonia, Montenegro",
+            "Slovenia, Macedonia",
+            "Montenegro, Slovenia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these video game series have NOT had a promotional item appear in Team Fortress 2?",
+        "correct_answer": "Half-Life",
+        "incorrect_answers": [
+            "Quake",
+            "The Binding of Isaac",
+            "Fallout"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who was the first Big Brother US winner to win with a perfect game?",
+        "correct_answer": "Dan Gheesling",
+        "incorrect_answers": [
+            "Ian Terry",
+            "Jordan Lloyd",
+            "Rachael Reilly"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How many independent countries are there within the continent of South America?",
+        "correct_answer": "12",
+        "incorrect_answers": [
+            "8",
+            "9",
+            "10"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which Dota 1 hero changed gender when ported to Dota 2?",
+        "correct_answer": "Legion Commander",
+        "incorrect_answers": [
+            "Axe",
+            "Keeper of the Light",
+            "Templar Assassin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Deionized water is water with which of the following removed?",
+        "correct_answer": "Iron",
+        "incorrect_answers": [
+            "Oxygen",
+            "Hydrogen",
+            "Uncharged atoms"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The edutainment video game series character, Carmen Sandiego, is partially named after Brazilian actress, Carmen Miranda.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which of these companies does NOT manufacture automobiles?",
+        "correct_answer": "Ducati",
+        "incorrect_answers": [
+            "Nissan",
+            "GMC",
+            "Fiat"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these weapons is NOT available to the Terrorist team in the game, &quot;Counter-Strike: Global Offensive&quot;?",
+        "correct_answer": "SCAR-20",
+        "incorrect_answers": [
+            "SG 550",
+            "CZ-75",
+            "XM1014"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of these songs is not on the &quot;untitled&quot; album by Led Zeppelin?",
+        "correct_answer": "Celebration Day",
+        "incorrect_answers": [
+            "Stairway to Heaven",
+            "Black Dog",
+            "Rock and Roll"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Gadgets",
+        "question": "What round is a classic AK-47 chambered in?",
+        "correct_answer": "7.62x39mm",
+        "incorrect_answers": [
+            "7.62x51mm",
+            "5.56x45mm",
+            "5.45x39mm"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which famous New York Yankees outfielder did Marilyn Monroe marry?",
+        "correct_answer": "Joe DiMaggio",
+        "incorrect_answers": [
+            "Tino Martinez",
+            "Babe Ruth",
+            "Mason Williams"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "The title of Adolf Hitler&#039;s autobiography &quot;Mein Kampf&quot; is what when translated to English?",
+        "correct_answer": "My Struggle",
+        "incorrect_answers": [
+            "My Hatred",
+            "My Sadness",
+            "My Desire"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "What album did The Lumineers release in 2016?",
+        "correct_answer": "Cleopatra",
+        "incorrect_answers": [
+            "Winter",
+            "The Lumineers",
+            "Tracks From The Attic"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "How many pieces are there on the board at the start of a game of chess?",
+        "correct_answer": "32",
+        "incorrect_answers": [
+            "16",
+            "20",
+            "36"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The term Luddite originally applied to disgruntled workers in which industry?",
+        "correct_answer": "Textile",
+        "incorrect_answers": [
+            "Farming",
+            "Mining",
+            "Ceramics"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "There are a total of 20 races in Formula One 2016 season.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the Video Game, Half-life, what type of US military force starts clearing out the Black Mesa Research Facility?",
+        "correct_answer": "The HECU",
+        "incorrect_answers": [
+            "Navy Seals",
+            "The Combine",
+            "The Marines"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the child performing the Black Sacrament, in The Elder Scrolls V: Skyrim?",
+        "correct_answer": "Aventus Aretino",
+        "incorrect_answers": [
+            "Proventus Avenicci",
+            "Aval Atheron",
+            "Arngeir"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "What is the name of the Greek god of peaceful deaths?",
+        "correct_answer": "Thanatos",
+        "incorrect_answers": [
+            "Tartarus",
+            "Hades",
+            "Moros"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Who is the lead singer of The Lumineers?",
+        "correct_answer": "Wesley Schultz",
+        "incorrect_answers": [
+            "Jeremiah Fraites",
+            "Jay Van Dyke",
+            "Neyla Pekarek"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What are tiny Thwomps called in Super Mario World?",
+        "correct_answer": "Thwimps",
+        "incorrect_answers": [
+            "Little Thwomp",
+            "Mini Thwomp",
+            "Tiny Tims"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Team Fortress 2, being disguised as a scout or medic results in a speed boost.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "Originally, the character Charlie from Charlie and the Chocolate Factory was going to be black.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    }
+]

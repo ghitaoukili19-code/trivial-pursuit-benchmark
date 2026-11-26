@@ -1,0 +1,590 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which of these anime have over 7,500 episodes?",
+        "correct_answer": "Sazae-san",
+        "incorrect_answers": [
+            "Naruto",
+            "One Piece",
+            "Chibi Maruko-chan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is Gabe Newell&#039;s favorite class in Team Fortress 2?",
+        "correct_answer": "Spy",
+        "incorrect_answers": [
+            "Heavy",
+            "Medic",
+            "Pyro"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "On which day did ARPANET suffer a 4 hour long network crash?",
+        "correct_answer": "October 27, 1980",
+        "incorrect_answers": [
+            "November 21, 1969",
+            "October 29, 1969",
+            "December 9, 1991"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Africa is a country.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "What was the name of the rock band that Nobuo Uematsu formed that played songs from various Final Fantasy games?",
+        "correct_answer": "The Black Mages",
+        "incorrect_answers": [
+            "The Final Fantasies",
+            "The Espers",
+            "The Rock Summoners"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "According to Japanese folklore, what is the favorite food of the Kappa.",
+        "correct_answer": "Cucumbers",
+        "incorrect_answers": [
+            "Kabocha",
+            "Nasu",
+            "Soba"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which classical composer wrote the &quot;Moonlight Sonata&quot;?",
+        "correct_answer": "Ludvig Van Beethoven",
+        "incorrect_answers": [
+            "Chief Keef",
+            "Wolfgang Amadeus Mozart",
+            "Johannes Brahms"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In which year was Nelson Mandela released from prison",
+        "correct_answer": "1990",
+        "incorrect_answers": [
+            "1994",
+            "1992",
+            "1980"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What are the tallest twin buildings in the world, with a height of 1,483 ft (451.9 m)?",
+        "correct_answer": "Petronas Twin Towers, Malaysia",
+        "incorrect_answers": [
+            "Emirates Towers, United Arab Emirates",
+            "Huaguoyuan Towers, China",
+            "Palm Towers, Qatar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which of the following years is commonly referred to as the &quot;Year Without a Summer&quot;?",
+        "correct_answer": "1816",
+        "incorrect_answers": [
+            "1823",
+            "1813",
+            "1808"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the 9th Pokemon movie, who is the Prince of the Sea?",
+        "correct_answer": "Manaphy",
+        "incorrect_answers": [
+            "Ash",
+            "May",
+            "Phantom"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "When was Pong released?",
+        "correct_answer": "November 29, 1972",
+        "incorrect_answers": [
+            "March 29, 2017",
+            "November 29, 1970",
+            "December 14, 1974"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which retro video game was released first?",
+        "correct_answer": "Space Invaders",
+        "incorrect_answers": [
+            "Galaga",
+            "Pac-Man",
+            "Asteroids"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The ontological argument for the proof of God&#039;s existence is first attributed to whom?",
+        "correct_answer": "Anselm of Canterbury",
+        "incorrect_answers": [
+            "Ren&eacute; Descartes",
+            "Immanuel Kant",
+            "Aristotle"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "Whose 2016 presidential campaign slogan was &quot;Make America Great Again&quot;?",
+        "correct_answer": "Donald Trump",
+        "incorrect_answers": [
+            "Ted Cruz",
+            "Marco Rubio",
+            "Bernie Sanders"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which country was Josef Stalin born in?",
+        "correct_answer": "Georgia",
+        "incorrect_answers": [
+            "Russia",
+            "Germany",
+            "Poland"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who was the mascot of SEGA before &quot;Sonic the Hedgehog&quot;?",
+        "correct_answer": "Alex Kidd",
+        "incorrect_answers": [
+            "Opa Opa",
+            "NiGHTS",
+            "Ristar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In the show &quot;Foster&#039;s Home For Imaginary Friends&quot;, which character had an obsession with basketball?",
+        "correct_answer": "Wilt",
+        "incorrect_answers": [
+            "Coco",
+            "Mac",
+            "Cheese"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Musicals &amp; Theatres",
+        "question": "Who wrote the lyrics for Leonard Bernstein&#039;s 1957 Brodway musical West Side Story?",
+        "correct_answer": "Stephen Sondheim",
+        "incorrect_answers": [
+            "Himself",
+            "Oscar Hammerstein",
+            "Richard Rodgers"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "The Republic of Malta is the smallest microstate worldwide.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the capital city of Slovenia?",
+        "correct_answer": "Ljubljana",
+        "incorrect_answers": [
+            "Maribor",
+            "Velenje",
+            "Trbovlje"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In &quot;Spongebob Squarepants,&quot; what is Mr. Krabs&#039; full name?",
+        "correct_answer": "Eugene H. Krabs",
+        "incorrect_answers": [
+            "Eugene G. Krabs",
+            "Eugene J. Krabs",
+            "Eugene D. Krabs"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Gadgets",
+        "question": "Which of the following is the standard THX subwoofer crossover frequency?",
+        "correct_answer": "80 Hz",
+        "incorrect_answers": [
+            "70 Hz",
+            "90 Hz",
+            "100 Hz"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "When did Spanish Peninsular War start?",
+        "correct_answer": "1808",
+        "incorrect_answers": [
+            "1806",
+            "1810",
+            "1809"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "How does the character Dragowizard, Qinus Axia&#039;s from the anime &quot;Buddyfight&quot; differ between the Japanese and English dubs?",
+        "correct_answer": "Different Gender",
+        "incorrect_answers": [
+            "Different Body Proportions",
+            "Different Backstory",
+            "Different Appearance"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "An isosceles triangle has two sides of equal length as opposed to three.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which team won 2014 FIFA World Cup in Brazil?",
+        "correct_answer": "Germany",
+        "incorrect_answers": [
+            "Argentina",
+            "Brazil",
+            "Netherlands"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Before Super Smash Bros. contained Nintendo characters, what was it known as internally?",
+        "correct_answer": "Dragon King: The Fighting Game",
+        "incorrect_answers": [
+            "Contest of Champions",
+            "Smash and Pummel",
+            "Fighter of the Ages: Conquest"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who made the video game, &quot;Bendy and the Ink Machine&quot;?",
+        "correct_answer": "TheMeatly",
+        "incorrect_answers": [
+            "Scott Cawthon",
+            " Jeff Kaplan",
+            "Konami"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In 1453, which important city fell?",
+        "correct_answer": "Constantinople",
+        "incorrect_answers": [
+            "Rome",
+            "Hamburg",
+            "Athens"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which of the General Mills Corporation&#039;s monster cereals was the last to be released in the 1970&#039;s?",
+        "correct_answer": "Fruit Brute",
+        "incorrect_answers": [
+            "Count Chocula",
+            "Franken Berry",
+            "Boo-Berry"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Out of these four buildings, which one is the tallest, with a height of 1,483 ft (451.9 m)?",
+        "correct_answer": "Petronas Twin Towers, Malaysia",
+        "incorrect_answers": [
+            "Zifeng Tower, China",
+            "Trump Intl. Hotel &amp; Tower, United States",
+            "Al Hamra Tower, Kuwait"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "Who was South Africa&#039;s first Black President?",
+        "correct_answer": "Nelson Mandela",
+        "incorrect_answers": [
+            "Mangosuthu Buthelezi",
+            "Steve Biko ",
+            "Bishop Tutu"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "What was the last message of the Dolphins in &quot;The Hitchhiker&#039;s Guide to the Galaxy&quot;?",
+        "correct_answer": "&quot;So long, and thanks for all the fish.&quot;",
+        "incorrect_answers": [
+            "&quot;The answer is 42.&quot;",
+            "&quot;Land of the brave.&quot;",
+            "&quot;Goodbye cruel world!&quot;"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which of these places is a location in Cornwall?",
+        "correct_answer": "Barcelona",
+        "incorrect_answers": [
+            "Madrid",
+            "Alicante",
+            "Lisbon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "What is the sum of all the tiles in a standard box of Scrabble?",
+        "correct_answer": "187",
+        "incorrect_answers": [
+            "207",
+            "197",
+            "177"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which artist composed the original soundtrack for &quot;Watch Dogs 2&quot;?",
+        "correct_answer": "Hudson Mohawke",
+        "incorrect_answers": [
+            "Rustie",
+            "Machinedrum",
+            "Flying Lotus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which of the following African countries was most successful in resisting colonization?",
+        "correct_answer": "Ethiopia",
+        "incorrect_answers": [
+            "C&ocirc;te d&rsquo;Ivoire",
+            "Congo",
+            "Namibia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is the capital of Wisconsin, USA?",
+        "correct_answer": "Madison",
+        "incorrect_answers": [
+            "Milwaukee",
+            "Wisconsin Dells",
+            "Green Bay"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is the most common climbing route for the second highest mountain in the world, K2?",
+        "correct_answer": "Abruzzi Spur",
+        "incorrect_answers": [
+            "Magic Line",
+            "Cesen Route",
+            "Polish Line"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Trypophobia is the fear of ",
+        "correct_answer": "groups of holes",
+        "incorrect_answers": [
+            "swimming in deep water",
+            "public speaking",
+            "eating too much"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In &quot;Avatar: The Last Airbender&quot; and &quot;The Legend of Korra&quot;, Lavabending is a specialized bending technique of Firebending.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What is the first track on Kanye West&#039;s 808s &amp; Heartbreak?",
+        "correct_answer": "Say You Will",
+        "incorrect_answers": [
+            "Welcome to Heartbreak",
+            "Street Lights",
+            "Heartless"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Comics",
+        "question": "Which superhero is known for his super speed?",
+        "correct_answer": "Flash",
+        "incorrect_answers": [
+            "Superman",
+            "Batman",
+            "Spiderman"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Meryl Silverburgh, a video game character from the Metal Gear series, was originally a character in which game?",
+        "correct_answer": "Policenauts",
+        "incorrect_answers": [
+            "Gradius",
+            "Contra",
+            "Castlevania: Symphony of the Night"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of these countries is located the FURTHEST away from the South China Sea?",
+        "correct_answer": "Bangladesh",
+        "incorrect_answers": [
+            "Malaysia",
+            "Vietnam",
+            "Philippines"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Several characters in &quot;Super Mario 64&quot; blink their eyes, including Mario himself.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "This movie contains the quote, &quot;What we&#039;ve got here is a failure to communicate.&quot;",
+        "correct_answer": "Cool Hand Luke",
+        "incorrect_answers": [
+            "Bonnie and Clyde",
+            "The Graduate",
+            "In the Heat of the Night"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "When was the first episode of Soul Eater released?",
+        "correct_answer": "2008",
+        "incorrect_answers": [
+            "2003",
+            "2005",
+            "2011"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "This is the correct spelling of &quot;Supercalifragilisticexpialidocious&quot;.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    }
+]

@@ -1,0 +1,576 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When did Norway become free from Sweden?",
+        "correct_answer": "1905",
+        "incorrect_answers": [
+            "1925",
+            "1814",
+            "1834"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "The Python programming language gets its name from the British comedy group &quot;Monty Python.&quot;",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Panic! At the Disco&#039;s sixth album &quot;Pray For The Wicked&quot; was released on which date?",
+        "correct_answer": "June 22, 2018",
+        "incorrect_answers": [
+            "May 9, 2018",
+            "March 13, 2018",
+            "February 21, 2018"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "How much does the &#039;AWP&#039; cost in Counter-Strike: Global Offensive?",
+        "correct_answer": "$4750",
+        "incorrect_answers": [
+            "$4500",
+            "$4650",
+            "$5000"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "How many differently shaped Tetris pieces are there?",
+        "correct_answer": "7",
+        "incorrect_answers": [
+            "5",
+            "6",
+            "8"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of Joel&#039;s daughter in the game, &quot;The Last of Us&quot;? ",
+        "correct_answer": "Sarah",
+        "incorrect_answers": [
+            "Ellie",
+            "Tess",
+            "Marlene"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "From which album is the Gorillaz song, &quot;On Melancholy Hill&quot; featured in?",
+        "correct_answer": "Plastic Beach",
+        "incorrect_answers": [
+            "Demon Days",
+            "Humanz",
+            "The Fall"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "Who is the founder of Palantir?",
+        "correct_answer": "Peter Thiel",
+        "incorrect_answers": [
+            "Mark Zuckerberg",
+            "Marc Benioff",
+            "Jack Dorsey"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which of these African countries list &quot;Spanish&quot; as an official language?",
+        "correct_answer": "Equatorial Guinea",
+        "incorrect_answers": [
+            "Guinea",
+            "Cameroon",
+            "Angola"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What is the unit of electrical resistance?",
+        "correct_answer": "Ohm",
+        "incorrect_answers": [
+            "Mho",
+            "Tesla",
+            "Joule"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "During pre-production of &quot;Super Mario Bros.&quot;, Mario originally was meant to shoot bullets.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "What album did Bon Iver release in 2016?",
+        "correct_answer": "22, A Million",
+        "incorrect_answers": [
+            "Bon Iver, Bon Iver",
+            "Blood Bank EP",
+            "For Emma, Forever Ago"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Myoui Mina, member of Korean girl group TWICE, was born in South Korea, despite being Japanese.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the &quot;Call Of Duty: Zombies&quot; map &quot;Der Riese&quot;, what is the name of the &quot;Pack-A-Punched PPSH-41&quot;?",
+        "correct_answer": "The Reaper",
+        "incorrect_answers": [
+            "Lamentation",
+            "The Grim Reaper",
+            "The Eviscerator  "
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Shang Tsung is a playable character in Mortal Kombat XL.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What is the standard SI unit for electric current?",
+        "correct_answer": "Ampere",
+        "incorrect_answers": [
+            "Volt",
+            "Ohm",
+            "Watt"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Snagglepuss was part of the Yogi Yahooies in the 1977 show Scooby&#039;s All-Star Laff-a-Lympics.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What song is played during the ending credits of Guitar Hero: World Tour?",
+        "correct_answer": "Dream Theater - Pull Me Under",
+        "incorrect_answers": [
+            "King Crimson - 21st Century Schizoid Man",
+            "Dragonforce - Through The Fire &amp; The Flames",
+            "Lynyrd Skynyrd - Free Bird"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which of the following is an album by punk rock band Anti-Flag?",
+        "correct_answer": "For Blood And Empire",
+        "incorrect_answers": [
+            "Infinity On High",
+            "21st Century Breakdown",
+            "No Pads, No Helmets...Just Balls"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "A pasodoble is a type of Italian pasta sauce.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What was the name commonly given to the ancient trade routes that connected the East and West of Eurasia?",
+        "correct_answer": "Silk Road",
+        "incorrect_answers": [
+            "Spice Road",
+            "Clay Road",
+            "Salt Road"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Need For Speed Most Wanted (2005), what do you drive at the beginning of the career mode?",
+        "correct_answer": "BMW M3 GTR",
+        "incorrect_answers": [
+            "Porsche 911 Turbo",
+            "Nissan 240SX",
+            "Ford Mustang"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "The name &quot;Impressionsim&quot; was first given to that art movement by a critic&#039;s satirical review of a Monet painting.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "Who wrote the novel &quot;Moby-Dick&quot;?",
+        "correct_answer": "Herman Melville",
+        "incorrect_answers": [
+            "William Golding",
+            "William Shakespeare",
+            "J. R. R. Tolkien"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the leader of the Brotherhood of Nod in the Command and Conquer series?",
+        "correct_answer": "Kane",
+        "incorrect_answers": [
+            "Joseph Stalin",
+            "CABAL",
+            "Yuri"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "CMOS is tech used for constructing integrated circuits. What does CMOS stand for?",
+        "correct_answer": "Complementary metal&ndash;oxide&ndash;semiconductor",
+        "incorrect_answers": [
+            "Complementary magnetic-ohms-semiconductor",
+            "Computer-made operating system",
+            "Computer-made oscillating static"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What is the standard SI unit for temperature?",
+        "correct_answer": "Kelvin",
+        "incorrect_answers": [
+            "Fahrenheit",
+            "Celsius",
+            "Rankine"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "The Roman god &quot;Jupiter&quot; was first known as &quot;Zeus&quot; to the Greeks.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Super Mario 3D World&quot;, the Double Cherry power-up originated from a developer accidentally making two characters controllable.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who created the pump &quot;F.L.U.D.D.&quot; Mario uses in Super Mario Sunshine?",
+        "correct_answer": "Elvin Gadd",
+        "incorrect_answers": [
+            "Robert Fludd",
+            "Nirona",
+            "Crygor"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What is the relationship between the band members of American rock band King of Leon?",
+        "correct_answer": "Brothers &amp; cousins",
+        "incorrect_answers": [
+            "Childhood friends",
+            "Former classmates",
+            "Fraternity house members"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The United States was a member of the League of Nations.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "What is the British term for a 64th note?",
+        "correct_answer": "Hemidemisemiquaver",
+        "incorrect_answers": [
+            "Semihemidemisemiquaver",
+            "Semiquaver",
+            "Demisemiquaver"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "How many legs do butterflies have?",
+        "correct_answer": "6",
+        "incorrect_answers": [
+            "2",
+            "4",
+            "0"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the state capital of South Dakota?",
+        "correct_answer": "Pierre",
+        "incorrect_answers": [
+            "Sioux Falls",
+            "Rapid City",
+            "Watertown"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which game was the first time Mario was voiced by Charles Martinet?",
+        "correct_answer": "Mario&#039;s Game Gallery",
+        "incorrect_answers": [
+            "Super Mario 64",
+            "Mario Tennis",
+            "Dr. Mario 64"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "Who was the first ever actor to play &quot;The Doctor&quot; on &quot;Doctor Who&quot;?",
+        "correct_answer": "William Hartnell",
+        "incorrect_answers": [
+            "David Tennant",
+            "Peter Capaldi",
+            "Tom Baker"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "A &#039;Millinillion&#039; is a real number.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "What event inspired The Cranberries song &quot;Zombie&quot; ?",
+        "correct_answer": "The Warrington Bombings",
+        "incorrect_answers": [
+            "September 11 Attacks",
+            "The Manchester Arena Bombing",
+            "The July 7th bombings"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "When Magic: The Gathering was first solicited, which of the following was it originally titled?",
+        "correct_answer": "Mana Clash",
+        "incorrect_answers": [
+            "Magic",
+            "Magic Clash",
+            "Mana Duels"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "In &quot;Star Trek&quot;, who was the founder of the Klingon Empire and its philosophy?",
+        "correct_answer": "Kahless the Unforgettable",
+        "incorrect_answers": [
+            "Lady Lukara of the Great Hall",
+            "Molor the Unforgiving",
+            "Dahar Master Kor"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "The creation of the  Entertainment Software Ratings Board (ESRB) is often associated with Mortal Kombat and what FMV video game?",
+        "correct_answer": "Night Trap",
+        "incorrect_answers": [
+            "Sewer Shark",
+            "The Daedalus Encounter",
+            "Corpse Killer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Before getting the shotgun, what did the titular hobo in &#039;Hobo with a Shotgun&#039; want to purchase?",
+        "correct_answer": "a lawnmower",
+        "incorrect_answers": [
+            "a revolver",
+            "a guitar",
+            "a suit"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the name of the main Character from the Series: Dead Space?",
+        "correct_answer": "Isaac Clarke",
+        "incorrect_answers": [
+            "Ellen Ripley",
+            "Commander Shepard",
+            "Captain Kirk"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "How many fingers does a single human hand have?",
+        "correct_answer": "Four",
+        "incorrect_answers": [
+            "Five",
+            "Ten",
+            "Eight"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the capital of Ecuador?",
+        "correct_answer": "Quito",
+        "incorrect_answers": [
+            "Bogota",
+            "Santiago",
+            "Santa F&eacute;"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The Spitfire originated from a racing plane.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Scientists accidentally killed the once known world&#039;s oldest living creature, a mollusc, known to be aged as 507 years old.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which restaurant&#039;s mascot is a clown?",
+        "correct_answer": "McDonald&#039;s",
+        "incorrect_answers": [
+            "Whataburger",
+            "Burger King",
+            "Sonic"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the main protagonist of &quot;Ace Combat Zero: The Belkan War&quot;?",
+        "correct_answer": "Cipher",
+        "incorrect_answers": [
+            "Mobius 1",
+            "Blaze",
+            "Pixy"
+        ]
+    }
+]

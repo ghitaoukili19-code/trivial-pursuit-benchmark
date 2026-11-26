@@ -1,0 +1,570 @@
+[
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "The Xenomorph from the science fiction film &quot;Alien&quot; has acidic blood.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the protagonist of the videogame &quot;Dead Rising 2&quot;?",
+        "correct_answer": "Chuck Greene",
+        "incorrect_answers": [
+            "Nick Ramos",
+            "Frank West",
+            "Katie Greene"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of these countries is NOT located in Africa?",
+        "correct_answer": "Suriname",
+        "incorrect_answers": [
+            "Burkina Faso",
+            "Mozambique",
+            "Algeria"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "The &quot;Berenstein Bears&quot; is the correct spelling of the educational children&#039;s book series&#039; name.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "How many planets make up our Solar System?",
+        "correct_answer": "8",
+        "incorrect_answers": [
+            "7",
+            "9",
+            "6"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "TF2: The Heavy&#039;s voice actor, Gary Schwartz, voices the Demoman as well ",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Baron Silas Greenback is the arch nemesis of which cartoon hero?",
+        "correct_answer": "Danger Mouse",
+        "incorrect_answers": [
+            "Bananaman",
+            "SuperTed",
+            "Captain Star"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In the Friday The 13th series, what is Jason&#039;s mother&#039;s first name?",
+        "correct_answer": "Pamela",
+        "incorrect_answers": [
+            "Mary",
+            "Christine",
+            "Angeline"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Fast food restaurant chains Carl&#039;s Jr. and Hardee&#039;s are owned by the same company.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The French Kingdom helped the United States gain their independence over Great Britain during the Revolutionary War.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Clash Royale&quot; what is Arena 4 called?",
+        "correct_answer": "Spell Valley",
+        "incorrect_answers": [
+            "Barbarian Bowl",
+            "P.E.K.K.A&#039;s Playhouse",
+            "Royal Arena"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",
+        "correct_answer": "Sputnik 1",
+        "incorrect_answers": [
+            "Soyuz 7K-OK",
+            "Zenit-2",
+            "Voskhod 3KV"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In the movie &quot;V for Vendetta,&quot; what is the date that masked vigilante &quot;V&quot; urges people to remember?",
+        "correct_answer": "November 5th",
+        "incorrect_answers": [
+            "November 6th",
+            "November 4th",
+            "September 5th"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "The term &quot;GTO&quot; was originated by Ferrari?",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What is Everest&#039;s favorite food in the Nickelodeon/Nick Jr. series &quot;PAW Patrol&quot;?",
+        "correct_answer": "Liver",
+        "incorrect_answers": [
+            "Chicken",
+            "Steak",
+            "Caribou"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "&quot;The Simpsons&quot; family is named after creator Matt Groening&#039;s real family.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "If you grab the bladed end of a longsword in a specific way, you will not cut yourself.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In World of Warcraft lore, which of the following is known as the God of Spiders in the troll&#039;s loa beliefs?",
+        "correct_answer": "Elortha no Shadra",
+        "incorrect_answers": [
+            "Bwonsamdi",
+            "Hakkar",
+            "Shirvallah"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is on display in the Madame Tussaud&#039;s museum in London?",
+        "correct_answer": "Wax sculptures",
+        "incorrect_answers": [
+            "Designer clothing",
+            "Unreleased film reels",
+            "Vintage cars"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "How much horsepower is produced by the SD40-2 Locomotive?",
+        "correct_answer": "3,000",
+        "incorrect_answers": [
+            "3,200",
+            "2,578",
+            "2,190"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "A scientific study on peanuts in bars found traces of over 100 unique specimens of urine.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What city is the Terracotta Army located in?",
+        "correct_answer": "Xi&#039;an",
+        "incorrect_answers": [
+            "Beijing",
+            "Shanghai",
+            "Hong Kong"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which actor plays the role of the main antagonist in the 2011 movie &quot;Tower Heist?&quot;",
+        "correct_answer": "Alan Alda",
+        "incorrect_answers": [
+            "Eddie Murphy",
+            "Alec Baldwin",
+            "Kevin Nealon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these games was NOT developed by Markus Persson?",
+        "correct_answer": "Dwarf Fortress",
+        "incorrect_answers": [
+            "Minecraft",
+            "Wurm Online",
+            "0x10c"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What date was the first flight of the P-40 Warhawk?",
+        "correct_answer": "October 14 1938",
+        "incorrect_answers": [
+            "August 21 1939",
+            "January 12 1940",
+            "June 1 1939"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which weapon that was cut from the game &quot;Half Life 2&quot; was going to replace the crowbar?",
+        "correct_answer": "Ice Axe",
+        "incorrect_answers": [
+            "Fire Axe",
+            "Wrench",
+            "Hunting Knife"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Mythology",
+        "question": "What was the punishment for Sysiphus&#039;s craftiness?",
+        "correct_answer": "Cursed to roll a boulder up a hill for eternity.",
+        "incorrect_answers": [
+            "Tied to a boulder for eternity, being pecked by birds.",
+            "Standing in a lake filled with water he could not drink.",
+            "To fell a tree that regenerated after every axe swing."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What was the first music video to be broadcast on MTV?",
+        "correct_answer": "Video Killed the Radio Star",
+        "incorrect_answers": [
+            "Take On Me",
+            "Walk This Way",
+            "Hungry Like the Wolf"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What was the name of Sonic the Hedgehog&#039;s original human girlfriend?",
+        "correct_answer": "Madonna",
+        "incorrect_answers": [
+            "Celeste",
+            "Sierra",
+            "Nina"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In the 1994 movie &quot;Speed&quot;, what is the minimum speed the bus must go to prevent to bomb from exploding?",
+        "correct_answer": "50 mph",
+        "incorrect_answers": [
+            "60 mph",
+            "40 mph",
+            "70 mph"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "Aleph-nought is the cardinality of the set of all natural numbers.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In the Season 1 SpongeBob Squarepants episode, &quot;Help Wanted,&quot; the song &quot;Living in the Sunlight&quot; by Tiny Tim can be heard.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "During the game&#039;s development, what was the first ever created Pok&eacute;mon?",
+        "correct_answer": "Rhyhorn",
+        "incorrect_answers": [
+            "Bulbasaur",
+            "Mew",
+            "Arceus"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "&quot;Windows NT&quot; is a monolithic kernel.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the capital of Australia?",
+        "correct_answer": "Canberra",
+        "incorrect_answers": [
+            "Sydney",
+            "Melbourne",
+            "Brisbane"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The &quot;Day of Defeat&quot; series of games take place during which war?",
+        "correct_answer": "World War II",
+        "incorrect_answers": [
+            "World War I",
+            "Vietnam War",
+            "Iraq War"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which novelty band was best known for their UK chart hits &quot;Combine Harvester&quot; and &quot;I Am a Cider Drinker&quot; in 1976?",
+        "correct_answer": "The Wurzels",
+        "incorrect_answers": [
+            "Goldie Lookin Chain",
+            "Bonzo Dog Doo-Dah Band",
+            "The Firm"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Which celebrity announced his presidency in 2015?",
+        "correct_answer": "Kanye West",
+        "incorrect_answers": [
+            "Donald Trump",
+            "Leonardo DiCaprio",
+            "Miley Cyrus"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Antarctica is the largest desert in the world.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which river flows through the Scottish city of Glasgow?",
+        "correct_answer": "Clyde",
+        "incorrect_answers": [
+            "Tay",
+            "Dee",
+            "Tweed"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "Denmark has a monarch.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "AMD created the first consumer 64-bit processor.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which of these movies is NOT considered to be part of the Marvel Cinematic Universe?",
+        "correct_answer": "Fantastic Four (2015)",
+        "incorrect_answers": [
+            " Spider-Man: Homecoming (2017)",
+            "The Incredible Hulk (2008)",
+            "Captain Marvel (2019)"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What was the #1 selling game on Steam by revenue in 2016?",
+        "correct_answer": "Sid Meier&#039;s Civilization VI",
+        "incorrect_answers": [
+            "Grand Theft Auto V",
+            "Counter Strike: Global Offensive",
+            "Dark Souls III"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "EDM label Monstercat signs tracks instead of artists.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Who was the 40th President of the USA?",
+        "correct_answer": "Ronald Reagan",
+        "incorrect_answers": [
+            "Jimmy Carter",
+            "Bill Clinton",
+            "Richard Nixon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Who is the only US president to serve two non-consecutive terms in office?",
+        "correct_answer": "Grover Cleveland",
+        "incorrect_answers": [
+            "James K. Polk",
+            "Franklin D. Roosevelt",
+            "Thomas Jefferson"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What were the first two blocks in &quot;Minecraft&quot;?",
+        "correct_answer": "Grass and Cobblestone",
+        "incorrect_answers": [
+            "Grass and Stone",
+            "Crafting Table and Cobblestone",
+            "Cobblestone and Stone"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "In which city did American rap producer DJ Khaled originate from?",
+        "correct_answer": "Miami",
+        "incorrect_answers": [
+            "New York",
+            "Detroit",
+            "Atlanta"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of these is the name of an American psychedelic rock band formed in 2002 by Benjamin Goldwasser and Andrew VanWyngarden?",
+        "correct_answer": "MGMT",
+        "incorrect_answers": [
+            "MSTRKRFT",
+            "STRFKR",
+            "SBTRKT"
+        ]
+    }
+]

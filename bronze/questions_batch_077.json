@@ -1,0 +1,588 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Who performed the opening theme song for the James Bond 007 movie &quot;Goldfinger&quot;?",
+        "correct_answer": "Shirley Basey",
+        "incorrect_answers": [
+            "Tom Jones",
+            "John Barry",
+            "Sheena Easton"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In Super Mario RPG: Legend of The Seven Stars, what is Geno&#039;s real name?",
+        "correct_answer": "♡♪!?",
+        "incorrect_answers": [
+            "Geno",
+            "Exor",
+            "Smithy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What is the name of the city that The Flintstones is based in?",
+        "correct_answer": "Bedrock",
+        "incorrect_answers": [
+            "Stoneville",
+            "Rockhampton",
+            "Boulder City"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "One of Donald Trump&#039;s 2016 Presidential Campaign promises was to build a border wall between the United States and Mexico.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The Panama Canal was finished under the administration of which U.S. president?",
+        "correct_answer": "Woodrow Wilson",
+        "incorrect_answers": [
+            "Franklin Delano Roosevelt",
+            "Herbert Hoover",
+            "Theodore Roosevelt"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which UK country features a dragon on their flag?",
+        "correct_answer": "Wales",
+        "incorrect_answers": [
+            "England",
+            "North Ireland",
+            "Scotland"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The first version of Blockland came out in which year?",
+        "correct_answer": "2004",
+        "incorrect_answers": [
+            "2007",
+            "2008",
+            "2006"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "What is the name of Niccol&ograve; Machiavelli&#039;s work that argued effective leaders needed to crush their opponents at all costs?",
+        "correct_answer": "The Prince",
+        "incorrect_answers": [
+            "The Rape of Lucrece",
+            "Will to Power",
+            "Love&#039;s Labours Lost"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the full name of the protagonist from the SNES game Clock Tower?",
+        "correct_answer": "Jennifer Simpson",
+        "incorrect_answers": [
+            "Jennifer Barrows",
+            "Jennifer Cartwright",
+            "Jennifer Maxwell"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "The Ceratosaurus, a dinosaur known for having a horn on the top of its nose, is also known to be a decendent of the Tyrannosaurus Rex.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which NFL team plays for New England?",
+        "correct_answer": "Patriots",
+        "incorrect_answers": [
+            "Chiefs",
+            "Dolphins",
+            "49ers"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "The country of Belize borders which country?",
+        "correct_answer": "Guatemala",
+        "incorrect_answers": [
+            "Laos",
+            "Per&uacute;",
+            "Kenya"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "How many Sister Ships were related to the TItanic?",
+        "correct_answer": "2",
+        "incorrect_answers": [
+            "4",
+            "3",
+            "1"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the capital of the American state of Arizona?",
+        "correct_answer": "Phoenix",
+        "incorrect_answers": [
+            "Montgomery",
+            "Tallahassee",
+            "Raleigh"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Comics",
+        "question": "According to their longtime nickname, what kind of &quot;duo&quot; are Batman &amp; Robin?",
+        "correct_answer": "Dynamic",
+        "incorrect_answers": [
+            "Dangerous",
+            "Dynastic",
+            "Delirious"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the developer of the game &quot;Rocket League&quot;?",
+        "correct_answer": "Psyonix",
+        "incorrect_answers": [
+            "People can fly",
+            "Digital Happiness",
+            "Roll7"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The Touhou Project series of games is often associated with which genre?",
+        "correct_answer": "Shoot &#039;em up",
+        "incorrect_answers": [
+            "Strategy",
+            "FPS",
+            "Casual"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "The Sun consists of mostly which two elements?",
+        "correct_answer": "Hydrogen &amp; Helium",
+        "incorrect_answers": [
+            "Hydrogen &amp; Nitrogen",
+            "Carbon &amp; Nitrogen",
+            "Carbon &amp; Helium"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "The first dual-core CPU was the Intel Pentium D.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The end credits sequence in Grand Theft Auto 5 is over half an hour long.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Night In The Woods, where does Gregg work?",
+        "correct_answer": "Snack Falcon",
+        "incorrect_answers": [
+            "Ol&#039; Pickaxe",
+            "Video Outpost &quot;Too&quot;",
+            "Food Donkey"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "In the novel 1984, written by George Orwell, what is the name of the totalitarian regime that controls Oceania?",
+        "correct_answer": "INGSOC",
+        "incorrect_answers": [
+            "Neo-Bolshevism",
+            "Obliteration of the Self",
+            "Earth Alliance"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Gadgets",
+        "question": "What is the name of a simple machine that is made up of a stiff arm that can move freely around a fixed point?",
+        "correct_answer": "Lever",
+        "incorrect_answers": [
+            "Wedge",
+            "Screw",
+            "Pulley"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "The 1985 Toyota Corolla &quot;AE86&quot; was the hero car for what anime? ",
+        "correct_answer": "Initial D",
+        "incorrect_answers": [
+            "Wangan Midnight",
+            "Ghost MF",
+            "Ex Driver"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In the 1993 Disney animated series &quot;Bonkers&quot;, what is the name of Bonker&#039;s second partner?",
+        "correct_answer": "Miranda Wright",
+        "incorrect_answers": [
+            "Dick Tracy",
+            "Eddie Valiant",
+            "Dr. Ludwig von Drake"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In World of Warcraft lore, Thrall is the original wielder of &quot;Doomhammer&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "What was the major distinction between the English and French Gothic styles of architecture?",
+        "correct_answer": "Fan vaulting",
+        "incorrect_answers": [
+            "Pinnacles",
+            "Gargoyles",
+            "Hemispherical Domes"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "In a standard Gregorian calendar, how many months begin with the letter &#039;J&#039;?",
+        "correct_answer": "Three",
+        "incorrect_answers": [
+            "Four",
+            "Five",
+            "Two"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which nation claims ownership of Antarctica?",
+        "correct_answer": "No one, but there are claims.",
+        "incorrect_answers": [
+            "United States of America",
+            "United Nations",
+            "Australia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In which game did the Konami Code make its first appearance?",
+        "correct_answer": "Gradius",
+        "incorrect_answers": [
+            "Contra",
+            "Castlevania",
+            "Dance Dance Revolution"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Theresa May was the first female Prime Minister of the United Kingdom.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "&quot;Nephelococcygia&quot; is the practice of doing what? ",
+        "correct_answer": "Finding shapes in clouds",
+        "incorrect_answers": [
+            "Sleeping with your eyes open",
+            "Breaking glass with your voice",
+            "Swimming in freezing water"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "What team did England beat in the semi-final stage to win in the 1966 World Cup final?",
+        "correct_answer": "Portugal",
+        "incorrect_answers": [
+            "West Germany",
+            "Soviet Union",
+            "Brazil"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "How many members are in the Japanese rock band SCANDAL?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "5",
+            "2",
+            "18"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;To Love-Ru&quot;, who is the first to hear of Yami&#039;s past from her?",
+        "correct_answer": "Rito",
+        "incorrect_answers": [
+            "Mikan",
+            "Lala",
+            "Haruna"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Comics",
+        "question": "What is the full first name of the babysitter in Calvin and Hobbes?",
+        "correct_answer": "Rosalyn",
+        "incorrect_answers": [
+            "Rose",
+            "Ruby",
+            "Rachel"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Where was Abraham Lincoln when he was assassinated by John Wilkes Booth in 1865?",
+        "correct_answer": "At the theatre",
+        "incorrect_answers": [
+            "On a boat",
+            "On his horse",
+            "In bed"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Satella in &quot;Re:Zero&quot; is the witch of what?",
+        "correct_answer": "Envy",
+        "incorrect_answers": [
+            "Pride",
+            "Sloth",
+            "Wrath"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is the area of Vatican City?",
+        "correct_answer": "0.44km^2",
+        "incorrect_answers": [
+            "0.10km^2",
+            "0.86km^2",
+            "12.00km^2"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Which Apollo mission was the first one to land on the Moon?",
+        "correct_answer": "Apollo 11",
+        "incorrect_answers": [
+            "Apollo 10",
+            "Apollo 9",
+            "Apollo 13"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which video game earned music composer Mike Morasky the most awards for his work?",
+        "correct_answer": "Portal 2",
+        "incorrect_answers": [
+            "Left 4 Dead 2",
+            "Team Fortress 2",
+            "Counter-Strike: Global Offensive"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "What is the name of the &quot;tool&quot; used to hit the white ball in snooker or billiards?",
+        "correct_answer": "Cue",
+        "incorrect_answers": [
+            "Racquet",
+            "Bat",
+            "Mallet"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which city is the capital of the United States of America?",
+        "correct_answer": "Washington D.C",
+        "incorrect_answers": [
+            "Seattle",
+            "Albany",
+            "Los Angeles"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Bela Lugosi was a Hungarian-American actor best known for his starring role of what 1931 horror film?",
+        "correct_answer": "Count Dracula",
+        "incorrect_answers": [
+            "Dr Frankenstein",
+            "Werewolf",
+            "The Creature from the Black Lagoon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Which car manufacturer created the &quot;Aventador&quot;?",
+        "correct_answer": "Lamborghini",
+        "incorrect_answers": [
+            "Ferrari",
+            "Pagani",
+            "Bugatti"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these Generation 1 Pokemon did NOT have an evolution in Generation 4?",
+        "correct_answer": "Jynx",
+        "incorrect_answers": [
+            "Electabuzz",
+            "Magmar",
+            "Rhydon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "What is the first Studio Album to be released on the Internet with a &quot;Pay-What-You-Want&quot; price?",
+        "correct_answer": "In Rainbows",
+        "incorrect_answers": [
+            "The Help Album",
+            "Skrillex and Diplo Present Jack &Uuml;",
+            "Blackstar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Earthbound&quot;, how does one enter &quot;Master Belch&#039;s&quot; factory?",
+        "correct_answer": "Wait 3 Minutes",
+        "incorrect_answers": [
+            "Enter the password &quot;Fly Honey&quot;",
+            "Enter the password &quot;Master Belch Rules&quot;",
+            "Enter the password &quot;Mr Saturn Drools&quot;"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which German sportswear company&#039;s logo is the &#039;Formstripe&#039;?",
+        "correct_answer": "Puma",
+        "incorrect_answers": [
+            "Nike",
+            "Adidas",
+            "Reebok"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "The French word to travel is &quot;Travail&quot;",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    }
+]

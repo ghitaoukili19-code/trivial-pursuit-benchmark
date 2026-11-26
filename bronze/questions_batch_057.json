@@ -1,0 +1,592 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "In Big Hero 6, what were Baymax&#039;s motions modeled after?",
+        "correct_answer": "Baby penguins",
+        "incorrect_answers": [
+            "Baby monkeys",
+            "Baby ostriches",
+            "Baby bears"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Tupac Shakur died due to complications from being stabbed in 1996.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "What was the callsign of Commander William Adama in Battlestar Galactica (2004)?",
+        "correct_answer": "Husker",
+        "incorrect_answers": [
+            "Starbuck",
+            "Apollo",
+            "Crashdown"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What was the official German currency until 2002?",
+        "correct_answer": "Mark",
+        "incorrect_answers": [
+            "Frank",
+            "Pound sterling",
+            "Reichtoken"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "All the following metal elements are liquids at or near room temperature EXCEPT:",
+        "correct_answer": "Beryllium",
+        "incorrect_answers": [
+            "Gallium",
+            "Caesium",
+            "Mercury"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Colchester Overpass, otherwise known as &quot;Bunny Man Bridge&quot;, is located where?",
+        "correct_answer": "Fairfax County, Virginia",
+        "incorrect_answers": [
+            "Medford, Oregon",
+            "Braxton County, Virgina",
+            "Lemon Grove, California"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the SHMUP series, &quot;Gradius&quot;, what is the name of the antagonist faction you fight against?",
+        "correct_answer": "Bacterion",
+        "incorrect_answers": [
+            "Bydo",
+            "Belsar",
+            "ORN Empire"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Who is Manchester United&#039;s leading appearance maker?",
+        "correct_answer": "Ryan Giggs",
+        "incorrect_answers": [
+            "David Beckham",
+            "Wayne Rooney",
+            "Eric Cantona"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which of these countries remained neutral during World War II?",
+        "correct_answer": "Switzerland",
+        "incorrect_answers": [
+            "United Kingdom",
+            "France",
+            "Italy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which animation studio produced &quot;Sword Art Online&quot;?",
+        "correct_answer": "A-1 Pictures",
+        "incorrect_answers": [
+            "Production I.G",
+            "Silver Link",
+            "Kyoto Animation"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Gadgets",
+        "question": "Which company designed the &quot;Betamax&quot; video cassette format?",
+        "correct_answer": "Sony",
+        "incorrect_answers": [
+            "Panasonic",
+            "LG",
+            "Fujitsu"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "What NBC sitcom once saw two of its characters try to pitch NBC on a sitcom about nothing?",
+        "correct_answer": "Seinfeld",
+        "incorrect_answers": [
+            "Frasier",
+            "Becker",
+            "Friends"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the only female &quot;Original Four&quot; Kerbal in Kerbal Space Program?",
+        "correct_answer": "Valentina Kerman",
+        "incorrect_answers": [
+            "Emiko Kerman",
+            "Samantha Kerman",
+            "Catmund Kerman"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which US state has the highest population?",
+        "correct_answer": "California",
+        "incorrect_answers": [
+            "New York",
+            "Texas",
+            "Florida"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "In Scandinavian languages, the letter &Aring; means river.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "Which car tire manufacturer is famous for its &quot;P Zero&quot; line?",
+        "correct_answer": "Pirelli",
+        "incorrect_answers": [
+            "Goodyear",
+            "Bridgestone",
+            "Michelin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "When was the 3rd album &quot;Notes from the Underground&quot; of the band &quot;Hollywood Undead&quot; released?",
+        "correct_answer": "2013",
+        "incorrect_answers": [
+            "2011",
+            "2014",
+            "2009"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In which year did the orignal Sims game release?",
+        "correct_answer": "2000",
+        "incorrect_answers": [
+            "2001",
+            "1999",
+            "1998"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In &quot;Avatar: The Last Airbender&quot;, which element does Aang begin to learn after being defrosted?",
+        "correct_answer": "Water",
+        "incorrect_answers": [
+            "Air",
+            "Earth",
+            "Fire"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which U.S. president took part in the Potsdam Conference, where the Allies reached a peace settlement with Germany?",
+        "correct_answer": "Harry S. Truman",
+        "incorrect_answers": [
+            "Dwight D. Eisenhower",
+            "Franklin D. Roosevelt",
+            "Herbert Hoover"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "When was Google founded?",
+        "correct_answer": "September 4, 1998",
+        "incorrect_answers": [
+            "October 9, 1997",
+            "December 12, 1989",
+            "Feburary 7th, 2000"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these characters won the Super Smash Bros. Fighter Ballot in 2015?",
+        "correct_answer": "Bayonetta",
+        "incorrect_answers": [
+            "Cloud",
+            "Ryu",
+            "Megaman"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "On the NBC show Community, whose catch-phrase was &quot;Pop! Pop!&quot;?",
+        "correct_answer": "Magnitude",
+        "incorrect_answers": [
+            "Star Burns",
+            "Leonard",
+            "Senoir Chang"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Which of the following is not one of the groups on the periodic table?",
+        "correct_answer": "Fluorines",
+        "incorrect_answers": [
+            "Alkali Metals",
+            "Halogens",
+            "Noble Gases"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Which of the following blood vessels carries deoxygenated blood?",
+        "correct_answer": "Pulmonary Artery",
+        "incorrect_answers": [
+            "Pulmonary Vein",
+            "Aorta",
+            "Coronary Artery"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which one of these Manga titles was not created by Urasawa Naoki?",
+        "correct_answer": "My Father&#039;s Journal",
+        "incorrect_answers": [
+            "Billy Bat",
+            "20th Century Boys",
+            "Monster"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "What is another name for La Gioconda / La Joconde?",
+        "correct_answer": "The Mona Lisa",
+        "incorrect_answers": [
+            "The Girl with a Pearl Earring",
+            "The Starry Night",
+            "Sunflowers"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Which of these is not a real character in the cartoon series My Little Pony: Friendship is Magic?",
+        "correct_answer": "Rose Marene",
+        "incorrect_answers": [
+            "Pinkie Pie",
+            "Maud Pie",
+            "Rainbow Dash"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "On which day did the attempted coup d&#039;etat of 1991 in the Soviet Union begin?",
+        "correct_answer": "August 19",
+        "incorrect_answers": [
+            "August 21",
+            "December 26",
+            "December 24"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "In programming, the ternary operator is mostly defined with what symbol(s)?",
+        "correct_answer": "?:",
+        "incorrect_answers": [
+            "??",
+            "if then",
+            "?"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What anime studio was in charge of the hit anime &quot;Made in Abyss&quot;?",
+        "correct_answer": "Kinema Citrus",
+        "incorrect_answers": [
+            "Trigger",
+            "Studio 3hz",
+            "8bit"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Comics",
+        "question": "Which pulp hero made appearances in Hellboy and BPRD comics before getting his own spin-off?",
+        "correct_answer": "Lobster Johnson",
+        "incorrect_answers": [
+            "Roger the Homunculus",
+            "The Spider",
+            "The Wendigo"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Sugar contains fat.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Kanye West at 2009 VMA&#039;s interrupted which celebrity?",
+        "correct_answer": "Taylor Swift",
+        "incorrect_answers": [
+            "MF DOOM",
+            "Beyonce",
+            "Beck"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the Yakuza series who is the Dragon of Dojima?",
+        "correct_answer": "Kazuma Kiryu",
+        "incorrect_answers": [
+            "Sohei Dojima",
+            "Ryuji Goda",
+            "Haruka Sawamura"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?",
+        "correct_answer": "2005",
+        "incorrect_answers": [
+            "1999",
+            "2002",
+            "2008"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the video game &quot;Metal Gear Solid&quot;, what did Revolver Ocelot consider the greatest handgun ever made?",
+        "correct_answer": "Colt Single Action Army",
+        "incorrect_answers": [
+            "Colt Python",
+            "Colt M1892",
+            "Colt 1851 Navy Revolver"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which band released songs such as &quot;Electric Feel&quot;, &quot;Kids&quot;, and &quot;Time to Pretend&quot;?",
+        "correct_answer": "MGMT",
+        "incorrect_answers": [
+            "Passion Pit",
+            "Phoenix",
+            "Franz Ferdinand"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Which boxing personality was one of the presenters in the 1999 revival of It&#039;s a Knockout?",
+        "correct_answer": "Frank Bruno",
+        "incorrect_answers": [
+            "Henry Cooper",
+            "Muhammad Ali",
+            "Joe Fraiser"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The New York Subway is the oldest underground in the world.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "When was Minecraft 1.0 released?",
+        "correct_answer": "November 18, 2011",
+        "incorrect_answers": [
+            "May 17, 2009",
+            "December 10, 2014",
+            "September 13, 2012"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "In the &quot;Jurassic Park&quot; universe, when did &quot;Jurassic Park: San Diego&quot; begin construction?",
+        "correct_answer": "1985",
+        "incorrect_answers": [
+            "1988",
+            "1986",
+            "1993"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the video game DOTA 2, which of these is NOT a hero?",
+        "correct_answer": "Dragon Champion",
+        "incorrect_answers": [
+            "Dark Seer",
+            "Keeper of the Light",
+            "Mirana"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these roles in Town of Salem is mafia?",
+        "correct_answer": "Disguiser",
+        "incorrect_answers": [
+            "Escort",
+            "Lookout",
+            "Transporter"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "How many federal states does Germany have?",
+        "correct_answer": "16",
+        "incorrect_answers": [
+            "13",
+            "32",
+            "25"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Is a dog a mammal?",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In what year was the M1911 pistol designed?",
+        "correct_answer": "1911",
+        "incorrect_answers": [
+            "1907",
+            "1899",
+            "1917"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "Which character class in Dungeons and Dragons 5th edition gains it&#039;s powers from making a pact with a being of higher power?",
+        "correct_answer": "Warlock",
+        "incorrect_answers": [
+            "Wizard",
+            "Sorceror",
+            "Cleric"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which eSports team came first place in The International Dota 2 Championship 2016?",
+        "correct_answer": "Wings Gaming",
+        "incorrect_answers": [
+            "Digital Chaos",
+            "Evil Geniuses",
+            "Fnatic"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "At which race was the 2018 F1 Drivers Championship won?",
+        "correct_answer": "Mexico",
+        "incorrect_answers": [
+            "United States",
+            "Belgium",
+            "Abu Dhabi"
+        ]
+    }
+]

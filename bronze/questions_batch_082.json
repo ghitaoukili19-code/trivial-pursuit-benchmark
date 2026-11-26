@@ -1,0 +1,590 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is the Alien Race in the game &quot;Lego Racers 2&quot; known as?",
+        "correct_answer": "Ramas",
+        "incorrect_answers": [
+            "Slizers",
+            "Roboriders",
+            "Turagas"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "In the year 1900, what were the most popular first names given to boy and girl babies born in the United States?",
+        "correct_answer": "John and Mary",
+        "incorrect_answers": [
+            "Joseph and Catherine",
+            "William and Elizabeth",
+            "George and Anne"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What was the nickname of the original model for Half-Life&#039;s protagonist Gordon Freeman?",
+        "correct_answer": "Ivan the Space Biker",
+        "incorrect_answers": [
+            "Gordon the Space Biker",
+            "Ivan the Alien Biker",
+            "Gordon the Alien Biker"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What year was the first Pizza Hut restaurant opened?",
+        "correct_answer": "1958",
+        "incorrect_answers": [
+            "1976",
+            "1965",
+            "1942"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Touhou: Embodiment of Scarlet Devil, what song plays during Flandre Scarlet&#039;s boss fight?",
+        "correct_answer": "U.N. Owen Was Her",
+        "incorrect_answers": [
+            "Septette for the Dead Princess",
+            "Flowering Night",
+            "Pierrot of the Star-Spangled Banner"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In what year did the First World War end?",
+        "correct_answer": "1918",
+        "incorrect_answers": [
+            "1914",
+            "1916",
+            "1912"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Leonardo da Vinci&#039;s Mona Lisa does not have eyebrows.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What happened on June 6, 1944?",
+        "correct_answer": "D-Day",
+        "incorrect_answers": [
+            "Atomic bombings of Hiroshima and Nagasaki",
+            "Attack on Pearl Harbor",
+            "The Liberation of Paris"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Gwyneth Paltrow has a daughter named...?",
+        "correct_answer": "Apple",
+        "incorrect_answers": [
+            "Lily",
+            "French",
+            "Dakota"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "The &#039;Islets of Langerhans&#039; is found in which human organ?",
+        "correct_answer": "Pancreas",
+        "incorrect_answers": [
+            "Kidney",
+            "Liver",
+            "Brain"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The color orange is named after the fruit.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Which actress married Michael Douglas in 2000?",
+        "correct_answer": "Catherine Zeta-Jones",
+        "incorrect_answers": [
+            "Ruth Jones",
+            "Pam Ferris",
+            "Sara Sugarman"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What does Solid Snake use to hide himself with?",
+        "correct_answer": "Cardboard Box",
+        "incorrect_answers": [
+            "Cloaking Device",
+            "Metal Crate",
+            "Cardboard cut-out"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which stage was planned to be a part of &quot;Sonic the Hedgehog 2&quot;, but was scrapped during development?",
+        "correct_answer": "Genocide City Zone",
+        "incorrect_answers": [
+            "Stardust Speedway Zone",
+            "Sky High Zone ",
+            "Clockwork Zone"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+        "correct_answer": "DING Ning (China)",
+        "incorrect_answers": [
+            "LI Xiaoxia (China)",
+            "Ai FUKUHARA (Japan)",
+            "Song KIM (North Korea)"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "The animated film &quot;Spirited Away&quot; won the Academy Award for Best Animated Feature at the 75th Academy Awards in 2003.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "Donald Trump won the popular vote in the 2016 United States presidential election.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which European city is known as the &quot;City of Light&quot;?",
+        "correct_answer": "Paris",
+        "incorrect_answers": [
+            "Rome",
+            "London",
+            "Madrid"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The United States Army Air Corps became the United States Air Force on what date?",
+        "correct_answer": "September 18, 1947",
+        "incorrect_answers": [
+            "December 14, 1946",
+            "October 27, 1945",
+            "November 08, 1944"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "Stephen Chbosky wrote the book &#039;The Perks of Being A Wallflower&#039;.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Who designed the Chupa Chups logo?",
+        "correct_answer": "Salvador Dali",
+        "incorrect_answers": [
+            "Pablo Picasso",
+            "Andy Warhol",
+            "Vincent van Gogh"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Splatoon, the Squid Sisters are named Tako and Yaki.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What year did the anime &quot;Himouto! Umaru-chan&quot; air?",
+        "correct_answer": "2015",
+        "incorrect_answers": [
+            "2014",
+            "2012",
+            "2013"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What major event caused the events of Half-Life 1?",
+        "correct_answer": "The Resonance Cascade ",
+        "incorrect_answers": [
+            "The Blue Shift",
+            "The Seven Hour War",
+            "The Narbacular Drop"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "What was the first vehicle that came with air conditioning as a factory standard?",
+        "correct_answer": "Packard",
+        "incorrect_answers": [
+            "Tucker",
+            "Ford",
+            "Hudson"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The American company &quot;Campbell&#039;s&quot; is most well known for making what food product?",
+        "correct_answer": "Canned soups",
+        "incorrect_answers": [
+            "Chocolate",
+            "Soft drinks",
+            "Sausages"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What city  has the busiest airport in the world?",
+        "correct_answer": "Atlanta, Georgia USA",
+        "incorrect_answers": [
+            "London, England",
+            "Chicago,Illinois ISA",
+            "Tokyo,Japan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which canal connects the Mediterranean Sea with the Red Sea?",
+        "correct_answer": "Suez Canal",
+        "incorrect_answers": [
+            "Panama Canal",
+            "Sinai Canal",
+            "Qaraqum Canal"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Where did the pineapple plant originate?",
+        "correct_answer": "South America",
+        "incorrect_answers": [
+            "Hawaii",
+            "Europe",
+            "Asia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which game did &quot;Sonic The Hedgehog&quot; make his first appearance in?",
+        "correct_answer": "Rad Mobile",
+        "incorrect_answers": [
+            "Sonic The Hedgehog",
+            "Super Mario 64",
+            "Mega Man"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Bikini Atoll is in which country?",
+        "correct_answer": "Marshall Islands",
+        "incorrect_answers": [
+            "Fiji",
+            "Christmas Islands",
+            "Bahamas"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "The Mazda 787B won the 24 Hours of Le Mans in what year?",
+        "correct_answer": "1991",
+        "incorrect_answers": [
+            "1990",
+            "2000",
+            "1987"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Out of these four buildings, which one is the tallest, with a height of 2,717 ft (828 m)?",
+        "correct_answer": "Burj Khalifa, United Arab Emirates",
+        "incorrect_answers": [
+            "Shanghai Tower, China",
+            "Lotte World Tower, South Korea",
+            "Ping An Finance Centre, China"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What is the standard SI unit for mass?",
+        "correct_answer": "Kilogram",
+        "incorrect_answers": [
+            "Tonne",
+            "Pound",
+            "Gram"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Overwatch, which ape species is the hero Winston?",
+        "correct_answer": "Gorilla",
+        "incorrect_answers": [
+            "Orangutan",
+            "Chimpanzee",
+            "Gibbon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the &quot;Devil May Cry&quot; franchise, which game is chronologically first?",
+        "correct_answer": "Devil May Cry 3: Dante&#039;s Awakening ",
+        "incorrect_answers": [
+            "Devil May Cry 4",
+            "Devil May Cry",
+            "Devil May Cry 2"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which essential condiment is also known as Japanese horseradish?",
+        "correct_answer": "Wasabi ",
+        "incorrect_answers": [
+            "Mentsuyu",
+            "Karashi",
+            "Ponzu"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which musical group won the Brit Awards in 1985, with George Michael as a member?",
+        "correct_answer": "Wham!",
+        "incorrect_answers": [
+            "Frankie Goes to Hollywood",
+            "U2",
+            "Culture Club"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "What programming language was GitHub written in?",
+        "correct_answer": "Ruby",
+        "incorrect_answers": [
+            "JavaScript",
+            "Python",
+            "Lua"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Paul McCartney has always used his middle name. What is his real first name? ",
+        "correct_answer": "James",
+        "incorrect_answers": [
+            "John",
+            "Jack",
+            "Justin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these characters was almost added into Super Smash Bros. Melee, but not included as the game was too far in development?",
+        "correct_answer": "Solid Snake",
+        "incorrect_answers": [
+            "Pit",
+            "Meta Knight",
+            "R.O.B."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "How many bits are commonly in a single byte?",
+        "correct_answer": "Eight bits",
+        "incorrect_answers": [
+            "Six bits",
+            "Twelve bits",
+            " Fifteen bits"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In which war did the atomic bombings of Hiroshima and Nagasaki occur?",
+        "correct_answer": "World War II",
+        "incorrect_answers": [
+            "World War I",
+            "Russo-Japanese War",
+            "First Sino-Japanese War"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "The French mathematician &Eacute;variste Galois is primarily known for his work in which?",
+        "correct_answer": "Galois Theory",
+        "incorrect_answers": [
+            "Galois&#039; Continued Fractions",
+            "Galois&#039; Method for PDE&#039;s ",
+            "Abelian Integration"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Which Native American tribe/nation requires at least one half blood quantum (equivalent to one parent) to be eligible for membership?",
+        "correct_answer": "Yomba Shoshone Tribe",
+        "incorrect_answers": [
+            "Standing Rock Sioux Tribe",
+            "Kiowa Tribe of Oklahoma",
+            "Pawnee Nation of Oklahoma"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which actor played the main character in the 1990 film &quot;Edward Scissorhands&quot;?",
+        "correct_answer": "Johnny Depp",
+        "incorrect_answers": [
+            " Clint Eastwood",
+            "Leonardo DiCaprio",
+            "Ben Stiller"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Starting from 2000, China banned manufacturing and sales of all video game consoles. On which year was this ban lifted?",
+        "correct_answer": "2015",
+        "incorrect_answers": [
+            "2012",
+            "2008",
+            "2017"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "What internet protocol was documented in RFC 1459?",
+        "correct_answer": "IRC",
+        "incorrect_answers": [
+            "HTTP",
+            "HTTPS",
+            "FTP"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who was the main antagonist of Max Payne 3 (2012)?",
+        "correct_answer": "Victor Branco",
+        "incorrect_answers": [
+            "&Aacute;lvaro Neves",
+            "Armando Becker",
+            "Milo Rego"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following games in the The Legend of Zelda franchise was released in Japan before North America?",
+        "correct_answer": "The Legend of Zelda: The Minish Cap",
+        "incorrect_answers": [
+            "The Legend of Zelda: Twilight Princess",
+            "The Legend of Zelda: Spirit Tracks",
+            "The Legend of Zelda: Four Swords"
+        ]
+    }
+]

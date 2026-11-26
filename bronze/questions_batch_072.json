@@ -1,0 +1,578 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "Which greek god/goddess tossed a golden apple with the words &quot;for the fairest&quot; into the middle of the feast of the gods?",
+        "correct_answer": "Eris",
+        "incorrect_answers": [
+            "Hades",
+            "Ares",
+            "Artemis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": " Which chemical element, number 11 in the Periodic table, has the symbol Na?",
+        "correct_answer": "Sodium",
+        "incorrect_answers": [
+            "Carbon",
+            "Lead",
+            "Nitrogen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "On which day did construction start on &quot;The Pentagon&quot;, the headquarters for the United States Department of Defense?",
+        "correct_answer": "September 11, 1941",
+        "incorrect_answers": [
+            "June 15, 1947",
+            "January 15, 1943",
+            "September 2, 1962"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The scrapped Sonic the Hedgehog 2 level &quot;Hidden Palace Zone&quot; was later reused in the iOS port of the game. ",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "In Alice in Wonderland, what is the name of Alice&#039;s kitten?",
+        "correct_answer": "Dinah",
+        "incorrect_answers": [
+            "Oscar",
+            "Heath",
+            "Smokey"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is special about Lake Titicaca?",
+        "correct_answer": "Highest navigable lake",
+        "incorrect_answers": [
+            "Longest lake in the world",
+            "Deepest lake in the world",
+            "Remains frozen all year round"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which US state is nicknamed &quot;The Golden State&quot;?",
+        "correct_answer": "California",
+        "incorrect_answers": [
+            "Florida",
+            "New Mexico",
+            "Alaska"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the anime series &quot;Full Metal Alchemist&quot;, what do Alchemists consider the greatest taboo?",
+        "correct_answer": "Human Transmutation ",
+        "incorrect_answers": [
+            "Transmuting Lead Into Gold",
+            "Using Alchemy For Crime ",
+            "Preforming Without A Permit"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The Emus won the Great Emu War of 1932.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "Which of the following Mesopotamian mythological figures was NOT a deity?",
+        "correct_answer": "Enkidu",
+        "incorrect_answers": [
+            "Enki",
+            "Enlil",
+            "Enkimdu"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is not a DLC vehicle in &quot;Mario Kart 8&quot;?",
+        "correct_answer": "Wild Wiggler",
+        "incorrect_answers": [
+            "Bone Rattler",
+            "B Dasher",
+            "300 SL Roadster"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "What is the frontman&#039;s name of the metal band Megadeth?",
+        "correct_answer": "Dave Mustaine",
+        "incorrect_answers": [
+            "Rob Halford",
+            "Vince Neil",
+            "James Hetfield"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "By what name was the author Eric Blair better known?",
+        "correct_answer": "George Orwell",
+        "incorrect_answers": [
+            "Aldous Huxley",
+            "Ernest Hemingway",
+            "Ray Bradbury"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Which member of the Wu-Tang Clan had only one verse in their debut album Enter the Wu-Tang (36 Chambers)?",
+        "correct_answer": "Masta Killa",
+        "incorrect_answers": [
+            "Method Man",
+            "Inspectah Deck",
+            "GZA"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "My Hero Academia&#039;s main character Midoriya goes by what superhero name?",
+        "correct_answer": "Deku",
+        "incorrect_answers": [
+            "All Might",
+            "Saitama",
+            "Kona"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is the capital of Burkina Faso?",
+        "correct_answer": "Ouagadougou",
+        "incorrect_answers": [
+            "Yaound&eacute;",
+            "Yamoussoukro",
+            "Abidjan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "What is the name of the author of book series &#039;Percy Jackson&#039;?",
+        "correct_answer": "Rick Riordan",
+        "incorrect_answers": [
+            "J.K. Rowling",
+            "Sandra Bullock ",
+            "Roald Dahl"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "What type of angle is greater than 90&deg;?",
+        "correct_answer": "Obtuse",
+        "incorrect_answers": [
+            "Acute",
+            "Right",
+            "Straight"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "Which of the following is NOT a class in Dungeons and Dragons 5e?",
+        "correct_answer": "Engineer ",
+        "incorrect_answers": [
+            "Fighter ",
+            "Paladin ",
+            "Bard"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In &quot;Breaking Bad&quot;, Walter White is a high school teacher diagnosed with which form of cancer?",
+        "correct_answer": "Lung Cancer",
+        "incorrect_answers": [
+            "Prostate Cancer",
+            "Brain Cancer",
+            "Testicular Cancer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "How many stations does the Central Line have on the London Underground?",
+        "correct_answer": "49",
+        "incorrect_answers": [
+            "51",
+            "43",
+            "47"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "Which Audi does not use Haldex based all wheel drive system?",
+        "correct_answer": "Audi A8",
+        "incorrect_answers": [
+            "Audi TT",
+            "Audi S3",
+            "Audi A3"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the alligator in Where&#039;s My Water?",
+        "correct_answer": "Swampy",
+        "incorrect_answers": [
+            "Cranky",
+            "Crocky",
+            "Justice"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Gadgets",
+        "question": "The iPhone 3G was the second iPhone generation.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "Zero factorial is equal to zero. ",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which one of these characters is from &quot;Legendz : Tale of the Dragon Kings&quot;?",
+        "correct_answer": "Shiron",
+        "incorrect_answers": [
+            "Jack",
+            "Axia",
+            "Drum"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the name of Poland in Polish?",
+        "correct_answer": "Polska",
+        "incorrect_answers": [
+            "Pupcia",
+            "Polszka",
+            "P&oacute;land"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which logical fallacy means to attack the character of your opponent rather than their arguments?",
+        "correct_answer": "Ad hominem",
+        "incorrect_answers": [
+            "Post hoc ergo propter hoc",
+            "Tu quoque",
+            "Argumentum ad populum"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The fraudelent doctor John R. Brinkley acummulated great fame and wealth in the early 1900s offering what service?",
+        "correct_answer": "Goat testicles transplant",
+        "incorrect_answers": [
+            "Pig blood transfusion",
+            "Cow liver transplant",
+            "Turkey breast implants"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which team won the 2015-16 English Premier League?",
+        "correct_answer": "Leicester City",
+        "incorrect_answers": [
+            "Liverpool",
+            "Cheslea",
+            "Manchester United"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "In Romance of the Three Kingdoms, who was not a member of the Peach Garden Oath?",
+        "correct_answer": "Zhao Yun",
+        "incorrect_answers": [
+            "Liu Bei",
+            "Guan Yu",
+            "Zhang Fei"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The Kingdom of Prussia briefly held land in Estonia.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "In Greek mythology, Hera is the goddess of harvest.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "This trope refers to minor characters that are killed off to show how a monster works.",
+        "correct_answer": "Red Shirt",
+        "incorrect_answers": [
+            "Minions",
+            "Expendables",
+            "Cannon Fodder"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the video game &quot;Splatoon&quot;, the playable characters were originally going to be rabbits instead of squids.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "The card game &quot;Munchkin&quot; won the 2001 Origins Award for Best Traditional Card Game.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What city is known as the Rose Capital of the World?",
+        "correct_answer": "Tyler, Texas",
+        "incorrect_answers": [
+            "San Diego, California",
+            "Miami, Florida",
+            "Anaheim, California"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the game &quot;VA-11 Hall-A&quot; during Virgilio&#039;s ending, Virgilio opens his own:",
+        "correct_answer": "Curry Stand",
+        "incorrect_answers": [
+            "Bar",
+            "Museum",
+            "Law Firm"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Taiwan officially calls itself &quot;the Republic of China&quot;.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Metallica collaborated with Rowan Atkinson&#039;s Mr Bean on a 1992 comic relief single.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Deus Ex: Mankind Divided&quot;, Adam Jensen can die from overclocking.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which city is the American singer &quot;Pitbull&quot; from?",
+        "correct_answer": "Miami",
+        "incorrect_answers": [
+            "Kodiak",
+            "St. Louis",
+            "Boston"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "A collection of Sanskrit hymns and verses known as the Vedas are sacred texts in what religion?",
+        "correct_answer": "Hinduism",
+        "incorrect_answers": [
+            "Judaism",
+            "Islam",
+            "Buddhism"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "A Caixa Malacacheta is what kind of musical instrument which is commonly used in Latin American music?",
+        "correct_answer": "Snare Drum",
+        "incorrect_answers": [
+            "Cow Bell",
+            "Bass Drum",
+            "Maraca"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "What does SSD stand for?",
+        "correct_answer": "Solid State Drive",
+        "incorrect_answers": [
+            "Solution Source Disk",
+            "Solid State Disk",
+            "Source Solution Drive"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Which U.S. president is said to have had the longest beard?",
+        "correct_answer": "Rutherford B. Hayes",
+        "incorrect_answers": [
+            "Zachary Taylor",
+            "John Quincy Adams",
+            "James A. Garfield"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Where was the Sniper character in Team Fortress 2 born?",
+        "correct_answer": "New Zealand",
+        "incorrect_answers": [
+            "South Africa",
+            "Antarctica",
+            "Australia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the main protagonist in &quot;Xenoblade Chronicles&quot;?",
+        "correct_answer": "Shulk",
+        "incorrect_answers": [
+            "Reyn",
+            "Fiora",
+            "Dunban"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "When was the website reddit founded ?",
+        "correct_answer": "2005",
+        "incorrect_answers": [
+            "2008",
+            "2004",
+            "2006"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "You are allowed to sell your soul on eBay.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    }
+]

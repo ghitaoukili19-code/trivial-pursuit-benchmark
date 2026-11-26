@@ -1,0 +1,590 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "When did the Battle of the Somme begin?",
+        "correct_answer": "July 1st, 1916",
+        "incorrect_answers": [
+            "August 1st, 1916",
+            "July 2nd, 1916",
+            "June 30th, 1916"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What produces the green colour of most plant leaves?",
+        "correct_answer": "Chlorophyll",
+        "incorrect_answers": [
+            "Light refraction",
+            "Natural pigments",
+            "UV radiation"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Gadgets",
+        "question": "What was the first Infinity Coaster in the world and where is it located?",
+        "correct_answer": "The Smiler, Alton Towers, UK",
+        "incorrect_answers": [
+            "Madagascar Mad Pursuit, Motiongate Dubai, UAE",
+            "Gold Rush, Slagharen, Netherlands ",
+            "Monster, Adventureland Altoona, USA"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Which Sanrio character was introduced in 1996?",
+        "correct_answer": "Pompompurin",
+        "incorrect_answers": [
+            "My Melody",
+            "Badtz-Maru",
+            "Kerropi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the game &quot;DELTARUNE&quot;, what is Ralsei&#039;s special ability?",
+        "correct_answer": "Pacify",
+        "incorrect_answers": [
+            "Persuade",
+            "Eliminate",
+            "Hug"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In the film &quot;Requiem for a Dream&quot;, what drug does Jared Leto&#039;s character get addicted to?",
+        "correct_answer": "Heroin",
+        "incorrect_answers": [
+            "Cocaine",
+            "Marijuana",
+            "Oxycodone"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Prior to going solo in 1982, Lionel Richie was a member of which Motown group?",
+        "correct_answer": "The Commodores",
+        "incorrect_answers": [
+            "The Temptations",
+            "The Miracles",
+            "The Supremes"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Super Mario 64&quot;, collecting 100 coins on a level will give you a 1-UP.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is the name of the formerly rich fishing grounds off the island of Newfoundland, Canada?",
+        "correct_answer": "Grand Banks",
+        "incorrect_answers": [
+            "Great Barrier Reef",
+            "Mariana Trench",
+            "Hudson Bay"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In the &quot;Shrek&quot; film franchise, Donkey is played by Eddie Murphy.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Kraft &quot;Cheez Whiz&quot; contains cheese culture, but doesn&#039;t actually contain cheese",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which car is NOT featured in &quot;Need for Speed: Hot Pursuit 2&quot;?",
+        "correct_answer": "Toyota MR2",
+        "incorrect_answers": [
+            "Ford Crown Victoria",
+            "BMW Z8",
+            "McLaren F1"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What was the first video game in the Batman &quot;Arkham&quot; series?",
+        "correct_answer": "Arkham Asylum",
+        "incorrect_answers": [
+            "Arkham Knight",
+            "Arkham City",
+            "Arkham Origins"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "Who was the author of the 1954 novel, &quot;Lord of the Flies&quot;?",
+        "correct_answer": "William Golding",
+        "incorrect_answers": [
+            "Stephen King",
+            "F. Scott Fitzgerald",
+            "Hunter Fox"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following characters is NOT playable in &quot;Resident Evil 6&quot;?",
+        "correct_answer": "Jill Valentine",
+        "incorrect_answers": [
+            "Chris Redfield",
+            "Sherry Birkin",
+            "Helena Harper"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "According to Bram Stoker&#039;s novel, in which British coastal town did Dracula come ashore?",
+        "correct_answer": "Whitby",
+        "incorrect_answers": [
+            "Scarborough",
+            "Brighton",
+            "Portsmouth"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The &ldquo;fairy&rdquo; type made it&rsquo;s debut in which generation of the Pokemon core series games?",
+        "correct_answer": "6th",
+        "incorrect_answers": [
+            "2nd",
+            "7th",
+            "4th"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What animal is featured in &quot;Bloons TD Battles&quot;?",
+        "correct_answer": "Monkeys",
+        "incorrect_answers": [
+            "Alligators",
+            "Pigeons",
+            "Lizards"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What is an alternative name for multiple personality disorder?",
+        "correct_answer": "Dissociative identity disorder",
+        "incorrect_answers": [
+            "Body integrity identity disorder",
+            "Identity crisis",
+            "Schizophrenia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Phoenix Wright: Ace Attorney&quot; which character is the District Chief of Police?",
+        "correct_answer": "Damon Gant",
+        "incorrect_answers": [
+            "Miles Edgeworth",
+            "Lana Skye",
+            "Mike Meekins"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The name of the Metroid series comes from what?",
+        "correct_answer": "An enemy in the game",
+        "incorrect_answers": [
+            "The final boss&#039;s name",
+            "The main character&#039;s name",
+            "A spaceship&#039;s name"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Who was the director of &quot;Scott Pilgrim vs. the World (2010)&quot;?",
+        "correct_answer": "Edgar Wright",
+        "incorrect_answers": [
+            "Phil Lord",
+            "Chris Miller",
+            "Seth Rogan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What is the study of the cells and tissues of plants and animals?",
+        "correct_answer": "Histology",
+        "incorrect_answers": [
+            "Microbiology",
+            "Anatomy",
+            "Biochemistry"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "Guy&#039;s Grocery Games is hosted by which presenter?",
+        "correct_answer": "Guy Fieri",
+        "incorrect_answers": [
+            "Guy Martin",
+            "Guy Ritchie",
+            "Ainsley Harriott"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "What causes the sound of a heartbeat?",
+        "correct_answer": "Closure of the heart valves",
+        "incorrect_answers": [
+            "Contraction of the heart chambers",
+            "Blood exiting the heart",
+            "Relaxation of the heart chambers"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these &quot;Worms&quot; games featured 3D gameplay?",
+        "correct_answer": "Worms 4: Mayhem",
+        "incorrect_answers": [
+            "Worms W.M.D",
+            "Worms Reloaded",
+            "Worms: Open Warfare 2"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In which state of America was the Fresh Prince of Bel-Air born and raised in?",
+        "correct_answer": "Pennsylvania",
+        "incorrect_answers": [
+            "Florida",
+            "California",
+            "New Jersey"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of?",
+        "correct_answer": "Africa",
+        "incorrect_answers": [
+            "Europe",
+            "Asia",
+            "South America"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the main character in the video game VA-11 HALL-A: Cyberpunk Bartender Action?",
+        "correct_answer": "Jill",
+        "incorrect_answers": [
+            "Dana",
+            "Alma",
+            "Anna"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which of the following films was NOT directed by Hayao Miyazaki?",
+        "correct_answer": "Wolf Children",
+        "incorrect_answers": [
+            "Princess Mononoke",
+            "Spirited Away",
+            "Kiki&#039;s Delivery Service"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What is the name of the race horse that Tony Soprano becomes attached to?",
+        "correct_answer": "Pie-O-My",
+        "incorrect_answers": [
+            "Man o&#039; war",
+            "Bada Bing",
+            "Honest Earnings"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Chartreuse is a color between yellow and what?",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+            "Red",
+            "Black",
+            "Purple"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is NOT the name of a playable map in PUBG: Battlegrounds?",
+        "correct_answer": "Orinocco",
+        "incorrect_answers": [
+            "Miramar",
+            "Sanhok",
+            "Vikendi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What is the name of the 2016 studio album by the French electronic music duo Justice?",
+        "correct_answer": "Woman",
+        "incorrect_answers": [
+            "Randy",
+            "Safe and Sound",
+            "Pleasure"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which country has the most Trappist breweries?",
+        "correct_answer": "Belgium",
+        "incorrect_answers": [
+            "Netherlands",
+            "France",
+            "USA"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Undertale&quot;, how many main endings are there?",
+        "correct_answer": "3",
+        "incorrect_answers": [
+            "2",
+            "5",
+            "13"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "In Margaret Atwood&#039;s &quot;The Handmaid&#039;s Tale&quot;, what is Offred&#039;s real name is implied to be?",
+        "correct_answer": "June",
+        "incorrect_answers": [
+            "August",
+            "April",
+            "May"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the Lego Island trilogy, who taught Pepper Roni how to read?",
+        "correct_answer": "Officer Laura Brick",
+        "incorrect_answers": [
+            "Papa Brickolini",
+            "Officer Nick Brick",
+            "Mama Brickolini"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "How many zombies need to be killed to get the &quot;Zombie Genocider&quot; achievement in Dead Rising (2006)?",
+        "correct_answer": "53,594",
+        "incorrect_answers": [
+            "53,593",
+            "53,595",
+            "53,596"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "&quot;Metal Gear Solid 3: Snake Eater&quot; was released in 2004.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of these Japanese islands is the largest by area?",
+        "correct_answer": "Shikoku",
+        "incorrect_answers": [
+            "Iki",
+            "Odaiba",
+            "Okinawa"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the game &quot;Persona 4&quot;, what is the canonical name of the protagonist?",
+        "correct_answer": "Yu Narukami",
+        "incorrect_answers": [
+            "Chino Mashido",
+            "Tunki Sunada",
+            "Masaki Narinaka"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which is the largest freshwater lake in the world?",
+        "correct_answer": "Lake Superior ",
+        "incorrect_answers": [
+            "Caspian Sea",
+            "Lake Michigan",
+            "Lake Huron"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "From 1940 to 1942, what was the capital-in-exile of Free France ?",
+        "correct_answer": "Brazzaville",
+        "incorrect_answers": [
+            "Algiers",
+            "Paris",
+            "Tunis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of these Queen songs were sampled for the baseline in Vanilla &quot;Ice&#039;s Ice Ice Baby?&quot;",
+        "correct_answer": "Under Pressure",
+        "incorrect_answers": [
+            "Don&#039;t Stop Me Now",
+            "Brighton Rock",
+            "Lazing On A Sunday Afternoon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "In Marvel comics, which of the following is not one of the infinity stones?",
+        "correct_answer": "Energy",
+        "incorrect_answers": [
+            "Time",
+            "Power",
+            "Soul"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What is the birth name of Michael Keaton?",
+        "correct_answer": "Michael Douglas",
+        "incorrect_answers": [
+            "Michael Fox",
+            "Michael Richards",
+            "Michael Kane"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Clefairy was intended to be Ash&#039;s starting Pok&eacute;mon in the pilot episode of the cartoon.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "POLYBIUS is a myth arcade cabinet/game",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "What car manufacturer gave away their patent for the seat-belt in the interest of saving lives?",
+        "correct_answer": "Volvo",
+        "incorrect_answers": [
+            "Ferrari",
+            "Ford",
+            "Renault"
+        ]
+    }
+]

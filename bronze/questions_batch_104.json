@@ -1,0 +1,590 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which Grand Theft Auto (GTA) games have the same setting?",
+        "correct_answer": "GTA V and GTA San Andreas",
+        "incorrect_answers": [
+            "GTA V and GTA Vice City",
+            "GTA IV and GTA San Andreas",
+            "GTA IV and GTA Vice City"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Who performed the hit single &#039;Call Me&#039; for the 1980 film &#039;American Gigolo&#039;?",
+        "correct_answer": "Blondie",
+        "incorrect_answers": [
+            "Madonna",
+            "Tina Turner",
+            "Janet Jackson"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "What song originally performed by The Bee Gees in 1978 had a cover version by Steps 20 years later?",
+        "correct_answer": "Tragedy",
+        "incorrect_answers": [
+            "Night Fever",
+            "Stayin&#039; Alive",
+            "You Should Be Dancing"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Lead Singer Rivers Cuomo of American rock band Weezer attended Harvard.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In which years did the Battle of Gallipoli take place?",
+        "correct_answer": "1915 - 1916",
+        "incorrect_answers": [
+            "1914 - 1918",
+            "1914 - 1915",
+            "1915 - 1918"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "In &quot;Last Supper&quot; by Leonardo Da Vinci, what two colors were the robes worn by Jesus?",
+        "correct_answer": "Red and Blue",
+        "incorrect_answers": [
+            "Red and White",
+            "Red and Yellow",
+            "Red and Black"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "&quot;Minions&quot; was released on the June 10th, 2015.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "&quot;Silhouette&quot;, a song performed by the group &#039;KANA-BOON&#039; is featured as the sixteenth opening of which anime?",
+        "correct_answer": "Naruto: Shippūden",
+        "incorrect_answers": [
+            "One Piece",
+            "Naruto",
+            "Gurren Lagann"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In the movie &quot;Spaceballs&quot;, what are the Spaceballs attempting to steal from Planet Druidia?",
+        "correct_answer": "Air",
+        "incorrect_answers": [
+            "The Schwartz",
+            "Princess Lonestar",
+            "Meatballs"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Which breed of dog is traditionally associated with firefighters?",
+        "correct_answer": "Dalmatians",
+        "incorrect_answers": [
+            "German Shepard",
+            "Great Dane",
+            "Mastiff"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "TF2: The Medic will be credited for an assist if he heals a Spy that successfully saps a building.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "What are the first names of the first father and son pair that were both Prime Ministers of Canada?",
+        "correct_answer": "Justin and Pierre",
+        "incorrect_answers": [
+            "John and Louis",
+            "Brian and Justin",
+            "Brian and Pierre"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What is the half-life of Uranium-235?",
+        "correct_answer": "703,800,000 years",
+        "incorrect_answers": [
+            "4,300,400,000 years",
+            "1,260,900,000 years",
+            "Uranium-235 is a stable isotope"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "The song &quot;Old Town Road&quot; by American rapper Lil Nas X samples the song &quot;34 Ghosts IV&quot; by which band?",
+        "correct_answer": "Nine Inch Nails",
+        "incorrect_answers": [
+            "Death Grips",
+            "Iron Maiden",
+            "Animal Collective"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "In what year did US band Weezer release Weezer (The White Album)?",
+        "correct_answer": "2016",
+        "incorrect_answers": [
+            "2001",
+            "2008",
+            "2019"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the City in Saints Row The Third?",
+        "correct_answer": "Steelport",
+        "incorrect_answers": [
+            "Stilwater",
+            "Carcer",
+            "Liberty"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "The song &#039;Little April Shower&#039; features in which Disney cartoon film?",
+        "correct_answer": "Bambi",
+        "incorrect_answers": [
+            "Cinderella",
+            "Pinocchio",
+            "The Jungle Book"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who was the first mammal successfully launched into Earth&#039;s orbit?",
+        "correct_answer": "Laika, the dog",
+        "incorrect_answers": [
+            "Ham, the chimpanzee",
+            "Baker, the monkey",
+            "Belka, the dog"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is the second-largest city in Lithuania?",
+        "correct_answer": "Kaunas",
+        "incorrect_answers": [
+            "Panevėžys",
+            "Vilnius",
+            "Klaipėda"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The Tsar Bomba, the most powerful nuclear bomb ever tested, had a yield of 50 megatons but theoretically had a maximum yield of how much?",
+        "correct_answer": "100 Megatons",
+        "incorrect_answers": [
+            "200 Megatons",
+            "75 Megatons",
+            "150 Megatons"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What is the real name of American rapper Pitbull?",
+        "correct_answer": "Armando Christian P&eacute;rez",
+        "incorrect_answers": [
+            "Ram&oacute;n Luis Ayala Rodr&iacute;guez",
+            "Benito Antonio Martinez Ocasio",
+            "Belcalis Marlenis Alm&aacute;nzar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "What is the stage name of English female rapper Mathangi Arulpragasam, who is known for the song &quot;Paper Planes&quot;?",
+        "correct_answer": "M.I.A.",
+        "incorrect_answers": [
+            "K.I.A.",
+            "C.I.A.",
+            "A.I.A."
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Super Mario World&quot;, the rhino mini-boss, Reznor, is named after the lead singer of the band &quot;Nine Inch Nails&quot;.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Who is depicted on the US hundred dollar bill?",
+        "correct_answer": "Benjamin Franklin",
+        "incorrect_answers": [
+            "George Washington",
+            "Abraham Lincoln",
+            "Thomas Jefferson"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Excluding their instructor, how many members of Class VII are there in the game &quot;Legend of Heroes: Trails of Cold Steel&quot;?",
+        "correct_answer": "9",
+        "incorrect_answers": [
+            "6",
+            "10",
+            "3"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Call of Duty: Modern Warfare 2, how many consecutive kills does it require to earn the &quot;Tactical Nuke&quot; killstreak?",
+        "correct_answer": "25",
+        "incorrect_answers": [
+            "20",
+            "30",
+            "35"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the Animal Crossing series, which flower is erroneously called the &quot;Jacob&#039;s Ladder&quot;?",
+        "correct_answer": "Lily of the Valley",
+        "incorrect_answers": [
+            "Hydrangea",
+            "Harebell",
+            "Yarrow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What is the last song on the first Panic! At the Disco album?",
+        "correct_answer": "Build God, Then We&#039;ll Talk",
+        "incorrect_answers": [
+            "Nails for Breakfast, Tacks for Snacks",
+            "I Write Sins Not Tragedies",
+            "Lying Is The Most Fun A Girl Can Have Without Taking Her Clothes Off"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What was Britney Spears&#039; debut single?",
+        "correct_answer": "...Baby One More Time",
+        "incorrect_answers": [
+            "Oops!... I Did It Again",
+            "(You Drive Me) Crazy",
+            "Toxic"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which popular First Person Shooter (FPS) franchise, got a Real Time Strategy (RTS) game developed based on its universe?",
+        "correct_answer": "Halo",
+        "incorrect_answers": [
+            "Battlefield",
+            "Call of Duty",
+            "Borderlands"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which Pok&eacute;mon and it&#039;s evolutions were banned from appearing in a main role after the Episode 38 Incident?",
+        "correct_answer": "The Porygon Line",
+        "incorrect_answers": [
+            "The Pikachu Line",
+            "The Elekid Line",
+            "The Magby Line"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the main villain of Kirby&#039;s Return to Dreamland?",
+        "correct_answer": "Magolor",
+        "incorrect_answers": [
+            "Landia",
+            "King Dedede",
+            "Queen Sectonia "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which European capital city gives its name to a 1981 song by Ultravox?",
+        "correct_answer": "Vienna",
+        "incorrect_answers": [
+            "Berlin",
+            "Paris",
+            "Brussels"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Mythology",
+        "question": "According to Algonquian folklore, how does one transform into a Wendigo?",
+        "correct_answer": "Participating in cannibalism.",
+        "incorrect_answers": [
+            "Excessive mutilation of animal corpses.",
+            "Performing a ritual involving murder.",
+            "Drinking the blood of many slain animals."
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "The echidna is a monotreme.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Minecraft, how many items can a single piece of coal smelt when used in a furnace?",
+        "correct_answer": "8",
+        "incorrect_answers": [
+            "12",
+            "10",
+            "6"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "Who was the only god from Greece who did not get a name change in Rome?",
+        "correct_answer": "Apollo",
+        "incorrect_answers": [
+            "Demeter",
+            "Zeus",
+            "Athena"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The football video game series &quot;Pro Evolution Soccer&quot; is developed by which company?",
+        "correct_answer": "Konami",
+        "incorrect_answers": [
+            "Square Enix",
+            "Electronic Arts",
+            "THQ"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is Cynophobia the fear of?",
+        "correct_answer": "Dogs",
+        "incorrect_answers": [
+            "Birds",
+            "Flying",
+            "Germs"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In the Star Trek universe, what color is Vulcan blood?",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+            "Blue",
+            "Red",
+            "Purple"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In Star Wars, what&#039;s the name of the new Government created after the defeat of the Galactic Empire?",
+        "correct_answer": "The New Republic",
+        "incorrect_answers": [
+            "The Rebel Alliance",
+            "The Crimson Dawn",
+            "The First Order"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Final Fantasy XIV, what is the name of the Deep Dungeon that was introduced in the expansion pack, Heavensward?",
+        "correct_answer": "Palace of the Dead",
+        "incorrect_answers": [
+            "Heaven on High",
+            "Aetherochemical Research Facility",
+            "Sunken Temple of Qarn"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is the largest freshwater lake by volume?",
+        "correct_answer": "Lake Baikal",
+        "incorrect_answers": [
+            "Lake Superior",
+            "Lake Huron",
+            "Lake Michigan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the founder of Team Fortress 2&#039;s fictional company &quot;Mann Co&quot;?",
+        "correct_answer": "Zepheniah Mann",
+        "incorrect_answers": [
+            "Cave Johnson",
+            "Wallace Breem",
+            "Saxton Hale"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What year was the United States Declaration of Independence signed?",
+        "correct_answer": "1776",
+        "incorrect_answers": [
+            "1775",
+            "1774",
+            "1777"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What year was Canada founded in?",
+        "correct_answer": "1867",
+        "incorrect_answers": [
+            "1798",
+            "1859",
+            "1668"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the beginning of the game &quot;Sonic Adventure&quot;, what color Chaos Emerald does Tails own?",
+        "correct_answer": "Purple",
+        "incorrect_answers": [
+            "Red",
+            "Green",
+            "Blue"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "In Rugby League, performing a &quot;40-20&quot; is punished by a free kick for the opposing team.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In the Black Mirror episode &quot;Bandersnatch&quot;, PAC-MAN stands for:",
+        "correct_answer": "Program And Control Man",
+        "incorrect_answers": [
+            "Postgraduate Aplications Centre Man",
+            "Political Action Committee Man",
+            "Physics &amp; Astronomy Classification Man"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Who was given the title &quot;Full Metal&quot; in the anime series &quot;Full Metal Alchemist&quot;?",
+        "correct_answer": "Edward Elric",
+        "incorrect_answers": [
+            "Alphonse Elric",
+            "Van Hohenheim",
+            "Izumi Curtis"
+        ]
+    }
+]

@@ -1,0 +1,588 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Team Fortress 2, which class wields a shotgun?",
+        "correct_answer": "Everyone Listed",
+        "incorrect_answers": [
+            "Heavy",
+            "Soldier",
+            "Engineer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the main villain of the Crash Bandicoot series?",
+        "correct_answer": "Dr. Neo Cortex",
+        "incorrect_answers": [
+            "Dr. Evo-Cortex",
+            "Dr. Cortox",
+            "Sir Cartex"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "How many bytes are in a single Kibibyte?",
+        "correct_answer": "1024",
+        "incorrect_answers": [
+            "2400",
+            "1000",
+            "1240"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Liechtenstein does not have an airport.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the English voice actor for Sora from the Kingdom Hearts series?",
+        "correct_answer": "Haley Joel Osment",
+        "incorrect_answers": [
+            "Kōki Uchiyama",
+            "Jesse McCartney",
+            "Miyu Irino"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "How many letters are there in the English alphabet?",
+        "correct_answer": "26",
+        "incorrect_answers": [
+            "28",
+            "23",
+            "24"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "In what year did the Battle of Verdun take place?",
+        "correct_answer": "1916",
+        "incorrect_answers": [
+            "1917",
+            "1915",
+            "1918"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "Abel Magwitch is a character from which Charles Dickens novel?",
+        "correct_answer": "Great Expectations",
+        "incorrect_answers": [
+            "The Pickwick Papers",
+            "Nicholas Nickleby",
+            "Oliver Twist"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What was the name of the hero in the 80s animated video game &#039;Dragon&#039;s Lair&#039;?",
+        "correct_answer": "Dirk the Daring",
+        "incorrect_answers": [
+            "Arthur",
+            "Sir Toby Belch",
+            "Guy of Gisbourne"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of 2 Valve Games are set in the same universe?",
+        "correct_answer": "Half-life and Portal",
+        "incorrect_answers": [
+            "Portal and Left 4 Dead",
+            "Half-life and Left 4 Dead",
+            "Half-life and Counter Strike"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Vietnam is the only country in the world that starts with V. ",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "Which of the following is not one of the Greek Fates?",
+        "correct_answer": "Narcissus",
+        "incorrect_answers": [
+            "Clotho",
+            "Atropos",
+            "Lachesis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What was the code name for the &quot;Nintendo Gamecube&quot;?",
+        "correct_answer": "Dolphin",
+        "incorrect_answers": [
+            "Nitro",
+            "Revolution",
+            "Atlantis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The word &quot;dozen&quot; usually refers to a group of how many objects?",
+        "correct_answer": "12",
+        "incorrect_answers": [
+            "6",
+            "20",
+            "10"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "What country is the Hussarya supercar, made by the car manufacturer &quot;Arrinera&quot;, assembled in?",
+        "correct_answer": "Poland",
+        "incorrect_answers": [
+            "China",
+            "Sweden",
+            "Italy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these games takes place in the Irish town of Doolin, with the option to play as one of the characters, Ellen and Keats?",
+        "correct_answer": "Folklore",
+        "incorrect_answers": [
+            "Shadow of the Colossus",
+            "ICO",
+            "Beyond Good &amp; Evil"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?",
+        "correct_answer": "1 Month",
+        "incorrect_answers": [
+            "3 Weeks",
+            "1 Week",
+            "2 Months"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What is the Portuguese word for &quot;Brazil&quot;?",
+        "correct_answer": "Brasil",
+        "incorrect_answers": [
+            "Brazil",
+            "Brasilia",
+            "Bras&iacute;l"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Which country has the international vehicle registration letter &#039;A&#039;?",
+        "correct_answer": "Austria",
+        "incorrect_answers": [
+            "Afghanistan",
+            "Australia",
+            "Armenia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which member of the British pop group &quot;The Spice Girls&quot; was known as Ginger Spice?",
+        "correct_answer": "Geri Halliwell",
+        "incorrect_answers": [
+            "Melanie Brown",
+            "Emma Bunton",
+            "Victoria Beckham"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the video game franchise &quot;Halo&quot;, what is the UNSC&#039;s main opposing faction called?",
+        "correct_answer": "The Covenant",
+        "incorrect_answers": [
+            "The Reckoning",
+            "The Peoples",
+            "The Slaughterers"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Italy and Ireland are the only countries in Europe that start with the letter I.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What musician made the song &quot;F**kin` Perfect&quot; in 2010?",
+        "correct_answer": "P!nk",
+        "incorrect_answers": [
+            "Mitis",
+            "Adam lambert",
+            "Koven"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What is the opening track on Lorde&#039;s Pure Heroine?",
+        "correct_answer": "Tennis Court",
+        "incorrect_answers": [
+            "Team",
+            "Royals",
+            "400 Lux"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Which iconic album cover features the pulsar waves of CP 1919 placed in the center of the cover?",
+        "correct_answer": "Unknown Pleasures",
+        "incorrect_answers": [
+            "The Dark Side of the Moon",
+            "London Calling",
+            "The Velvet Underground &amp; Nico"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The protagonist of Dead Rising 3 is called Chuck Greene.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Valve&#039;s &quot;Portal&quot; and &quot;Half-Life&quot; franchises exist within the same in-game universe.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Brendan Fraser starred in the following movies, except which one?",
+        "correct_answer": "Titanic",
+        "incorrect_answers": [
+            "Monkeybone",
+            "Encino Man",
+            "Mrs. Winterbourne"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "What country was the Trabant 601 manufactured in?",
+        "correct_answer": "East Germany",
+        "incorrect_answers": [
+            "Soviet Union",
+            "Hungary",
+            "France"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What company owns Outlook?",
+        "correct_answer": "Microsoft",
+        "incorrect_answers": [
+            "Google",
+            "Apple",
+            "Yahoo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "What is the standard SI unit for luminous intensity?",
+        "correct_answer": "Candela",
+        "incorrect_answers": [
+            "Lumen",
+            "Faraday",
+            "Coulomb"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the game &quot;Red Dead Redemption&quot;, what is the name of John Marston&#039;s dog?",
+        "correct_answer": "Rufus",
+        "incorrect_answers": [
+            "Rutus",
+            "Finn",
+            "Apollo"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In Full Metal Panic!, Whispered are those who are capable of creating Black Technology.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;One Piece&quot;, what does &quot;the Pirate King&quot; mean to the captain of the Straw Hat Pirates?",
+        "correct_answer": "Freedom",
+        "incorrect_answers": [
+            "Promise",
+            "Adventure",
+            "Friendship"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is NOT a terrorist faction in Counter-Strike (2000)?",
+        "correct_answer": "Midwest Militia",
+        "incorrect_answers": [
+            "Phoenix Connection",
+            "Elite Crew",
+            "Guerrilla Warfare"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What engine did the original &quot;Half-Life&quot; run on?",
+        "correct_answer": "GoldSrc",
+        "incorrect_answers": [
+            "Source",
+            "Quake",
+            "Unreal"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;Little Witch Academia&quot;, what is Shiny Chariot&#039;s alias at Luna Nova Academy?",
+        "correct_answer": "Ursula Callistis",
+        "incorrect_answers": [
+            "Croix Meridies",
+            "Miranda Holbrook",
+            "Anne Finnelan"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What was the code name for the German invasion of the Soviet Union in WW2?",
+        "correct_answer": "Operation Barbarossa",
+        "incorrect_answers": [
+            "Operation Kaiserschlact",
+            "Operation Unthinkable",
+            "Operation Molotov"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "What is Pink Floyd&#039;s first album?",
+        "correct_answer": "The Piper at the Gates of Dawn",
+        "incorrect_answers": [
+            "The Dark Side of the Moon",
+            "Wish You Were Here",
+            "Meddle"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "All Souls and Merton are constituent colleges of what university?",
+        "correct_answer": "Oxford",
+        "incorrect_answers": [
+            "Cambridge",
+            "Manchester",
+            "Leeds"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Igneous rocks are formed by excessive heat and pressure.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Which of these cartoons had a character named Heinz Doofenshmirtz?",
+        "correct_answer": "Phineas &amp; Ferb",
+        "incorrect_answers": [
+            "Ren &amp; Stimpy",
+            "Ben 10",
+            "Batman: The Animated Series"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Sid Meier&#039;s Civilization V, which World Wonder can only be built in cities on or next to a desert?",
+        "correct_answer": "Petra",
+        "incorrect_answers": [
+            "The Pyramids",
+            "Alhambra",
+            "Mausoleum of Maussollos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which car manufacturer won the 2016 24 Hours of Le Mans?",
+        "correct_answer": "Porsche",
+        "incorrect_answers": [
+            "Toyota",
+            "Audi",
+            "Ferrari"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "At which bridge does the annual Oxford and Cambridge boat race start?",
+        "correct_answer": "Putney",
+        "incorrect_answers": [
+            "Hammersmith",
+            "Vauxhall ",
+            "Battersea"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Kingdom Hearts&quot;, who abducts Jasmine in the Lamp Chamber?",
+        "correct_answer": "Riku",
+        "incorrect_answers": [
+            "Riku Replica",
+            "Xaldin",
+            "Captain Hook"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the video game &quot;Pizza Tower&quot;, what is the protagonist&#039;s name?",
+        "correct_answer": "Peppino",
+        "incorrect_answers": [
+            "Pastachio",
+            "Pepper",
+            "Spinachio"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What is the plane of existence in MicroProse&#039;s 1997 &quot;Magic the Gathering&quot;?",
+        "correct_answer": "Shandalar",
+        "incorrect_answers": [
+            "Theros",
+            "Ravnica",
+            "Amonkhet"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "Who is the main character in the VHS tape included in the board game Nightmare?",
+        "correct_answer": "The Gatekeeper",
+        "incorrect_answers": [
+            "The Kryptkeeper",
+            "The Monster",
+            "The Nightmare"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "How many kilobytes in one gigabyte (in decimal)?",
+        "correct_answer": "1000000",
+        "incorrect_answers": [
+            "1024",
+            "1000",
+            "1048576"
+        ]
+    }
+]

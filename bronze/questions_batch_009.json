@@ -1,0 +1,584 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In which 1973 film does Yul Brynner play a robotic cowboy who malfunctions and goes on a killing spree?",
+        "correct_answer": "Westworld",
+        "incorrect_answers": [
+            "Runaway",
+            "Android",
+            "The Terminators"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which country did the Eureka Rebellion, an 1856 battle against colonial rule, take place in?",
+        "correct_answer": "Australia",
+        "incorrect_answers": [
+            "India",
+            "Canada",
+            "Brazil"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Who was the previous drummer of blink-182 before Travis Barker?",
+        "correct_answer": "Scott Raynor",
+        "incorrect_answers": [
+            "Atom Willard",
+            "Ilan Rubin",
+            "Derek Grant"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "In the Doctor Who universe, how many times can a time lord normally regenerate?",
+        "correct_answer": "12",
+        "incorrect_answers": [
+            "11",
+            "13",
+            "15"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the largest country in the world ?",
+        "correct_answer": "Russian Federation",
+        "incorrect_answers": [
+            "China",
+            "Canada",
+            "Brazil"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Which of the following films was Don Bluth both the writer, director, and producer for?",
+        "correct_answer": "All Dogs Go To Heaven",
+        "incorrect_answers": [
+            "Titan A.E.",
+            "Anastasia",
+            "The Land Before Time"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these characters from Final Fantasy VIII primarily spoke in one word sentences?",
+        "correct_answer": "Fujin",
+        "incorrect_answers": [
+            "Raijin",
+            "Seifer",
+            "Zell"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What is the name of the Supermassive Black Hole in the centre of the Milky Way?",
+        "correct_answer": "Sagittarius A*",
+        "incorrect_answers": [
+            "Messier 87",
+            "Alpha Centauri",
+            "Andromeda"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What was the first game in the &quot;Battlefield&quot; series?",
+        "correct_answer": "Battlefield 1942",
+        "incorrect_answers": [
+            "Battlefield Vietnam",
+            "Battlefield 2",
+            "Battlefield 1"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Bill Cipher in the show &quot;Gravity Falls&quot; is the good guy.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which Animal Crossing game was for the Nintendo Wii?",
+        "correct_answer": "Animal Crossing: City Folk",
+        "incorrect_answers": [
+            "Animal Crossing: New Leaf",
+            "Animal Crossing: Wild World",
+            "Animal Crossing: Population Growing!"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Who released the 1991 album &quot;Out of Time&quot;?",
+        "correct_answer": "R.E.M.",
+        "incorrect_answers": [
+            "U2",
+            "Coldplay",
+            "The Rolling Stones"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is NOT a possible drink to be made in the game &quot;VA-11 HALL-A: Cyberpunk Bartender Action&quot;?",
+        "correct_answer": "Sour Appletini",
+        "incorrect_answers": [
+            "Fringe Weaver",
+            "Piano Man",
+            "Bad Touch"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "What is the species of the &quot;Predator&quot; in the 1987 movie &quot;Predator&quot;?",
+        "correct_answer": "Yautja",
+        "incorrect_answers": [
+            "Xenomorph",
+            "Praetorian",
+            "Phocrex"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When did the British hand-over sovereignty of Hong Kong back to China?",
+        "correct_answer": "1997",
+        "incorrect_answers": [
+            "1999",
+            "1841",
+            "1900"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "&quot;Drink the Sea&quot; is an album by which electronic music artist?",
+        "correct_answer": "The Glitch Mob",
+        "incorrect_answers": [
+            "Avicii",
+            "XXYYXX",
+            "Flux Pavilion"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the region conjoining Pakistan, India, and China with unknown leadership called?",
+        "correct_answer": "Kashmir",
+        "incorrect_answers": [
+            "Andorra",
+            "Gibraltar",
+            "Quin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Cryoshell, known for &quot;Creeping in My Soul&quot; did the advertising music for what Lego Theme?",
+        "correct_answer": "Bionicle",
+        "incorrect_answers": [
+            "Hero Factory",
+            "Ben 10 Alien Force",
+            "Star Wars"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Comics",
+        "question": "In what year did the first &quot;The Walking Dead&quot; comic come out?",
+        "correct_answer": "2003",
+        "incorrect_answers": [
+            "2001",
+            "2006",
+            "1999"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "What is the equation for the area of a sphere?",
+        "correct_answer": "(4/3)&pi;r^3",
+        "incorrect_answers": [
+            "4&pi;r^2",
+            "(1/3)&pi;hr^2",
+            "&pi;r^4"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "A defibrillator is used to start up a heartbeat once a heart has stopped beating.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "While Apple was formed in California, in which western state was Microsoft founded?",
+        "correct_answer": "New Mexico",
+        "incorrect_answers": [
+            "Washington",
+            "Colorado",
+            "Arizona"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "The first computer bug was formed by faulty wires.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "According to the lore of &quot;Starbound&quot;, what does the &quot;Colony Deed&quot; do when it is placed down?",
+        "correct_answer": "Sends out an advertisement for someone to move in.",
+        "incorrect_answers": [
+            "Teleports somebody from somewhere on the planet it is placed.",
+            "Teleports a random person to the location.",
+            "Materializes a new being at it&#039;s location."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "How many heads does Cerberus have?",
+        "correct_answer": "3",
+        "incorrect_answers": [
+            "2",
+            "1",
+            "5"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "How many syllables make up a haiku?",
+        "correct_answer": "17",
+        "incorrect_answers": [
+            "15",
+            "10",
+            "21"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Adolf Hitler was born in Australia. ",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What was the name of the Wu-Tang Clan album Martin Shkreli bought for $2 million dollars?",
+        "correct_answer": "Once Upon a Time in Shaolin",
+        "incorrect_answers": [
+            "A Better Tomorrow",
+            "8 Diagrams",
+            "The Saga Continues"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Where did the British Boy Band &quot;Bros&quot; come from?",
+        "correct_answer": "Camberley",
+        "incorrect_answers": [
+            "Guildford",
+            "Aldershot",
+            "Bagshot"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Video streaming website YouTube was purchased in it&#039;s entirety by Facebook for US$1.65 billion in stock.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Which Japanese company is the world&#039;s largest manufacturer of motorcycles?",
+        "correct_answer": "Honda",
+        "incorrect_answers": [
+            "Yamaha",
+            "Suzuki",
+            "Kawasaki"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which King of England was faced with the Peasants&#039; Revolt in 1381?",
+        "correct_answer": "Richard II",
+        "incorrect_answers": [
+            "Edward III",
+            "Edward II",
+            "Henry IV"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "What did Alfred Hitchcock use as blood in the film &quot;Psycho&quot;? ",
+        "correct_answer": "Chocolate syrup",
+        "incorrect_answers": [
+            "Ketchup",
+            "Red food coloring",
+            "Maple syrup"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "In what year does Jurassic World open in the &quot;Jurassic Park&quot; universe?",
+        "correct_answer": "2005",
+        "incorrect_answers": [
+            "2007",
+            "2015",
+            "2020"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "List the following Iranic empires in chronological order:",
+        "correct_answer": "Median, Achaemenid, Parthian, Sassanid",
+        "incorrect_answers": [
+            "Median, Achaemenid, Sassanid, Parthian",
+            "Achaemenid, Median, Parthian, Sassanid",
+            "Achaemenid, Median, Sassanid, Parthian"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which state of the United States is the smallest?",
+        "correct_answer": "Rhode Island ",
+        "incorrect_answers": [
+            "Maine",
+            "Vermont",
+            "Massachusetts"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Druid is a mage class in &quot;Log Horizon&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the video game, Half-life, what event started the Half-life universe as we know today?",
+        "correct_answer": "The Resonance Cascade",
+        "incorrect_answers": [
+            "World War 3",
+            "The Xen Attack",
+            "The Black Mesa Nuke"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the capital of Belarus?",
+        "correct_answer": "Minsk",
+        "incorrect_answers": [
+            "Warsaw",
+            "Kiev",
+            "Vilnius"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which anime heavily features music from the genre &quot;Eurobeat&quot;?",
+        "correct_answer": "Initial D",
+        "incorrect_answers": [
+            "Wangan Midnight",
+            "Kino no Tabi",
+            "Cowboy Bebop"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "When was the first official international game played?",
+        "correct_answer": "1872",
+        "incorrect_answers": [
+            "1880",
+            "1863",
+            "1865"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which radio personality calls himself &quot;The King of All Media&quot;?",
+        "correct_answer": "Howard Stern",
+        "incorrect_answers": [
+            "Rush Limbaugh",
+            "Pete Tong",
+            "Ryan Seacrest"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "In a standard set of playing cards, which is the only king without a moustache?",
+        "correct_answer": "Hearts",
+        "incorrect_answers": [
+            "Spades",
+            "Diamonds",
+            "Clubs"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Against which country did the Dutch Republic fight the Eighty Years&#039; War?",
+        "correct_answer": "Spain",
+        "incorrect_answers": [
+            "France",
+            "England",
+            "Portugal"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of the following countries does NOT recognize Armenia as an independent country?",
+        "correct_answer": "Pakistan",
+        "incorrect_answers": [
+            "Iran",
+            "Turkey",
+            "Azerbaijan"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "A person can get sunburned on a cloudy day.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Elephants are physically unable to jump.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "What is the best selling album of all time from 1976 to 2018?",
+        "correct_answer": "Thriller",
+        "incorrect_answers": [
+            "Back in Black",
+            "Abbey Road",
+            "The Dark Side of the Moon"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The Indie Game Development Studio Cing, developers of Hotel Dusk and Last Window, went bankrupt on March 1st, 2010.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which soccer team won the Copa Am&eacute;rica 2015 Championship ?",
+        "correct_answer": "Chile",
+        "incorrect_answers": [
+            "Argentina",
+            "Brazil",
+            "Paraguay"
+        ]
+    }
+]

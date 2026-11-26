@@ -1,0 +1,588 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of the following countries banned the use of personal genetic ancestry tests?",
+        "correct_answer": "Germany",
+        "incorrect_answers": [
+            "Austria",
+            "Canada",
+            "Sweden"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Mathematics",
+        "question": "What is the only Millennium Prize Problem that has been solved so far?",
+        "correct_answer": "Poincar&eacute; conjecture",
+        "incorrect_answers": [
+            "P vs. NP problem",
+            "Riemann Hypothesis",
+            "Fermat&#039;s conjecture"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;A Certain Scientific Railgun&quot;, how many &quot;sisters&quot; did Accelerator have to kill to achieve the rumored level 6?",
+        "correct_answer": "20,000",
+        "incorrect_answers": [
+            "128",
+            "10,000",
+            "5,000"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which game did NOT get financed via Crowdfunding?",
+        "correct_answer": "Enter the Gungeon",
+        "incorrect_answers": [
+            "Town of Salem",
+            "Undertale",
+            "Tower Unite"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Portugal&#039;s modern territory was once a part of the Roman Empire.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these weapon classes DO NOT appear in the first Monster Hunter game?",
+        "correct_answer": "Bow ",
+        "incorrect_answers": [
+            "Hammer",
+            "Heavy Bowgun",
+            "Light Bowgun"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "The song &quot;Caramelldansen&quot; is commonly mistaken as a Japanese song, what language is the song actually sung in?",
+        "correct_answer": "Swedish",
+        "incorrect_answers": [
+            "Hungarian",
+            "Finnish",
+            "Chinese"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of these countries is not written in its native language?",
+        "correct_answer": "Slova&scaron;ko",
+        "incorrect_answers": [
+            "Suomi",
+            "Schweiz",
+            "Ell&aacute;da"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What is the name of the very first video uploaded to YouTube?",
+        "correct_answer": "Me at the zoo",
+        "incorrect_answers": [
+            "tribute",
+            "carrie rides a truck",
+            "Her new puppy from great grandpa vern."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "What kind of memory is used on memory cache?",
+        "correct_answer": "SRAM",
+        "incorrect_answers": [
+            "DRAM",
+            "ROM",
+            "Flash"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Each piece in Tetris is called a tetris.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "What is the scientific name for modern day humans?",
+        "correct_answer": "Homo Sapiens",
+        "incorrect_answers": [
+            "Homo Ergaster",
+            "Homo Erectus",
+            "Homo Neanderthalensis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "The novel &quot;Of Mice And Men&quot; was written by what author? ",
+        "correct_answer": "John Steinbeck ",
+        "incorrect_answers": [
+            "George Orwell",
+            "Mark Twain ",
+            "Harper Lee"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "The logo for Snapchat is a Bell.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the 2011 TV anime series, &quot;THE iDOLM@STER&quot;, what was the name of Iori&#039;s stuffed toy bunny?",
+        "correct_answer": "Charles",
+        "incorrect_answers": [
+            "Bubsy",
+            "Kero",
+            "Usagi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "In the film &quot;Harry Potter and the Order of The Phoenix&quot;, why was Harry Potter&#039;s scream, after Sirius Black died, muted?",
+        "correct_answer": "Too Agonizing",
+        "incorrect_answers": [
+            "Too Loud",
+            "Too Harsh",
+            "Too Violent"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Sting, the lead vocalist of The Police, primarily plays what instrument?",
+        "correct_answer": "Bass Guitar",
+        "incorrect_answers": [
+            "Drums",
+            "Guitar",
+            "Keyboards"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "How many teeth does an adult rabbit have?",
+        "correct_answer": "28",
+        "incorrect_answers": [
+            "30",
+            "26",
+            "24"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "From which country did the song &quot;Gangnam Style&quot; originate from?",
+        "correct_answer": "South Korea",
+        "incorrect_answers": [
+            "Japan",
+            "North Korea",
+            "China"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the machine that fails and essentially dooms mankind in the beginning of the first Half-Life game?",
+        "correct_answer": "Anti-mass spectrometer",
+        "incorrect_answers": [
+            "Oscillation generator",
+            "Dark fusion reactor",
+            "Dark fusion resonator"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In the original Star Wars: A New Hope, Han Solo is the first to shoot his blaster in a conversation with Greedo.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "When was Gangnam Style uploaded to YouTube?",
+        "correct_answer": "2012",
+        "incorrect_answers": [
+            "2013",
+            "2014",
+            "2011"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "Linux was first created as an alternative to Windows XP.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which candy is NOT made by Mars?",
+        "correct_answer": "Almond Joy",
+        "incorrect_answers": [
+            "M&amp;M&#039;s",
+            "Twix",
+            "Snickers"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "New Haven is the capital city of the state of Connecticut in the United States.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "All of the following human genetic haplogroup names are shared between Y-chromosome and mitochondrial DNA haplogroups EXCEPT:",
+        "correct_answer": "Haplogroup U",
+        "incorrect_answers": [
+            "Haplogroup L",
+            "Haplogroup T",
+            "Haplogroup J"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "This element, when overcome with extreme heat and pressure, creates diamonds.",
+        "correct_answer": "Carbon",
+        "incorrect_answers": [
+            "Nitrogen",
+            "Oxygen",
+            "Hydrogen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which town was Seamus &quot;Sledge&quot; Cowden from &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; born in?",
+        "correct_answer": "John O&#039;Groats",
+        "incorrect_answers": [
+            "Brawl",
+            "Kearvaig",
+            "Talmine"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "In the book &quot;The Martian&quot;, how long was Mark Watney trapped on Mars (in Sols)?",
+        "correct_answer": "549 Days",
+        "incorrect_answers": [
+            "765 Days",
+            "401 Days",
+            "324 Days"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "To which language family does Kazakh belong?",
+        "correct_answer": "Turkic",
+        "incorrect_answers": [
+            "Mongolic",
+            "Indo-European",
+            "Uralic"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the talking cat in Persona 5?",
+        "correct_answer": "Morgana",
+        "incorrect_answers": [
+            "Teddie",
+            "Marie",
+            "Ryuji"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What is Dipper&#039;s real name from &quot;Gravity Falls&quot;?",
+        "correct_answer": "Mason Pines",
+        "incorrect_answers": [
+            "Mable Pines",
+            "Jason Pines",
+            "Mark Pines"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Which of the following did not feature in the cartoon &#039;Wacky Races&#039;?",
+        "correct_answer": "The Dragon Wagon",
+        "incorrect_answers": [
+            "The Bouldermobile",
+            "The Crimson Haybailer",
+            "The Compact Pussycat"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who created the Final Fantasy series developed by Square Enix?",
+        "correct_answer": "Hironobu Sakaguchi",
+        "incorrect_answers": [
+            "Yuji Horii",
+            "Akira Toriyama",
+            "Tetsuya Nomura"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which Final Fantasy game consisted of a female-only cast of party members?",
+        "correct_answer": "Final Fantasy X-2",
+        "incorrect_answers": [
+            "Final Fantasy IX",
+            "Final Fantasy V",
+            "Final Fantasy XIII-2"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Gibraltar, located just south of the Iberian peninsula, is a territory of which West Europe country?",
+        "correct_answer": "United Kingdom",
+        "incorrect_answers": [
+            "Spain",
+            "Portugal",
+            "France"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Who out of these actresses is the youngest?",
+        "correct_answer": "Kiernan Shipka",
+        "incorrect_answers": [
+            "Ariel Winter",
+            "Emma Watson",
+            "Bonnie Wright"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "Who is the main character in the show &quot;Burn Notice&quot;?",
+        "correct_answer": "Michael Westen",
+        "incorrect_answers": [
+            "Sam Axe",
+            "Fiona Glenanne",
+            "Madeline Westen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "What is the chemical formula for ammonia?",
+        "correct_answer": "NH3",
+        "incorrect_answers": [
+            "CO2",
+            "NO3",
+            "CH4"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Frankenmuth, a US city nicknamed &quot;Little Bavaria&quot;, is located in what state?",
+        "correct_answer": "Michigan",
+        "incorrect_answers": [
+            "Pennsylvania",
+            "Kentucky",
+            "Virginia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which singer was featured in Swedish producer Avicii&#039;s song &quot;Wake Me Up&quot;?",
+        "correct_answer": "Aloe Blacc",
+        "incorrect_answers": [
+            "John Legend",
+            "CeeLo Green",
+            "Pharrell Williams"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the name of the only remaining Grand Duchy in the world ?",
+        "correct_answer": "Luxembourg",
+        "incorrect_answers": [
+            "Montenegro",
+            "Liechtenstein",
+            "Andorra"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which drive form was added into Kingdom Hearts II Final Mix?",
+        "correct_answer": "Limit Form",
+        "incorrect_answers": [
+            "Valor Form",
+            "Wisdom Form",
+            "Anti Form"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Comics",
+        "question": "In 1978, Superman teamed up with what celebrity, to defeat an alien invasion?",
+        "correct_answer": "Muhammad Ali",
+        "incorrect_answers": [
+            "Mike Tyson",
+            "Sylvester Stallone",
+            "Arnold Schwarzenegger"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who created the indie adventure game &quot;Night in the Woods&quot;?",
+        "correct_answer": "Alec Holowka",
+        "incorrect_answers": [
+            "Ron Gilbert",
+            "Tim Schafer",
+            " Tommy Refenes"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What is a &quot;dakimakura&quot;?",
+        "correct_answer": "A body pillow",
+        "incorrect_answers": [
+            "A Chinese meal, essentially composed of fish",
+            "A yoga posture",
+            "A word used to describe two people who truly love each other"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Early RAM was directly seated onto the motherboard and could not be easily removed.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who starred as Bruce Wayne and Batman in Tim Burton&#039;s 1989 movie &quot;Batman&quot;?",
+        "correct_answer": "Michael Keaton",
+        "incorrect_answers": [
+            "George Clooney",
+            "Val Kilmer",
+            "Adam West"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "According to the RIAA: Which artist has sold the most albums by the million?",
+        "correct_answer": "The Beatles",
+        "incorrect_answers": [
+            "Elvis Presley",
+            "Michael Jackson",
+            "Pink Floyd"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;A Hat in Time&quot;, what must Hat Kid collect to finish a level",
+        "correct_answer": "A time piece",
+        "incorrect_answers": [
+            "A heart fragment",
+            "A relic fragment",
+            "A hat"
+        ]
+    }
+]

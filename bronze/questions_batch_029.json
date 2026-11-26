@@ -1,0 +1,594 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "In the Harry Potter universe, what is Cornelius Fudge&#039;s middle name?",
+        "correct_answer": "Oswald",
+        "incorrect_answers": [
+            "James",
+            "Harold",
+            "Christopher"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Going by the International Code of Signals, which single flag is interpreted as &quot;I require assistance (not distress)&quot;?",
+        "correct_answer": "Victor",
+        "incorrect_answers": [
+            "Kilo",
+            "Papa",
+            "Delta"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "The characters of &quot;Log Horizon&quot; are trapped in what game?",
+        "correct_answer": "Elder Tale",
+        "incorrect_answers": [
+            "Sword Art Online",
+            "Tower Unite",
+            "Yggdrasil"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "The first episode of WWF Monday Night RAW aired on January 11, 1990.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What is the largest planet in the Solar System?",
+        "correct_answer": "Jupiter",
+        "incorrect_answers": [
+            "Saturn",
+            "Earth",
+            "Mars"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "Which species of Brown Bear is not extinct?",
+        "correct_answer": "Syrian Brown Bear",
+        "incorrect_answers": [
+            "California Grizzly Bear",
+            "Atlas Bear",
+            "Mexican Grizzly Bear"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Which is the longest bone in the human body? ",
+        "correct_answer": "Femur",
+        "incorrect_answers": [
+            "Scapula",
+            "Fibula",
+            "Ulna"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What is the name of Ruby Rose&#039;s weapon from RWBY?",
+        "correct_answer": "Crescent Rose",
+        "incorrect_answers": [
+            "Thorned Rosebud",
+            "Magnhild",
+            "Crooked Scythe"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which Coldplay album won the Grammy for Best Rock Album in the 2009 Grammy Awards?",
+        "correct_answer": "Viva La Vida Or Death And All His Friends",
+        "incorrect_answers": [
+            "A Rush Of Blood To The Head",
+            "X&amp;Y",
+            "Mylo Xyloto"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who sang the theme song for the TV show &#039;Rawhide&#039;?",
+        "correct_answer": "Frankie Laine",
+        "incorrect_answers": [
+            "Guy Mitchell",
+            " Tennessee Ernie Ford",
+            "Slim Whitman"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is the tallest mountain in Canada?",
+        "correct_answer": "Mount Logan",
+        "incorrect_answers": [
+            "Mont Tremblant",
+            "Whistler Mountain",
+            "Blue Mountain"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "Who proved Fermat&#039;s Last Theorem?",
+        "correct_answer": "Andrew Wiles",
+        "incorrect_answers": [
+            "Leonhard Euler",
+            "Carl Friedrich Gauss",
+            "Srinivasa Ramanujan"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "The movie &quot;The Rocky Horror Picture Show&quot; (1975) opens with giant floating lips singing the opening song",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which language is most widely spoken in Switzerland?",
+        "correct_answer": "German",
+        "incorrect_answers": [
+            "French",
+            "Italian",
+            "Swiss"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "When did Tame Impala release their second album?",
+        "correct_answer": "2012",
+        "incorrect_answers": [
+            "2015",
+            "2010",
+            "1967"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which European city has the highest mileage of canals in the world?",
+        "correct_answer": "Birmingham",
+        "incorrect_answers": [
+            "Venice",
+            "Amsterdam",
+            "Berlin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Halo 2&quot;, what is the name of the monitor of Installation 05?",
+        "correct_answer": "2401 Penitent Tangent",
+        "incorrect_answers": [
+            "343 Guilty Spark",
+            "031 Exuberant Witness",
+            "252 Biodis Expolsion"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "In the 1974 Christmas flick &quot;The Year Without a Santa Claus,&quot; what are the names of the two elves who help Mrs. Claus save Christmas?",
+        "correct_answer": "Jingle &amp; Jangle",
+        "incorrect_answers": [
+            "Buddy &amp; Bobby",
+            "Holly &amp; Jolly",
+            "Snowflake &amp; Icicle"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which iconic character is featured in movies such as &quot;The Enforcer&quot;, &quot;Sudden Impact&quot;, and &quot;The Dead Pool&quot;?",
+        "correct_answer": "Dirty Harry",
+        "incorrect_answers": [
+            "Indiana Jones",
+            "James Bond",
+            "Harry Potter"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "How many flagship monsters appear in Monster Hunter Gernerations?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the &quot;Worms&quot; series of video games, which of these weapons is affected by wind?",
+        "correct_answer": "Bazooka",
+        "incorrect_answers": [
+            "Grenade",
+            "Air Strike",
+            "Mortar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In Diablo lore, this lesser evil spawned from one of the seven heads of Tathamet, and was known as the Maiden of Anguish.",
+        "correct_answer": "Andariel",
+        "incorrect_answers": [
+            "Valla",
+            "Malthael",
+            "Kashya"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In Game of Thrones, what continent lies across the Narrow Sea from Westeros?",
+        "correct_answer": "Essos",
+        "incorrect_answers": [
+            "Easteros",
+            "Westereast",
+            "Esuntos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Darth Vader&#039;s famous reveal to Luke is iconic. But which of these is the right one?",
+        "correct_answer": "&quot;No. I am your father.&quot;",
+        "incorrect_answers": [
+            "&quot;Luke, I am your father.&quot;",
+            "&quot;You&#039;re wrong. I am your father.&quot;",
+            "&quot;The truth is that I am your father.&quot;"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the perimeter of a circle more commonly known as?",
+        "correct_answer": "Circumference",
+        "incorrect_answers": [
+            "Diameter",
+            "Radius",
+            "Arc"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What is the speed of light in a vacuum?",
+        "correct_answer": "299,792,458 m/s",
+        "incorrect_answers": [
+            "50,461 m/s",
+            "308,215,043 m/s",
+            "751,665,014,151 m/s"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the &quot;Metal Gear Solid&quot; series, what&#039;s the name of Solid Snake&#039;s brother?",
+        "correct_answer": "Liquid Snake",
+        "incorrect_answers": [
+            "Kulus Snake",
+            "Billy Snake",
+            "Gilur Snake"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Where and when was the first cardboard box made for industrial use?",
+        "correct_answer": "England, 1817",
+        "incorrect_answers": [
+            "United States, 1817",
+            "England, 1917",
+            "United States, 1917"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In &quot;Rick And Morty&quot;, who shot &quot;Mr. Poopybutthole&quot; in the episode &quot;Total Rickall&quot;?",
+        "correct_answer": "Beth",
+        "incorrect_answers": [
+            "Rick",
+            "Jerry",
+            "Morty"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "What is Ron Weasley&#039;s middle name?",
+        "correct_answer": "Bilius",
+        "incorrect_answers": [
+            "Arthur",
+            "John",
+            "Dominic"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Joseph Stalin had a criminal past doing what?",
+        "correct_answer": "Robbing Trains",
+        "incorrect_answers": [
+            "Murder for Hire",
+            "Tax Evasion",
+            "Identity Fraud"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which Japanese music group was formed to produce theme music for the anime &quot;Guilty Crown&quot;?",
+        "correct_answer": "Egoist",
+        "incorrect_answers": [
+            "Goose house",
+            "Babymetal",
+            "Garnidelia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In the &quot;Star Wars&quot; universe, what species is Grand Admiral Thrawn?",
+        "correct_answer": "Chiss",
+        "incorrect_answers": [
+            "Gungans",
+            "Pantorans",
+            "Twi&#039;lek"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is the default alias that Princess Garnet goes by in Final Fantasy IX?",
+        "correct_answer": "Dagger",
+        "incorrect_answers": [
+            "Dirk",
+            "Garnet",
+            "Quina"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which of the following is the male pollen-producing reproductive part of a flower?",
+        "correct_answer": "Stamen",
+        "incorrect_answers": [
+            "Sepal",
+            "Pistil",
+            "Petal"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "All strawberries are red.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What was the first Disney movie to use CGI?",
+        "correct_answer": "The Black Cauldron",
+        "incorrect_answers": [
+            "Tron",
+            "Toy Story",
+            "Fantasia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "The Quadrangularis Reversum is best described as which of the following?",
+        "correct_answer": "A percussion instrument",
+        "incorrect_answers": [
+            "A building in Oxford University",
+            "A chess move",
+            "A geometric theorem"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the nickname for the US state Delaware?",
+        "correct_answer": "The First State",
+        "incorrect_answers": [
+            "The Fiftieth State",
+            "The Second State",
+            "The Sixteenth State"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What company develops the Rock Band series of rhythm games?",
+        "correct_answer": "Harmonix",
+        "incorrect_answers": [
+            "Activision",
+            "Konami",
+            "Electronic Arts"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The original mascot of the popular Nintendo game, &quot;Splatoon&quot; was going to be...",
+        "correct_answer": "Mario",
+        "incorrect_answers": [
+            "Inklings",
+            "Octolings",
+            "Zelda"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In DuckTales, what is the name of the city where all the main characters live?",
+        "correct_answer": "Duckburg",
+        "incorrect_answers": [
+            "Duckwing",
+            "Tailspin",
+            "Wingford"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "How fast is USB 3.1 Gen 2 theoretically?",
+        "correct_answer": "10 Gb/s",
+        "incorrect_answers": [
+            "5 Gb/s",
+            "8 Gb/s",
+            "1 Gb/s"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which country is singer Kyary Pamyu Pamyu from?",
+        "correct_answer": "Japan",
+        "incorrect_answers": [
+            "South Korea",
+            "China",
+            "Vietnam"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which famous artist featured on Rowdy Rebel&#039;s 2015 song &quot;Computers&quot;?",
+        "correct_answer": "Bobby Shmurda ",
+        "incorrect_answers": [
+            "Lil Wayne",
+            "Will.I.AM",
+            "Kendrick Lamar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "The creeper in Minecraft was the result of a bug while implementing which creature?",
+        "correct_answer": "Pig",
+        "incorrect_answers": [
+            "Zombie",
+            "Chicken",
+            "Cow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What is a Burgee?",
+        "correct_answer": "A flag",
+        "incorrect_answers": [
+            "A rope",
+            "A window",
+            "A type of food"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "Wooden molding scraps were used to make the original Monopoly houses and hotels.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Splatoon 2&#039;s Hero Mode, which agent does the player take the role of?",
+        "correct_answer": "Agent 4",
+        "incorrect_answers": [
+            "Agent 1",
+            "Agent 2",
+            "Agent 3"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Which one of these colors are not featured in Mondrian&#039;s Broadway Boogie-Woogie?",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+            "Blue",
+            "Yellow",
+            "Red"
+        ]
+    }
+]

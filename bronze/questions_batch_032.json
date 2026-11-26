@@ -1,0 +1,590 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "Which of the following collision avoidance systems helps airplanes avoid colliding with each other?",
+        "correct_answer": "TCAS",
+        "incorrect_answers": [
+            "GPWS",
+            "OCAS",
+            "TAWS"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the &quot;Toaru Majutsu no Index&quot; anime, Touma Kamijou is a level 0 esper that has the ability to do what?",
+        "correct_answer": "Dispell any esper or magical powers",
+        "incorrect_answers": [
+            "Teleport",
+            "Make telepathic communications",
+            "Create electricity from his own body"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Phil Fish was the designer of which game?",
+        "correct_answer": "Fez",
+        "incorrect_answers": [
+            "Super Meat Boy",
+            "Hotline Miami",
+            "FTL"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which of the following is not in the Indo-European language family?",
+        "correct_answer": "Finnish",
+        "incorrect_answers": [
+            "English",
+            "Hindi",
+            "Russian"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "Pointers were not used in the original C programming language; they were added later on in C++.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "&#039;74&ndash;&#039;75 is a 1993 single from the album Ring by what American band?",
+        "correct_answer": "The Connells",
+        "incorrect_answers": [
+            "R.E.M.",
+            "The Ocean Blue",
+            "The Bangles"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "San Marino is the only country completely surrounded by another country.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What is the name of the school in the anime and manga &quot;Gosick&quot;?",
+        "correct_answer": "St. Marguerite",
+        "incorrect_answers": [
+            "St. Augustine",
+            "St. Mary",
+            "St. Bernadette"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What was the name of the Ethiopian Wolf before they knew it was related to wolves?",
+        "correct_answer": "Simien Jackel",
+        "incorrect_answers": [
+            "Ethiopian Coyote",
+            "Amharic Fox",
+            "Canis Simiensis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In which year did the Invasion of Kuwait by Iraq occur?",
+        "correct_answer": "1990",
+        "incorrect_answers": [
+            "1992",
+            "1988",
+            "1986"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which one of these songs did the group &quot;Men At Work&quot; NOT make?",
+        "correct_answer": "Safety Dance",
+        "incorrect_answers": [
+            "Down Under",
+            "Who Can It Be Now?",
+            "It&#039;s a Mistake"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What does the United States of America celebrate during the 4th of July?",
+        "correct_answer": "The signing of the Declaration of Independence",
+        "incorrect_answers": [
+            "The anniversary of the Battle of Gettysburg",
+            "The crossing of the Delaware River",
+            "The ratification of the Constitution"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "The derisive acronym &quot;PIIGS&quot; refers to which of the following European countries and their economic statuses?",
+        "correct_answer": "Portugal, Ireland, Italy, Greece, Spain",
+        "incorrect_answers": [
+            "Poland, Iceland, Italy, Greece, Serbia",
+            "Poland, Iceland, Italy, Greenland, Spain",
+            "Portugal, Iceland, Ireland, Greece, Serbia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Dead by Daylight, which killer perk applies the mangled effect?",
+        "correct_answer": "Sloppy Butcher",
+        "incorrect_answers": [
+            "Knock Out",
+            "Thanatophobia",
+            "Enduring"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "In the DC Comics 2016 reboot, Rebirth, which speedster escaped from the Speed Force after he had been erased from existance?",
+        "correct_answer": "Wally West",
+        "incorrect_answers": [
+            "Johnny Quick",
+            "Jay Garrick",
+            "Eobard Thawne"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "For his performance at ComplexCon 2016 in Long Beach, California, Skrillex revived his &quot;Mothership&quot; set piece for one night only.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "How many countries border Kyrgyzstan?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "3",
+            "1",
+            "6"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "What is generally considered to be William Shakespeare&#039;s birth date?",
+        "correct_answer": "April 23rd, 1564",
+        "incorrect_answers": [
+            "July 4th, 1409",
+            "September 29th, 1699",
+            "December 1st, 1750"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who won NFL Super Bowl LI? (51)",
+        "correct_answer": "Patriots",
+        "incorrect_answers": [
+            "Falcons",
+            "Broncos",
+            "Eagles"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "The Los Angeles Dodgers were originally from what U.S. city?",
+        "correct_answer": "Brooklyn",
+        "incorrect_answers": [
+            "Las Vegas",
+            "Boston",
+            "Seattle"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "Hel was the daughter of which Norse Mythological figure?",
+        "correct_answer": "Loki",
+        "incorrect_answers": [
+            "Thor",
+            "Odin",
+            "Balder"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which Greek letter represents the &quot;Half-Life&quot; logo?",
+        "correct_answer": "Lambda",
+        "incorrect_answers": [
+            "Omega",
+            "Alpha",
+            "Sigma"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What is the powerhouse of the cell?",
+        "correct_answer": "Mitochondria",
+        "incorrect_answers": [
+            "Ribosome",
+            "Redbull",
+            "Nucleus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The walls of the Goldenrod City Gym in &quot;Pok&eacute;mon Gold and Silver&quot; are arranged in the shape of which Pok&eacute;mon?",
+        "correct_answer": "Clefairy",
+        "incorrect_answers": [
+            "Bulbasaur",
+            "Pikachu",
+            "Pidgey"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is NOT DLC for the video game called &quot;Tabletop Simulator&quot;?",
+        "correct_answer": "The Binding of Isaac: Four Souls",
+        "incorrect_answers": [
+            "Three Kingdoms Redux",
+            "Superfight",
+            "Mr. Game!"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Joseph Stalin&#039;s real name was Ioseb Bessarionis dze Dzugashvili.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who is believed to have been the first European to &#039;discover&#039; the land of New Zealand?",
+        "correct_answer": "Abel Tasman",
+        "incorrect_answers": [
+            "Christopher Columbus",
+            "Jeanne Bar&eacute;",
+            "John Cabot "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Whose signature guitar technique is called the &quot;windmill&quot;?",
+        "correct_answer": "Pete Townshend",
+        "incorrect_answers": [
+            "Jimmy Page",
+            "Eddie Van Halen",
+            "Jimi Hendrix"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the main character of the game series &quot;Ace Attorney&quot; ?",
+        "correct_answer": "Phoenix Wright",
+        "incorrect_answers": [
+            "Winston Payne",
+            "Dahlia Hawthorne ",
+            "Ash Ketchum"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "In Dungeons and Dragons (5th edition), what stat do you normally add onto your initiative die roll?",
+        "correct_answer": "Dexterity",
+        "incorrect_answers": [
+            "Speed",
+            "Strength",
+            "Wisdom"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these symbols can be seen on the shirt of the 1993 video game character, Bubsy T. Bobcat?",
+        "correct_answer": "An exclamation point",
+        "incorrect_answers": [
+            "A question mark",
+            "The letter B",
+            "Nothing"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the Fallout series, on which date did The Great War happen?",
+        "correct_answer": "October 23rd, 2077",
+        "incorrect_answers": [
+            "May 15th, 2058",
+            "December 14th, 2069",
+            "November 5th, 2076"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which is the capital of Spain?",
+        "correct_answer": "Madrid",
+        "incorrect_answers": [
+            "Paris",
+            "Barcelona",
+            "Lisboa"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "An average human can go two weeks without water.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "How many hearts does an octopus have?",
+        "correct_answer": "Three",
+        "incorrect_answers": [
+            "One",
+            "Two",
+            "Four"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In World War I, what was the name of the alliance of Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria?",
+        "correct_answer": "The Central Powers",
+        "incorrect_answers": [
+            "The Axis Powers",
+            "The Federation of Empires",
+            "Authoritarian Alliance"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which company developed the free battle royale game Fortnite?",
+        "correct_answer": "Epic Games",
+        "incorrect_answers": [
+            "Valve",
+            "Ubisoft",
+            "Square Enix"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which person from &quot;JoJo&#039;s Bizarre Adventure&quot; does NOT house a reference to a band, artist, or song earlier than 1980?",
+        "correct_answer": "Giorno Giovanna",
+        "incorrect_answers": [
+            "Josuke Higashikata",
+            "Jolyne Cujoh",
+            "Johnny Joestar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which television show has Dan Gheesling been on?",
+        "correct_answer": "Big Brother",
+        "incorrect_answers": [
+            "Jeopardy",
+            "Survivor",
+            "The Bachelor"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "The song &quot;Twin Size Mattress&quot; was written by which band?",
+        "correct_answer": "The Front Bottoms",
+        "incorrect_answers": [
+            "Twenty One Pilots",
+            "The Wonder Years",
+            "The Smith Street Band"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What country joined the EU in 2013?",
+        "correct_answer": "Croatia",
+        "incorrect_answers": [
+            "Bulgaria",
+            "Slovenia",
+            "Turkey"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "Which of the following car manufacturers had a war named after it?",
+        "correct_answer": "Toyota",
+        "incorrect_answers": [
+            "Honda",
+            "Ford",
+            "Volkswagen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Just Cause 2 was mainly set in what fictional Southeast Asian island country?",
+        "correct_answer": "Panau",
+        "incorrect_answers": [
+            "Davao",
+            "Macau",
+            "Palau"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In what year was the famous 45 foot tall Hollywood sign first erected?",
+        "correct_answer": "1923",
+        "incorrect_answers": [
+            "1903",
+            "1913",
+            "1933"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What are the names of the Ice Climbers in the video game Ice Climber?",
+        "correct_answer": "Popo and Nana",
+        "incorrect_answers": [
+            "Popo and Nina",
+            "Papi and Nana",
+            "Papi and Nina"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the name of New Zealand&#039;s indigenous people?",
+        "correct_answer": "Maori",
+        "incorrect_answers": [
+            "Vikings",
+            "Polynesians",
+            "Samoans"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The main playable character of the 2015 RPG &quot;Undertale&quot; is a monster.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "Which of the following tabletop games is the oldest?",
+        "correct_answer": "Go",
+        "incorrect_answers": [
+            "Chess",
+            "Mahjong",
+            "Shogi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Where did the dog breed &quot;Chihuahua&quot; originate?",
+        "correct_answer": "Mexico",
+        "incorrect_answers": [
+            "France",
+            "Spain",
+            "Russia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the 4-armed Chaos Witch from the 2016 video game &quot;Battleborn&quot;?",
+        "correct_answer": "Orendi",
+        "incorrect_answers": [
+            "Orendoo",
+            "Oranda",
+            "Randy"
+        ]
+    }
+]

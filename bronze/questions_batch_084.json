@@ -1,0 +1,590 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Where was Napoleon Bonaparte born?",
+        "correct_answer": "Corsica",
+        "incorrect_answers": [
+            "Normandy",
+            "Brittany",
+            "Paris"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "During the Spanish Civil War (1936), Francisco Franco fought for which political faction?",
+        "correct_answer": "Nationalist Spain",
+        "incorrect_answers": [
+            "Republican Spain",
+            "Popular Front",
+            "Papal State"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the subtitle for Gran Turismo 3?",
+        "correct_answer": "A-Spec",
+        "incorrect_answers": [
+            "Championship",
+            "Drive",
+            "Nitro"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What type of animal is a natterjack?",
+        "correct_answer": "Toad",
+        "incorrect_answers": [
+            "Bird",
+            "Fish",
+            "Insect"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In &quot;Gravity Falls&quot;, what does Quentin Trembley do when he is driven out from the White House?",
+        "correct_answer": "Eat a salamander and jump out the window.",
+        "incorrect_answers": [
+            "Leave in peace.",
+            "Jump out the window.",
+            "Release 1,000 captive salamanders into the white house."
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Which is Kenesisa Bekele&#039;s personal best at marathon?",
+        "correct_answer": "2:01:41",
+        "incorrect_answers": [
+            "2:01:12",
+            "2:01:45",
+            "2:01:51"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "In the Scoville scale, what is the hottest chemical?",
+        "correct_answer": "Resiniferatoxin",
+        "incorrect_answers": [
+            "Capsaicin",
+            "Dihydrocapsaicin",
+            "Tinyatoxin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What was the release date of the first episode of &quot;The Powerpuff Girls&quot;?",
+        "correct_answer": "November 18, 1998",
+        "incorrect_answers": [
+            "June 25, 1999",
+            "July 28, 2000",
+            "April 14, 2001"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which horror movie had a sequel in the form of a video game released in August 20, 2002?",
+        "correct_answer": "The Thing",
+        "incorrect_answers": [
+            "The Evil Dead",
+            "Saw",
+            "Alien"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "In what year was the card game Magic: the Gathering first introduced?",
+        "correct_answer": "1993",
+        "incorrect_answers": [
+            "1987",
+            "1998",
+            "2003"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which of the following bands is Tom DeLonge not a part of?",
+        "correct_answer": "+44",
+        "incorrect_answers": [
+            "Box Car Racer",
+            "Blink-182",
+            "Angels &amp; Airwaves"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Telltale Games&#039; &quot;The Walking Dead: Season One&quot; what is the name of Clementine&#039;s father?",
+        "correct_answer": "Ed",
+        "incorrect_answers": [
+            "Charles",
+            "Lee",
+            "Walter"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The Fallingwater House, located in Pennsylvania, was designed by which architect?",
+        "correct_answer": "Frank Lloyd Wright",
+        "incorrect_answers": [
+            "Antoni Gaudi",
+            "Frank Gehry",
+            "Le Corbusier"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What Southeast Asian country was formerly known as &#039;Lan Xang&#039;?",
+        "correct_answer": "Laos",
+        "incorrect_answers": [
+            "Cambodia",
+            "Vietnam",
+            "Thailand"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "If he was still alive, in what year would Elvis Presley celebrate his 100th birthday?",
+        "correct_answer": "2035",
+        "incorrect_answers": [
+            "2030",
+            "2040",
+            "2045"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Ryuji Sakamoto is a character from Final Fantasy.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "Which board game was first released on February 6th, 1935?",
+        "correct_answer": "Monopoly",
+        "incorrect_answers": [
+            "Risk",
+            "Clue",
+            "Candy Land"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What city did the monster attack in the film, &quot;Cloverfield&quot;?",
+        "correct_answer": "New York, New York",
+        "incorrect_answers": [
+            "Las Vegas, Nevada",
+            "Chicago, Illinois",
+            "Orlando, Florida"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "What is the fourth book of the Old Testament?",
+        "correct_answer": "Numbers",
+        "incorrect_answers": [
+            "Genesis",
+            "Exodus",
+            "Leviticus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Nephelococcygia is the practice of doing what?",
+        "correct_answer": "Finding shapes in clouds",
+        "incorrect_answers": [
+            "Sleeping with your eyes open",
+            "Breaking glass with your voice",
+            "Swimming in freezing water"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "&quot;PAYDAY: The Heist&quot; is a sequel to the board game &quot;Payday&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In Chobits, Hideki found Chii in his apartment.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "What is the name of the comic about a young boy, and a tiger who is actually a stuffed animal?",
+        "correct_answer": "Calvin and Hobbes",
+        "incorrect_answers": [
+            "Winnie the Pooh",
+            "Albert and Pogo",
+            "Peanuts"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When did Norway get its constitution?",
+        "correct_answer": "1814",
+        "incorrect_answers": [
+            "1932",
+            "1905",
+            "1854"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which of these are NOT a Men at Work song?",
+        "correct_answer": "Basket Case",
+        "incorrect_answers": [
+            "Dr. Heckyll and Mr. Jive",
+            "Who Can It Be Now?",
+            "Be Good Johnny"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Instant mashed potatoes were invented by Canadian Edward Asselbergs in 1962.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of Team Fortress 2&#039;s Heavy Weapons Guy&#039;s minigun?",
+        "correct_answer": "Sasha",
+        "incorrect_answers": [
+            "Betty",
+            "Anna",
+            "Diana"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which American manufactured submachine gun was informally known by the American soldiers that used it as &quot;Grease Gun&quot;?",
+        "correct_answer": "M3",
+        "incorrect_answers": [
+            "Colt 9mm",
+            "Thompson",
+            "MAC-10"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What is the most expensive weapon in Counter-Strike: Global Offensive?",
+        "correct_answer": "Scar-20/G3SG1",
+        "incorrect_answers": [
+            "M4A1",
+            "AWP",
+            "R8 Revolver"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;Love Live: School Idol Project&quot; what pseudonym does Kotori Minami use in her job as a maid?",
+        "correct_answer": "Minalinsky",
+        "incorrect_answers": [
+            "Stanoytchev",
+            "Kuznetsov",
+            "Aqours"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Band Aid&#039;s &#039;Do They Know It&#039;s Christmas&#039; was recorded to raise awareness of which issue in Ethiopia?",
+        "correct_answer": "Famine",
+        "incorrect_answers": [
+            "Human rights violations",
+            "Pollution",
+            "Terrorism"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What is the name of the corgi in Cowboy Bebop?",
+        "correct_answer": "Einstein",
+        "incorrect_answers": [
+            "Edward",
+            "Rocket",
+            "Joel"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Which of the music artists did NOT perform in the Live Aid concert in Wembley Stadium, London in 1985?",
+        "correct_answer": "The Rolling Stones",
+        "incorrect_answers": [
+            "Queen",
+            "Elton John",
+            "David Bowie"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following games has the largest map size?",
+        "correct_answer": "Just Cause 2",
+        "incorrect_answers": [
+            "Grand Theft Auto 5",
+            "The Elder Scrolls 4:  Oblivion",
+            "The Witcher 3:  Wild Hunt"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who created the &quot;Metal Gear&quot; Series?",
+        "correct_answer": "Hideo Kojima",
+        "incorrect_answers": [
+            "Hiroshi Yamauchi",
+            "Shigeru Miyamoto",
+            "Gunpei Yokoi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Which one of these Swedish companies was founded in 1943?",
+        "correct_answer": "IKEA",
+        "incorrect_answers": [
+            "H &amp; M",
+            "Lindex",
+            "Clas Ohlson"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The first televised presidential debate was between Jimmy Carter and Gerald Ford.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In what year was the game &quot;FTL: Faster Than Light&quot; released?",
+        "correct_answer": "2012",
+        "incorrect_answers": [
+            "2014",
+            "2013",
+            "2011"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "What does the scientific name of the Cambrian-Period sea creature Anomalocaris mean?",
+        "correct_answer": "Abnormal Shrimp",
+        "incorrect_answers": [
+            "Deformed Fish",
+            "Strange Crab",
+            "Anomalous Clam"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Which president erased the national debt of the United States?",
+        "correct_answer": "Andrew Jackson",
+        "incorrect_answers": [
+            "Ronald Reagan",
+            "John F. Kennedy",
+            "Franklin Roosevelt"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The cake depicted in Valve&#039;s &quot;Portal&quot; franchise most closely resembles which real-world type of cake?",
+        "correct_answer": "Black Forest",
+        "incorrect_answers": [
+            "Devil&#039;s Food",
+            "Molten Chocolate",
+            "German Chocolate"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Comics",
+        "question": "In &quot;Homestuck&quot; the &quot;Kingdom of Darkness&quot; is also known as?",
+        "correct_answer": "Derse",
+        "incorrect_answers": [
+            "Skaia",
+            "Prospit",
+            "The Medium"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the only Generation III Pokemon whose name begins with the letter I?",
+        "correct_answer": "Illumise",
+        "incorrect_answers": [
+            "Infernape",
+            "Ivysaur",
+            "Igglybuff"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Gannymede is the largest moon of which planet?",
+        "correct_answer": "Jupiter",
+        "incorrect_answers": [
+            "Uranus",
+            "Neptune",
+            "Mars"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "In which classic novel is there a character named Homer Simpson?",
+        "correct_answer": "The Day of the Locust",
+        "incorrect_answers": [
+            "Catch-22",
+            "Of Mice and Men",
+            "A Separate Peace"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "&quot;Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.&quot; is a grammatically correct sentence.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "When was the first mammal successfully cloned?",
+        "correct_answer": "1996",
+        "incorrect_answers": [
+            "2009",
+            "1999",
+            "1985"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In South Park, what is Stan&#039;s surname?",
+        "correct_answer": "Marsh",
+        "incorrect_answers": [
+            "Stotch",
+            "Broflovski",
+            "Tweak"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "On what street did the 1666 Great Fire of London start?",
+        "correct_answer": "Pudding Lane",
+        "incorrect_answers": [
+            "Baker Street",
+            "Houses of Parliament",
+            "St Paul&#039;s Cathedral"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who was Hannibal?",
+        "correct_answer": "Carthaginian general",
+        "incorrect_answers": [
+            "British serial killer",
+            "French explorer",
+            "Greek philosopher"
+        ]
+    }
+]

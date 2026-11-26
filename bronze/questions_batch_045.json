@@ -1,0 +1,576 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Kuala Lumpur is the capital of which country?",
+        "correct_answer": "Malaysia",
+        "incorrect_answers": [
+            "Indonesia",
+            "Singapore",
+            "Thailand"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What was the first Super Mario game ever released in North America for the 3DS?",
+        "correct_answer": "Super Mario 3D Land",
+        "incorrect_answers": [
+            "Super Mario Maker",
+            "New Super Mario Bros. 2",
+            "Mario Kart 7"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Who wrote the song &quot;You Know You Like It&quot;?",
+        "correct_answer": "AlunaGeorge",
+        "incorrect_answers": [
+            "DJ Snake",
+            "Steve Aoki",
+            "Major Lazer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Mark Wahlberg played the titular character of which 2008 video-game adaptation?",
+        "correct_answer": "Max Payne",
+        "incorrect_answers": [
+            "Alan Wake",
+            "Hitman",
+            "God Of War"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Touhou 12: Undefined Fantastic Object, which of these was not a playable character?",
+        "correct_answer": "Izayoi Sakuya",
+        "incorrect_answers": [
+            "Hakurei Reimu",
+            "Kirisame Marisa",
+            "Kochiya Sanae"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "The Honda Motor Corporation originates in Japan",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which band had hits in 1972 with the songs &quot;Baby I&#039;m A Want You&quot;, &quot;Everything I Own&quot; and &quot;The Guitar Man&quot;",
+        "correct_answer": "Bread",
+        "incorrect_answers": [
+            "America",
+            "Chicago",
+            "Smokie"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Alaska and Hawaii are the only US states that have their own timezones.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How many rivers are in Saudi Arabia?",
+        "correct_answer": "0",
+        "incorrect_answers": [
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is the Finnish word for &quot;Finland&quot;?",
+        "correct_answer": "Suomi",
+        "incorrect_answers": [
+            "Eesti",
+            "Magyarorsz&aacute;g",
+            "Sverige"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "This Ghanaian entrepreneur is a pioneer of microlending.",
+        "correct_answer": "Esther Afua Ocloo",
+        "incorrect_answers": [
+            "Farida Bedwei",
+            "Ama Ata Aido",
+            "Sionne Neely"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "What was the first monster to appear alongside Godzilla?",
+        "correct_answer": "Anguirus",
+        "incorrect_answers": [
+            "King Kong",
+            "Mothra",
+            "King Ghidora"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+        "correct_answer": "Taiwan",
+        "incorrect_answers": [
+            "United States",
+            "Germany",
+            "China (People&#039;s Republic of)"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which country hosted the 2020 Summer Olympics?",
+        "correct_answer": "Japan",
+        "incorrect_answers": [
+            "China",
+            "Australia",
+            "Germany"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "What were Marcel Duchamp&#039;s readymades?",
+        "correct_answer": "utilitarian objects elevated to the status of art",
+        "incorrect_answers": [
+            "a series focused on color and light as opposed to line and shape",
+            "paintings with a barely visible outlined square",
+            "a group of identical steel boxes jutting from the wall "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of the following is a class in the game &quot;Hearthstone&quot;?",
+        "correct_answer": "Priest",
+        "incorrect_answers": [
+            "Sage",
+            "Cleric",
+            "Monk"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What number does the Roman numeral &quot;D&quot; stand for?",
+        "correct_answer": "500",
+        "incorrect_answers": [
+            "100",
+            "1000",
+            "50"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "GoldenEye 007 on the Nintendo 64 was planned to allow you to play as all previous Bond actors, with the exception of who?",
+        "correct_answer": "George Lazenby",
+        "incorrect_answers": [
+            "Roger Moore",
+            "Sean Connery",
+            "Timothy Dalton"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What was the original name of Ho Chi Minh City?",
+        "correct_answer": "Saigon",
+        "incorrect_answers": [
+            "Hanoi",
+            "Dar Es Salaam",
+            "Angkor Wat"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "&#039;The Safety Dance&#039; was the biggest hit single for which Canadian act?",
+        "correct_answer": "Men Without Hats",
+        "incorrect_answers": [
+            "Crash Test Dummies",
+            "The Tragically Hip",
+            "Broken Social Scene"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "In the metal band Slipknot, there are 9 members, which member labelled themselves number 6? ",
+        "correct_answer": "Shawn Crahan (Clown)",
+        "incorrect_answers": [
+            "Sid Wilson",
+            "Cory Taylor",
+            "Mick Thomson"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "An episode of &quot;The Simpsons&quot; is dedicated to Moe Szyslak&#039;s bar rag.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "What is the name of the Japanese art of folding paper into decorative shapes and figures?",
+        "correct_answer": "Origami",
+        "incorrect_answers": [
+            "Sumi-e",
+            "Ukiyo-e",
+            "Haiku"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Autosomal-dominant Compelling Helio-Ophthalmic Outburst syndrome is the need to do what when seeing the Sun?",
+        "correct_answer": "Sneeze",
+        "incorrect_answers": [
+            "Cough",
+            "Yawn",
+            "Hiccup"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "The first ever episode of Family Guy, &quot;Death Has A Shadow,&quot; aired on January 1st, 2002.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Star Wars: Republic Commando (2005), what is the name of the squad that you play as?",
+        "correct_answer": "Delta Squad",
+        "incorrect_answers": [
+            "Omega Squad",
+            "Echo Squad",
+            "Alpha Squad"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Furby was released in 1998.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Who is the lead singer of Pearl Jam?",
+        "correct_answer": "Eddie Vedder",
+        "incorrect_answers": [
+            "Ozzy Osbourne",
+            "Stone Gossard",
+            "Kurt Cobain"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "How many voice channels does the Nintendo Entertainment System support natively?",
+        "correct_answer": "5",
+        "incorrect_answers": [
+            "4",
+            "6",
+            "3"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "Which of the following is not one of the seven Millennium Prize Problems?",
+        "correct_answer": "Navi&eacute;r conjecture",
+        "incorrect_answers": [
+            "Birch and Swinnerton-Dyer Conjecture",
+            "Riemann hypothesis",
+            "Poincar&eacute; conjecture"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Which artists&#039; version of the song &quot;The Tide is High&quot; came first?",
+        "correct_answer": "The Paragons",
+        "incorrect_answers": [
+            "Blondie",
+            "Kardinal Offishall",
+            "Atomic Kitten"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Michael Jackson had a pet python named &lsquo;Crusher&rsquo;.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+        "correct_answer": "21",
+        "incorrect_answers": [
+            "23",
+            "15",
+            "24"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "&quot;Metal Gear Solid 3: Snake Eater&quot; takes place on Shadow Moses Island.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "&quot;Number 16 Bus Shelter&quot; was a child&#039;s name that was approved by the New Zealand government.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?",
+        "correct_answer": "Cherry MX Blue",
+        "incorrect_answers": [
+            "Cherry MX Black",
+            "Cherry MX Red",
+            "Cherry MX Brown"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What date is referenced in the 1971 song &quot;September&quot; by Earth, Wind &amp; Fire?",
+        "correct_answer": "21st of September",
+        "incorrect_answers": [
+            "26th of September",
+            "23rd of September",
+            "24th of September"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Comics",
+        "question": "The &quot;Pepe&quot; meme originated from a comic drawn by Matt Furie called &quot;Boy&#039;s Club&quot;?",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Soccer player Cristiano Ronaldo opened a museum dedicated to himself.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What color/colour is a polar bear&#039;s skin?",
+        "correct_answer": "Black",
+        "incorrect_answers": [
+            "White",
+            "Pink",
+            "Green"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?",
+        "correct_answer": "Swiss Air",
+        "incorrect_answers": [
+            "Air France",
+            "British Airways",
+            "TWA"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The PlayStation was originally a joint project between Sega and Sony that was a Sega Genesis with a disc drive.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Doki Doki Literature Club was developed in Japan.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Did Michael Jackson invent the moonwalk?",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which city is the capital of Switzerland?",
+        "correct_answer": "Bern",
+        "incorrect_answers": [
+            "Z&uuml;rich",
+            "Frankfurt",
+            "Wien"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Who is the chemical element Curium named after?",
+        "correct_answer": "Marie &amp; Pierre Curie",
+        "incorrect_answers": [
+            "The Curiosity Rover",
+            "Curious George",
+            "Stephen Curry"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "Where are the cars of the brand &quot;Ferrari&quot; manufactured?",
+        "correct_answer": "Italy",
+        "incorrect_answers": [
+            "Romania",
+            "Germany",
+            "Russia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What breed of dog is &quot;Scooby Doo&quot;?",
+        "correct_answer": "Great Dane",
+        "incorrect_answers": [
+            "Pit bull",
+            "Boxer",
+            "Doberman Pinscher"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
+        "correct_answer": "Bulldog",
+        "incorrect_answers": [
+            "Yorkshire Terrier",
+            "Boxer",
+            "Pug"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In Haikyuu!!, who is not a member of Karasuno VBC?",
+        "correct_answer": "Shigeru Yahaba",
+        "incorrect_answers": [
+            "Tadashi Yamaguchi",
+            "Hisashi Kinoshita",
+            "Kazuhito Narita"
+        ]
+    }
+]

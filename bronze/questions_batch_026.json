@@ -1,0 +1,590 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Which one of these films are shot entirely in one-take?",
+        "correct_answer": "Russian Ark",
+        "incorrect_answers": [
+            "Good Will Hunting",
+            "Birdman",
+            "Schindler&#039;s List"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Where does &quot;The Legend of Zelda: Majora&#039;s Mask&quot; take place?",
+        "correct_answer": "Termina",
+        "incorrect_answers": [
+            "Hyrule",
+            "Gysahl",
+            "Besaid"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What vehicle in PUBG has the highest top speed?",
+        "correct_answer": "Motorcycle",
+        "incorrect_answers": [
+            "PG-117",
+            "Dacia",
+            "Buggy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "How many moons does the Earth have?",
+        "correct_answer": "1",
+        "incorrect_answers": [
+            "0",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which of these people is NOT a part of the Internet comedy group Mega64?",
+        "correct_answer": "Jon Jafari",
+        "incorrect_answers": [
+            "Rocco Botte",
+            "Derrick Acosta",
+            "Shawn Chatfield"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "Which of the following vehicles from Ford is named after a WW2 Fighter Plane?",
+        "correct_answer": "Mustang",
+        "incorrect_answers": [
+            "Explorer",
+            "Ranger",
+            "Galaxy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "In the movie &quot;Scream&quot; who is Ghost Face?",
+        "correct_answer": "Billy Loomis and Stu Macher",
+        "incorrect_answers": [
+            "Dewey Riley",
+            "Sidney Prescott",
+            "Archie Prescott and Philip Marv"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "Who was the original author of Frankenstein?",
+        "correct_answer": "Mary Shelley",
+        "incorrect_answers": [
+            "Edgar Allan Poe",
+            "Bram Stoker",
+            "H. P. Lovecraft"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "What Greek letter is used to signify summation?",
+        "correct_answer": "Sigma",
+        "incorrect_answers": [
+            "Delta",
+            "Alpha",
+            "Omega"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In the Dreamworks animated movie &quot;Madagascar,&quot; who voices Maurice the lemur?",
+        "correct_answer": "Cedric the Entertainer",
+        "incorrect_answers": [
+            "Jack Black",
+            "Sacha Baron Cohen",
+            "Chris Rock"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "What is the name of the Artificial Intelligence system in the 1983 film, &quot;WarGames&quot;?",
+        "correct_answer": "War Operation Plan Response",
+        "incorrect_answers": [
+            "Self Evolving Thought Helix",
+            "Master Control Program",
+            "West Campus Analog Computer"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "On which continent is the country of Angola located?",
+        "correct_answer": "Africa",
+        "incorrect_answers": [
+            "South America",
+            "Europe",
+            "Asia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Who assassinated President James A. Garfield?",
+        "correct_answer": "Charles Guiteau",
+        "incorrect_answers": [
+            "Sirhan Sirhan",
+            "Leon Czolgosz",
+            "John Wilkes Booth"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "Which was the first of Alfred Hitchcock&#039;s movies to be filmed in colour?",
+        "correct_answer": "Rope",
+        "incorrect_answers": [
+            "Psycho",
+            "Vertigo",
+            "Rebecca"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Gadgets",
+        "question": "What does GPS stand for?",
+        "correct_answer": "Global Positioning System",
+        "incorrect_answers": [
+            "Global Personal System",
+            "General Positioning System",
+            "General Personal Satellite"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Pac-Man was invented by the designer Toru Iwatani while he was eating pizza.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which of the following Inuit languages was the FIRST to use a unique writing system not based on the Latin alphabet?",
+        "correct_answer": "Inuktitut",
+        "incorrect_answers": [
+            "Inuinnaqtun",
+            "Greenlandic",
+            "Inupiat"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "Shub-Niggurath is a creature that was created by J. R. R. Tolkien in his novel &quot;The Lord of The Rings&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which song was the callsign for Stefan Verdemann&#039;s KWFM radio station in Urasawa Naoki&#039;s &quot;Monster&quot;?",
+        "correct_answer": "Over the Rainbow",
+        "incorrect_answers": [
+            "What a Wonderful World",
+            "When You Wish Upon A Star",
+            "Singing In The Rain"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "The character Momonga from the &quot;Overlord&quot; series orders his servants to call him by what name?",
+        "correct_answer": "Ainz Ooal Gown",
+        "incorrect_answers": [
+            "Master",
+            "Yggdrasil",
+            "Kugane Maruyama"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "What is the make and model of the tour vehicles in &quot;Jurassic Park&quot; (1990)?",
+        "correct_answer": "1989 Toyota Land Cruiser",
+        "incorrect_answers": [
+            "1989 Jeep Wrangler YJ Sahar",
+            "1989 Ford Explorer XLT",
+            "Mercedes M-Class"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "In 2016, the IUCN reclassified the status of Giant Pandas from endangered to vulnerable.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the lore of the PAYDAY series, which criminal was arrested and then latered rescued by the PAYDAY gang?",
+        "correct_answer": "Hoxton",
+        "incorrect_answers": [
+            "Dallas",
+            "Wolf",
+            "Chains"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": " In what movie does Eddie Murphy swap identities with Dan Aykroyd?",
+        "correct_answer": "Trading Places",
+        "incorrect_answers": [
+            "Ghostbusters",
+            "Coming to America",
+            "The Blues Brothers"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "In the 1964 film &quot;Zulu&quot;, what song does the British Army company sing before the final battle?",
+        "correct_answer": "Men of Harlech",
+        "incorrect_answers": [
+            "Scotland the Brave",
+            "Colonel Bogey March",
+            "The British Grenadiers"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of these American cities has fewer than 1,000,000 people?",
+        "correct_answer": "San Francisco, California",
+        "incorrect_answers": [
+            "Phoenix, Arizona",
+            "San Antonio, Texas",
+            "Philadelphia, Pennsylvania"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;Puella Magi Madoka Magica&quot;, what is the first name of Madoka&#039;s younger brother?",
+        "correct_answer": "Tatsuya",
+        "incorrect_answers": [
+            "Montoya",
+            "Tomohisa",
+            "Minato"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the Half-Life universe, the Black Mesa Research Facility is located in which US state?",
+        "correct_answer": "New Mexico",
+        "incorrect_answers": [
+            "Nevada",
+            "Arizona",
+            "Wyoming"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In the &quot;Half-Life&quot; series, &quot;H.E.V&quot; stands for &quot;Hazardous Evasiveness Vest&quot;",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?",
+        "correct_answer": "Exclamation Mark",
+        "incorrect_answers": [
+            "Dollar Sign",
+            "Percent Sign",
+            "Asterisk"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Celebrities",
+        "question": "Which of these celebrities was not a member of the Jackson 5?",
+        "correct_answer": "Bo Jackson",
+        "incorrect_answers": [
+            "Tito Jackson",
+            "Jermaine Jackson",
+            "Marlon Jackson"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Which of the following is NOT a word used to describe an earthquake?",
+        "correct_answer": "Drop-slide",
+        "incorrect_answers": [
+            "Foreshock",
+            "Strike-slip",
+            "Temblor"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What company created and developed the game &quot;Overwatch&quot;?",
+        "correct_answer": "Blizzard Entertainment",
+        "incorrect_answers": [
+            "Valve",
+            "Hi-Rez Studios",
+            "Gearbox Software"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The ultimate phrase used by Pharah from Overwatch is: &quot;Justice rains from above!&quot;",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What company developed the Xbox line of video game consoles?",
+        "correct_answer": "Microsoft",
+        "incorrect_answers": [
+            "Sony",
+            "Toshiba",
+            "IBM"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "United States President Ronald Reagan was the first president to appoint a woman to the Supreme Court. ",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "How many obsidian blocks are required to build a nether portal in Minecraft?",
+        "correct_answer": "10",
+        "incorrect_answers": [
+            "14",
+            "13",
+            "16"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What colour hair does the main character of the Yu-Gi-Oh! original anime series have?",
+        "correct_answer": "Red, black and yellow",
+        "incorrect_answers": [
+            "Red, yellow and green",
+            "Red, black and green",
+            "Red, purple and blue"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "What album is the song &#039;New Slang&#039; by The Shins found on?",
+        "correct_answer": "Oh, Inverted World",
+        "incorrect_answers": [
+            "Wincing The Night Away",
+            "Chutes Too Narrow",
+            "Port Of Morrow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the original &quot;Super Mario Bros.&quot;, what is the acceleration of Mario if he was in free fall?",
+        "correct_answer": "91.28 m/s^2",
+        "incorrect_answers": [
+            "110  m/s^2",
+            "9.42  m/s^2",
+            "4.4  m/s^2"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Who is the lead singer of the band Coldplay?",
+        "correct_answer": "Chris Martin",
+        "incorrect_answers": [
+            "Chris Isaak",
+            "Chris Wallace",
+            "Chris Connelly"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Overwatch, how old is Reinhardt Wilhelm?",
+        "correct_answer": "61",
+        "incorrect_answers": [
+            "59",
+            "65",
+            "62"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "Which poet wrote &quot;The Ballad of Reading Gaol&quot; whilst imprisoned for being gay?",
+        "correct_answer": "Oscar Wilde",
+        "incorrect_answers": [
+            "Lord Byron",
+            "William Blake",
+            "Wilfred Owen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "What was the best selling album of 2015?",
+        "correct_answer": "Adele, 25",
+        "incorrect_answers": [
+            "Fetty Wap, Fetty Wap",
+            "Taylor Swift, 1989",
+            "Justin Bieber, Purpose"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "Which occupation did John Tanner, the main protagonist for Driver and Driver 2, had before turning into an undercover cop?",
+        "correct_answer": "Racing Driver",
+        "incorrect_answers": [
+            "Taxi Driver",
+            "Delivery Driver",
+            "Getaway Driver"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "Virtual reality company Oculus VR lost which of it&#039;s co-founders in a freak car accident in 2013?",
+        "correct_answer": "Andrew Scott Reisse",
+        "incorrect_answers": [
+            "Nate Mitchell",
+            "Jack McCauley",
+            "Palmer Luckey"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which song is not by TheFatRat?",
+        "correct_answer": "Ascent",
+        "incorrect_answers": [
+            "Monody",
+            "Windfall",
+            "Infinite Power!"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "What physics principle relates the net electric flux out of a closed surface to the charge enclosed by that surface?",
+        "correct_answer": "Gauss&#039;s Law",
+        "incorrect_answers": [
+            "Faraday&#039;s Law",
+            "Ampere&#039;s Law",
+            "Biot-Savart Law"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Which Swiss psychologist is synonymous with the concepts of introvert and extrovert personalities?",
+        "correct_answer": "Carl Jung",
+        "incorrect_answers": [
+            "Jean Piaget",
+            "Alice Miller",
+            "Hermann Rorschach"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What name was historically used for the Turkish city currently known as Istanbul?",
+        "correct_answer": "Constantinople",
+        "incorrect_answers": [
+            "H&uuml;davendigar",
+            "S&ouml;ğ&uuml;t",
+            "Adrianople"
+        ]
+    }
+]

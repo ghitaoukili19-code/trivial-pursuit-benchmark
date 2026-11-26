@@ -1,0 +1,582 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Splatoon 2, who are the members of Off The Hook?",
+        "correct_answer": "Pearl &amp; Marina",
+        "incorrect_answers": [
+            "Callie &amp; Marie",
+            "Diamond &amp; Aquamarina",
+            "DJ Octavio &amp; Crusty Sean"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What is the official name of the star located closest to the North Celestial Pole?",
+        "correct_answer": "Polaris",
+        "incorrect_answers": [
+            "Eridanus",
+            "Gamma Cephei",
+            "Iota Cephei"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "In 2014, over 6 million General Motors vehicles were recalled due to what critical flaw?",
+        "correct_answer": "Faulty ignition switch",
+        "incorrect_answers": [
+            "Malfunctioning gas pedal",
+            "Breaking fuel lines",
+            "Faulty brake pads"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "How many moons does Pluto have?",
+        "correct_answer": "Five",
+        "incorrect_answers": [
+            "Two",
+            "Three",
+            "One"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "How many &quot;JoJos&quot; that are protagonists are there in the series &quot;Jojo&#039;s Bizarre Adventure&quot;?",
+        "correct_answer": "8+",
+        "incorrect_answers": [
+            "6+",
+            "4+",
+            "5+"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In which movie does Robin Williams&#039; character have to disguise themselves into a woman?",
+        "correct_answer": "Mrs. Doubtfire",
+        "incorrect_answers": [
+            "Old Dogs",
+            "Jumanji",
+            "Awakenings"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What does &quot;hippopotamus&quot; mean and in what langauge?",
+        "correct_answer": "River Horse (Greek)",
+        "incorrect_answers": [
+            "River Horse (Latin)",
+            "Fat Pig (Greek)",
+            "Fat Pig (Latin)"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Comics",
+        "question": "In the comic book &quot;Archie&quot;, Betty is friends with Veronica because she is rich.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "As poverty and racial tensions pushed African-Americans out of the southern US, many of them moved north in an event known as what?",
+        "correct_answer": "The Great Migration",
+        "incorrect_answers": [
+            "The Great Awakening",
+            "The Harlem Renaissance",
+            "The Resettlement"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "ATP tennis hosted several tournaments on carpet court before being replaced to reduce injuries.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "Who was the inspiration for Cuthbert Calculus in the Tintin series?",
+        "correct_answer": "Auguste Picard",
+        "incorrect_answers": [
+            "Jacques Piccard",
+            "Will Morris",
+            "J. Cecil Maby"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Who is the director of the 1991 film &quot;Silence of the Lambs&quot;?",
+        "correct_answer": "Jonathan Demme",
+        "incorrect_answers": [
+            "Stanley Kubrick",
+            "Frank Darabont",
+            "Michael Bay"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "Which of the following superheros did Wonder Woman NOT have a love interest in?",
+        "correct_answer": "Green Arrow",
+        "incorrect_answers": [
+            "Superman",
+            "Batman",
+            "Steve Trevor"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which Pok&eacute;mon can learn the move &quot;Secret Power&quot; by leveling up?",
+        "correct_answer": "Audino",
+        "incorrect_answers": [
+            "Type:Null",
+            "Arceus",
+            "Silvally"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "What is the name of the supercomputer located in the control room in &quot;Jurassic Park&quot; (1993)?",
+        "correct_answer": "Thinking Machines CM-5",
+        "incorrect_answers": [
+            "Cray X-MP",
+            "Cray XK7",
+            "IBM Blue Gene/Q"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which Nation did NOT have a Colony in modern-day North America?",
+        "correct_answer": "Portugal",
+        "incorrect_answers": [
+            "Spain",
+            "Sweden",
+            "Netherlands"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which British monarch was also known as &quot;William of Orange&quot;?",
+        "correct_answer": "William III",
+        "incorrect_answers": [
+            "William I",
+            "William II",
+            "William IV"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What does RAID stand for?",
+        "correct_answer": "Redundant Array of Independent Disks",
+        "incorrect_answers": [
+            "Rapid Access for Indexed Devices",
+            "Range of Applications with Identical Designs",
+            "Randomized Abstract Identification Description"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What company developed the vocaloid Hatsune Miku?",
+        "correct_answer": "Crypton Future Media",
+        "incorrect_answers": [
+            "Sega",
+            "Sony",
+            "Yamaha Corporation"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the creator of Touhou project?",
+        "correct_answer": "Zun",
+        "incorrect_answers": [
+            "Jun",
+            "Twilight Frontier",
+            "Tasofro"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the main antagonist in the Portal franchise?",
+        "correct_answer": "GLaDOS",
+        "incorrect_answers": [
+            "Chell",
+            "Wheatley",
+            "Rick"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Directly between the Washington Monument and the Reflecting Pool is a memorial to which war?",
+        "correct_answer": "World War II",
+        "incorrect_answers": [
+            "Vietnam War",
+            "American Civil War",
+            "American Revolutionary War"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which one of these archipelagos are NOT a part of the United Kingdom?",
+        "correct_answer": "The Channel Islands ",
+        "incorrect_answers": [
+            "Orkney Islands",
+            "Isles of Scilly",
+            "Shetland Islands "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Which city did Anger berate for ruining pizza in &quot;Inside Out&quot;?",
+        "correct_answer": "San Francisco",
+        "incorrect_answers": [
+            "Minnesota",
+            "Washington",
+            "California"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Type 1 diabetes is a result of the liver working improperly.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "There are 13 months in the Ethiopian calendar.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What year was the game Dishonored released?",
+        "correct_answer": "2012",
+        "incorrect_answers": [
+            "2011",
+            "2008",
+            "2013"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "Which of the following is not a color of mana in Magic: The Gathering?",
+        "correct_answer": "Yellow",
+        "incorrect_answers": [
+            "White",
+            "Green",
+            "Blue"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Board Games",
+        "question": "At the start of a standard game of the Monopoly, if you throw a double six, which square would you land on?",
+        "correct_answer": "Electric Company",
+        "incorrect_answers": [
+            "Water Works",
+            "Chance",
+            "Community Chest"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which of the following Physicists aided Nazi Germany in their production of a nuclear weapon?",
+        "correct_answer": "Werner Heisenberg",
+        "incorrect_answers": [
+            "John von Neumann",
+            "Albert Einstein",
+            "Max Planck"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "How many sides does a M&ouml;bius strip have?",
+        "correct_answer": "1",
+        "incorrect_answers": [
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "In Harry Potter and the Deathly Hallows, Hermione destroyed the fourth Horcrux by stabbing it with the Sword of Gryffindor.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What does the term GPU stand for?",
+        "correct_answer": "Graphics Processing Unit",
+        "incorrect_answers": [
+            "Gaming Processor Unit",
+            "Graphite Producing Unit",
+            "Graphical Proprietary Unit"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "The chemical element Lithium is named after the country of Lithuania.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In the game series &quot;The Legend of Zelda&quot;, what was the first 3D game?",
+        "correct_answer": "Ocarina of Time",
+        "incorrect_answers": [
+            "Majora&#039;s Mask",
+            "A Link to the Past",
+            "The Wind Waker"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "In Magic: The Gathering, what was a tribute card to Jamie Wakefield&#039;s late wife Marilyn, who loved horses?",
+        "correct_answer": "Timbermare",
+        "incorrect_answers": [
+            "Loyal Pegasus",
+            "Vryn Wingmare",
+            "Sungrace Pegasus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Mathematics",
+        "question": "The metric prefix &quot;atto-&quot; makes a measurement how much smaller than the base unit?",
+        "correct_answer": "One Quintillionth",
+        "incorrect_answers": [
+            "One Billionth",
+            "One Quadrillionth",
+            "One Septillionth"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Michael Jackson wrote The Simpsons song &quot;Do the Bartman&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the name of the peninsula containing Spain and Portugal?",
+        "correct_answer": "Iberian Peninsula",
+        "incorrect_answers": [
+            "European Peninsula",
+            "Peloponnesian Peninsula",
+            "Scandinavian Peninsula"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which company developed the MMO Spiral Knights (2011)?",
+        "correct_answer": "Three Rings Design",
+        "incorrect_answers": [
+            "Sega",
+            "Electronic Arts",
+            "Double Fine"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which American civilization is the source of the belief that the world would end or drastically change on December 21st, 2012?",
+        "correct_answer": "The Mayans",
+        "incorrect_answers": [
+            "The Incas",
+            "The Aztecs",
+            "The Navajos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "What was the number on Gerald&#039;s shirt in &quot;Hey Arnold!&quot;?",
+        "correct_answer": "33",
+        "incorrect_answers": [
+            "88",
+            "38",
+            "83"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "How many letters are in the English alphabet?",
+        "correct_answer": "26",
+        "incorrect_answers": [
+            "30",
+            "17",
+            "5"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "What amount of bits commonly equals one byte?",
+        "correct_answer": "8",
+        "incorrect_answers": [
+            "1",
+            "2",
+            "64"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In JoJo&#039;s Bizarre Adventure, who says &quot;Yare yare daze&quot;?",
+        "correct_answer": "Jotaro Kujo",
+        "incorrect_answers": [
+            "Joseph Joestar",
+            "Jolyne Cujoh",
+            "Koichi Hirose"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "Snakes and Ladders was originally created in India?",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "The NVidia GTX 1080 gets its name because it can only render at a 1920x1080 screen resolution.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which is the world&#039;s longest river?",
+        "correct_answer": "Nile",
+        "incorrect_answers": [
+            "Missouri",
+            "Amazon",
+            "Yangtze"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which Formula 1 driver switched teams in the middle of the 2017 season?",
+        "correct_answer": "Carlos Sainz Jr.",
+        "incorrect_answers": [
+            "Daniil Kvyat",
+            "Jolyon Palmer",
+            "Rio Haryanto"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Sound can travel through a vacuum.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    }
+]

@@ -1,0 +1,598 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the Zodiac symbol for Gemini?",
+        "correct_answer": "Twins",
+        "incorrect_answers": [
+            "Fish",
+            "Scales",
+            "Maiden"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "Approximately how long is a year on Uranus?",
+        "correct_answer": "84 Earth years",
+        "incorrect_answers": [
+            "47 Earth years",
+            "62 Earth years",
+            "109 Earth years"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the capital of Laos?",
+        "correct_answer": "Vientiane",
+        "incorrect_answers": [
+            "Tarawa",
+            "Vaduz",
+            "Tegucigalpa"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What was the birthplace of musical artist &#039;Sir Robert Bryson Hall II&#039; (aka. Logic)?",
+        "correct_answer": "Maryland, United States",
+        "incorrect_answers": [
+            "Atlanta, United States",
+            "London, United Kingdom",
+            " Botswana, Africa"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Who directed &quot;E.T. the Extra-Terrestrial&quot; (1982)?",
+        "correct_answer": "Steven Spielberg",
+        "incorrect_answers": [
+            "Stanley Kubrick",
+            "James Cameron",
+            "Tim Burton"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "Carcassonne is based on which French town?",
+        "correct_answer": "Carcassonne",
+        "incorrect_answers": [
+            "Paris",
+            "Marseille",
+            "Clermont-Ferrand"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Who won the 1998 Daytona 500?",
+        "correct_answer": "Dale Earnhardt",
+        "incorrect_answers": [
+            "John Anderson",
+            "Jeff Gordon",
+            "Michael Walltrip"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who has played the most tournaments in the German national soccer team?",
+        "correct_answer": "Lothar Matth&auml;us",
+        "incorrect_answers": [
+            "Miroslav Klose",
+            "Philipp Lahm",
+            "Oliver Kahn"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What is the name of the first level in &quot;Call of Duty: World at War&quot;?",
+        "correct_answer": "Semper Fi",
+        "incorrect_answers": [
+            "Ring of Steel",
+            "Vendetta",
+            "Eviction"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "In &quot;Sonic the Hedgehog&quot; comic, who was the creator of Roboticizer? ",
+        "correct_answer": "Professor Charles the Hedgehog",
+        "incorrect_answers": [
+            "Julian Robotnik",
+            "Ivo Robotnik",
+            "Snively Robotnik"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Which of these songs is not by Tatsuro Yamashita?",
+        "correct_answer": "Lucky Lady Feel So Good ",
+        "incorrect_answers": [
+            "Merry-Go Round",
+            "Let&#039;s Dance Baby",
+            "Love Talkin&#039;"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the official national language of Pakistan?",
+        "correct_answer": "Urdu",
+        "incorrect_answers": [
+            "Indian",
+            "Punjabi",
+            "Pashto"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "An organic compound is considered an alcohol if it has what functional group?",
+        "correct_answer": "Hydroxyl",
+        "incorrect_answers": [
+            "Carbonyl",
+            "Alkyl",
+            "Aldehyde"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which studio made Cowboy Bebop?",
+        "correct_answer": "Sunrise",
+        "incorrect_answers": [
+            "Bones",
+            "Madhouse",
+            "Pierriot"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "When was the first &quot;Half-Life&quot; released?",
+        "correct_answer": "1998",
+        "incorrect_answers": [
+            "2004",
+            "1999",
+            "1997"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "What is the designation given to the Marvel Cinematic Universe?",
+        "correct_answer": "Earth-199999",
+        "incorrect_answers": [
+            "Earth-616",
+            "Earth-10005",
+            "Earth-2008"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "Which boxer was famous for striking the gong in the introduction to J. Arthur Rank films?",
+        "correct_answer": "Bombardier Billy Wells",
+        "incorrect_answers": [
+            "Freddie Mills",
+            "Terry Spinks",
+            "Don Cockell"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "In the 1976 film &#039;Taxi Driver&#039;, how many guns did Travis buy from the salesman?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "2",
+            "6",
+            "1"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Musical artist, Future, collaborated with Kendrick Lamar for the song: &quot;Mask Off&quot;.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "The 1952 musical composition 4&#039;33&quot;, composed by prolific American composer John Cage, is mainly comprised of what sound?",
+        "correct_answer": "Silence",
+        "incorrect_answers": [
+            "Farts",
+            "People talking",
+            "Cricket chirps"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In the game &quot;Super Hang-On&quot; which is the top speed WITH the use of turbo?",
+        "correct_answer": "324 km/h",
+        "incorrect_answers": [
+            "320 km/h",
+            "280 km/h",
+            "286 km/h"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What colour is the circle on the Japanese flag?",
+        "correct_answer": "Red",
+        "incorrect_answers": [
+            "White",
+            "Yellow",
+            "Black"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In which video game did Michael Fassbender star?",
+        "correct_answer": "Fable 3",
+        "incorrect_answers": [
+            "Call of Duty: Modern Warfare",
+            "Assassin&#039;s Creed 3",
+            "Red Dead Redemption"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What is the scientific name for the &quot;Polar Bear&quot;?",
+        "correct_answer": "Ursus Maritimus",
+        "incorrect_answers": [
+            "Polar Bear",
+            "Ursus Spelaeus",
+            "Ursus Arctos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In relation to the British Occupation in Ireland, what does the IRA stand for.",
+        "correct_answer": "Irish Republican Army",
+        "incorrect_answers": [
+            "Irish Rebel Alliance",
+            "Irish Reformation Army",
+            "Irish-Royal Alliance"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Half-Life 2, if you play the zombies&#039; speech in reverse, they actually speak coherent English.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;Future Diary&quot;, what is the name of Yuno Gasai&#039;s Phone Diary?",
+        "correct_answer": "Yukiteru Diary",
+        "incorrect_answers": [
+            "Murder Diary",
+            "Escape Diary ",
+            "Justice Diary "
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which mountain has the highest peak in Africa?",
+        "correct_answer": "Mount Kilimanjaro, Tanzania",
+        "incorrect_answers": [
+            "Mount Kenya, Kenya",
+            "Mount Stanley, DR Congo/Uganda",
+            "Mount Speke, Uganda"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What year did the television company BBC officially launch the channel BBC One?",
+        "correct_answer": "1936",
+        "incorrect_answers": [
+            "1948",
+            "1932",
+            "1955"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In which mall does &quot;Dead Rising&quot; take place?",
+        "correct_answer": "Willamette Parkview Mall",
+        "incorrect_answers": [
+            "Liberty Mall",
+            "Twin Pines Mall",
+            "Central Square Shopping Center"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Who recorded the album called &quot;Down to the Moon&quot; in 1986?",
+        "correct_answer": "Andreas Vollenweider",
+        "incorrect_answers": [
+            "Jean-Michel Jarre",
+            "Bing Crosby",
+            "Enya"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which of these is NOT a city in Saudi Arabia?",
+        "correct_answer": "Dubai",
+        "incorrect_answers": [
+            "Riyadh",
+            "Mecca",
+            "Medina"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Bir Tawil, an uninhabited track of land claimed by no country, is located along the border of which two countries?",
+        "correct_answer": "Egypt and Sudan",
+        "incorrect_answers": [
+            "Israel and Jordan",
+            "Chad and Libya",
+            "Iraq and Saudi Arabia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which anime did Seiji Kishi NOT direct?",
+        "correct_answer": "Another",
+        "incorrect_answers": [
+            "Humanity Has Declined",
+            "Assassination Classroom",
+            "Danganronpa: The Animation"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Who is the true moon princess in Sailor Moon?",
+        "correct_answer": "Sailor Moon",
+        "incorrect_answers": [
+            "Sailor Venus",
+            "Sailor Mars",
+            "Sailor Jupiter"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What was the code name for the Allied invasion of Southern France on August 15th, 1944?",
+        "correct_answer": "Operation Dragoon",
+        "incorrect_answers": [
+            "Operation Overlord",
+            "Operation Market Garden",
+            "Operation Torch"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What is the capital of Senegal?",
+        "correct_answer": "Dakar",
+        "incorrect_answers": [
+            "Nouakchott",
+            "Conakry",
+            "Monrovia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Portal 2, which solar system body did Wheatley end up orbiting?",
+        "correct_answer": "The moon",
+        "incorrect_answers": [
+            "Earth",
+            "Jupiter",
+            "Mars"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "When was Salvador Dali&#039;s painting, &quot;The Persistence of Memory,&quot; completed?",
+        "correct_answer": "1931",
+        "incorrect_answers": [
+            "1932",
+            "1929",
+            "1934"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "The Space Needle is located in which city?",
+        "correct_answer": "Seattle",
+        "incorrect_answers": [
+            "Los Angles",
+            "Toronto",
+            "Vancouver"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which team was the 2014-2015 NBA Champions?",
+        "correct_answer": "Golden State Warriors",
+        "incorrect_answers": [
+            "Cleveland Cavaliers",
+            "Houston Rockets",
+            "Atlanta Hawks"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "Johnny Depp made his big-screen acting debut in which film?",
+        "correct_answer": "A Nightmare on Elm Street",
+        "incorrect_answers": [
+            "My Bloody Valentine",
+            "Halloween",
+            "Friday the 13th"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who was the first Chancellor of a united Germany in 1871? ",
+        "correct_answer": "Otto Von Bismark",
+        "incorrect_answers": [
+            "Kaiser Wilhelm ",
+            "Fredrick the 2nd",
+            "Robert Koch"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "The medial meniscus forms which part of what joint in the human body?",
+        "correct_answer": "Knee",
+        "incorrect_answers": [
+            "Elbow",
+            "Ankle",
+            "Shoulder"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "What was the development code name for the &quot;Urza&#039;s Destiny&quot; expansion for &quot;Magic: The Gathering&quot;, released in 1999?",
+        "correct_answer": "Chimichanga",
+        "incorrect_answers": [
+            "Burrito",
+            "Taquito",
+            "Enchilada"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is the world&#039;s smallest country by population?",
+        "correct_answer": "Vatican City",
+        "incorrect_answers": [
+            "Nauru",
+            "Marshall Islands",
+            "Lichtenstein"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "In what year did Halley&#039;s Comet, which will not appear again until the year 2061, previously approach Earth?",
+        "correct_answer": "1986",
+        "incorrect_answers": [
+            "2001",
+            "1942",
+            "1909"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "The early part of which decade, did the Goth Subculture begin?",
+        "correct_answer": "1980s",
+        "incorrect_answers": [
+            "1990s",
+            "2000s",
+            "1970s"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Gadgets",
+        "question": "Which virtual assistant is developed by Amazon?",
+        "correct_answer": "Alexa",
+        "incorrect_answers": [
+            "Google Assistant",
+            "Siri",
+            "Cortana"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "How old was Adolf Hitler when he died?",
+        "correct_answer": "56",
+        "incorrect_answers": [
+            "43",
+            "65",
+            "47"
+        ]
+    }
+]
